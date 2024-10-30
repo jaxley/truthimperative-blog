@@ -18,7 +18,6 @@ concurrency:
 jobs:
   cache-and-install:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,6 +40,7 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    needs: cache-and-install
     steps:
       - uses: actions/checkout@v4
 
