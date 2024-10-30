@@ -53,10 +53,8 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Install dependencies & build
-        run: |
-          npm install
-          npm run build-gh-pages
+      - name: Build
+        run: pnpm run build-gh-pages
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

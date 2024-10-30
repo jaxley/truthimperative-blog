@@ -3,5 +3,5 @@ services:
     name: eleventy-template-bliss
     autoDeploy: false
     runtime: static
-    buildCommand: npm run build
+    buildCommand: pnpm run build
     staticPublishPath: ./_site
