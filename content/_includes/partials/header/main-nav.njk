@@ -1,0 +1,14 @@
+{%- set title = siteConfig.site.title -%}
+{%- set navPages = collections.all | eleventyNavigation -%}
+
+<div class="main-nav">
+  <ul class="site-links">
+  {% for item in navPages %}
+  <li{% if item.url === page.url %} class="active" aria-current="page"{% endif %}>
+    <a href="{{ item.url }}">
+      {{ item.key }}
+    </a>
+  </li>
+  {% endfor %}
+  </ul>
+</div>

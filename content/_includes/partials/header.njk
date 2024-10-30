@@ -1,0 +1,12 @@
+{% include "partials/header/skip-link.njk" %}
+{%- set title = siteConfig.site.title -%}
+<header class="header">
+  <div class="site-logo">
+    <a href="/" title="{{ title }} - {{ phrases.main_page }}">
+      {% include "partials/header/site-logo.njk" %}
+    </a>
+  </div>
+  {% include "partials/header/hamburger.njk" %}
+  {% include "partials/header/main-nav.njk" %}
+  {% include "partials/header/theme-switcher.njk" %}
+</header>
