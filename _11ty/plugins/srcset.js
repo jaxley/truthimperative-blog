@@ -76,6 +76,7 @@ async function resize(
   const normalizedFileName =
     pathPrefix.length > 1 ? filename.split(pathPrefix)[1] : filename;
 
+  console.debug(`Filename: ${filename}; Normalized: ${normalizedFileName}`)
   const file = join(assetsDir, normalizedFileName);
 
   const resizeWidth = metadataWidth < width ? metadataWidth : width;
