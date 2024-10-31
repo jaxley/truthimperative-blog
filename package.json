@@ -1,7 +1,8 @@
 {
-  "name": "eleventy-template-bliss",
-  "version": "2.6.0",
+  "name": "juxtaposition-blog",
+  "version": "3.0.0",
   "private": true,
+  "packageManager": "pnpm@9.12.2",
   "scripts": {
     "preinstall": "npx only-allow pnpm", 
     "prebuild": "pnpm run clean",
