@@ -24,6 +24,6 @@ And two other favorites are:
   
 "Oh, Bill Kristol, are you ever right? -- John Stewart  
   
-["the first to be wrong about WMD in Iraq in 1997" -- John Stewart](http://onegoodmove.org/1gm/1gmarchive/2005/10/jon_stewart_bil.html)  
+["the first to be wrong about WMD in Iraq in 1997" -- John Stewart](https://onegoodmove.org/1gm/1gmarchive/2005/10/jon_stewart_bil.html)  
   
-[Crooks and Liars » FOXNews Sunday: Bill Kristol Says Iraq is “Good” for McCain; Williams Says Kristol “Strains Credibility”](http://www.crooksandliars.com/2008/04/13/foxnews-sunday-bill-kristol-says-iraq-is-good-for-mccain-williams-says-kristol-strains-credibility/)
+[Crooks and Liars » FOXNews Sunday: Bill Kristol Says Iraq is “Good” for McCain; Williams Says Kristol “Strains Credibility”](https://www.crooksandliars.com/2008/04/13/foxnews-sunday-bill-kristol-says-iraq-is-good-for-mccain-williams-says-kristol-strains-credibility/)

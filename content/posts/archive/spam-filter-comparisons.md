@@ -14,4 +14,4 @@ SPAM is a truly egregious problem. This article does some analysis of popular sp
   
 I use bogofilter and have a corpus of thousands of spam messages that I have received, going back 6 or more years. It works great. I don't have to keep checking my spam bucket for false positives all the time and occasionally have to retrain if I get a false negative but online life is much better than before bogofilter. I was constantly having to scan through the spam bucket to pick out false positives.  
   
-[freshmeat.net: Category Reviews - Spam Filters](http://freshmeat.net/articles/view/964/ "freshmeat.net: Category Reviews - Spam Filters")
+[freshmeat.net: Category Reviews - Spam Filters](https://freshmeat.net/articles/view/964/ "freshmeat.net: Category Reviews - Spam Filters")

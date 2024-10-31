@@ -14,4 +14,4 @@ linter-yaml-title-alias: Crazy-religious-person-of-the-moment
 ---
 
 
-[Man found with woman's body packed in dry ice in his hotel room](http://atrios.blogspot.com/2008_03_09_archive.html#8052012343738299361)
+[Man found with woman's body packed in dry ice in his hotel room](https://atrios.blogspot.com/2008_03_09_archive.html#8052012343738299361)

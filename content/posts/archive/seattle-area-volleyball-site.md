@@ -10,4 +10,4 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:59-07:00
 ---
 
-Scott Marlow maintains a very cool site on Seattle-area Volleyball programs, gyms, groups. [http://www.seanet.com/~swmarlow/volleyball.html](http://www.seanet.com/~swmarlow/volleyball.html)
+Scott Marlow maintains a very cool site on Seattle-area Volleyball programs, gyms, groups. [https://www.seanet.com/~swmarlow/volleyball.html](https://www.seanet.com/~swmarlow/volleyball.html)

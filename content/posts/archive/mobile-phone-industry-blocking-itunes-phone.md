@@ -15,7 +15,7 @@ linter-yaml-title-alias: Mobile-phone-industry-blocking-itunes-phone
 ---
 
 
-Courtesy [www.fiercewireless.com](http://www.fiercewireless.com)  
+Courtesy [www.fiercewireless.com](https://www.fiercewireless.com)  
   
 If this is true, this is really sad. I know the mobile phone industry would just love to keep charging exhorbitant rates for worse-than-midi ringtones to counteract the trend of them becoming commodity carriers for wireless voice, but to go this far -- hindering technology growth and restricting use of their mobile data networks -- is the wrong move. It took the public Internet to launch the explosion of new technology, services, etc. The variety and growth in technology that exists on and over the Internet today would not have occurred if the only game in town was still the AOL or Compuserve network -- just to offer a historical analogy.  
   
@@ -35,4 +35,4 @@ If this is true, this is really sad. I know the mobile phone industry would just
 >   
 > Insiders at CTIA dimissed Garriques' comments, claiming that the rumors that broke at CeBit were likely the true version of the story -- i.e., that carriers killed the iTunes phone because they fear Apple will dominate the mobile music market and because the iTunes phone does not support over-the-air music downloads.  
 >   
-> See also [Motorola: iTunes phone no-show due to Apple](http://www.theregister.co.uk/2005/03/16/apple_moto_itunes_phone/)
+> See also [Motorola: iTunes phone no-show due to Apple](https://www.theregister.co.uk/2005/03/16/apple_moto_itunes_phone/)

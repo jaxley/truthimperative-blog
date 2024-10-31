@@ -18,15 +18,15 @@ But I absolutely abhor shopping for mp3s on my mobile phone on Amazon's mp3 app.
 *   Genres
 *   And some individual highlights, such as a $0.69 song, Latin song, Hot Single, one Free Song, a $5 album, a Song of the week, and an Album of the week
 
-<!-- [![](http://3.bp.blogspot.com/-IYGblBoU4Pw/UlTWGv8PPoI/AAAAAAABnyc/itil8j5_tRU/s320/2013-10-08+20.33.08.png)](http://3.bp.blogspot.com/-IYGblBoU4Pw/UlTWGv8PPoI/AAAAAAABnyc/itil8j5_tRU/s1600/2013-10-08+20.33.08.png) -->
+<!-- [![](https://3.bp.blogspot.com/-IYGblBoU4Pw/UlTWGv8PPoI/AAAAAAABnyc/itil8j5_tRU/s320/2013-10-08+20.33.08.png)](https://3.bp.blogspot.com/-IYGblBoU4Pw/UlTWGv8PPoI/AAAAAAABnyc/itil8j5_tRU/s1600/2013-10-08+20.33.08.png) -->
 
 Amazon mp3 store in Chrome on Android
 
-<!-- [![](http://4.bp.blogspot.com/-ElLvJXLeeUU/UlTWFxubW8I/AAAAAAABnyM/GjHRishl1mc/s320/2013-10-08+20.32.12.png)](http://4.bp.blogspot.com/-ElLvJXLeeUU/UlTWFxubW8I/AAAAAAABnyM/GjHRishl1mc/s1600/2013-10-08+20.32.12.png) -->
+<!-- [![](https://4.bp.blogspot.com/-ElLvJXLeeUU/UlTWFxubW8I/AAAAAAABnyM/GjHRishl1mc/s320/2013-10-08+20.32.12.png)](https://4.bp.blogspot.com/-ElLvJXLeeUU/UlTWFxubW8I/AAAAAAABnyM/GjHRishl1mc/s1600/2013-10-08+20.32.12.png) -->
 
 Amazon mp3 Android UI
 
-<!-- [![](http://1.bp.blogspot.com/-1YiyPIlqONk/UlTV0rxStoI/AAAAAAABnyI/G_sFMltkVPs/s400/amazonmp3-desktop.png)](http://1.bp.blogspot.com/-1YiyPIlqONk/UlTV0rxStoI/AAAAAAABnyI/G_sFMltkVPs/s1600/amazonmp3-desktop.png) -->
+<!-- [![](https://1.bp.blogspot.com/-1YiyPIlqONk/UlTV0rxStoI/AAAAAAABnyI/G_sFMltkVPs/s400/amazonmp3-desktop.png)](https://1.bp.blogspot.com/-1YiyPIlqONk/UlTV0rxStoI/AAAAAAABnyI/G_sFMltkVPs/s1600/amazonmp3-desktop.png) -->
 
 Amazon mp3 desktop website
 
@@ -81,11 +81,11 @@ Where Google Play Music Store on Android shines:
 *   Integration with Android Share to send via twitter, email, etc.
 *   Parity with the desktop site (it's the same thing, only with more real-estate)
 
-<!-- [![](http://4.bp.blogspot.com/-r0SEd6827I0/UlTV0t6nSoI/AAAAAAABnyE/j3mbNIo6fig/s400/googleplaymusic-desktop.png)](http://4.bp.blogspot.com/-r0SEd6827I0/UlTV0t6nSoI/AAAAAAABnyE/j3mbNIo6fig/s1600/googleplaymusic-desktop.png) -->
+<!-- [![](https://4.bp.blogspot.com/-r0SEd6827I0/UlTV0t6nSoI/AAAAAAABnyE/j3mbNIo6fig/s400/googleplaymusic-desktop.png)](https://4.bp.blogspot.com/-r0SEd6827I0/UlTV0t6nSoI/AAAAAAABnyE/j3mbNIo6fig/s1600/googleplaymusic-desktop.png) -->
 
 Google Play Music Desktop site
 
-<!-- [![](http://1.bp.blogspot.com/-tho4VFQt2_8/UlTWHNLeHdI/AAAAAAABnyg/RNwo-kHj61Y/s320/2013-10-08+20.32.43.png)](http://1.bp.blogspot.com/-tho4VFQt2_8/UlTWHNLeHdI/AAAAAAABnyg/RNwo-kHj61Y/s1600/2013-10-08+20.32.43.png) -->
+<!-- [![](https://1.bp.blogspot.com/-tho4VFQt2_8/UlTWHNLeHdI/AAAAAAABnyg/RNwo-kHj61Y/s320/2013-10-08+20.32.43.png)](https://1.bp.blogspot.com/-tho4VFQt2_8/UlTWHNLeHdI/AAAAAAABnyg/RNwo-kHj61Y/s1600/2013-10-08+20.32.43.png) -->
 
 Google Play Music App on Android
 

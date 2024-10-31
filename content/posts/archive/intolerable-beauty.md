@@ -18,7 +18,7 @@ This artist's work is MASSIVE in size and in message.  I find this to be a simp
   
 You can even get a couple of prints 24x36 for the great price of $30 each  
   
-[chris jordan photography](http://www.chrisjordan.com/)  
+[chris jordan photography](https://www.chrisjordan.com/)  
 
 > Intolerable Beauty: Portraits of American Mass Consumption  
 >   

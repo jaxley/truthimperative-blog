@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:21-07:00
 ---
 
-After importing, I did  not see a follow-up with the resolution got posted for [Dispute with Seattle Public Utilities over alley trash collection](http://truthimperative.axley.net/2010/05/dispute-with-seattle-public-utilities.html).  I swear I wrote one, but will write one for posterity.  
+After importing, I did  not see a follow-up with the resolution got posted for [Dispute with Seattle Public Utilities over alley trash collection](https://truthimperative.axley.net/2010/05/dispute-with-seattle-public-utilities.html).  I swear I wrote one, but will write one for posterity.  
   
 I contacted  
   

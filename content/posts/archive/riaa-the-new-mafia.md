@@ -15,7 +15,7 @@ linter-yaml-title-alias: Riaa-the-new-mafia
 ---
 
 
-[\[infowarrior\] - RIAA Takes Shotgun to Traders](http://www.mail-archive.com/infowarrior@g2-forward.org/msg01444.html "[infowarrior] - RIAA Takes Shotgun to Traders")  
+[\[infowarrior\] - RIAA Takes Shotgun to Traders](https://www.mail-archive.com/infowarrior@g2-forward.org/msg01444.html "[infowarrior] - RIAA Takes Shotgun to Traders")  
   
 
 >   

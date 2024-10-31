@@ -12,7 +12,7 @@ url: /2006/07/bush-economic-policy-failure.html
 ---
 
 
-[Think Progress: President Bush’s Job Record Since August 2003: Nothing To Brag About](http://thinkprogress.org/2006/07/07/bush-jobs-brag/ "Think Progress: President Bush’s Job Record Since August 2003: Nothing To Brag About")  
+[Think Progress: President Bush’s Job Record Since August 2003: Nothing To Brag About](https://thinkprogress.org/2006/07/07/bush-jobs-brag/ "Think Progress: President Bush’s Job Record Since August 2003: Nothing To Brag About")  
   
 What Judd says. Even on the economy Bush can't claim any victory.  
   

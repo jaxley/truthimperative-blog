@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:12-07:00
 ---
 
-[cryocone: Identity leak with Sprint wireless](http://cryocone.livejournal.com/1131.html "cryocone: Identity leak with Sprint wireless")  
+[cryocone: Identity leak with Sprint wireless](https://cryocone.livejournal.com/1131.html "cryocone: Identity leak with Sprint wireless")  
   
 Someone in their infinite wisdom at Sprint set up an IVR that you can call (intended for internal care reps for identity verification) and get anyone's CPNI/PII by simply keying in their sprint wireless phone number.  
   

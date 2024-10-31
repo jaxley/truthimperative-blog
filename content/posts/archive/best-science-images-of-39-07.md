@@ -13,4 +13,4 @@ url: /2007/10/best-science-images-of.html
 
 Too bad they don't have larger high-res versions.  These would make very cool desktop backgrounds.  
   
-[National Geographic News Photo Gallery: Best Science Images of 2007 Honored](http://news.nationalgeographic.com/news/2007/09/photogalleries/science-pictures/index.html)
+[National Geographic News Photo Gallery: Best Science Images of 2007 Honored](https://news.nationalgeographic.com/news/2007/09/photogalleries/science-pictures/index.html)

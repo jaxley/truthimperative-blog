@@ -17,4 +17,4 @@ linter-yaml-title-alias: Questions-of-mass-distruction
 
 "Look, if there are no WMDs in Iraq, it means either our government lied us to us in order to get us into an unnecessary war, or the government itself was disastrously misinformed by an incompetent intelligence apparatus. In either case, it's a terribly serious situation."  
   
-[TOMPAINE.com - Questions Of Mass Destruction](http://www.tompaine.com/feature2.cfm/ID/7824 "TOMPAINE.com - Questions Of Mass Destruction")
+[TOMPAINE.com - Questions Of Mass Destruction](https://www.tompaine.com/feature2.cfm/ID/7824 "TOMPAINE.com - Questions Of Mass Destruction")

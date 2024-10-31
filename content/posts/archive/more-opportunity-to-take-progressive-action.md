@@ -20,7 +20,7 @@ Moveon.org has a petition to media outlets to avoid a repeat of the recent ABC "
 > "Debate moderators abuse the public trust every time they ask trivial questions about gaffes and 'gotchas' that only political insiders care about. Enough with the distractions--ABC and other networks must focus on issues that affect people's daily lives."
 
   
-[sign the petition to ABC and other media outlets and pass it on to friends who are also fed up](http://pol.moveon.org/enoughdistractions/?rc=tellafriend&amp;id=12463-3554718-bOmZTF&amp;t=25)  
+[sign the petition to ABC and other media outlets and pass it on to friends who are also fed up](https://pol.moveon.org/enoughdistractions/?rc=tellafriend&amp;id=12463-3554718-bOmZTF&amp;t=25)  
   
 Also, John Conyers has a petition that you can use to notify your representatives in the senate to urge them to support the House version of the FISA bill that does not have immunity provisions for telecoms in it:  
   
@@ -28,4 +28,4 @@ Also, John Conyers has a petition that you can use to notify your representative
 > Last month, the U.S. House of Representatives passed a strong and balanced FISA bill, legislation that protects America’s national security while defending civil liberties – without granting retroactive immunity to phone companies. Retroactive immunity would abet the Bush-Cheney Administration’s efforts to avoid accountability for its actions.  
 
   
-[Urge the Senate to support the House’s strong and balanced FISA bill – forward an email to your Senators now!](http://images.myngp.com/LinkTracker.aspx?crypt=IVi0ax2%2b6UBSinc%2fCPYaKdrHpW6AnfJaWIFqNH8zVvfR1eb0DRojuVOQ3qYB11T7RNxzRp1pqOiCb3D5gimKgcCoY0PXPAPlX9Ul676IHG5VdNAnCSCdycTqWTnACkMzQBROZWcsh20xGBjpb5Ec5uLYZANYtjFP)
+[Urge the Senate to support the House’s strong and balanced FISA bill – forward an email to your Senators now!](https://images.myngp.com/LinkTracker.aspx?crypt=IVi0ax2%2b6UBSinc%2fCPYaKdrHpW6AnfJaWIFqNH8zVvfR1eb0DRojuVOQ3qYB11T7RNxzRp1pqOiCb3D5gimKgcCoY0PXPAPlX9Ul676IHG5VdNAnCSCdycTqWTnACkMzQBROZWcsh20xGBjpb5Ec5uLYZANYtjFP)

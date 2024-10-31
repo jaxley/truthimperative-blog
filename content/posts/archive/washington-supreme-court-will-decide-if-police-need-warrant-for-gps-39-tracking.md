@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:56:35-07:00
 ---
 
-[Court will decide if police need warrant for GPS 'tracking'](http://seattlepi.nwsource.com/local/121572_gps12.html "Court will decide if police need warrant for GPS 'tracking'")  
+[Court will decide if police need warrant for GPS 'tracking'](https://seattlepi.nwsource.com/local/121572_gps12.html "Court will decide if police need warrant for GPS 'tracking'")  
   
 
 >   
@@ -20,7 +20,7 @@ updated: 2024-10-10 14:56:35-07:00
 
   
   
-Update: The court [unanimously decided that a warrant is required:](http://www.aclu.org/privacy/spying/14888prs20030911.html)  
+Update: The court [unanimously decided that a warrant is required:](https://www.aclu.org/privacy/spying/14888prs20030911.html)  
   
 
 >   

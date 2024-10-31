@@ -9,7 +9,7 @@ updated: 2024-10-10 10:49:42-07:00
 
 The FBI is becoming clever with technology -- and the local bureau at that.  Very nice work.   
   
-[FBI's Secret Spyware Tracks Down Teen Who Made Bomb Threats](http://www.wired.com/politics/law/news/2007/07/fbi_spyware)  
+[FBI's Secret Spyware Tracks Down Teen Who Made Bomb Threats](https://www.wired.com/politics/law/news/2007/07/fbi_spyware)  
 
 > FBI agents trying to track the source of e-mailed bomb threats against a Washington high school last month sent the suspect a secret surveillance program designed to surreptitiously monitor him and report back to a government server, according to an FBI affidavit obtained by Wired News.  
 >   

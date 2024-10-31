@@ -19,6 +19,6 @@ I heard someone talk about how in the 50's and 60's everyone was building bomb s
   
 The question was asked, "Who is going to protect us from Tom Ridge, and his bumblers in the Dept of Homeland Security..."  
   
-[\[IP\] More bad advice from Tom Ridge...](http://www.interesting-people.org/archives/interesting-people/200302/msg00195.html "[IP] More bad advice from Tom Ridge...")  
+[\[IP\] More bad advice from Tom Ridge...](https://www.interesting-people.org/archives/interesting-people/200302/msg00195.html "[IP] More bad advice from Tom Ridge...")  
   
-[NPR : Duct and Cover?](http://www.npr.org/display_pages/features/feature_1161040.html "NPR : Duct and Cover?")
+[NPR : Duct and Cover?](https://www.npr.org/display_pages/features/feature_1161040.html "NPR : Duct and Cover?")

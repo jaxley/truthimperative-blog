@@ -17,7 +17,7 @@ linter-yaml-title-alias: Desalinate-water-while-ascending-your-space-elevator
 ---
 
 
-[Technology Review: Cheap Drinking Water from the Ocean](http://www.technologyreview.com/read_article.aspx?id=16977&ch=nanotech "Technology Review: Cheap Drinking Water from the Ocean")  
+[Technology Review: Cheap Drinking Water from the Ocean](https://www.technologyreview.com/read_article.aspx?id=16977&ch=nanotech "Technology Review: Cheap Drinking Water from the Ocean")  
   
 
 >   

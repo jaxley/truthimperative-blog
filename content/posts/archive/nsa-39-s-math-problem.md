@@ -14,7 +14,7 @@ url: /2006/07/nsa-math-problem.html
 ---
 
 
-[http://www.liveammo.com Security News Blog](http://liveammo.blogspot.com/2006/05/nsas-math-problem.html "http://www.liveammo.com Security News Blog")  
+[https://www.liveammo.com Security News Blog](https://liveammo.blogspot.com/2006/05/nsas-math-problem.html "https://www.liveammo.com Security News Blog")  
   
 
 > legal or not, this sort of spying program probably isn't worth infringing our civil liberties for — because it's very unlikely that the type of information one can glean from it will help us win the war on terrorism.

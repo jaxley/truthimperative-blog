@@ -15,7 +15,7 @@ linter-yaml-title-alias: Hollywood-misleads-the-press-on-piracy-statistics
 ---
 
 
-[Hollywood: Thousands Dead From File Sharing](http://www.mp3newswire.net/stories/5002/pressfiction.html "Hollywood: Thousands Dead From File Sharing")  
+[Hollywood: Thousands Dead From File Sharing](https://www.mp3newswire.net/stories/5002/pressfiction.html "Hollywood: Thousands Dead From File Sharing")  
   
 
 >   

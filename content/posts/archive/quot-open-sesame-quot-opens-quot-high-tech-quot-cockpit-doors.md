@@ -15,7 +15,7 @@ linter-yaml-title-alias: Quot-open-sesame-quot-opens-quot-high-tech-quot-cockpit
 ---
 
 
-[The Seattle Times: Business & Technology: Glitch forces fix to cockpit doors](http://seattletimes.nwsource.com/html/businesstechnology/2002542572_cockpit06.html "The Seattle Times: Business & Technology: Glitch forces fix to cockpit doors")  
+[The Seattle Times: Business & Technology: Glitch forces fix to cockpit doors](https://seattletimes.nwsource.com/html/businesstechnology/2002542572_cockpit06.html "The Seattle Times: Business & Technology: Glitch forces fix to cockpit doors")  
   
 Well, "Open Sesame" works if you say it through a nearby walkie-talkie:  
   

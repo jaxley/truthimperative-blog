@@ -15,7 +15,7 @@ linter-yaml-title-alias: Identity-theft-is-okayif-done-by-the-state
 ---
 
 
-[Ohio Agents Use Woman's Identity in Strip-Bar Sting: Internal Affairs at Officer.com](http://www.officer.com/article/article.jsp?siteSection=5&id=22852 "Ohio Agents Use Woman's Identity in Strip-Bar Sting: Internal Affairs at Officer.com")  
+[Ohio Agents Use Woman's Identity in Strip-Bar Sting: Internal Affairs at Officer.com](https://www.officer.com/article/article.jsp?siteSection=5&id=22852 "Ohio Agents Use Woman's Identity in Strip-Bar Sting: Internal Affairs at Officer.com")  
   
 This is absolutely unbelievable! Imagine if the state was to damage your reputation or financial status (e.g. FICO score or credit worthiness) due to the unauthorized use of your identity!  
   
@@ -25,4 +25,4 @@ This is absolutely unbelievable! Imagine if the state was to damage your reputat
 
   
   
-The problem of identity theft is the persistent lack of decent capabilities in the financial industry to reliably authenticate claimed identities. I don't have a perfect solution, but continuing with the status quo of allowing people to just claim an identity (not prove it) and then trying to keep plugging fingers in the dike to keep this information "private" (\_identifying\_ information that is allowed to be used as \_authenticating\_ information) rather than implement a real authentication solution is solving the wrong problems. And they wonder why identity theft is [increasing](http://www.consumer.gov/idtheft/stats.html) in double-digit percentages every year...
+The problem of identity theft is the persistent lack of decent capabilities in the financial industry to reliably authenticate claimed identities. I don't have a perfect solution, but continuing with the status quo of allowing people to just claim an identity (not prove it) and then trying to keep plugging fingers in the dike to keep this information "private" (\_identifying\_ information that is allowed to be used as \_authenticating\_ information) rather than implement a real authentication solution is solving the wrong problems. And they wonder why identity theft is [increasing](https://www.consumer.gov/idtheft/stats.html) in double-digit percentages every year...

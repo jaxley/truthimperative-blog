@@ -13,11 +13,11 @@ updated: 2024-10-10 14:56:54-07:00
 The "Comma Sutra"  
 <!-- ![](commasutra7fh.jpg) -->
   
-via [Scrutiny Hooligans](http://scrutinyhooligans.blogspot.com/2005/11/grammatically-amusing.html)  
+via [Scrutiny Hooligans](https://scrutinyhooligans.blogspot.com/2005/11/grammatically-amusing.html)  
   
 Which reminds me of a related amusing and geeky version:  
   
-[Linux Sex Positions - The Open Source Kama Sutra](http://www.collegesexadvice.com/sex.shtml)  
+[Linux Sex Positions - The Open Source Kama Sutra](https://www.collegesexadvice.com/sex.shtml)  
   
 They even have a security-related one: "Position 12 - Piercing the Firewall"  
 ![](/LinuxSexPositions_12.gif)

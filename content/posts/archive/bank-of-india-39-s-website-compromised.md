@@ -21,4 +21,4 @@ The stupid thing about this is that if the attackers had quietly compromised thi
   
 Good case for SSL-encrypted pages and not clicking "okay" to the "allow unencrypted content to load in encrypted pages?" dialog boxes in the browser...  Also good case for using a browser other than IE6.  
   
-[Bank of India's Website Compromised - F-Secure Weblog : News from the Lab](http://www.f-secure.com/weblog/archives/00001265.html)
+[Bank of India's Website Compromised - F-Secure Weblog : News from the Lab](https://www.f-secure.com/weblog/archives/00001265.html)

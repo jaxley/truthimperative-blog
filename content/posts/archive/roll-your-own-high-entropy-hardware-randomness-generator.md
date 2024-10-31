@@ -15,7 +15,7 @@ linter-yaml-title-alias: Roll-your-own-high-entropy-hardware-randomness-generato
 ---
 
 
-[High-Entropy Randomness Generator](http://www.av8n.com/turbid/paper/turbid.htm "High-Entropy Randomness Generator")  
+[High-Entropy Randomness Generator](https://www.av8n.com/turbid/paper/turbid.htm "High-Entropy Randomness Generator")  
   
 
 >   

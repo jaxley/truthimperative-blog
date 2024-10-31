@@ -13,6 +13,6 @@ I pride myself on being a truly independent voter. Although I often prefer candi
   
 I just cast my ballot for the top-2 primary and am excited to think that Oregon and other states could follow our lead.  
   
-[Lights out for parties? Tuesday’s top two primary could signal a new political era for Washington state- Columbian.com, Clark County, Washington, Vancouver, Breaking News, U.S., World, Entertainment, Video, Weather, Sports](http://www.columbian.com/news/localNews/2008/08/08172008_Lights-out-for-parties-Tuesdays-top-two-primary-could-signal-a-new-political-era-for-Washington-state.cfm)  
+[Lights out for parties? Tuesday’s top two primary could signal a new political era for Washington state- Columbian.com, Clark County, Washington, Vancouver, Breaking News, U.S., World, Entertainment, Video, Weather, Sports](https://www.columbian.com/news/localNews/2008/08/08172008_Lights-out-for-parties-Tuesdays-top-two-primary-could-signal-a-new-political-era-for-Washington-state.cfm)  
   
 I did laugh when I read Clarence Thomas' quote from this article but I at least agree with him on principle; not sure where that sentiment falls in relation to the constitution though.

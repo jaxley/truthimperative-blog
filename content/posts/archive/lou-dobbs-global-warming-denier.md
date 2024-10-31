@@ -22,6 +22,6 @@ What hubris!!  To think that you somehow know more than the consensus of scient
   
 And the great hypocritical final quote from Lou himself that he should re-read after reading his own transcript (at the site below)  
   
-[CNN’s Lou Dobbs: Belief in Global Warming 'Almost a Religion' | NewsBusters.org](http://newsbusters.org/blogs/matthew-balan/2009/01/06/cnn-s-lou-dobbs-belief-global-warming-almost-religion)  
+[CNN’s Lou Dobbs: Belief in Global Warming 'Almost a Religion' | NewsBusters.org](https://newsbusters.org/blogs/matthew-balan/2009/01/06/cnn-s-lou-dobbs-belief-global-warming-almost-religion)  
 
 > there seems to be such a crowding out of facts and objective assessment of those facts, and as the scientists, the climatologist in your report suggests, there’s such selective choices of data as one discusses and tries to understand the reality of the issues that make up global warming.

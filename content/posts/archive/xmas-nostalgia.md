@@ -12,4 +12,4 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-Someone is scanning in the entire [Sears 1979 wishbook](http://www.flickr.com/photos/wishbook/sets/1360453/).
+Someone is scanning in the entire [Sears 1979 wishbook](https://www.flickr.com/photos/wishbook/sets/1360453/).

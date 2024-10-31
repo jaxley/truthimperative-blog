@@ -21,9 +21,9 @@ I think that right now it is sleeting in Seattle.
 *   Sleet:  Partially-melted snow that freezes again on the way down and falls as visible pellets.
 
   
-[Precipitation: hail, rain, freezing rain, sleet and snow](http://ww2010.atmos.uiuc.edu/%28Gh%29/guides/mtr/cld/prcp/home.rxml)  
+[Precipitation: hail, rain, freezing rain, sleet and snow](https://ww2010.atmos.uiuc.edu/%28Gh%29/guides/mtr/cld/prcp/home.rxml)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=bb7936df-08e5-4674-bc63-543731e95fdd) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=bb7936df-08e5-4674-bc63-543731e95fdd) -->

@@ -17,4 +17,4 @@ linter-yaml-title-alias: Exploding-heads-at-tsa
 ---
 
 
-[Boing Boing: What would the TSA do about exploding ID?](http://www.boingboing.net/2006/08/31/what_would_the_tsa_d.html "Boing Boing: What would the TSA do about exploding ID?")
+[Boing Boing: What would the TSA do about exploding ID?](https://www.boingboing.net/2006/08/31/what_would_the_tsa_d.html "Boing Boing: What would the TSA do about exploding ID?")

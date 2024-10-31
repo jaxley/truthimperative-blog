@@ -14,9 +14,9 @@ With all of the millions of protesters out there this weekend, you would think t
   
 The organization was going to pay for the ads just like any other entity would. Interestingly, "According to Boyd, the donations came rolling in�after just two hours the group had met its goal." They raised $75,000 through an e-mail campaign in 2 hours!  
   
-[Billboard Ban](http://www.msnbc.com/news/872684.asp?0cv=CB20 "Billboard Ban")  
+[Billboard Ban](https://www.msnbc.com/news/872684.asp?0cv=CB20 "Billboard Ban")  
   
 Viacom won't run the ad but you can view it on MoveOn.org's website.  
   
 MoveOn.org's poster:  
-<!-- ![MoveOn.org ad:  Inspections Work.  War Won't](http://www.msnbc.com/news/1790251.jpg) -->
+<!-- ![MoveOn.org ad:  Inspections Work.  War Won't](https://www.msnbc.com/news/1790251.jpg) -->

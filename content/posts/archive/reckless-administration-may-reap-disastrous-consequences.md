@@ -36,4 +36,4 @@ Some gems:
 
   
   
-[http://www.commondreams.org/views03/0212-07.htm](http://www.commondreams.org/views03/0212-07.htm)
+[https://www.commondreams.org/views03/0212-07.htm](https://www.commondreams.org/views03/0212-07.htm)

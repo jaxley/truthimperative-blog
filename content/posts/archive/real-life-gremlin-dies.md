@@ -16,7 +16,7 @@ linter-yaml-title-alias: Real-life-gremlin-dies
 ---
 
 
-[CNN.com - 'Ugly dog' Sam dies at 14 - Nov 22, 2005](http://www.cnn.com/2005/US/11/22/ugly.dog.ap/index.html "CNN.com - 'Ugly dog' Sam dies at 14 - Nov 22, 2005")  
+[CNN.com - 'Ugly dog' Sam dies at 14 - Nov 22, 2005](https://www.cnn.com/2005/US/11/22/ugly.dog.ap/index.html "CNN.com - 'Ugly dog' Sam dies at 14 - Nov 22, 2005")  
   
   
 <!-- ![](story.uglydog.ap.jpg) -->

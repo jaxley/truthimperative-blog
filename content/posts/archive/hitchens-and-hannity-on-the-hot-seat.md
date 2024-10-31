@@ -16,4 +16,4 @@ linter-yaml-title-alias: Hitchens-and-hannity-on-the-hot-seat
 
 This is pretty funny, to Hannity:  "You seem to have never read any of the arguments against your viewpoint".  Hannity's immediate response was, "Yes I have.  I've read them all."  Oh brother.  
   
-[Crooks and Liars » Hitchens vs. Hannity on Religion and God](http://www.crooksandliars.com/2007/05/14/hitchens-vs-hannity-on-religion-and-god/)
+[Crooks and Liars » Hitchens vs. Hannity on Religion and God](https://www.crooksandliars.com/2007/05/14/hitchens-vs-hannity-on-religion-and-god/)

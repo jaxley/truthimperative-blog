@@ -9,12 +9,12 @@ updated: 2024-10-10 10:49:42-07:00
 
 He actually said this:  
   
-[Think Progress » Snow On Stem Cell Veto: ‘This Is The President Putting Science Before Ideology’](http://thinkprogress.org/2007/06/20/snow-veto-ii/)  
+[Think Progress » Snow On Stem Cell Veto: ‘This Is The President Putting Science Before Ideology’](https://thinkprogress.org/2007/06/20/snow-veto-ii/)  
 
 > "...critics quite often who make those complaints are, whether deliberately or not, misstating the nature of the president’s commitment to stem cell research and paying little or no heed or giving no credit to the president’s unique and unprecedented role in supporting stem cell research."  
 
 And he even completely lied about previous statements he made.  Do they not know this sh\*t is taped?  And why doesn't the mainstream media call them on this crap?  
   
-[Crooks and Liars » The Daily Show catches Tony Snow Lying](http://www.crooksandliars.com/2007/06/15/the-daily-show-catches-tony-snow-lying/)  
+[Crooks and Liars » The Daily Show catches Tony Snow Lying](https://www.crooksandliars.com/2007/06/15/the-daily-show-catches-tony-snow-lying/)  
 
 > “No, that is something — we have never said that.”

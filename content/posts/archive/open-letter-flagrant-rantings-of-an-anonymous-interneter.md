@@ -118,7 +118,7 @@ As if being "liberal" is a bad thing. But, contrary to popular
 propaganda, Obama is not the most liberal senator. By the most  
 objective measure around, he has several colleagues more "liberal" than  
 he is. Again, not that there is, or should be, anything wrong with  
-that. See voteview: [http://voteview.com/](http://voteview.com/)  
+that. See voteview: [https://voteview.com/](https://voteview.com/)  
 
 > > **_****from the  
 > > State of Illinois, which has a long and****  
@@ -132,7 +132,7 @@ that. See voteview: [http://voteview.com/](http://voteview.com/)
 So, you are implying without saying or providing any EVIDENCE that  
 Obama is "corrupt"? Hogwash. In fact, Obama has a higher ranking than  
 Clinton on transparency and ethics:  
-[http://thinkonthesethings.wordpress.com/2007/11/05/barack-obama-vs-hillary-clinton-records-on-transparency-lobbyists-and-ethics/](http://thinkonthesethings.wordpress.com/2007/11/05/barack-obama-vs-hillary-clinton-records-on-transparency-lobbyists-and-ethics/)  
+[https://thinkonthesethings.wordpress.com/2007/11/05/barack-obama-vs-hillary-clinton-records-on-transparency-lobbyists-and-ethics/](https://thinkonthesethings.wordpress.com/2007/11/05/barack-obama-vs-hillary-clinton-records-on-transparency-lobbyists-and-ethics/)  
 
 > > ****_You  
 > > have finally insulted my intelligence far beyond my capacity to_******_  
@@ -276,7 +276,7 @@ He is even alleged to have made some very anti-Catholic statements,
 although I have yet to see an original in-context quote of Hagee making  
 these statements. I don't believe Bill Donohoe as a credible quoter,  
 since I think he's afraid of being out-crazied (Donohoe said,  
-""Hollywood is controlled by secular [Jews](http://en.wikipedia.org/wiki/Jew "Jew") who hate [Christianity](http://en.wikipedia.org/wiki/Christianity "Christianity") in general and [Catholicism](http://en.wikipedia.org/wiki/Catholicism "Catholicism") in particular. It's not a secret, OK? And I'm not afraid to say it")  
+""Hollywood is controlled by secular [Jews](https://en.wikipedia.org/wiki/Jew "Jew") who hate [Christianity](https://en.wikipedia.org/wiki/Christianity "Christianity") in general and [Catholicism](https://en.wikipedia.org/wiki/Catholicism "Catholicism") in particular. It's not a secret, OK? And I'm not afraid to say it")  
   
 Oh, and yet this anonymous author is fine with McCain who said, ""all I can tell you is that I am very proud to have Pastor John Hagee's support." Hypocrite!  
 

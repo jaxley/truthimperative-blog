@@ -15,7 +15,7 @@ linter-yaml-title-alias: Santa-clara-county-more-clueless-electronic-ballot-junk
 ---
 
 
-[Santa Clara County faces key decision on electronic ballots](http://www.siliconvalley.com/mld/siliconvalley/5250435.htm?template=contentModules/printstory.jsp)  
+[Santa Clara County faces key decision on electronic ballots](https://www.siliconvalley.com/mld/siliconvalley/5250435.htm?template=contentModules/printstory.jsp)  
   
 "The future of electronic voting may be rewritten this week in Santa  
 Clara County, where county leaders are weighing warnings that the  
@@ -37,4 +37,4 @@ concern in terms of voter confidence.'' "
   
 Good Grief.  
   
-This is also good press for the [petition](http://verify.stanford.edu/evote.html) that David Dill at Stanford began. Hopefully they will listen.
+This is also good press for the [petition](https://verify.stanford.edu/evote.html) that David Dill at Stanford began. Hopefully they will listen.

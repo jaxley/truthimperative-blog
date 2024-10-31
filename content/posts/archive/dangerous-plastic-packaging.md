@@ -18,4 +18,4 @@ linter-yaml-title-alias: Dangerous-plastic-packaging
 
 I've been wondering this and noting that more and more products are coming wrapped in this stuff.  I use a tchochke that I got from Tripwire that has a tiny corner of a razor blade on it to open these packages, but even then, the cut plastic package is sharper than the razor.  I've cut myself on several occasions.  The unusual shapes of the packages doesn't make it very easy to cleanly open either.  
   
-[Slashdot | Plastic Packages Cause Injuries, Revolt](http://slashdot.org/article.pl?sid=06/12/01/2215241)
+[Slashdot | Plastic Packages Cause Injuries, Revolt](https://slashdot.org/article.pl?sid=06/12/01/2215241)

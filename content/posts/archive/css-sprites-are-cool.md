@@ -18,4 +18,4 @@ I just learned about CSS sprites for reducing the amount of HTTP requests it tak
   
 Basically, you create a single image that contains all of the small images to use on your site and that is all you need to download.  Then you use CSS and offsets within that image to select that part of the image to display in the page.  There is padding around each image so that you don't get weird renderings with different browser quirks.  
   
-[http://css-tricks.com/css-sprites-what-they-are-why-theyre-cool-and-how-to-use-them/](http://css-tricks.com/css-sprites-what-they-are-why-theyre-cool-and-how-to-use-them/)
+[https://css-tricks.com/css-sprites-what-they-are-why-theyre-cool-and-how-to-use-them/](https://css-tricks.com/css-sprites-what-they-are-why-theyre-cool-and-how-to-use-them/)

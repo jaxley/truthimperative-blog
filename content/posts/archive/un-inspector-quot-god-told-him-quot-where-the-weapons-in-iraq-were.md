@@ -12,7 +12,7 @@ updated: 2024-10-10 14:58:28-07:00
 ---
 
 [Eschaton:  
-Sybil the Soothsayer](http://atrios.blogspot.com/2005_03_27_atrios_archive.html#111205894614578991 "Eschaton:<br />Sybil the Soothsayer ")  
+Sybil the Soothsayer](https://atrios.blogspot.com/2005_03_27_atrios_archive.html#111205894614578991 "Eschaton:<br />Sybil the Soothsayer ")  
   
 Good Grief.  
   

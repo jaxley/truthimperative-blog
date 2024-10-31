@@ -15,6 +15,6 @@ linter-yaml-title-alias: Bush-amp-reichert-get-issaquah-bus-driver-fired
 ---
 
 
-[The Royal Fingerer Can Dish it Out But Can't Take it"](http://tbogg.blogspot.com/2006/10/royal-finger-added-below-decider-and.html "The Royal Fingerer Can Dish it Out But Can't Take it")  
+[The Royal Fingerer Can Dish it Out But Can't Take it"](https://tbogg.blogspot.com/2006/10/royal-finger-added-below-decider-and.html "The Royal Fingerer Can Dish it Out But Can't Take it")  
   
 Bus driver allegedly flips off Bush so Bush and Reichert complain and the bus driver gets fired. Where is the compassion in that conservative again?

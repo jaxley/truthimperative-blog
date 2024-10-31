@@ -52,7 +52,7 @@ Well, I at least wanted to be able to have a "negative vote" where I could speci
 > There's a nice review article on Poundstone's Gaming the Vote, and Spencer  
 > Overton's Stealing Democracy: The New Politics of Voter Suppression, Norton,  
 > 2008, in \*The Nation\*, 2 Jun 2008, written by Peter C. Baker.  
-> http://www.thenation.com/doc/20080602/baker  
+> https://www.thenation.com/doc/20080602/baker  
 >   
 > ...  
 >   

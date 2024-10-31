@@ -31,4 +31,4 @@ Well, at least they're committed to national security consistent conservative...
 
   
   
-[http://redmondmag.com/news/article.asp?editorialsid=7219](http://redmondmag.com/news/article.asp?editorialsid=7219)
+[https://redmondmag.com/news/article.asp?editorialsid=7219](https://redmondmag.com/news/article.asp?editorialsid=7219)

@@ -8,7 +8,7 @@ updated: 2024-10-10 10:49:43-07:00
 ---
 
 This is another great essay from Bruce in Wired magazine about how people miscalculate risks.  This subject really fascinates me, which is at the heart of many superstitions and beliefs that people can't seem to shake, even though they use their iPods and HDTVs and seem to believe in science as a way to knowledge of the world.  
-[Schneier on Security: Rare Risk and Overreactions](http://www.schneier.com/blog/archives/2007/05/rare_risk_and_o.html)  
+[Schneier on Security: Rare Risk and Overreactions](https://www.schneier.com/blog/archives/2007/05/rare_risk_and_o.html)  
 
 > Novelty plus dread equals overreaction.
 

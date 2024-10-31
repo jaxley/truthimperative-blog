@@ -12,7 +12,7 @@ updated: 2024-10-10 14:59:12-07:00
 
 Ugh.  
   
-[TPMmuckraker November 17, 2006 01:35 PM](http://www.tpmmuckraker.com/archives/002011.php)  
+[TPMmuckraker November 17, 2006 01:35 PM](https://www.tpmmuckraker.com/archives/002011.php)  
 
 > "You know," McCain said a few moments later, "you are really one of the more astonishing witnesses that I have \[faced\] -- in the 19 years I've been a member of this \[Senate Commerce, Science and Transportation\] Committee."  
 >   

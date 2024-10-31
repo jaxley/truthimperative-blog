@@ -12,4 +12,4 @@ updated: 2024-10-10 14:56:45-07:00
 
 Found out about this great site through this month's Crypto-Gram newsletter. It posts articles on -- you guessed it -- all the stupid security measures people come across.  
   
-[Stupid Security: Exposing Fake Security Since 2003](http://stupidsecurity.com/ "Stupid Security: Exposing Fake Security Since 2003")
+[Stupid Security: Exposing Fake Security Since 2003](https://stupidsecurity.com/ "Stupid Security: Exposing Fake Security Since 2003")

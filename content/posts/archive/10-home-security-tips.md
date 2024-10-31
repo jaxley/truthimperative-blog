@@ -17,4 +17,4 @@ I would also avoid keeping curtains open with a direct view into what kind of ex
   
 One of the best home security tips is to get to know your neighbors so you can watch out for each other.  
   
-[10 Quick Security Tips @ Burglary Prevention Council](http://www.burglaryprevention.org/10%20Quick%20Security%20Tips.aspx)
+[10 Quick Security Tips @ Burglary Prevention Council](https://www.burglaryprevention.org/10%20Quick%20Security%20Tips.aspx)

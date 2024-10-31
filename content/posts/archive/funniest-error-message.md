@@ -15,6 +15,6 @@ linter-yaml-title-alias: Funniest-error-message
 ---
 
 
-[rtfm.6o4.ca - Read The F\*\*\*ing Manual Reference Library](http://rtfm.6o4.ca/cgi-bin/rtfm.cgi "rtfm.6o4.ca - Read The F***ing Manual Reference Library")  
+[rtfm.6o4.ca - Read The F\*\*\*ing Manual Reference Library](https://rtfm.6o4.ca/cgi-bin/rtfm.cgi "rtfm.6o4.ca - Read The F***ing Manual Reference Library")  
   
 If you go directly to this link, you will be presented with a hilarious error message, complete with apropos image. I got a kick out of this.

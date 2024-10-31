@@ -18,7 +18,7 @@ I have often wondered about this kind of thing.  Browsers implement all kinds o
   
 I've read through the whole thing and it is fascinating reading.  I hope the browser vendors look at this and start a war for who's going to have a more secure browser!  
   
-[Main - browsersec - Google Code - Browser Security Handbook landing page](http://code.google.com/p/browsersec/wiki/Main)  
+[Main - browsersec - Google Code - Browser Security Handbook landing page](https://code.google.com/p/browsersec/wiki/Main)  
 
 > This document is meant to provide web application developers, browser engineers, and information security researchers with a one-stop reference to key security properties of contemporary web browsers. Insufficient understanding of these often poorly-documented characteristics is a major contributing factor to the prevalence of several classes of security vulnerabilities.  
 >   

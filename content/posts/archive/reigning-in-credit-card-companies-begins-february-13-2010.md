@@ -32,4 +32,4 @@ Here's some of the good stuff that should have been in place already were it not
 But beware that you will be seeing some "novel" attempts by the card companies to return to excessive profitability at your expense at some time soon.  They are poring over the legislation to find the loopholes.  
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=eb94b1a2-78e3-820b-b34a-7b0ea2643b97) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=eb94b1a2-78e3-820b-b34a-7b0ea2643b97) -->

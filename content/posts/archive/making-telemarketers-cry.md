@@ -17,6 +17,6 @@ linter-yaml-title-alias: Making-telemarketers-cry
 
 A great Telemarketer Suing HOWTO by attorney Mark Eckenwiler from Washington D.C.  
   
-[How To Make A Telemarketer Cry (or, Suing Bozos for Fun & Profit)](http://www.panix.com/~eck/telemarket.html "How To Make A Telemarketer Cry (or, Suing Bozos for Fun & Profit)")  
+[How To Make A Telemarketer Cry (or, Suing Bozos for Fun & Profit)](https://www.panix.com/~eck/telemarket.html "How To Make A Telemarketer Cry (or, Suing Bozos for Fun & Profit)")  
   
 "In November 2002, a telemarketer called my home in D.C. at 5:24 a.m. This is the story of how that call cost him $500."

@@ -13,7 +13,7 @@ url: /2007/06/appeals-court-affirmed-ruling-stored.html
 
 More good news in restoring constitutional governance to this country.  
   
-[SANS Institute - SANS NewsBites](http://www.sans.org/newsletters/newsbites/newsbites.php?vol=9&issue=49&rss=Y#sID201)  
+[SANS Institute - SANS NewsBites](https://www.sans.org/newsletters/newsbites/newsbites.php?vol=9&issue=49&rss=Y#sID201)  
 
 > A US federal appeals court upheld a lower court ruling that said law  
 > enforcement agents need warrants to seize web-based email. The Sixth  

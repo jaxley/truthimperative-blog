@@ -15,9 +15,9 @@ linter-yaml-title-alias: Non-english-internet-domain-names-likely-delayed-due-to
 ---
 
 
-[Non-English Domain Names Likely Delayed - Yahoo! News](http://news.yahoo.com/news?tmpl=story&u=/ap/20050715/ap_on_hi_te/internet_languages "Non-English Domain Names Likely Delayed - Yahoo! News")  
+[Non-English Domain Names Likely Delayed - Yahoo! News](https://news.yahoo.com/news?tmpl=story&u=/ap/20050715/ap_on_hi_te/internet_languages "Non-English Domain Names Likely Delayed - Yahoo! News")  
   
-Social engineering attacks using similar characters to trick users are called [homograph, or semantic attacks](http://en.wikipedia.org/wiki/Homograph_spoofing_attack) Also see this article on [IDN Homograph Attacks](http://en.wikipedia.org/wiki/IDN_homograph_attack).  
+Social engineering attacks using similar characters to trick users are called [homograph, or semantic attacks](https://en.wikipedia.org/wiki/Homograph_spoofing_attack) Also see this article on [IDN Homograph Attacks](https://en.wikipedia.org/wiki/IDN_homograph_attack).  
   
 
 >   
@@ -34,4 +34,4 @@ Social engineering attacks using similar characters to trick users are called [h
 
   
   
-Back in February of this year, the ICANN announced a [request for Public Comment](http://www.icann.org/announcements/announcement-23feb05.htm) on issues with the proposed Internationalized Domain Name (IDN) standard and recognized homograph attacks as a likely attack vector.
+Back in February of this year, the ICANN announced a [request for Public Comment](https://www.icann.org/announcements/announcement-23feb05.htm) on issues with the proposed Internationalized Domain Name (IDN) standard and recognized homograph attacks as a likely attack vector.

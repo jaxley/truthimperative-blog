@@ -27,4 +27,4 @@ This is really stupid. To single out only certain members of the church? I agree
   
 And why just pro-life stances? Isn't the catholic doctrine that we are all sinners? In fact, you say before communion "I am not worthy to receive you \[Jesus, via transubstantiation in the body & blood, aka bread & wine\] but only say the word and I shall be healed". You would think that this would be the \_last\_ thing they would want to deny to anyone. But I guess they have to keep up appearances...  
   
-[Crooks and Liars » Communion need not be a political weapon](http://www.crooksandliars.com/2008/06/04/communion-need-not-be-a-political-weapon/)
+[Crooks and Liars » Communion need not be a political weapon](https://www.crooksandliars.com/2008/06/04/communion-need-not-be-a-political-weapon/)

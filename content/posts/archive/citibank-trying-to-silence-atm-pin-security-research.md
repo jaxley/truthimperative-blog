@@ -23,11 +23,11 @@ was charged against the card. "
   
 The raw archived information:  
   
-[Protocol Analysis, Composability and Computation](http://cryptome.org/pacc.htm "Protocol Analysis, Composability and Computation")  
+[Protocol Analysis, Composability and Computation](https://cryptome.org/pacc.htm "Protocol Analysis, Composability and Computation")  
   
-There is a slashdot [discussion](http://slashdot.org/article.pl?sid=03/02/21/1711249)  
+There is a slashdot [discussion](https://slashdot.org/article.pl?sid=03/02/21/1711249)  
   
-There is an eWeek article too: [Attack Exposes ATM Vulnerabilities](http://www.eweek.com/article2/0,3959,899796,00.asp)  
+There is an eWeek article too: [Attack Exposes ATM Vulnerabilities](https://www.eweek.com/article2/0,3959,899796,00.asp)  
   
 Well-known cryptographer Ross Anderson offered this testimony in the case:  
 ""In addition to being published material, derived from open sources,  

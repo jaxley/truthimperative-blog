@@ -10,6 +10,6 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:32-07:00
 ---
 
-[Schneier on Security: The Security of Checks and Balances](http://www.schneier.com/blog/archives/2004/10/the_security_of.html "Schneier on Security: The Security of Checks and Balances")  
+[Schneier on Security: The Security of Checks and Balances](https://www.schneier.com/blog/archives/2004/10/the_security_of.html "Schneier on Security: The Security of Checks and Balances")  
   
 Very apropos read a couple of years later.

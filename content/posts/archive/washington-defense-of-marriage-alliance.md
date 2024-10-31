@@ -15,7 +15,7 @@ updated: 2024-10-10 14:56:57-07:00
 
 This is so rich. A group is trying an argument from absurdity tactic to show how ridiculous the claim that Washington State's Andersen v. King County decision is that declared a "legitimate state interest" for the state to restrict same-sex couples from legal marriage.  
   
-[Washington Defense of Marriage Alliance](http://www.wa-doma.org/Default.aspx "Washington Defense of Marriage Alliance")  
+[Washington Defense of Marriage Alliance](https://www.wa-doma.org/Default.aspx "Washington Defense of Marriage Alliance")  
   
 
 >   

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Cardinal-rebuffs-quot-intelligent-design-quot-
 ---
 
 
-[Evolution in the bible, says Vatican - The Other Side - Breaking News 24/7 - NEWS.com.au](http://www.news.com.au/story/0,10117,17162341-13762,00.html "Evolution in the bible, says Vatican - The Other Side - Breaking News 24/7 - NEWS.com.au")  
+[Evolution in the bible, says Vatican - The Other Side - Breaking News 24/7 - NEWS.com.au](https://www.news.com.au/story/0,10117,17162341-13762,00.html "Evolution in the bible, says Vatican - The Other Side - Breaking News 24/7 - NEWS.com.au")  
   
 The vatican taking a modern position? Wow. This doesn't make up for their handling of the sex abuse scandals but it's a positive sign.  
   

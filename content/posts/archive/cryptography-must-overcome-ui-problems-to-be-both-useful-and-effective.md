@@ -17,7 +17,7 @@ linter-yaml-title-alias: Cryptography-must-overcome-ui-problems-to-be-both-usefu
 
 A great paper to read up on, especially given that Phishing is showing us that the "Trusted Third Party" model as implemented in today's web browsers is horribly broken.  
   
-[Don Davis' Cryptography Articles](http://world.std.com/~dtd/). Specifically, read "Compliance Defects in Public-Key Cryptography".  
+[Don Davis' Cryptography Articles](https://world.std.com/~dtd/). Specifically, read "Compliance Defects in Public-Key Cryptography".  
   
 Abstract:  
 Public-key cryptography has low infrastructural overhead because public-key users bear a substantial but hidden administrative burden. A public-key security system trusts its users to validate each others' public keys rigorously and to manage their own private keys securely. Both tasks are hard to do well, but public-key security systems lack a centralized infrastructure for enforcing users' discipline. A "compliance defect" in a cryptosystem is such a rule of operation that is both difficult to follow and unenforceable. This paper presents five compliance defects that are inherent in public-key cryptography; these defects make public-key cryptography more suitable for server-to-server security than for desktop applications.  

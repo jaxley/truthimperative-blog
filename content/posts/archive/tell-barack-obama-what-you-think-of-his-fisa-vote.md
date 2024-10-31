@@ -9,7 +9,7 @@ updated: 2024-10-10 10:49:43-07:00
 
 Hat tip to Moveon.org  
   
-[http://my.barackobama.com/page/s/contact2](http://my.barackobama.com/page/s/contact2)  
+[https://my.barackobama.com/page/s/contact2](https://my.barackobama.com/page/s/contact2)  
   
 My thoughts on the response below are that it is full of bunk to put it bluntly. "FISA and existing criminal wiretap statutes as the exclusive means to conduct surveillance" was already embodied in FISA. I can see some definite pandering to the "we're tough on terrorists" bunk -- as if caving on this was necessary to stop terrorism. That only lends credence to the administration's claims that what they were doing illegally was necessary to fight terrorism. Oh well.  
 My Open letter:  

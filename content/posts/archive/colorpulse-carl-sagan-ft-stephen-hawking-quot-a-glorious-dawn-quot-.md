@@ -18,7 +18,7 @@ This was played at the end of Reasonable Doubts podcast e55 and I loved it.  Ha
   
 Very cool trance mix with wonderful clips from Sagan and Hawking masterfully woven in.  
   
-[Symphony of Science](http://www.symphonyofscience.com/l)  
+[Symphony of Science](https://www.symphonyofscience.com/l)  
   
 
-<!-- <!-- ![](http://img.zemanta.com/pixy.gif?x-id=b801bd79-891f-8442-903e-59298d794c29) --> -->
+<!-- <!-- ![](https://img.zemanta.com/pixy.gif?x-id=b801bd79-891f-8442-903e-59298d794c29) --> -->

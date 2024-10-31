@@ -15,7 +15,7 @@ linter-yaml-title-alias: Keeping-eyes-on-the-prize
 ---
 
 
-[Daily Kos: Rove's Lawyer Confirms Rove Remains Under Investigation](http://www.dailykos.com/storyonly/2005/10/28/173349/98 "Daily Kos: Rove's Lawyer Confirms Rove Remains Under Investigation")  
+[Daily Kos: Rove's Lawyer Confirms Rove Remains Under Investigation](https://www.dailykos.com/storyonly/2005/10/28/173349/98 "Daily Kos: Rove's Lawyer Confirms Rove Remains Under Investigation")  
   
 Hunter is right on. The investigation is still ongoing and ultimately, this country needs to get to the bottom of the core issue of the Valerie Plame leak, which compromised her safety and national security apparently for political purposes.  
   

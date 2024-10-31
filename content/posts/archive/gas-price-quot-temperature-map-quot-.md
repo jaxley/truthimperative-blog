@@ -15,6 +15,6 @@ linter-yaml-title-alias: Gas-price-quot-temperature-map-quot-
 ---
 
 
-[USA National Gas Temperature Map](http://www.gasbuddy.com/gb_gastemperaturemap.aspx "USA National Gas Temperature Map")  
+[USA National Gas Temperature Map](https://www.gasbuddy.com/gb_gastemperaturemap.aspx "USA National Gas Temperature Map")  
   
 This is freaking cool. But high gas prices SUCK!

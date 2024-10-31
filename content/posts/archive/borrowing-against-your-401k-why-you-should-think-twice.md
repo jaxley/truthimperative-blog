@@ -26,4 +26,4 @@ There are several reasons you may want to think twice before borrowing against y
 *   You may shift your mindset from an investor taking an active interest in the rest of your plan's success to a debtor, so your investment might suffer.  
     
 
-[You can -- but shouldn't -- borrow against your 401(k) plan](http://deposits.interest.com/content/articles/deposits_story.asp?story_id=1000034984&ID=interest)
+[You can -- but shouldn't -- borrow against your 401(k) plan](https://deposits.interest.com/content/articles/deposits_story.asp?story_id=1000034984&ID=interest)

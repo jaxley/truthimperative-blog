@@ -10,6 +10,6 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:45-07:00
 ---
 
-[Poynter Online - Forums: Coulter and Moore aren't the same](http://poynter.org/fORUM/view_post.asp?id=11517 "Poynter Online - Forums")  
+[Poynter Online - Forums: Coulter and Moore aren't the same](https://poynter.org/fORUM/view_post.asp?id=11517 "Poynter Online - Forums")  
   
 Coulter is simply a brash, bigoted, bullheaded, insane, insensitive liar wack-job. There is no comparison to Moore.

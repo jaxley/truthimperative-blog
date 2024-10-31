@@ -13,7 +13,7 @@ url: /2006/09/doesn-do-well-in-free-market.html
 ---
 
 
-[The struggle to find the downside ended in failure at Pandagon](http://pandagon.net/2006/09/14/the-downside-is-elusive-to-me/ "The struggle to find the downside ended in failure at Pandagon")  
+[The struggle to find the downside ended in failure at Pandagon](https://pandagon.net/2006/09/14/the-downside-is-elusive-to-me/ "The struggle to find the downside ended in failure at Pandagon")  
   
 There are **laws** that prevent some businesses from being open on Sundays??? I thought it was "christian" pandering by businesses. It is really annoying that so many businesses are closed Sundays and if the government is the reason why, then that is appalling.  
   

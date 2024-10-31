@@ -14,7 +14,7 @@ linter-yaml-title-alias: Mimo-standards-at-war
 ---
 
 
-Courtesy [www.fiercewireless.com](http://www.fiercewireless.com)  
+Courtesy [www.fiercewireless.com](https://www.fiercewireless.com)  
   
 
 >   
@@ -24,5 +24,5 @@ Courtesy [www.fiercewireless.com](http://www.fiercewireless.com)
 > The differences between the two approaches are clear. Airgo makes the complete chipset for offerings by Belkin and Linksys. Netgear, in contrast, relies on its Atheros chips: Video54's BeamFlex chips are merely an overlay which can add MIMO to chips from other vendors. Airgo's products use spatial multiplexing (sending two radio signals in one channel); Netgear uses seven independent internal antennas which may be turned on and off, offering 128 routing patterns. Netgear says its technology give its products a range of 495 feet and a real throughput of up to 48 Mbps.  
 >   
 > For more on the debate over MIMO:  
-> \- see [Peter Judge's Computerworld discussion](http://lists.fiercemarkets.com/c.html?rtr=on&s=69l,brd2,8mf,dq2q,li67,b529,6hgt)  
+> \- see [Peter Judge's Computerworld discussion](https://lists.fiercemarkets.com/c.html?rtr=on&s=69l,brd2,8mf,dq2q,li67,b529,6hgt)  
 >

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Irrational-incompetence
 ---
 
 
-[White House has bigger credibility problem than CBS](http://www.post-gazette.com/pg/05012/440801.stm "White House has bigger credibility problem than CBS")  
+[White House has bigger credibility problem than CBS](https://www.post-gazette.com/pg/05012/440801.stm "White House has bigger credibility problem than CBS")  
   
 "What happens when you base a big project on questionable information?  
   

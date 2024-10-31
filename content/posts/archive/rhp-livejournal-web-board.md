@@ -19,4 +19,4 @@ linter-yaml-title-alias: Rhp-livejournal-web-board
 
 Check out a new place to discuss the Red House Painters and get news.  
   
-[a red house painters & mark kozelek community's Journal](http://www.livejournal.com/community/medicinebottle/ "a red house painters & mark kozelek community's Journal")
+[a red house painters & mark kozelek community's Journal](https://www.livejournal.com/community/medicinebottle/ "a red house painters & mark kozelek community's Journal")

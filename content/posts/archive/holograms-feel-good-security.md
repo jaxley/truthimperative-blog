@@ -18,6 +18,6 @@ I always wondered how something that obviously does not add much additional cost
   
 A great quote below too.  
   
-[Fake Holograms a 3-D Crime Wave](http://www.wired.com/science/discoveries/news/2007/02/72664)  
+[Fake Holograms a 3-D Crime Wave](https://www.wired.com/science/discoveries/news/2007/02/72664)  
 
 > It turns out, they're aren't as secure as they are sparkly.

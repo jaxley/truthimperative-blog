@@ -15,7 +15,7 @@ linter-yaml-title-alias: Presentation-zen
 ---
 
 
-[Presentation Zen: What is good PowerPoint design?](http://presentationzen.blogs.com/presentationzen/2005/09/whats_good_powe.html "Presentation Zen: What is good PowerPoint design?")  
+[Presentation Zen: What is good PowerPoint design?](https://presentationzen.blogs.com/presentationzen/2005/09/whats_good_powe.html "Presentation Zen: What is good PowerPoint design?")  
   
 A nice article showing several different ways of communicating the same message without overcomplicating your slides.  
   

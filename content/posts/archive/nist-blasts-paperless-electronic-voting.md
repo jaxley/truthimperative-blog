@@ -18,8 +18,8 @@ linter-yaml-title-alias: Nist-blasts-paperless-electronic-voting
 ---
 
 
-The _[National Institute of Standards and Technology](http://www.nist.gov/) (NIST)_ recently published a paper condemning paperless electronic voting machines as insecurable.  I'll have to read the paper in-depth to see how they came to that strong of a conclusion, but I do know that there is no research showing that a purely electronic system can be completely trustworthy.  
+The _[National Institute of Standards and Technology](https://www.nist.gov/) (NIST)_ recently published a paper condemning paperless electronic voting machines as insecurable.  I'll have to read the paper in-depth to see how they came to that strong of a conclusion, but I do know that there is no research showing that a purely electronic system can be completely trustworthy.  
   
 It's amazing how far this subject has come in just a few years, yet how far it still needs to go as evidenced by the irregularities in the recent 2006 midterm election.  
   
-[Slashdot | NIST Condemns Paperless Electronic Voting](http://it.slashdot.org/article.pl?sid=06/12/01/2010245)
+[Slashdot | NIST Condemns Paperless Electronic Voting](https://it.slashdot.org/article.pl?sid=06/12/01/2010245)

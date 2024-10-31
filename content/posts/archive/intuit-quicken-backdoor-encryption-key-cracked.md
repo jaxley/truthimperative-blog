@@ -29,4 +29,4 @@ I have not found any technical details on the backdoor as it is likely proprieta
 
 > Russian security software firm Elcomsoft announced on Friday that the company's researchers had cracked the master password that secures encrypted Quicken files and which allows the software's developer, Intuit, to retrieve lost passwords.
 
-[Elcomsoft cracks Quicken "backdoor"](http://www.securityfocus.com/brief/533?ref=rss)
+[Elcomsoft cracks Quicken "backdoor"](https://www.securityfocus.com/brief/533?ref=rss)

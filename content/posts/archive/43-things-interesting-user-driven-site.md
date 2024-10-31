@@ -12,7 +12,7 @@ url: /2006/09/43-things-interesting-user-driven-site.html
 ---
 
 
-[43 Things](http://www.43things.com/ "43 Things")  
+[43 Things](https://www.43things.com/ "43 Things")  
   
 "Discover what's important, make it happen, share your progress. Find your 43 things."  
   

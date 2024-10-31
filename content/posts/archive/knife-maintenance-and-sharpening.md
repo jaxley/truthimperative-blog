@@ -15,6 +15,6 @@ linter-yaml-title-alias: Knife-maintenance-and-sharpening
 ---
 
 
-[eG Forums -> Knife Maintenance and Sharpening](http://forums.egullet.org/index.php?showtopic=26036 "eG Forums -> Knife Maintenance and Sharpening")  
+[eG Forums -> Knife Maintenance and Sharpening](https://forums.egullet.org/index.php?showtopic=26036 "eG Forums -> Knife Maintenance and Sharpening")  
   
 A very helpful guide on how to properly sharpen knives. I seem to dull the crap out of them unless I use the method of holding the steel sharpener vertical. The hardest part is maintaining the 15 degree angle while following the curve of the blade. The article also lists some gadgets that actually do help with this process and some devices to avoid.

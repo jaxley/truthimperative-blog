@@ -35,7 +35,7 @@ I have gotten two spam blog posts (aside: so, should blog spam be called spog or
   
 All of these factors lead me to conclude that they were bogus and so both were rejected.  
   
-([MT-Blacklist](http://www.jayallen.org/projects/mt-blacklist/) ROCKS, BTW!!!)  
+([MT-Blacklist](https://www.jayallen.org/projects/mt-blacklist/) ROCKS, BTW!!!)  
   
 One of the comments said simply:  
   

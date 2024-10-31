@@ -18,7 +18,7 @@ linter-yaml-title-alias: Debate-on-copyright-vs-innovation-at-stanford
 ---
 
 
-[\[IP\] Pondering Value of Copyright vs. Innovation](http://www.interesting-people.org/archives/interesting-people/200303/msg00015.html "[IP] Pondering Value of Copyright vs. Innovation")  
+[\[IP\] Pondering Value of Copyright vs. Innovation](https://www.interesting-people.org/archives/interesting-people/200303/msg00015.html "[IP] Pondering Value of Copyright vs. Innovation")  
   
 "Technology scholars, business leaders and policy makers gathered at California  
 conferences this weekend to argue whether a mismatch between two different technologies and the legal policies that govern them could inhibit free expression and innovation. "  

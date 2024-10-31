@@ -17,7 +17,7 @@ linter-yaml-title-alias: Another-article-on-musicians-being-screwed-out-of-profi
 ---
 
 
-[Business 2.0 - Magazine Article - The MP3 Economy](http://www.business2.com/articles/mag/0,1640,49472,00.html "Business 2.0 - Magazine Article - The MP3 Economy")  
+[Business 2.0 - Magazine Article - The MP3 Economy](https://www.business2.com/articles/mag/0,1640,49472,00.html "Business 2.0 - Magazine Article - The MP3 Economy")  
   
 
 > "The going rate for downloading songs from online music services like Apple's (AAPL) iTunes Music Store, MusicNet, Pressplay, and Rhapsody is about $1 a pop. Yet the economics of recorded music sales haven't changed much since the vinyl era -- despite the fact that digital files cost very little to produce and distribute. So how much of your buck makes its way back to the artists? Not much, though it's clearly a better deal than they get from piracy. "

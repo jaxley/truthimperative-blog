@@ -16,4 +16,4 @@ The biggest problem with identity theft is the human element though. Consumers r
   
 I do like the idea of a market-driven solution. There are plenty of areas where the market fosters very poor security. Government mandates can change this tide and force novel approaches, like the one in this article.  
   
-[BW Online | February 11, 2003 | To Thwart the Identity Thieves](http://www.businessweek.com/technology/content/feb2003/tc20030211_7896_tc047.htm "BW Online | February 11, 2003 | To Thwart the Identity Thieves")
+[BW Online | February 11, 2003 | To Thwart the Identity Thieves](https://www.businessweek.com/technology/content/feb2003/tc20030211_7896_tc047.htm "BW Online | February 11, 2003 | To Thwart the Identity Thieves")

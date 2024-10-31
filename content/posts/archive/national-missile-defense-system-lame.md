@@ -15,6 +15,6 @@ linter-yaml-title-alias: National-missile-defense-system-lame
 ---
 
 
-[National Missile Defense System Test Fails Again](http://www.ucsusa.org/news/press_release.cfm?newsID=463 "National Missile Defense System Test Fails Again") This story is over a year old but there hasn't been much better news about this boondoggle since then.  
+[National Missile Defense System Test Fails Again](https://www.ucsusa.org/news/press_release.cfm?newsID=463 "National Missile Defense System Test Fails Again") This story is over a year old but there hasn't been much better news about this boondoggle since then.  
   
 Oh, we can only hope that we are attacked by drones and not real missles... Those have been the only things that have even partially been stopped by this technology (after much rigging). Very apropos since just on the McLaughlin group today there were those that actually thought we could possibly rely on this to knock a North Korean ICBM out of the sky before it hits the US west coast.

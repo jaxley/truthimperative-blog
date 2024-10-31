@@ -17,22 +17,22 @@ linter-yaml-title-alias: Must-have-firefox-extensions
 
 I thought it would be good to document the Firefox extensions that I find invaluable:  
   
-[All-In-One Sidebar](http://firefox.exxile.net/index.php)  
+[All-In-One Sidebar](https://firefox.exxile.net/index.php)  
 A much nicer integration of common configuration options with the FF GUI at the ready. Also, lets you load up two different pages side-by-side or the source code to a page right next to the site, etc.  
   
-[Download Statusbar](http://downloadstatusbar.mozdev.org/)  
+[Download Statusbar](https://downloadstatusbar.mozdev.org/)  
 I find the firefox download manager separate dialog box kind of annoying. This extension shows all download progress right in the statusbar so you don't have to watch multiple windows to track download progress.  
   
-[FlashGot](http://www.flashgot.net/whats)  
+[FlashGot](https://www.flashgot.net/whats)  
 This integrates firefox with any currently-installed download manager to quickly perform mass-downloads on pages with a nice right-click context menu.  
   
-[NoScript](http://www.noscript.net/whats)  
+[NoScript](https://www.noscript.net/whats)  
 This is a must-have for security. NoScript allows you to set fine-grained policy on which sites you permanently or temporarily allow to run javascript. You can also use this to block Macromedia flash, but I prefer the Objection extension instead to manage the Local Shared Objects.  
   
-[Scribe](http://prismicspiral.com/scribe/)  
+[Scribe](https://prismicspiral.com/scribe/)  
 Lets you save long form textbox entries locally so that you don't lose them before you submit them. Very handy for blogging or submitting tech support or forum posts and being safe from the "back button" or your browser crashing and losing your posts. No more need to edit in Vi or Notepad and then paste into the site!  
   
-[Objection](http://www.yardley.ca/objection/)  
+[Objection](https://www.yardley.ca/objection/)  
 Allows you to control [Macromedia Flash cookies](/archives/2005/09/are_you_blockin.html) from the privacy settings window.  
   
 On Windows:  

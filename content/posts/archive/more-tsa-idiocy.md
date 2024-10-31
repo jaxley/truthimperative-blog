@@ -17,7 +17,7 @@ linter-yaml-title-alias: More-tsa-idiocy
 ---
 
 
-Following up on my earlier [posting](http://juxtaposition.axley.net/archives/000262.html) on TSA idiocy... Supposedly this was also at SeaTac.  
+Following up on my earlier [posting](https://juxtaposition.axley.net/archives/000262.html) on TSA idiocy... Supposedly this was also at SeaTac.  
   
 Just met with some friends tonight and the subject of airline/airport "security" came up. A true story about a recent run-in with TSA:  
   
@@ -40,7 +40,7 @@ Well, they pleaded with TSA:
   
 But, the TSA, protecting all of us from 2 inch hammer banditos, refused to budge. The family got several levels of TSA and airport staff involved to press the issue yet their pleas still fell on deaf ears.  
   
-To make matters worse, the TSA staff were nasty about the situation too. For example, when asked what they were going to do with the hammer after confiscating it, they said that it would be "discarded", as if it were something with only utilitarian value. No thought about the real human lives in front of them that were being negatively impacted by this policy. I guess "things have changed after 9-11":   Americans are self-righteous and don't care about the American public? No thought is expended to question whether the [TSA Policy](http://www.tsa.gov/public/interweb/assetlibrary/Permitted_Prohibited_5_16_2005_v3.pdf) that does actually prohibit bringing quote-unquote "hammers" on board, but I'm sure the policy writers did not intend for this to apply to 2 inch hammers! Think people!! Sheesh.  
+To make matters worse, the TSA staff were nasty about the situation too. For example, when asked what they were going to do with the hammer after confiscating it, they said that it would be "discarded", as if it were something with only utilitarian value. No thought about the real human lives in front of them that were being negatively impacted by this policy. I guess "things have changed after 9-11":   Americans are self-righteous and don't care about the American public? No thought is expended to question whether the [TSA Policy](https://www.tsa.gov/public/interweb/assetlibrary/Permitted_Prohibited_5_16_2005_v3.pdf) that does actually prohibit bringing quote-unquote "hammers" on board, but I'm sure the policy writers did not intend for this to apply to 2 inch hammers! Think people!! Sheesh.  
   
 Yeah, people supposedly trying to protect us are maliciously obedient to policies that address false risks not based on a threat model, let alone a reasonable one. And, they only care about the letter of the law and not the spirit. The risk mitigation lies in the spirit of the law. Stupidity and a police state lies in strict interpretation of the letter of the law, especially in the case of the TSA where Americans have no ability to confront their accusors and ensure any sense of just treatment under the law.  
   

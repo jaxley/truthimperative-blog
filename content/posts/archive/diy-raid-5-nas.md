@@ -12,6 +12,6 @@ url: /2006/08/diy-raid-5-nas.html
 ---
 
 
-[Build a Cheap and Fast RAID 5 NAS | Tom's Networking](http://www.tomsnetworking.com/2006/08/01/cheap_fast_diy_raid_5_nas/ "Build a Cheap and Fast RAID 5 NAS | Tom's Networking")  
+[Build a Cheap and Fast RAID 5 NAS | Tom's Networking](https://www.tomsnetworking.com/2006/08/01/cheap_fast_diy_raid_5_nas/ "Build a Cheap and Fast RAID 5 NAS | Tom's Networking")  
   
 I'm going to need to get one of those cards and a bunch of drives to augment my data server with a terabyte of RAID-5 goodness. \*yum\*

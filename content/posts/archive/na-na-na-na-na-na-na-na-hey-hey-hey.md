@@ -15,6 +15,6 @@ linter-yaml-title-alias: Na-na-na-na-na-na-na-na-hey-hey-hey
 ---
 
 
-[BBC NEWS | Americas | CIA leak probe reporter resigns](http://news.bbc.co.uk/2/hi/americas/4423422.stm "BBC NEWS | Americas | CIA leak probe reporter resigns")  
+[BBC NEWS | Americas | CIA leak probe reporter resigns](https://news.bbc.co.uk/2/hi/americas/4423422.stm "BBC NEWS | Americas | CIA leak probe reporter resigns")  
   
 Judith Miller resigns. Good riddance.

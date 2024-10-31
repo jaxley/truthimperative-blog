@@ -9,4 +9,4 @@ updated: 2024-10-10 12:19:11-07:00
 
 This is especially funny in light of the revelations that it is becoming popular, especially in the UK, to use Google Maps to locate swimming pools to crash like this. I guess they better survey the area to make sure there aren't any nettles first.  
   
-[Germany:Skinny dippers fall for sting » Rational Review](http://www.rationalreview.com/content/49952)
+[Germany:Skinny dippers fall for sting » Rational Review](https://www.rationalreview.com/content/49952)

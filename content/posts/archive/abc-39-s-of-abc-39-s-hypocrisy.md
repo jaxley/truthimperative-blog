@@ -12,7 +12,7 @@ url: /2006/09/abc-of-abc-hypocrisy.html
 ---
 
 
-[Media Matters - "Media Matters"; by Jamison Foser](http://mediamatters.org/items/200609090003?src=newsbox-atrios.blogspot.com "Media Matters - ")  
+[Media Matters - "Media Matters"; by Jamison Foser](https://mediamatters.org/items/200609090003?src=newsbox-atrios.blogspot.com "Media Matters - ")  
   
 ABC and Disney, for starters, still plan to broadcast an account of the events leading up to the September 11, 2001, terrorist attacks that they know to be false.  
   

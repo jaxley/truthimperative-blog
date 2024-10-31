@@ -14,6 +14,6 @@ I searched and didn't find a Seattle-specific Information Security calendar show
   
 If you know of something I've missed, let me know and I'll add it.  
   
-To subscribe:  [ICAL](http://www.google.com/calendar/ical/axley.net_9rovn2snphdqmblujc4qshpqt4%40group.calendar.google.com/public/basic.ics), [XML](http://www.google.com/calendar/feeds/axley.net_9rovn2snphdqmblujc4qshpqt4%40group.calendar.google.com/public/basic)  
+To subscribe:  [ICAL](https://www.google.com/calendar/ical/axley.net_9rovn2snphdqmblujc4qshpqt4%40group.calendar.google.com/public/basic.ics), [XML](https://www.google.com/calendar/feeds/axley.net_9rovn2snphdqmblujc4qshpqt4%40group.calendar.google.com/public/basic)  
   
 [Full browser web view](https://www.google.com/calendar/embed?src=axley.net_9rovn2snphdqmblujc4qshpqt4%40group.calendar.google.com&ctz=America/Los_Angeles)

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Airborne-settles-class-action-lawsuit
 
 
   
-[Airborne Agrees to Pay $23.3 Million to Settle Lawsuit Over False Advertising of its "Miracle Cold Buster" ~ Newsroom ~ News from CSPI](http://www.cspinet.org/new/200803032.html)  
+[Airborne Agrees to Pay $23.3 Million to Settle Lawsuit Over False Advertising of its "Miracle Cold Buster" ~ Newsroom ~ News from CSPI](https://www.cspinet.org/new/200803032.html)  
   
 Lying scum.  
   

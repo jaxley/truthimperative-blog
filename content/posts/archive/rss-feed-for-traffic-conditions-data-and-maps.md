@@ -15,6 +15,6 @@ linter-yaml-title-alias: Rss-feed-for-traffic-conditions-data-and-maps
 ---
 
 
-The technical details of how to find your local traffic feed are at [http://ejohn.org/blog/traffic-conditions-data/](http://ejohn.org/blog/traffic-conditions-data/)  
+The technical details of how to find your local traffic feed are at [https://ejohn.org/blog/traffic-conditions-data/](https://ejohn.org/blog/traffic-conditions-data/)  
   
-It's pretty easy to set up your own URL. Here's one for [Seattle](http://maps.yahoo.com/traffic.rss?csz=98126&mag=4&minsev=2) that I'll have to put on my blog somewhere...
+It's pretty easy to set up your own URL. Here's one for [Seattle](https://maps.yahoo.com/traffic.rss?csz=98126&mag=4&minsev=2) that I'll have to put on my blog somewhere...

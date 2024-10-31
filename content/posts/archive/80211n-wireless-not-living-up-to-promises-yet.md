@@ -12,6 +12,6 @@ url: /2006/07/80211n-wireless-not-living-up-to.html
 ---
 
 
-[EETimes.com - 802.11n wireless gear falls short in testing](http://www.eetimes.com/news/semi/showArticle.jhtml?articleID=186700327 "EETimes.com - 802.11n wireless gear falls short in testing")  
+[EETimes.com - 802.11n wireless gear falls short in testing](https://www.eetimes.com/news/semi/showArticle.jhtml?articleID=186700327 "EETimes.com - 802.11n wireless gear falls short in testing")  
   
 Early adopters are likely to suffer the same problems that plagued 802.11g when it first emerged.

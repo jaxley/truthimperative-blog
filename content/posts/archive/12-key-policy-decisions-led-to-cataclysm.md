@@ -16,7 +16,7 @@ A new 231 page report outlines 12 key policy decisions that led to the current e
 1\. Stop the stupid right-wing chain emails that claim that this all rests on the Democrats and Fannie/Freddie.  There's plenty of blame to go around (Fannie and Freddie are # 10 on the blame list)  
 2\. Stop the pundits that decry the "finger pointing" and hope to instead "move forward".  Excuse me, but I think that a report looking critically at pointing fingers at what got us in this mess is \_kind of important\_ to know how we get out of it.  Of course maybe those pundits just want us to "look busy" and "do some stuff" and hope it works.  I prefer evidence-based governing myself and the place to start is with the evidence for how we got in this mess.  
   
-[Wall Street Watch](http://wallstreetwatch.org/soldoutreport.htm)  
+[Wall Street Watch](https://wallstreetwatch.org/soldoutreport.htm)  
 
 > 1\. In 1999, Congress repealed the Glass-Steagall Act, which had prohibited the merger of commercial banking and investment banking.  
 > 2\. Regulatory rules permitted off-balance sheet accounting -- tricks that enabled banks to hide their liabilities.  
@@ -34,4 +34,4 @@ A new 231 page report outlines 12 key policy decisions that led to the current e
   
   
 
-<!-- <!-- ![](http://img.zemanta.com/pixy.gif?x-id=ca66727a-83fa-4249-b474-39c99810bbbf) --> -->
+<!-- <!-- ![](https://img.zemanta.com/pixy.gif?x-id=ca66727a-83fa-4249-b474-39c99810bbbf) --> -->

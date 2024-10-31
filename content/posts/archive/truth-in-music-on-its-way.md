@@ -17,6 +17,6 @@ Senator Ron Wyden (D) from Oregon is pitching a simple idea to lead to a market-
   
 "When customers know, for example, that the compact disc they're buying is technologically rigged so they can't rip MP3 files from it for use on a portable player, they won't buy it. Eventually, these informed customers will demand change in the copyright laws."  
   
-[\[IP\] Truth in labeling](http://www.interesting-people.org/archives/interesting-people/200303/msg00006.html "[IP] Truth in labeling")  
+[\[IP\] Truth in labeling](https://www.interesting-people.org/archives/interesting-people/200303/msg00006.html "[IP] Truth in labeling")  
   
-[Senator Seeks Full Copyright Disclosures](http://www.siliconvalley.com/mld/siliconvalley/5298641.htm)
+[Senator Seeks Full Copyright Disclosures](https://www.siliconvalley.com/mld/siliconvalley/5298641.htm)

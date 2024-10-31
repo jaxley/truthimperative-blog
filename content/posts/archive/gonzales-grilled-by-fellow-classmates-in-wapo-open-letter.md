@@ -18,7 +18,7 @@ linter-yaml-title-alias: Gonzales-grilled-by-fellow-classmates-in-wapo-open-lett
 
 Ouch.  Several of the signatories are from Seattle.  Cheers for saying what needs to be said.  
   
-[Alberto’s Harvard Class (’82) Places Ad in Washington Post.](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=132x3266220)  
+[Alberto’s Harvard Class (’82) Places Ad in Washington Post.](https://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=132x3266220)  
 
 > As  
 > lawyers, and as a matter of principle, we can no longer be silent about  

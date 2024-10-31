@@ -58,7 +58,7 @@ From John Gilmore to the cryptography list:
 
   
   
-And to go along with this, Perry Metzger had a [very well put posting](http://marc.theaimsgroup.com/?l=cryptography&m=112075433928725&w=2) on why we should't blindly trust governments:  
+And to go along with this, Perry Metzger had a [very well put posting](https://marc.theaimsgroup.com/?l=cryptography&m=112075433928725&w=2) on why we should't blindly trust governments:  
   
 
 >   

@@ -16,6 +16,6 @@ linter-yaml-title-alias: On-the-horrible-new-wiretapping-law
 
   
   
-[Susan Landau - A Gateway for Hackers - washingtonpost.com](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/08/AR2007080801961.html)  
+[Susan Landau - A Gateway for Hackers - washingtonpost.com](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/08/AR2007080801961.html)  
 
 > Current administration policy is replete with examples of quickly enacted efforts whose consequences led to the opposite effect. (Beware of what you wish for . . . .) With Congress caving last week, the National Security Agency no longer needs a Foreign Intelligence Surveillance Act (FISA) warrant to wiretap if one party is believed to be outside the United States. This change looks reasonable at first, but it could create huge long-term security risks for the United States.

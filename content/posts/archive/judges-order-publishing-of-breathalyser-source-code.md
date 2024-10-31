@@ -18,7 +18,7 @@ linter-yaml-title-alias: Judges-order-publishing-of-breathalyser-source-code
 ---
 
 
-[LiveAmmo Security Blog: Drunk drivers granted access to breathalyser source code](http://liveammo.blogspot.com/2005/11/drunk-drivers-granted-access-to.html "LiveAmmo Security Blog: Drunk drivers granted access to breathalyser source code")  
+[LiveAmmo Security Blog: Drunk drivers granted access to breathalyser source code](https://liveammo.blogspot.com/2005/11/drunk-drivers-granted-access-to.html "LiveAmmo Security Blog: Drunk drivers granted access to breathalyser source code")  
   
 If only I was able to be granted the source code for the laser detector that incorrectly clocked me over the speed limit...  
   

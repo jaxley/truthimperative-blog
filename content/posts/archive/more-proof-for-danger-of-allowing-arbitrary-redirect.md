@@ -15,4 +15,4 @@ linter-yaml-title-alias: More-proof-for-danger-of-allowing-arbitrary-redirect
 ---
 
 
-[ZDNetAsia : Printer Friendly - Paypal fixes phishing hole](http://www.zdnetasia.com/news/security/printfriendly.htm?AT=39368806-39000005c "ZDNetAsia : Printer Friendly - Paypal fixes phishing hole")
+[ZDNetAsia : Printer Friendly - Paypal fixes phishing hole](https://www.zdnetasia.com/news/security/printfriendly.htm?AT=39368806-39000005c "ZDNetAsia : Printer Friendly - Paypal fixes phishing hole")

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Call-your-phone-company
 ---
 
 
-[Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!](http://www.dailykos.com/story/2006/5/11/91046/7966 "Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!")  
+[Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!](https://www.dailykos.com/story/2006/5/11/91046/7966 "Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!")  
   
 I called Verizon Wireless and they said that it was not them, but the parent Verizon, which is the subject and that VZW does not divulge this information (known in the biz as CPNI).  
   

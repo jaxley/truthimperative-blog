@@ -20,4 +20,4 @@ linter-yaml-title-alias: Ross-anderson-response-about-payments-system-weakness
   
 "You complain that our work may undermine public conﬁdence in the payments system. What will support public conﬁdence in the payments system is evidence that the banks are frank and honest in admitting its weaknesses when they are exposed, and diligent in effecting the necessary remedies. Your letter shows that, instead, your member banks do their lamentable best to deprecate the work of those outside their cosy club, and indeed to censor it."  
   
-[http://www.cl.cam.ac.uk/~rja14/Papers/ukca.pdf](http://www.cl.cam.ac.uk/~rja14/Papers/ukca.pdf)
+[https://www.cl.cam.ac.uk/~rja14/Papers/ukca.pdf](https://www.cl.cam.ac.uk/~rja14/Papers/ukca.pdf)

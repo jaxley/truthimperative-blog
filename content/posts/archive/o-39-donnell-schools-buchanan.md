@@ -13,4 +13,4 @@ url: /2008/05/o-schools-buchanan.html
 
 Oh, this is rich! Lawrence O'Donnell calls Pat Buchanan out for criticizing Scott McClellan for the very same thing he did under Nixon: not saying anything or opposing or resigning in the face of wrongdoing.  
   
-[Crooks and Liars » Lawrence O’Donnell Humiliates Pat Buchanan](http://www.crooksandliars.com/2008/05/29/lawrence-odonnell-humiliates-pat-buchanan/)
+[Crooks and Liars » Lawrence O’Donnell Humiliates Pat Buchanan](https://www.crooksandliars.com/2008/05/29/lawrence-odonnell-humiliates-pat-buchanan/)

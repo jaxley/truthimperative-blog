@@ -11,7 +11,7 @@ updated: 2024-10-10 15:00:13-07:00
 ---
 
 >   
-> http://www.wiley.com/legacy/compbooks/mcnamara/  
+> https://www.wiley.com/legacy/compbooks/mcnamara/  
 >   
 > Secrets of Computer Espionage: Tactics and Countermeasures  
 >   

@@ -12,7 +12,7 @@ url: /2005/11/more-persecuting-others-who-are.html
 ---
 
 
-[Pandagon: 'Tis the season to 'persecute' Christians](http://www.pandagon.net/archives/2005/11/tis_the_season.html "Pandagon: 'Tis the season to 'persecute' Christians")  
+[Pandagon: 'Tis the season to 'persecute' Christians](https://www.pandagon.net/archives/2005/11/tis_the_season.html "Pandagon: 'Tis the season to 'persecute' Christians")  
   
 
 >   
@@ -22,7 +22,7 @@ url: /2005/11/more-persecuting-others-who-are.html
   
 Now that sounds consistent with the loving Christian attitude fostered by Pat Robertson.  
   
-[CNN.com - Robertson warns Pennsylvania�voters of God's wrath - Nov 10, 2005](http://www.cnn.com/2005/US/11/10/religion.robertson.reut/index.html?section=cnn_topstories "CNN.com - Robertson warns Pennsylvania�voters of God's wrath - Nov 10, 2005")  
+[CNN.com - Robertson warns Pennsylvania�voters of God's wrath - Nov 10, 2005](https://www.cnn.com/2005/US/11/10/religion.robertson.reut/index.html?section=cnn_topstories "CNN.com - Robertson warns Pennsylvania�voters of God's wrath - Nov 10, 2005")  
   
 
 >   

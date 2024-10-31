@@ -26,7 +26,7 @@ As for item #3, I don't think that I believe that there can be "quantitative" se
   
 Item #4 is very important and speaks to ensuring security systems are usable.  
   
-[CRA (Computing Research Association) Grand Research Challenges](http://www.cra.org/Activities/grand.challenges/security/home.html)  
+[CRA (Computing Research Association) Grand Research Challenges](https://www.cra.org/Activities/grand.challenges/security/home.html)  
   
 Four Grand Challenges in Trustworthy Computing:  
 

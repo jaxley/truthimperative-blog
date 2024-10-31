@@ -22,7 +22,7 @@ Now, a proof-of-concept showing that the long-known MD5 vulnerabilities can be a
 > Thawte (!)  
 > verisign.co.jp
 
-I expect this kind of thing from Equifax because they seem to do everything but the right thing in any interaction I've had with them online (e.g. why would they decide it a good idea to direct people to http://consumerinfo.com as an Equifax property? That seems like the phishiest thing I've come across. Seriously?) But RSA? Thawte?  
+I expect this kind of thing from Equifax because they seem to do everything but the right thing in any interaction I've had with them online (e.g. why would they decide it a good idea to direct people to https://consumerinfo.com as an Equifax property? That seems like the phishiest thing I've come across. Seriously?) But RSA? Thawte?  
   
 I'll repeat again my analogy I have used in the past for those who don't get the implications:  
 
@@ -32,4 +32,4 @@ I'll repeat again my analogy I have used in the past for those who don't get the
 
 Now, there is a caveat that is possible and I call it the Jack-in-the-box caveat.  In the aftermath of the E-coli illnesses attributed to Jack-in-the-Box restaurants many, many years ago, when they reopened I was not hesitant to have a burger there.  Why?  Because it was clear that they were under very tight scrutiny from the government and health agencies due to what they went through.  But, other restaurants were potential ticking timebombs.  It's the devil you know vs. the devil you don't.  
   
-[Emergent Chaos: Now will you believe MD5 is broken?](http://www.emergentchaos.com/archives/2008/12/now_will_you_believe_md5.html)
+[Emergent Chaos: Now will you believe MD5 is broken?](https://www.emergentchaos.com/archives/2008/12/now_will_you_believe_md5.html)

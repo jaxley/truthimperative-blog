@@ -13,7 +13,7 @@ url: /2006/04/religion-meet-science-prayer-doesn-work.html
 ---
 
 
-[Boing Boing: Prayer won't heal ya](http://www.boingboing.net/2006/03/30/prayer_wont_heal_ya.html "Boing Boing: Prayer won't heal ya")  
+[Boing Boing: Prayer won't heal ya](https://www.boingboing.net/2006/03/30/prayer_wont_heal_ya.html "Boing Boing: Prayer won't heal ya")  
   
 
 >   

@@ -15,4 +15,4 @@ linter-yaml-title-alias: Internet-security-tips
 ---
 
 
-http://www.eweek.com/article2/0,1759,1883072,00.asp?kc=EWRSS03129TX1K0000614
+https://www.eweek.com/article2/0,1759,1883072,00.asp?kc=EWRSS03129TX1K0000614

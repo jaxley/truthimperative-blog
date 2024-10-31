@@ -23,6 +23,6 @@ A URL is a type of a URI that provides additional information that URIs don't _n
   
 A resource with a given URI could have multiple different URLs.  The same ISBN URI above can be found at Amazon or many other online URLs, for example.  
   
-[Ajaxian » URI vs. URL: What’s the difference?](http://ajaxian.com/archives/uri-vs-url-whats-the-difference)  
+[Ajaxian » URI vs. URL: What’s the difference?](https://ajaxian.com/archives/uri-vs-url-whats-the-difference)  
   
-[Uniform Resource Identifier - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
+[Uniform Resource Identifier - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)

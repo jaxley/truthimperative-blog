@@ -14,4 +14,4 @@ linter-yaml-title-alias: Cq-exposes-ayers-allegations-quot-pants-on-fire-quot-wr
 ---
 
 
-[CQ Politics | Fact-Checking the Ayers Allegations: So Wrong, It’s “Pants on Fire” Wrong](http://www.cqpolitics.com/wmspage.cfm?docID=news-000002974214)
+[CQ Politics | Fact-Checking the Ayers Allegations: So Wrong, It’s “Pants on Fire” Wrong](https://www.cqpolitics.com/wmspage.cfm?docID=news-000002974214)

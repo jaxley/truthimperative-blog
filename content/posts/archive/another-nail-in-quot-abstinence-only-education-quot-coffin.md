@@ -15,7 +15,7 @@ linter-yaml-title-alias: Another-nail-in-quot-abstinence-only-education-quot-cof
 
 
   
-[Abstinence Education Does Not Impact Sexual Beahvior](http://www.rxpgnews.com/health/Abstinence_Education_Programs_Have_No_Impact_on_Sexual_Beahviour_23770.shtml)  
+[Abstinence Education Does Not Impact Sexual Beahvior](https://www.rxpgnews.com/health/Abstinence_Education_Programs_Have_No_Impact_on_Sexual_Beahviour_23770.shtml)  
   
   
 

@@ -34,7 +34,7 @@ I have made it a habit to note how many drivers doing stupid shit are talking on
 
   
   
-[CNN.com - Study: Drivers on cells more likely to crash - Jul 12, 2005](http://www.cnn.com/2005/US/07/12/cells.drivers/index.html?section=cnn_topstories "CNN.com - Study: Drivers on cells more likely to crash - Jul 12, 2005")  
+[CNN.com - Study: Drivers on cells more likely to crash - Jul 12, 2005](https://www.cnn.com/2005/US/07/12/cells.drivers/index.html?section=cnn_topstories "CNN.com - Study: Drivers on cells more likely to crash - Jul 12, 2005")  
   
 
 >   

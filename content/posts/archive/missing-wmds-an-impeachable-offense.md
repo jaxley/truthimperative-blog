@@ -18,7 +18,7 @@ linter-yaml-title-alias: Missing-wmds-an-impeachable-offense
 Another one intended to be posted long ago, and even more interesting with the election a week away.  
   
 
-> [FindLaw's Writ - Dean: Missing Weapons Of Mass Destruction](http://writ.news.findlaw.com/dean/20030606.html "FindLaw's Writ - Dean: Missing Weapons Of Mass Destruction")  
+> [FindLaw's Writ - Dean: Missing Weapons Of Mass Destruction](https://writ.news.findlaw.com/dean/20030606.html "FindLaw's Writ - Dean: Missing Weapons Of Mass Destruction")  
 >   
 > President George W. Bush has got a very serious problem. Before asking Congress for a Joint Resolution authorizing the use of American military forces in Iraq, he made a number of unequivocal statements about the reason the United States needed to pursue the most radical actions any nation can undertake - acts of war against another nation.  
 >   

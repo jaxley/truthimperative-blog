@@ -12,4 +12,4 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-[PrivacyChoices](http://www.privacychoices.org/optout.htm "PrivacyChoices")
+[PrivacyChoices](https://www.privacychoices.org/optout.htm "PrivacyChoices")

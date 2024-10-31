@@ -18,4 +18,4 @@ I got my letter this week that my data appeared to be affected.  They are takin
   
 Although I can't help but think about how phishy it looks when I was directed to go to not experian.com, but consumerinfo.com/countrywide.  And I'm supposed to know that consumerinfo.com is Experian??  
   
-[Insider arrested in relation to Countrywide data theft - security](http://www.thetechherald.com/article.php/200832/1696/Insider-arrested-in-relation-to-Countrywide-data-theft)
+[Insider arrested in relation to Countrywide data theft - security](https://www.thetechherald.com/article.php/200832/1696/Insider-arrested-in-relation-to-Countrywide-data-theft)

@@ -18,4 +18,4 @@ Good to check out what kind of wool the Bush administration is trying to pull ov
   
 You'd think they would want to find out what they are granting immunity for first, right?  
   
-[American Civil Liberties Union : FISA Fact Check: Setting the Record Straight on the White House](http://www.aclu.org/safefree/general/34258prs20080229.html)
+[American Civil Liberties Union : FISA Fact Check: Setting the Record Straight on the White House](https://www.aclu.org/safefree/general/34258prs20080229.html)

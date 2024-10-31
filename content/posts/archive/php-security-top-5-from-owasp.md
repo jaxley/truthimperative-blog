@@ -32,10 +32,10 @@ url: /2006/07/php-security-top-5-from-owasp.html
 >   
 > OWASP PHP Top 5  
 >   
-> [http://www.owasp.org/index.php/PHP\_Top\_5](http://www.owasp.org/index.php/PHP_Top_5)  
+> [https://www.owasp.org/index.php/PHP\_Top\_5](https://www.owasp.org/index.php/PHP_Top_5)  
 >   
 >   
 >   
 > OWASP PHP Project  
 >   
-> [http://www.owasp.org/index.php/Category:OWASP\_PHP\_Project](http://www.owasp.org/index.php/Category:OWASP_PHP_Project)
+> [https://www.owasp.org/index.php/Category:OWASP\_PHP\_Project](https://www.owasp.org/index.php/Category:OWASP_PHP_Project)

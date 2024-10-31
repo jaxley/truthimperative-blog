@@ -17,7 +17,7 @@ linter-yaml-title-alias: Rfid-passport-security-proposal-defeating-the-purpose
 ---
 
 
-[Schneier on Security: RFID Passport Security](http://www.schneier.com/blog/archives/2005/04/rfid_passport_s.html "Schneier on Security: RFID Passport Security")  
+[Schneier on Security: RFID Passport Security](https://www.schneier.com/blog/archives/2005/04/rfid_passport_s.html "Schneier on Security: RFID Passport Security")  
   
 
 >   
@@ -40,4 +40,4 @@ I have to agree with some of the posters to Bruce Schneier's blog that this is c
 
   
   
-Here is a related article on the government caving to privacy advocates. [Feds Rethinking RFID Passport](http://www.wired.com/news/privacy/0,1848,67333,00.html?tw=wn_tophead_1)
+Here is a related article on the government caving to privacy advocates. [Feds Rethinking RFID Passport](https://www.wired.com/news/privacy/0,1848,67333,00.html?tw=wn_tophead_1)

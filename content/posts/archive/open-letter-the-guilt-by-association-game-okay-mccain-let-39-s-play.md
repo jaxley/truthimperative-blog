@@ -43,17 +43,17 @@ have you looked at your guy McCain and Palin?
     and others who would imitate them to stop."   
       
     
-*   How about Palin being shown guilty of abusing her power in Alaska and violating the Open Records Act:  [http://lnmc.crooksandliars.com/jamie/sarah-palins-email-crime-used-expose-crime  
-    http://www.news.com.au/heraldsun/story/0,21985,24479770-661,00.html  
+*   How about Palin being shown guilty of abusing her power in Alaska and violating the Open Records Act:  [https://lnmc.crooksandliars.com/jamie/sarah-palins-email-crime-used-expose-crime  
+    https://www.news.com.au/heraldsun/story/0,21985,24479770-661,00.html  
       
-    ](http://lnmc.crooksandliars.com/jamie/sarah-palins-email-crime-used-expose-crime)
+    ](https://lnmc.crooksandliars.com/jamie/sarah-palins-email-crime-used-expose-crime)
 *   How about McCain's ties to G. Gordon Liddy, the convicted  
     Watergate burglar?  Se  
-    http://voices.washingtonpost.com/postpartisan/2008/10/mccains\_chilling\_dance\_with\_th.html  
-    and also http://mediamatters.org/items/200810040004
+    https://voices.washingtonpost.com/postpartisan/2008/10/mccains\_chilling\_dance\_with\_th.html  
+    and also https://mediamatters.org/items/200810040004
 *   How about McCain's role in the Keating Savings & Loan  
     disaster (he was one of the Keating 5).  Watch the new video on this  
-    (fact-checked by CNN):  http://www.keatingeconomics.com/  McCain  
+    (fact-checked by CNN):  https://www.keatingeconomics.com/  McCain  
     associated \_directly\_ with Charles Keating (convicted) and of the other  
     Keating 5, "had the closest personal friendship with Charles Keating".   
     John McCain was cleared of any criminal impropriety, but the Senate  
@@ -68,7 +68,7 @@ have you looked at your guy McCain and Palin?
     sale’ to raise funds for high school seniors in his church bulletin,  
     ‘The Cluster.’ “The item was introduced with the sentence  
     ‘Slavery in America is returning to Cornerstone” and ended with “Make  
-    plans to come and go home with a slave."  http://mediamatters.org/items/200802280018  
+    plans to come and go home with a slave."  https://mediamatters.org/items/200802280018  
       
     
 *   How about Palin's  
@@ -79,14 +79,14 @@ have you looked at your guy McCain and Palin?
     I'm an Alaskan, not an American. I've got no use for America or her  
     damned institutions."  This party wants to secede from the united  
     states.  Palin spoke at their conference \_earlier this year\_.  There is  
-    video on the Internet:  http://www.youtube.com/watch?v=ZwvPNXYrIyI   
+    video on the Internet:  https://www.youtube.com/watch?v=ZwvPNXYrIyI   
     Palin said at this speech, " Keep up the good work, and God bless  
     you."  Hmm.   
       
     
 *   How about McCain's own advisers and campaign staffers being  
     former lobbyists, especially a former Fannie/Freddie lobbyist:   
-    http://www.motherjones.com/mojoblog/archives/2008/09/9663\_mccain\_fannie\_freddie.html  
+    https://www.motherjones.com/mojoblog/archives/2008/09/9663\_mccain\_fannie\_freddie.html  
       
     
 
@@ -102,9 +102,9 @@ The Ayers stuff is really stretching the bounds of credulity.  Here's what Obam
 > Obama went on to say Ayers "engaged in  
 > despicable acts 40 years ago when I was 8 years old," and to suggest  
 > that "that reflects on me and my values doesn't make much sense."   
-> http://www.npr.org/templates/story/story.php?storyId=95442902, also  
+> https://www.npr.org/templates/story/story.php?storyId=95442902, also  
 > look at this debunking of the lie and distortion in McCain's  
-> advertisement:  http://www.politifact.com/truth-o-meter/statements/790/  
+> advertisement:  https://www.politifact.com/truth-o-meter/statements/790/  
 >   
 > 
 >   
@@ -112,4 +112,4 @@ The Ayers stuff is really stretching the bounds of credulity.  Here's what Obam
   
 You better learn to love Obama because by all projections he is going  
 to be our next president.  He is close to winning a landslide of  
-electoral votes too (351, with 375 as a landslide).  http://www.fivethirtyeight.com/
+electoral votes too (351, with 375 as a landslide).  https://www.fivethirtyeight.com/

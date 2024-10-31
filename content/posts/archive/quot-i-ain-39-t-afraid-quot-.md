@@ -13,7 +13,7 @@ url: /2007/08/ain-afraid.html
 
 Heard a snippet of this great song by Holly Near that I heard on a podcast.  You can get the song on her website for free.  
   
-Some choice [lyrics:](http://www.hollynear.com/lyrics/i.aint.afraid.html)  
+Some choice [lyrics:](https://www.hollynear.com/lyrics/i.aint.afraid.html)  
 
 > I ain't afraid of your Yahweh  
 > I ain't afraid of your Allah  
@@ -21,6 +21,6 @@ Some choice [lyrics:](http://www.hollynear.com/lyrics/i.aint.afraid.html)
 > I'm afraid of what you do in the name of your God
 
   
-[Free MP3 Download](http://www.hollynear.com/free.download.html)  
+[Free MP3 Download](https://www.hollynear.com/free.download.html)  
 
 > Free MP3 Download "I Ain't Afraid" 5.4 MB This is one of the great songs from the CD Edge Copyright 2000 Hereford Music

@@ -17,6 +17,6 @@ linter-yaml-title-alias: More-news-media-lameness-abuse-of-the-question-mark
 ---
 
 
-[Crooks and Liars: Jon Stewart’s Hilarious Look at the Use of the Question Mark](http://www.crooksandliars.com/2006/09/14/jon-stewarts-hilarious-look-at-the-use-of-the-question-mark/ "Crooks and Liars:  Jon Stewart’s Hilarious Look at the Use of the Question Mark")  
+[Crooks and Liars: Jon Stewart’s Hilarious Look at the Use of the Question Mark](https://www.crooksandliars.com/2006/09/14/jon-stewarts-hilarious-look-at-the-use-of-the-question-mark/ "Crooks and Liars:  Jon Stewart’s Hilarious Look at the Use of the Question Mark")  
   
 Note to news media: Report the FACTS on the NEWS and lose the question mark.

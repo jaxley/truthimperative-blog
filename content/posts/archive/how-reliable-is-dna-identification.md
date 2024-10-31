@@ -14,7 +14,7 @@ linter-yaml-title-alias: How-reliable-is-dna-identification
 ---
 
 
-[http://www.latimes.com/news/local/la-me-dna20-2008jul20,0,1506170,full.story](http://www.latimes.com/news/local/la-me-dna20-2008jul20,0,1506170,full.story)  
+[https://www.latimes.com/news/local/la-me-dna20-2008jul20,0,1506170,full.story](https://www.latimes.com/news/local/la-me-dna20-2008jul20,0,1506170,full.story)  
 
 > A discovery leads to questions about whether the odds of people sharing genetic profiles are sometimes higher than portrayed. Calling the finding meaningless, the FBI has sought to block such inquiry.
 

@@ -21,6 +21,6 @@ aesthetics on the sculpture that was intended to result in gibberish
 when decrypted that would clue in the decryptors to reinsert a separator  
 and try again, except it ended up spelling something intelligible  
 instead of garbage so they thought they had decrypted it properly!
-```[A Break for Code Breakers on a C.I.A. Mystery - New York Times](http://www.nytimes.com/2006/04/22/us/22puzzle.html?ex=1164603600&en=52cd0484e7cbb98b&ei=5070)  
+```[A Break for Code Breakers on a C.I.A. Mystery - New York Times](https://www.nytimes.com/2006/04/22/us/22puzzle.html?ex=1164603600&en=52cd0484e7cbb98b&ei=5070)  
 
 > For nearly 16 years, puzzle enthusiasts have labored to decipher an 865-character coded message stenciled into a sculpture on the grounds of the Central Intelligence Agency's headquarters in Langley, Va. This week, the sculptor gave them an unsettling but hopeful surprise: part of the message they thought they had deciphered years ago actually says something else.

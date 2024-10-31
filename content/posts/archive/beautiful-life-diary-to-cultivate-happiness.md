@@ -14,7 +14,7 @@ linter-yaml-title-alias: Beautiful-life-diary-to-cultivate-happiness
 ---
 
 
-From the book [59 Seconds](http://richardwiseman.wordpress.com/59-seconds-think-a-little-change-a-lot/) by Richard Wiseman, this is a list of writing topics that you can do over the course of a week -- spending just 59 seconds each day -- to cultivate happiness. And each activity is backed by actual scientific research.  
+From the book [59 Seconds](https://richardwiseman.wordpress.com/59-seconds-think-a-little-change-a-lot/) by Richard Wiseman, this is a list of writing topics that you can do over the course of a week -- spending just 59 seconds each day -- to cultivate happiness. And each activity is backed by actual scientific research.  
   
 I had intended to do this from early on this year but have not done so. But that's not going to stop me from starting now.  
   

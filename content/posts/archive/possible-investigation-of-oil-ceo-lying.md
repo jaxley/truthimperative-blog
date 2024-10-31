@@ -18,8 +18,8 @@ linter-yaml-title-alias: Possible-investigation-of-oil-ceo-lying
 
 
 [  
-Lautenberg wants criminal investigation of Oil CEOs](http://americablog.blogspot.com/2005/12/lautenberg-wants-criminal.html "<br />Lautenberg wants criminal investigation of Oil CEOs")  
+Lautenberg wants criminal investigation of Oil CEOs](https://americablog.blogspot.com/2005/12/lautenberg-wants-criminal.html "<br />Lautenberg wants criminal investigation of Oil CEOs")  
   
-Unbelievable to watch the CEOs lie on CSPAN and unfortunate that it took The Daily Show to point out that the prick who runs the committee [prevented the Oil execs from being sworn in](http://www.dailykos.com/storyonly/2005/11/9/121726/573). Else they would be guilty of perjury.  
+Unbelievable to watch the CEOs lie on CSPAN and unfortunate that it took The Daily Show to point out that the prick who runs the committee [prevented the Oil execs from being sworn in](https://www.dailykos.com/storyonly/2005/11/9/121726/573). Else they would be guilty of perjury.  
   
 I'm glad that my senator from the great state of Washington, Maria Cantwell, was the one who tried to get Ted Stevens (the aforementioned prick) to swear them in.

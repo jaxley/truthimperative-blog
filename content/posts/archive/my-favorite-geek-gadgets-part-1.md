@@ -16,7 +16,7 @@ linter-yaml-title-alias: My-favorite-geek-gadgets-part-1
 
 I often get asked about recommendations for various things and have been meaning to write up my absolute favorite devices for some time. I finally got this done so enjoy! If I think of other devices, I'll write follow-up articles.  
   
-[Cowon D2](http://www.cowonamerica.com/products/cowon/d2/) with 16 Gb AData SDHC memory card  
+[Cowon D2](https://www.cowonamerica.com/products/cowon/d2/) with 16 Gb AData SDHC memory card  
   
 This is my media player.  I think it blows away most all on the market, although things are always changing.  There isn't a perfect device out there but this came about as close as possible.  
 

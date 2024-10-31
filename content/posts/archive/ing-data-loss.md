@@ -17,7 +17,7 @@ linter-yaml-title-alias: Ing-data-loss
 
 (19 June 2006)  
 Letters are being sent to 13,000 individuals whose personal data are held in a laptop computer stolen from the home of an ING US Financial Services agent. ING is instating a new security policy for laptop computers that includes encryption and password protection; the stolen computer had neither. The people affected by the data security breach are all District workers and retirees.  
-(please note: this site requires free registration) http://www.washingtonpost.com/wp-dyn/content/article/2006/06/18/AR2006061800716\_pf.html  
+(please note: this site requires free registration) https://www.washingtonpost.com/wp-dyn/content/article/2006/06/18/AR2006061800716\_pf.html  
 \[Editor's Note ( Northcutt): ING's slogan is Your Future. Made Easier.  
 Try telling that to the 13,000 impacted individuals. This wave of data losses is starting to remind me of counties that don't put traffic lights up until there is a motorist fatality.  
 (Grefer): Invest around 30-40 dollars into a cable lock for your laptop computers and spare yourselves this embarrassment as well as lots of headaches for your customers. Further, even if you don't want to spend the money for encryption software, at least use the EFS (Encrypted File  

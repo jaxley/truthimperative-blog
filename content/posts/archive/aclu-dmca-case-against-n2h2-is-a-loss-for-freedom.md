@@ -26,8 +26,8 @@ N2H2 didn�t respond to requests for comment. Edelman says no decision has been
   
 �Suppose you wanted to know which .gov sites are classified as pornography. Or to see what sites N2H2 calls pornography this week, that last week were not,� he says. �N2H2's online database site would not allow any of these kinds of research, but you can see why it would be important.�"  
   
-[Bid to Expose Porn Filters Loses](http://www.wired.com/news/business/0,1367,58425,00.html)  
+[Bid to Expose Porn Filters Loses](https://www.wired.com/news/business/0,1367,58425,00.html)  
   
-[http://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2](http://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2)  
+[https://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2](https://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2)  
   
-[http://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2/order-040703.pdf](http://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2/order-040703.pdf)
+[https://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2/order-040703.pdf](https://cyber.law.harvard.edu/people/edelman/edelman-v-n2h2/order-040703.pdf)

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Getting-to-the-root-of-id-theft-problems
 ---
 
 
-There is an article on ID theft causes that has a great summary of the fundamental factors in ID theft from entities entrusted with your private data [They can't steal data you don't have](http://www.computerworld.com/hardwaretopics/storage/story/0,10801,100717,00.html)  
+There is an article on ID theft causes that has a great summary of the fundamental factors in ID theft from entities entrusted with your private data [They can't steal data you don't have](https://www.computerworld.com/hardwaretopics/storage/story/0,10801,100717,00.html)  
   
 
 >   

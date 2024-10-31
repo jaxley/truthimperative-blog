@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:43-07:00
 ---
 
-The best guide I found for reliably getting root access to your android HTC Hero device is here:[  How To: Root Your CDMA HTC Hero (Sprint/Verizon) | The Unlockr](http://theunlockr.com/2009/11/07/how-to-root-your-cdma-htc-hero-sprint-verizon/)  
+The best guide I found for reliably getting root access to your android HTC Hero device is here:[  How To: Root Your CDMA HTC Hero (Sprint/Verizon) | The Unlockr](https://theunlockr.com/2009/11/07/how-to-root-your-cdma-htc-hero-sprint-verizon/)  
   
 However, as a security guy, I notice that none of the guides discuss anything about the implications of the process from a security perspective, so I will add a bit of extra tips and observations and explain how it works.  
   
@@ -17,7 +17,7 @@ This is a good secure-by-default design for the operating system, however there 
   
 But, Google does not provide any means for getting root access as an end user.  But the community has come up with all kinds of ways to get around this on various devices.  If you have physical access to a device, it is generally pretty easy to gain full access to it \_somehow\_.  In the case of the Hero, it essentially involves:  
   
-1\. Running a Linux kernel exploit that allows you to run arbitrary programs as root.  Discouragingly, the program to do this is a binary with no source code.  But it is claimed to be based on this kernel bug:  [Sprint Hero HAS BEEN ROOTED@! - Android Forums](http://androidforums.com/sprint-htc-hero/14814-sprint-hero-has-been-rooted.html)  
+1\. Running a Linux kernel exploit that allows you to run arbitrary programs as root.  Discouragingly, the program to do this is a binary with no source code.  But it is claimed to be based on this kernel bug:  [Sprint Hero HAS BEEN ROOTED@! - Android Forums](https://androidforums.com/sprint-htc-hero/14814-sprint-hero-has-been-rooted.html)  
 2\. Using the exploit to launch a shell as root.   
 3\. Using the root shell to create a setuid root shell so that you can gain root anytime in the future without the exploit.  
   
@@ -28,7 +28,7 @@ However, there are some serious security implications of doing this:
 
 So, you may have root but you have absolutely no way to control it.  And applications that require root now expect to find a setuid root shell in /system/bin/su to gain root.  Any application can now do anything it wants, including replace parts of your operating system for whatever nefarious purpose (malicious, wireless worm, extortion, annoyance, etc.)  
   
-But, all is not lost.  You can get control back with the Superuser application.  I've read through the design and it sounds on the face of it to be a reasonable approach:  [My Brain Hurts: Fixing the "setuid su" security hole on Modified Android RC30](http://www.koushikdutta.com/2008/11/fixing-su-security-hole-on-modified.html) Instructions on installing it and download of the files (source code is available as well):  http://www.koushikdutta.com/2008/11/update-to-superuser.html  
+But, all is not lost.  You can get control back with the Superuser application.  I've read through the design and it sounds on the face of it to be a reasonable approach:  [My Brain Hurts: Fixing the "setuid su" security hole on Modified Android RC30](https://www.koushikdutta.com/2008/11/fixing-su-security-hole-on-modified.html) Instructions on installing it and download of the files (source code is available as well):  https://www.koushikdutta.com/2008/11/update-to-superuser.html  
   
 The install.bat file did not work for me though.  I got a permission denied trying to write a file as a non-root user into /sysadmin/bin.  Actually, the low user privileges cannot write to many places on the filesystem.  Instead of copying the bin/su file directly, I copied it to /data/local/tmp and then \_as root\_ on the phone, I copied it into /sysadmin/bin and changed the permissions.  
   
@@ -41,4 +41,4 @@ Oh, and what you also need to remember to do is delete /data/local/asroot2.  Yo
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=fc1992c0-aa9e-8fbd-9d9b-4a3868a318ca) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=fc1992c0-aa9e-8fbd-9d9b-4a3868a318ca) -->

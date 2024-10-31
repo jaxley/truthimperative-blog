@@ -15,7 +15,7 @@ linter-yaml-title-alias: Adam-corolla-hangs-up-on-coultergeist
 ---
 
 
-[Jesus' General: Insulting Mr. Coulter](http://patriotboy.blogspot.com/2006_07_09_patriotboy_archive.html#115242151294619949 "Jesus' General:  Insulting Mr. Coulter")  
+[Jesus' General: Insulting Mr. Coulter](https://patriotboy.blogspot.com/2006_07_09_patriotboy_archive.html#115242151294619949 "Jesus' General:  Insulting Mr. Coulter")  
   
 This is hilarious. Adam Corolla is a god.  
   

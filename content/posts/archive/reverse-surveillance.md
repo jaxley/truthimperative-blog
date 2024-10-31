@@ -15,7 +15,7 @@ linter-yaml-title-alias: Reverse-surveillance
 ---
 
 
-[Wired News: Surveillance Works Both Ways](http://www.wired.com/news/privacy/0,1848,67216,00.html?tw=wn_tophead_1 "Wired News: Surveillance Works Both Ways")  
+[Wired News: Surveillance Works Both Ways](https://www.wired.com/news/privacy/0,1848,67216,00.html?tw=wn_tophead_1 "Wired News: Surveillance Works Both Ways")  
   
 At this year's Computers, Freedom and Privacy conference in Seattle, Steve Mann enlisted volunteers to film those who were filming them in local Seattle businesses. They got varied responses. I think this would be really useful in airports to monitor what the TSA does. But, I bet they would not be so happy about that.  
   

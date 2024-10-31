@@ -22,9 +22,9 @@ The Sequoia company representative (the chosen product) admitted that they only 
 "Officials in California's Santa Clara County learn that those who know computers best have the biggest concerns about them. That county, home to Silicon Valley, is deciding on an electronic voting system. But a computer scientist fights to keep old-fashioned paper in the voting process. NPR's Andy Bowers reports."  
   
 Listen here:  
-[Real Audio link](http://www.npr.org/dmg/dmg.php?prgCode=ATC&showDate=26-Feb-2003&segNum=17&NPRMediaPref=RM)  
+[Real Audio link](https://www.npr.org/dmg/dmg.php?prgCode=ATC&showDate=26-Feb-2003&segNum=17&NPRMediaPref=RM)  
   
-Check out the 128 pages of [documentation](http://verify.stanford.edu/EVOTE/208405KeyboardAttachment-200440211.pdf). page 13 is interesting and the discussion on page 23 that the "prevailing view is that proprietary source code should not be readily available for obvious security \[ed: obscurity\] reasons"  
+Check out the 128 pages of [documentation](https://verify.stanford.edu/EVOTE/208405KeyboardAttachment-200440211.pdf). page 13 is interesting and the discussion on page 23 that the "prevailing view is that proprietary source code should not be readily available for obvious security \[ed: obscurity\] reasons"  
   
 Page 27 has a discussion of the "security" for modem data transmissions of vote totals in the ES & S iVotronic product. It's good for a laugh. Here's their modem "security":  
   

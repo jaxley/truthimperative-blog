@@ -17,7 +17,7 @@ linter-yaml-title-alias: Bush-administration-may-be-responsible-for-botching-eff
 ---
 
 
-[AMERICAblog: Bush admin may be responsible for botching effort to thwart London bombing](http://americablog.blogspot.com/2005/07/bush-admin-may-be-responsible-for.html "AMERICAblog:  Bush admin may be responsible for botching effort to thwart London bombing")  
+[AMERICAblog: Bush admin may be responsible for botching effort to thwart London bombing](https://americablog.blogspot.com/2005/07/bush-admin-may-be-responsible-for.html "AMERICAblog:  Bush admin may be responsible for botching effort to thwart London bombing")  
   
 Seems as if the Bush Administration has a habit of leaking confidential information.  
   

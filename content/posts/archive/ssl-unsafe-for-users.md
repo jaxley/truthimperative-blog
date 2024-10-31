@@ -63,15 +63,15 @@ You'll notice on my site that I have always used my own cert. I should probably 
 >   
 > 5) All the old old stuff I covered in:  
 >   
-> http://seifried.org/security/cryptography/20011108-end-of-ssl-ssh.html  
+> https://seifried.org/security/cryptography/20011108-end-of-ssl-ssh.html  
 >   
 > and  
 >   
-> http://seifried.org/security/cryptography/20011108-sslssh-followup.html  
+> https://seifried.org/security/cryptography/20011108-sslssh-followup.html  
 >   
 > Which still largely applies. \*SIGH\*.  
 >   
 > Kurt Seifried, kurt@seifried.org  
 > A15B BEE5 B391 B9AD B0EF  
 > AEB0 AD63 0B4E AD56 E574  
-> http://seifried.org/security/
+> https://seifried.org/security/

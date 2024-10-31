@@ -16,7 +16,7 @@ linter-yaml-title-alias: Acdc-pulls-the-plug-on-their-new-album-being-sold-on-it
 
 Well, after talking with many kids who rarely buy albums, I can see their point.  But eventually they will come to an end.  AC/DC is delaying the inevitable.  
   
-[AC/DC refuses to sell album through iTunes | NEWS.com.au](http://www.news.com.au/technology/story/0,25642,24493704-5014239,00.html)  
+[AC/DC refuses to sell album through iTunes | NEWS.com.au](https://www.news.com.au/technology/story/0,25642,24493704-5014239,00.html)  
 
 > FOR those about to rock, AC/DC salutes you — unless, that is, you want to buy the heavy metal group's newest album Black Ice on iTunes.  
 >   

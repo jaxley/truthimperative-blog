@@ -16,8 +16,8 @@ linter-yaml-title-alias: Caja-capability-model-for-javascript
 
 This could be one of the coolest things to come along in a while.  I heard it mentioned at OWASP and then just found an article on [Financial Cryptography](https://financialcryptography.com/) about it as well.  
   
-FYI, wikipedia article on [Capability-based security](http://en.wikipedia.org/wiki/Capability-based_security)  
+FYI, wikipedia article on [Capability-based security](https://en.wikipedia.org/wiki/Capability-based_security)  
   
-[Links » Caja: Capability Javascript](http://www.links.org/?p=271)  
+[Links » Caja: Capability Javascript](https://www.links.org/?p=271)  
 
 > ...rather than modify Javascript, we restrict it to a large subset. This means that a Caja program will run without modification on a standard Javascript interpreter - though it won’t be secure, of course! When it is compiled then, like CaPerl, the result is standard Javascript that enforces capability security. What does this mean? It means that Web apps can embed untrusted third party code without concern that it might compromise either the application’s or the user’s security.

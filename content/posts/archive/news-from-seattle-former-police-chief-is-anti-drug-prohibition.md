@@ -20,6 +20,6 @@ Kudos to Norm Stamper for the courage to speak his mind and use his experiences 
   
 I can't help but think of how much resources are wasted on the war on drugs as I watch episodes of "The Wire". All that would go away. And the hypocrisy of alcohol being legal while marijuana is not is asinine.  
   
-[Former Seattle Police Chief on the high costs of the drug war - Boing Boing](http://www.boingboing.net/2008/08/15/former-seattle-polic.html)  
+[Former Seattle Police Chief on the high costs of the drug war - Boing Boing](https://www.boingboing.net/2008/08/15/former-seattle-polic.html)  
 
 > Stamper is the author of the Breaking Rank: A Top Cop's Exposé of the Dark Side of American Policing (2005) and now works with Law Enforcement Against Prohibition (LEAP), a nonprofit created by former cops to "reduce the multitude of unintended harmful consequences resulting from fighting the war on drugs and to lessen the incidence of death, disease, crime, and addiction by ultimately ending drug prohibition."

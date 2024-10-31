@@ -11,7 +11,7 @@ url: /2008/02/2008-washington-state-democratic-caucus.html
 ---
 
 
-I participated in my first caucus this weekend.  First, I have to say "Go [Fightin' 34th](http://34dems.org/)!"  
+I participated in my first caucus this weekend.  First, I have to say "Go [Fightin' 34th](https://34dems.org/)!"  
   
 My wife and I had to park several blocks away because there were so many people attending!  
   
@@ -57,19 +57,19 @@ Uncommitted:  15
   
 Money raised for dues and contributions to the 34th:  $29,000.  
   
-FYI, the upcoming caucus [schedule](http://www.34dems.org/news_caucus.htm) is:  
+FYI, the upcoming caucus [schedule](https://www.34dems.org/news_caucus.htm) is:  
   
 **Caucus Schedule**  
   
-•   [Saturday, February 9th](http://www.34dems.org/news_caucus-2008-locations.htm): Precinct Caucuses (see below)  
+•   [Saturday, February 9th](https://www.34dems.org/news_caucus-2008-locations.htm): Precinct Caucuses (see below)  
   
-•   [Saturday, April 5th](http://www.34dems.org/news_calendar.htm#caucusld): 34th Legislative District Caucus  
+•   [Saturday, April 5th](https://www.34dems.org/news_calendar.htm#caucusld): 34th Legislative District Caucus  
   
-•   [Sunday, April 13th](http://www.34dems.org/news_calendar.htm#caucuskc): King County Democrats Convention  
+•   [Sunday, April 13th](https://www.34dems.org/news_calendar.htm#caucuskc): King County Democrats Convention  
   
 •   May: Congressional District Caucuses (dates TBD)  
   
-•   [Saturday, June 14th](http://www.34dems.org/news_calendar.htm#caucusstate): Washington State Democrats Convention  
+•   [Saturday, June 14th](https://www.34dems.org/news_calendar.htm#caucusstate): Washington State Democrats Convention  
   
 •   August 25-28: National Democratic Convention, Denver  
   

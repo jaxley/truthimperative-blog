@@ -14,6 +14,6 @@ linter-yaml-title-alias: Coolest-social-network-music-site
 ---
 
 
-[IMEEM - what's on your playlist?](http://www.imeem.com/)  
+[IMEEM - what's on your playlist?](https://www.imeem.com/)  
   
 I stumbled across this site googling for samples of some songs on albums I was considering buying. They have postings of high-quality videos and clips of songs, with charts. Excellent for trying to find that song on the radio you never knew the name of but enjoyed.

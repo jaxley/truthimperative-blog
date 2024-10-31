@@ -16,7 +16,7 @@ url: /2005/08/new-research-cats-can-taste-sweets.html
 
 Very interesting.  
   
-[Genetic flaw leaves felines without sweet tooth](http://www.cnn.com/2005/TECH/science/07/25/feline.sweet.gene.ap/index.html?section=cnn_topstories)  
+[Genetic flaw leaves felines without sweet tooth](https://www.cnn.com/2005/TECH/science/07/25/feline.sweet.gene.ap/index.html?section=cnn_topstories)  
   
 
 >   

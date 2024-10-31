@@ -15,7 +15,7 @@ linter-yaml-title-alias: Black-box-testing-your-brain
 ---
 
 
-[New Scientist](http://www.newscientist.com/news/news.jsp?id=ns99993488 "New Scientist")  
+[New Scientist](https://www.newscientist.com/news/news.jsp?id=ns99993488 "New Scientist")  
   
 "The world's first brain prosthesis - an artificial hippocampus - is about to be tested in California."  
   

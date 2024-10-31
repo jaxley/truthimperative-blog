@@ -11,7 +11,7 @@ url: /2008/04/2008-issa-northwest-regional-security.html
 ---
 
 
-Sign up for the cheap and excellent [2008 ISSA Northwest Regional Security Conference.](http://www.issa-portland.org/regional2008/NWRegional08.htm) It is going to be on April 23rd in the same location, the Olympia Red Lion hotel. You don't have to be an ISSA member to attend -- you just have to pay a tiny bit more. And did I mention there will be a hosted social hour afterward where you can get your mingle &amp; drink on?  
+Sign up for the cheap and excellent [2008 ISSA Northwest Regional Security Conference.](https://www.issa-portland.org/regional2008/NWRegional08.htm) It is going to be on April 23rd in the same location, the Olympia Red Lion hotel. You don't have to be an ISSA member to attend -- you just have to pay a tiny bit more. And did I mention there will be a hosted social hour afterward where you can get your mingle &amp; drink on?  
   
 There will be an exciting and interesting keynote. Details will be published within the next 24 hours.  
   

@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:01-07:00
 ---
 
-[\[IP\] Govt Comp.News - Assessing "cyberterror" - couldn't find any!](http://www.interesting-people.org/archives/interesting-people/200303/msg00204.html "[IP] Govt Comp.News - Assessing ")  
+[\[IP\] Govt Comp.News - Assessing "cyberterror" - couldn't find any!](https://www.interesting-people.org/archives/interesting-people/200303/msg00204.html "[IP] Govt Comp.News - Assessing ")  
   
 
 >   

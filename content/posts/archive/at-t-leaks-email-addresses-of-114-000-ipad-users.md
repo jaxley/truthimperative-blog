@@ -17,4 +17,4 @@ I think it is disingenuous of this article to have "Apple" in the title.  It wa
   
 Then AT&T decides to claim as well that the researchers who discovered the flaw did not contact them.  It sounds like AT&T is lying.  
   
-[Apple's Worst Security Breach: 114,000 iPad Owners Exposed](http://gawker.com/5559346/apples-worst-security-breach-114000-ipad-owners-exposed)
+[Apple's Worst Security Breach: 114,000 iPad Owners Exposed](https://gawker.com/5559346/apples-worst-security-breach-114000-ipad-owners-exposed)

@@ -17,4 +17,4 @@ linter-yaml-title-alias: Bizarro-world-nyc-talking-fish-speaks-in-tongues
 
 Um. Yeah.  
   
-[Contra Costa Times | 03/15/2003 | Skeptics can carp, but a New York fish is the talk of the town](http://www.bayarea.com/mld/cctimes/news/5399894.htm "Contra Costa Times | 03/15/2003 | Skeptics can carp, but a New York fish is the talk of the town")
+[Contra Costa Times | 03/15/2003 | Skeptics can carp, but a New York fish is the talk of the town](https://www.bayarea.com/mld/cctimes/news/5399894.htm "Contra Costa Times | 03/15/2003 | Skeptics can carp, but a New York fish is the talk of the town")

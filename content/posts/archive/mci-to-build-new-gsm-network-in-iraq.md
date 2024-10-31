@@ -21,4 +21,4 @@ a. The sensible GSM network was chosen amid staunch lobbying by Qualcomm junkies
   
 b. MCI is not a wireless telephone company. Why are they getting to build a wireless network from scratch instead of other wireless carriers? They were actually a reseller of AT&T Wireless before their accounting scandals.  
   
-[The Register: MCI wins Iraq gig, shovels $500m to shareholders](http://www.theregister.co.uk/content/59/30769.html "The Register")
+[The Register: MCI wins Iraq gig, shovels $500m to shareholders](https://www.theregister.co.uk/content/59/30769.html "The Register")

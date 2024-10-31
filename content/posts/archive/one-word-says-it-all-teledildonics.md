@@ -17,6 +17,6 @@ linter-yaml-title-alias: One-word-says-it-all-teledildonics
 ---
 
 
-[curious\_jp: Release: TranceFinger](http://curious-jp.livejournal.com/28944.html "curious_jp: Release: TranceFinger")  
+[curious\_jp: Release: TranceFinger](https://curious-jp.livejournal.com/28944.html "curious_jp: Release: TranceFinger")  
   
 Makes all those double-entendres about fingerd have new meaning. Too bad "Virtual Sex" was just trademarked.

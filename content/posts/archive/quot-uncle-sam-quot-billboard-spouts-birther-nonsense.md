@@ -22,10 +22,10 @@ I noticed on my way back from California today that the right-wing "Uncle Sam" b
 
 Ugh.  Idiots.  
   
-[Map - Right-Wing Uncle Sam Billboard, Chehalis, WA](http://www.roadsideamerica.com/map/6002)  
+[Map - Right-Wing Uncle Sam Billboard, Chehalis, WA](https://www.roadsideamerica.com/map/6002)  
 
   
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=3d8309fa-5329-8760-813d-9e16a121687f) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=3d8309fa-5329-8760-813d-9e16a121687f) -->

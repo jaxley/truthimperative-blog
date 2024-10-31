@@ -17,7 +17,7 @@ linter-yaml-title-alias: Installing-an-uncrippled-ffmpeg-on-ubuntu
 
 I'm trying this right now on Edgy Eft:  
   
-[po-ru.com: Fixing ffmpeg on Ubuntu](http://po-ru.com/diary/fixing-ffmpeg-on-ubuntu/)  
+[po-ru.com: Fixing ffmpeg on Ubuntu](https://po-ru.com/diary/fixing-ffmpeg-on-ubuntu/)  
 
 > It seems one can set DEB\_BUILD\_OPTIONS=risky to enable the missing codecs rather than editing debian/rules and building the package manually.  
 >   

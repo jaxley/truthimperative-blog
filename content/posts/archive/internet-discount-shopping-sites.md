@@ -14,9 +14,9 @@ linter-yaml-title-alias: Internet-discount-shopping-sites
 ---
 
 
-I know people who use [fatwallet.com](http://fatwallet.com) and [techbargains.com](http://techbargains.com) quite a bit.  I wasn't aware of the others, many of which have coupon codes.  I always wondered where people got those codes, aside from direct email marketing.  
+I know people who use [fatwallet.com](https://fatwallet.com) and [techbargains.com](https://techbargains.com) quite a bit.  I wasn't aware of the others, many of which have coupon codes.  I always wondered where people got those codes, aside from direct email marketing.  
   
-[Our Favorite Internet Discount Shopping Sites](http://www.lavasurfer.com/info/discounts.html)  
+[Our Favorite Internet Discount Shopping Sites](https://www.lavasurfer.com/info/discounts.html)  
 
 > One reason we use the internet is to buy merchandise at a discount to retail. Do you know how to find the lowest prices? Did you know that internet coupons, rebates, and codes are available that will make your purchases even less expensive?  
 >   

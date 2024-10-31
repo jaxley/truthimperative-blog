@@ -22,7 +22,7 @@ A skeptic should be aware of the fallibility of eyewitness identification. This 
 
 Ouch.  
   
-[Eyewitness ID: A Primary Cause of Wrongful Convictions - TalkLeft: The Politics Of Crime](http://www.talkleft.com/story/2008/10/12/141344/03)  
+[Eyewitness ID: A Primary Cause of Wrongful Convictions - TalkLeft: The Politics Of Crime](https://www.talkleft.com/story/2008/10/12/141344/03)  
 
 > police and prosecutors view them as a useful "tool" of law enforcement precisely because they lead to convictions, even if the convictions are sometimes erroneous. Police and prosecutors too often value convictions more than they value the truth.  
 >   
@@ -30,6 +30,6 @@ Ouch.
 
 Speaking of DNA evidence, there's a very technical book examining the state-of-the-art of DNA profiling. I watch a lot of CSI so just might have to pick up a copy of this.  
 
-> [http://books.google.com/books?id=SnHYMZXAkQEC](http://books.google.com/books?id=SnHYMZXAkQEC)  
+> [https://books.google.com/books?id=SnHYMZXAkQEC](https://books.google.com/books?id=SnHYMZXAkQEC)  
 >   
 > Esp. pp 14-15

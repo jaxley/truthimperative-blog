@@ -14,6 +14,6 @@ linter-yaml-title-alias: Mccain-fact-check-from-last-debate-planetarium-projecto
 ---
 
 
-[Note to McCain: Overhead projector is not a planetarium projector - Boing Boing](http://www.boingboing.net/2008/10/08/note-to-mccain-overh.html)  
+[Note to McCain: Overhead projector is not a planetarium projector - Boing Boing](https://www.boingboing.net/2008/10/08/note-to-mccain-overh.html)  
 
 > My friends, during last night's presidential debate, McCain took That One to task for approving funding for an "overhead projector." Howard Covitz, who used to work at Chicago's Adler Planetarium, prepared this helpful graphic for McCain to show the difference between an overhead projector and a planetarium projector.

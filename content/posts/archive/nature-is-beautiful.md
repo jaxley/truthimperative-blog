@@ -16,7 +16,7 @@ linter-yaml-title-alias: Nature-is-beautiful
 ---
 
 
-[Atmospheric Optics](http://www.sundog.clara.co.uk/atoptics/phenom.htm "Atmospheric Optics")  
+[Atmospheric Optics](https://www.sundog.clara.co.uk/atoptics/phenom.htm "Atmospheric Optics")  
   
 Very beautiful photographs and explanations of optical effects in nature.  
   

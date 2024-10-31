@@ -18,4 +18,4 @@ linter-yaml-title-alias: Excellent-primer-on-tree-pruning
 
 Probably one of the most clear sites with pictures showing how to prune.  Although if you're like me and have older trees that were never properly pruned early on, you have to be more creative.  
   
-[HGIC 1351 Pruning & Training Apple & Pear Trees : Extension : Clemson University : South Carolina](http://www.clemson.edu/extension/hgic/plants/vegetables/tree_fruits_nuts/hgic1351.html)
+[HGIC 1351 Pruning & Training Apple & Pear Trees : Extension : Clemson University : South Carolina](https://www.clemson.edu/extension/hgic/plants/vegetables/tree_fruits_nuts/hgic1351.html)

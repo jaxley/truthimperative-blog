@@ -14,7 +14,7 @@ url: /2005/10/more-from-oracle-cso.html
 
 Wow. Note how she says that she researches "hacking techniques" as well as the network-security-centric language throughout. A CSO should not typically be operating at this level but rather at the "big picture" strategic level.  
   
-No wonder Oracle continues having application security and [patch quality problems](http://www.eweek.com/article2/0,1895,1874134,00.asp). Their CSO seems too busy hacking the network and writing articles about it and how bad vulnerability researchers are and not enough time executing on a strategy to improve the security posture of their software and processes. Some on security mailing lists are [calling for her to resign](http://news.zdnet.com/2100-1009_22-5916171.html).  
+No wonder Oracle continues having application security and [patch quality problems](https://www.eweek.com/article2/0,1895,1874134,00.asp). Their CSO seems too busy hacking the network and writing articles about it and how bad vulnerability researchers are and not enough time executing on a strategy to improve the security posture of their software and processes. Some on security mailing lists are [calling for her to resign](https://news.zdnet.com/2100-1009_22-5916171.html).  
   
 \-Jason  
   
@@ -27,7 +27,7 @@ No wonder Oracle continues having application security and [patch quality proble
 > To: isn@attrition.org  
 > Subject: \[spam\]::\[ISN\] Davidson: Lessons of warfare for IT security  
 >   
-> [http://www.fcw.com/article91127-10-17-05-Web](http://www.fcw.com/article91127-10-17-05-Web)  
+> [https://www.fcw.com/article91127-10-17-05-Web](https://www.fcw.com/article91127-10-17-05-Web)  
 >   
 > By Mary Ann Davidson  
 > Oct. 17, 2005  

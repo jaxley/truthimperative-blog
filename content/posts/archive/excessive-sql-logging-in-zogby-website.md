@@ -32,6 +32,6 @@ Got this gem of an error message this evening trying to bring up a link from goo
 > Date/Time: 09/10/08 01:42:35  
 > Browser: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1  
 > Remote Address: 216.39.144.193  
-> HTTP Referer: http://www.google.com/search?hl=en&q=survey+troops+iraq&btnG=Search  
+> HTTP Referer: https://www.google.com/search?hl=en&q=survey+troops+iraq&btnG=Search  
 > Template: c:\\inetpub\\wwwroot\\news\\readnews.dbm  
 > Query String: id=1075

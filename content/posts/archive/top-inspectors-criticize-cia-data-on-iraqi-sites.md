@@ -10,4 +10,4 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:26-07:00
 ---
 
-[\[IP\] Top Inspectors Criticize CIA Data on Iraqi Sites](http://www.interesting-people.org/archives/interesting-people/200303/msg00107.html "[IP] Top Inspectors Criticize CIA Data on Iraqi Sites")
+[\[IP\] Top Inspectors Criticize CIA Data on Iraqi Sites](https://www.interesting-people.org/archives/interesting-people/200303/msg00107.html "[IP] Top Inspectors Criticize CIA Data on Iraqi Sites")

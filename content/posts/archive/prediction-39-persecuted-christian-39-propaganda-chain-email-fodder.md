@@ -11,7 +11,7 @@ url: /2009/08/prediction-christian-propaganda-chain.html
 ---
 
 
-[](http://crooksandliars.com/)
+[](https://crooksandliars.com/)
 
 > There are so many lying, hypocritical fundamentalists, why, I can hardly keep track of them all. But let's start today with former Navy Chaplain Gordon Klingenschmitt, since his fabricated tale of woe has made him such a favorite of fundies sunk deep in their persecution complex
 
@@ -20,4 +20,4 @@ url: /2009/08/prediction-christian-propaganda-chain.html
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=ec97e172-309f-8e0e-9b63-b937ff0a5dd3) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=ec97e172-309f-8e0e-9b63-b937ff0a5dd3) -->

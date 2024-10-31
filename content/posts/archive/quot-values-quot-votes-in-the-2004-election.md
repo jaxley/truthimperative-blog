@@ -12,7 +12,7 @@ url: /2006/06/votes-in-2004-election.html
 ---
 
 
-[Editor's Cut: Stand and Fight](http://www.thenation.com/edcut/index.mhtml?pid=1979 "Editor's Cut: Stand and Fight")  
+[Editor's Cut: Stand and Fight](https://www.thenation.com/edcut/index.mhtml?pid=1979 "Editor's Cut: Stand and Fight")  
   
 Catching up on ancient blog entries. This article was talking about the 2004 election upset and brought up the issues of why Republicans and the so-called religious right think that their divisive issues are the only "moral" issues at stake.  
   

@@ -16,7 +16,7 @@ updated: 2024-10-10 14:58:52-07:00
 > Fri, 08 Jul 2005 22:39:04 -0700  
 >   
 > Microsoft sponsors security career guide  
-> http://news.com.com/2060-10789\_3-0.html?tag=nefd.bl  
+> https://news.com.com/2060-10789\_3-0.html?tag=nefd.bl  
 >   
 > A nonprofit organization with help from Microsoft has created a "career  
 > guide" to spark interest for the information security profession among high  

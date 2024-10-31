@@ -11,7 +11,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 15:00:05-07:00
 ---
 
-[Certifications and Site Trustworthiness](http://www.benedelman.org/news/092506-1.html "Certifications and Site Trustworthiness")  
+[Certifications and Site Trustworthiness](https://www.benedelman.org/news/092506-1.html "Certifications and Site Trustworthiness")  
   
 An excellent paper summarizing many of the problems with certifiers such as TRUSTe as well as showing that sites that get these certifications to prove their trustworthiness are actually more likely to _NOT_ be trustworthy!  
   

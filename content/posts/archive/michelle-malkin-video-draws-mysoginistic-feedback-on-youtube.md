@@ -18,4 +18,4 @@ I am really getting tired of seeing the male response to crap like this stupid v
   
 Unbelievable. I think the responses to the video are far, far, far worse than the video.  
   
-[YouTube - VENT The Defeatocrats' Cheer](http://www.youtube.com/watch?v=tt_YcQlYxyY&eurl=http://tbogg.firedoglake.com/2008/05/16/too-crazy-for-fox-too-crazy-for-mccain/)
+[YouTube - VENT The Defeatocrats' Cheer](https://www.youtube.com/watch?v=tt_YcQlYxyY&eurl=https://tbogg.firedoglake.com/2008/05/16/too-crazy-for-fox-too-crazy-for-mccain/)

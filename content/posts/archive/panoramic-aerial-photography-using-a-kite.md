@@ -18,4 +18,4 @@ linter-yaml-title-alias: Panoramic-aerial-photography-using-a-kite
 
 Got this link courtesy of Credo Mobile. Very cool. I was intrigued by the San Francisco shots since I just got back from there, but they are photos from nearby, not of the city.  
   
-[Kite Aerial Photography by Scott Haefner | 360° Panoramas](http://scotthaefner.com/kap/360panos/)
+[Kite Aerial Photography by Scott Haefner | 360° Panoramas](https://scotthaefner.com/kap/360panos/)

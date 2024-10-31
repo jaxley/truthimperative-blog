@@ -28,4 +28,4 @@ linter-yaml-title-alias: Patents-now-open-for-dispute
 
 This is great news!  I hope to see a lot more bogus patents being challenged.  
   
-[High Court Ruling Could Spark Surge in Patent Challenges](http://biz.yahoo.com/law/070110/6402b813f48ed9594d6b083c47148ce4.html?.v=1)
+[High Court Ruling Could Spark Surge in Patent Challenges](https://biz.yahoo.com/law/070110/6402b813f48ed9594d6b083c47148ce4.html?.v=1)

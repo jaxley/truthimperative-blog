@@ -25,9 +25,9 @@ As the REAL ID act meets reality, recall a previous report on DMV fraud and lax 
 > Subject: Security Holes at DMVs Nationwide Lead to ID Theft and Safety  
 > Concerns  
 >   
-> CDT ([http://www.cdt.org/](http://www.cdt.org/)) has issued a report entitled "Unlicensed  
+> CDT ([https://www.cdt.org/](https://www.cdt.org/)) has issued a report entitled "Unlicensed  
 > Fraud"  
-> ([http://www.cdt.org/privacy/20040200dmv.pdf](http://www.cdt.org/privacy/20040200dmv.pdf)) documenting rampant  
+> ([https://www.cdt.org/privacy/20040200dmv.pdf](https://www.cdt.org/privacy/20040200dmv.pdf)) documenting rampant  
 > internal fraud and lax security at state motor vehicle administration  
 > offices across the country placing the reliability of all driver's  
 > license at risk. While heavy public attention has been placed on new  

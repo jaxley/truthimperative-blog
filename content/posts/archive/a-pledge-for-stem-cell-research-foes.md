@@ -15,7 +15,7 @@ linter-yaml-title-alias: A-pledge-for-stem-cell-research-foes
 ---
 
 
-[Pandagon: A compromise I can really stand behind](http://www.pandagon.net/archives/2005/05/a_compromise_i.html "Pandagon: A compromise I can really stand behind")  
+[Pandagon: A compromise I can really stand behind](https://www.pandagon.net/archives/2005/05/a_compromise_i.html "Pandagon: A compromise I can really stand behind")  
   
 This is a great idea. A lot of adult stem cell treatments may now or in the future benefit from embryonic stem cell research so these foes better hope they or their family members never get Leukemia...  
   

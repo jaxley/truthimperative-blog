@@ -15,4 +15,4 @@ linter-yaml-title-alias: Airline-insecurity-anew
 ---
 
 
-[Crooks and Liars � Aviation Critic Michael Boyd on our Airport Security](http://www.crooksandliars.com/posts/2006/08/12/aviation-critic-michael-boyd-on-our-airport-security/ "Crooks and Liars � Aviation Critic Michael Boyd on our Airport Security")
+[Crooks and Liars � Aviation Critic Michael Boyd on our Airport Security](https://www.crooksandliars.com/posts/2006/08/12/aviation-critic-michael-boyd-on-our-airport-security/ "Crooks and Liars � Aviation Critic Michael Boyd on our Airport Security")

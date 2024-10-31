@@ -15,6 +15,6 @@ linter-yaml-title-alias: Cracking-java-byte-code-encryption
 ---
 
 
-[Cracking Java byte-code encryption](http://www.javaworld.com/javaworld/javaqa/2003-05/01-qa-0509-jcrypt.html "Cracking Java byte-code encryption")  
+[Cracking Java byte-code encryption](https://www.javaworld.com/javaworld/javaqa/2003-05/01-qa-0509-jcrypt.html "Cracking Java byte-code encryption")  
   
 Why Java obfuscation schemes based on byte-code encryption won't work.

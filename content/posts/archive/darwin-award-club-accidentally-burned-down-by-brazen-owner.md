@@ -15,6 +15,6 @@ linter-yaml-title-alias: Darwin-award-club-accidentally-burned-down-by-brazen-ow
 ---
 
 
-[Ananova - Safety test burns club to ground](http://www.ananova.com/news/story/sm_1620950.html "Ananova - Safety test burns club to ground")  
+[Ananova - Safety test burns club to ground](https://www.ananova.com/news/story/sm_1620950.html "Ananova - Safety test burns club to ground")  
   
 A strip club owner burned his club to the ground while trying to prove it was fire-proof to health and safety inspectors.

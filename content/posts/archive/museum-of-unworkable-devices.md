@@ -19,4 +19,4 @@ linter-yaml-title-alias: Museum-of-unworkable-devices
   
 A truly fascinating site.  
   
-[The Museum of Unworkable Devices](http://www.lhup.edu/~dsimanek/museum/unwork.htm "The Museum of Unworkable Devices")
+[The Museum of Unworkable Devices](https://www.lhup.edu/~dsimanek/museum/unwork.htm "The Museum of Unworkable Devices")

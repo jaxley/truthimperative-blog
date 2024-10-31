@@ -15,7 +15,7 @@ Hot off the presses.  The nonpartisan Pew Research Center finds that the previo
   
 Therefore, any polls that are head-to-head national and do not include cell phone users are very, very suspect.  
   
-[The Associated Press: Study: Omitting cell phone users may affect polls](http://ap.google.com/article/ALeqM5ghE90VmHD7FCzd3Vq-_6-lUOUEDwD93DRP300)  
+[The Associated Press: Study: Omitting cell phone users may affect polls](https://ap.google.com/article/ALeqM5ghE90VmHD7FCzd3Vq-_6-lUOUEDwD93DRP300)  
 
 > Earlier studies — including a joint Pew-AP report two years ago — concluded that cell and landline users had similar enough views that not calling cell users had no major impact on poll findings. The new report concludes that "this assumption is increasingly questionable," especially for young people, who use cells heavily.  
 >   

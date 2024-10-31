@@ -18,6 +18,6 @@ The majority of the 68% of Republicans who believe the genesis story (higher tha
   
 And these beliefs have a special protection under the law because???  
   
-[Crooks and Liars » Evolution confusion a partisan problem](http://www.crooksandliars.com/2007/06/11/evolution-confusion-a-partisan-problem/)  
+[Crooks and Liars » Evolution confusion a partisan problem](https://www.crooksandliars.com/2007/06/11/evolution-confusion-a-partisan-problem/)  
 
 > The problem isn’t just that Americans in general are confused, but rather that the GOP is throwing off the curve.

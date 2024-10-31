@@ -15,6 +15,6 @@ linter-yaml-title-alias: New-google-code-search
 ---
 
 
-[Google code search (kottke.org)](http://www.kottke.org/06/10/google-code-search "Google code search (kottke.org)")  
+[Google code search (kottke.org)](https://www.kottke.org/06/10/google-code-search "Google code search (kottke.org)")  
   
 Find all sorts of interesting things in source code out there, or web sites running interesting code. There's a great list to get you started "Google Code Hacking".

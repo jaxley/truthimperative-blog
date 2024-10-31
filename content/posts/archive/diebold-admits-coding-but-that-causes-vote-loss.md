@@ -18,6 +18,6 @@ Diebold originally blamed a glitch that lost votes on anti-virus software but it
   
 Note to US Bank customers: Diebold makes many of their ATMs! Let's hope the accounting is better there.  
   
-[Premier (f/k/a Diebold) Confesses Error - TalkLeft: The Politics Of Crime](http://www.talkleft.com/story/2008/8/21/214049/709)  
+[Premier (f/k/a Diebold) Confesses Error - TalkLeft: The Politics Of Crime](https://www.talkleft.com/story/2008/8/21/214049/709)  
 
-[Slashdot | Diebold Admits Ohio Machines May Lose Votes](http://news.slashdot.org/news/08/08/22/136215.shtml)
+[Slashdot | Diebold Admits Ohio Machines May Lose Votes](https://news.slashdot.org/news/08/08/22/136215.shtml)

@@ -18,7 +18,7 @@ linter-yaml-title-alias: Does-voting-machine-technology-affect-the-outcome-of-el
 ---
 
 
-Some interesting results found in a [study of 2000-2004 election data](http://emlab.berkeley.edu/~moretti/dre.pdf).  
+Some interesting results found in a [study of 2000-2004 election data](https://emlab.berkeley.edu/~moretti/dre.pdf).  
   
 
 >   

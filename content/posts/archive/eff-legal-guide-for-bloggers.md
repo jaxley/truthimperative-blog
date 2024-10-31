@@ -15,4 +15,4 @@ linter-yaml-title-alias: Eff-legal-guide-for-bloggers
 ---
 
 
-Now that I may actually be somewhat consistent in posting, and will be posting more if I can help it, reading up on the [EFF: Legal Guide for Bloggers](http://www.eff.org/bloggers/lg/ "EFF: Legal Guide for Bloggers") would be prudent.
+Now that I may actually be somewhat consistent in posting, and will be posting more if I can help it, reading up on the [EFF: Legal Guide for Bloggers](https://www.eff.org/bloggers/lg/ "EFF: Legal Guide for Bloggers") would be prudent.

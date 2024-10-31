@@ -39,7 +39,7 @@ This has inspired others to note how there are some Oracle vulnerabilities that 
 > personal security. As such, I am writing this open letter  
 >   
 > Extract from interview between Mary Ann Davidson and IDG  
-> [http://www.infoworld.com/article/05/05/24/HNoraclesecurityhed\_1.html](http://www.infoworld.com/article/05/05/24/HNoraclesecurityhed_1.html)  
+> [https://www.infoworld.com/article/05/05/24/HNoraclesecurityhed\_1.html](https://www.infoworld.com/article/05/05/24/HNoraclesecurityhed_1.html)  
 >   
 > IDGNS: "What other advice do you have for customers on security?"  
 >   
@@ -49,10 +49,10 @@ This has inspired others to note how there are some Oracle vulnerabilities that 
 > Now some context has been put in place I can continue.  
 >   
 > On the 31st of August 2004, Oracle released a security update (Alert  
-> 68 \[ [http://www.oracle.com/technology/deploy/security/pdf/2004alert68.pdf](http://www.oracle.com/technology/deploy/security/pdf/2004alert68.pdf) \])  
+> 68 \[ [https://www.oracle.com/technology/deploy/security/pdf/2004alert68.pdf](https://www.oracle.com/technology/deploy/security/pdf/2004alert68.pdf) \])  
 > to address a large number of major security flaws in their database  
 > server product. The patches had been a long time in coming  
-> \[ [http://www.eweek.com/article2/0,1759,1637213,00.asp](http://www.eweek.com/article2/0,1759,1637213,00.asp) \] and we fully  
+> \[ [https://www.eweek.com/article2/0,1759,1637213,00.asp](https://www.eweek.com/article2/0,1759,1637213,00.asp) \] and we fully  
 > expected that these patches would actually fix the problems but,  
 > unfortunately this is not the case. To date, these flaws are still not  
 > fixed and are still fully exploitable. I reported this to Oracle a  

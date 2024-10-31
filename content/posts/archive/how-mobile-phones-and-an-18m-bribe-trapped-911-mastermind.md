@@ -12,4 +12,4 @@ url: /2003/03/how-mobile-phones-and-18m-bribe-trapped.html
 ---
 
 
-[Guardian Unlimited | Special reports | How mobile phones and an �18m bribe trapped 9/11 mastermind](http://www.guardian.co.uk/alqaida/story/0,12469,911860,00.html "Guardian Unlimited | Special reports | How mobile phones and an �18m bribe trapped 9/11 mastermind")
+[Guardian Unlimited | Special reports | How mobile phones and an �18m bribe trapped 9/11 mastermind](https://www.guardian.co.uk/alqaida/story/0,12469,911860,00.html "Guardian Unlimited | Special reports | How mobile phones and an �18m bribe trapped 9/11 mastermind")

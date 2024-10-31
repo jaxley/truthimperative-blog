@@ -21,7 +21,7 @@ And, it is common in other languages to work with variables in a REQUEST structu
   
 PHP should provide a built-in set of semantics for data input filtering that work across all of the possible input types so that each application doesn't have to build their own. I even remember when you used to have to build your own PHP session management or use additional PHP modules (PHPlib was a great implementation) before it got rolled into PHP 4.  
   
-Also check out the [Hardened-PHP Project](http://www.hardened-php.net/) for this advisory and many others for PHP applications, and some PHP security basics talks.  
+Also check out the [Hardened-PHP Project](https://www.hardened-php.net/) for this advisory and many others for PHP applications, and some PHP security basics talks.  
   
 \-J  
   
@@ -53,12 +53,12 @@ Also check out the [Hardened-PHP Project](http://www.hardened-php.net/) for this
 > lead f.e. to disclosure of the admin password hash  
 > Risk: Critical  
 > Vendor Status: Vendor has released an updated version  
-> References: http://www.hardened-php.net/advisory-032005.php  
+> References: https://www.hardened-php.net/advisory-032005.php  
 >   
 >   
 > Overview:  
 >   
-> Quote from http://www.cacti.net  
+> Quote from https://www.cacti.net  
 > "Cacti is a complete network graphing solution designed to harness  
 > the power of RRDTool's data storage and graphing functionality.  
 > Cacti provides a fast poller, advanced graph templating, multiple  
@@ -147,7 +147,7 @@ Also check out the [Hardened-PHP Project](http://www.hardened-php.net/) for this
 >   
 > We strongly recommend upgrading to Cacti 0.8.6f which you can get at  
 >   
-> http://www.cacti.net/download\_cacti.php  
+> https://www.cacti.net/download\_cacti.php  
 >   
 >   
 > Summary for Secunia:  
@@ -163,7 +163,7 @@ Also check out the [Hardened-PHP Project](http://www.hardened-php.net/) for this
 >   
 > GPG-Key:  
 >   
-> http://www.hardened-php.net/hardened-php-signature-key.asc  
+> https://www.hardened-php.net/hardened-php-signature-key.asc  
 >   
 > pub 1024D/0A864AA1 2004-04-17 Hardened-PHP Signature Key  
 > Key fingerprint = 066F A6D0 E57E 9936 9082 7E52 4439 14CC 0A86 4AA1  

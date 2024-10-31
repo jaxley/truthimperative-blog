@@ -16,7 +16,7 @@ linter-yaml-title-alias: Googling-from-seattle
 
 The rumours are true.  Google is officially both on the Eastside and Westside now.  Now they could make me an offer I couldn't refuse...  I wouldn't prefer to work in Kirkland but even Fremont would be a jaunt more than Downtown.  
   
-[Business & Technology | Google takes space in Fremont for expansion | Seattle Times Newspaper](http://seattletimes.nwsource.com/html/businesstechnology/2003712850_webgoogle18.html)  
+[Business & Technology | Google takes space in Fremont for expansion | Seattle Times Newspaper](https://seattletimes.nwsource.com/html/businesstechnology/2003712850_webgoogle18.html)  
 
 > Google, based in Mountain View, Calif., plans to sublease about 60,000 square feet from Getty Images at the Waterside Building on North 34th Street.  
 >   

@@ -21,10 +21,10 @@ linter-yaml-title-alias: Quot-if-you-want-to-win-an-election-just-control-the-vo
 
 A couple more sites working against all-electronic voting machines:  
   
-[http://www.blackboxvoting.com/](http://www.blackboxvoting.com/)  
-[http://www.ecotalk.org/VotingSecurity.htm](http://www.ecotalk.org/VotingSecurity.htm)  
+[https://www.blackboxvoting.com/](https://www.blackboxvoting.com/)  
+[https://www.ecotalk.org/VotingSecurity.htm](https://www.ecotalk.org/VotingSecurity.htm)  
   
-Also, an [article](http://www.commondreams.org/views03/0131-01.htm) discussing a situation that, if true, is truly egregious:  
+Also, an [article](https://www.commondreams.org/views03/0131-01.htm) discussing a situation that, if true, is truly egregious:  
   
 The senator who won the election in Nebraska allegedly "was the head of, and continues to own part interest in, the company that owns the company that installed, programmed, and largely ran the voting machines that were used by most of the citizens of Nebraska."  
   

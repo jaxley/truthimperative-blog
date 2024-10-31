@@ -17,7 +17,7 @@ linter-yaml-title-alias: Doj-staffers-trumped-by-political-arm
 ---
 
 
-[Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks](http://www.dailykos.com/storyonly/2005/12/2/02015/1177 "Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks")  
+[Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks](https://www.dailykos.com/storyonly/2005/12/2/02015/1177 "Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks")  
   
 More ugliness from the repugnicans made public.  
   

@@ -15,6 +15,6 @@ linter-yaml-title-alias: Court-calls-fcc-calea-ruling-quot-gobbledygook-utter-no
 ---
 
 
-[EFF: DeepLinks](http://www.eff.org/deeplinks/archives/004638.php "EFF: DeepLinks")  
+[EFF: DeepLinks](https://www.eff.org/deeplinks/archives/004638.php "EFF: DeepLinks")  
   
 I love it when the justice system works.

@@ -33,7 +33,7 @@ checked. This leaves the door open for an attack. "
   
 The attack relies on the protocol being a bit too chatty in providing information . There are many limitations that make this not especially critical, although IMAP/POP clients like Outlook exacerbate the risk because they will happily keep resending your encrypted password to the server if it does not succeed.  
   
-[The Register article](http://www.theregister.co.uk/content/55/29423.html)  
+[The Register article](https://www.theregister.co.uk/content/55/29423.html)  
   
 Peter Gutman, of cryptlib fame, posted some client-side coding suggestions to ensure that you are not at risk, regardless of whether your server is vulnerable or not:'  
   

@@ -9,7 +9,7 @@ updated: 2024-10-10 10:49:43-07:00
 
 Oops. Remember kids, disable directory indexing on your porn server! Or better yet, don't mix shared data with stuff you wouldn't want people to find on accident.  
   
-[Judge Alex Kozinski's porn stash - Boing Boing](http://www.boingboing.net/2008/06/12/judge-alex-kozinskis.html)  
+[Judge Alex Kozinski's porn stash - Boing Boing](https://www.boingboing.net/2008/06/12/judge-alex-kozinskis.html)  
 
 > Kozinski had sent a link to a file (unrelated to the stuff being reported about) that was stored on a file server maintained by Kozinski's son, Yale. From that link (and a mistake in how the server was configured), it was possible to determine the directory structure for the server. From that directory structure, it was possible to see likely interesting places to peer. The disgruntled sort did that, and shopped some of what he found to the news sources that are now spreading it...  
 >   

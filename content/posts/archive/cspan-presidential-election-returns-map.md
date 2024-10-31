@@ -17,4 +17,4 @@ linter-yaml-title-alias: Cspan-presidential-election-returns-map
 
 Very cool map shows progress at-a-glance.  
   
-[C-SPAN: 2004 GENERAL ELECTION RESULTS](http://network.ap.org/dynamic/files/specials/election_night_2004/us_map_govsenhouse/index.html?SITE=CSPANELN&SECTION=POLITICS "C-SPAN: 2004 GENERAL ELECTION RESULTS")
+[C-SPAN: 2004 GENERAL ELECTION RESULTS](https://network.ap.org/dynamic/files/specials/election_night_2004/us_map_govsenhouse/index.html?SITE=CSPANELN&SECTION=POLITICS "C-SPAN: 2004 GENERAL ELECTION RESULTS")

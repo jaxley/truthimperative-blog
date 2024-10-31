@@ -35,5 +35,5 @@ And then there's Gartner:
 Sage advice from an IT support standpoint.  But do we all need to start battling with executives over them using iPhones as the next network security scourge?  Probably not.  Most iPhones are likely to be used to synchronize data to a PC.  Assuming you have adequate protection on your desktops and network from viruses, the risk is no different from iPods or any other device someone decides to plug into their laptop and sync data (contacts or calendar).  So, this is not a new risk.  
   
 There are certainly going to be some data loss risks with the iPhone, but those are not necessarily new to the iPhone.  There are many other devices people can hook up that perform similar functions and can hold enterprise data that also don't support centralized control.  You should design your security controls with that reality in mind so you don't have to say the sky is falling with every new device out there.  There are solutions to lock down USB ports with policy if you so choose, for example.  
-[](http://www.eweek.com/article2/0,1895,2149630,00.asp)  
-[Analysts: iPhone Has Neither Security nor Relevance](http://www.eweek.com/article2/0,1759,2149610,00.asp?kc=EWRSS03129TX1K0000614)
+[](https://www.eweek.com/article2/0,1895,2149630,00.asp)  
+[Analysts: iPhone Has Neither Security nor Relevance](https://www.eweek.com/article2/0,1759,2149610,00.asp?kc=EWRSS03129TX1K0000614)

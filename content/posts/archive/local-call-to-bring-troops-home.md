@@ -16,7 +16,7 @@ linter-yaml-title-alias: Local-call-to-bring-troops-home
 
 Olympia, WA -- my state capitol -- makes the "pages" of Daily Kos.   
   
-[Daily Kos: Bring them home.](http://www.dailykos.com/storyonly/2007/7/6/204859/5793)  
+[Daily Kos: Bring them home.](https://www.dailykos.com/storyonly/2007/7/6/204859/5793)  
 
 > How many more Americans will forfeit their lives on the battlefield between now and then? How many more tax dollars will be spent to stall America’s inevitable departure?  
 >   

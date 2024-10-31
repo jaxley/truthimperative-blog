@@ -19,6 +19,6 @@ linter-yaml-title-alias: Bush-worst-president-ever
 
 Fucking...incompetent...liar...  
   
-[Bush-Katrina Early warning Video](http://www.crooksandliars.com/2006/03/01.html#a7356 "Bush-Katrina Early warning Video")  
+[Bush-Katrina Early warning Video](https://www.crooksandliars.com/2006/03/01.html#a7356 "Bush-Katrina Early warning Video")  
   
-[New video shows Bush was warned levees could breach BEFORE Katrina hit - Bush lied when he said no one could imagine levees breaching](http://americablog.blogspot.com/2006/03/new-video-shows-bush-was-warned-levees.html "New video shows Bush was warned levees could breach BEFORE Katrina hit - Bush lied when he said no one could imagine levees breaching ")
+[New video shows Bush was warned levees could breach BEFORE Katrina hit - Bush lied when he said no one could imagine levees breaching](https://americablog.blogspot.com/2006/03/new-video-shows-bush-was-warned-levees.html "New video shows Bush was warned levees could breach BEFORE Katrina hit - Bush lied when he said no one could imagine levees breaching ")

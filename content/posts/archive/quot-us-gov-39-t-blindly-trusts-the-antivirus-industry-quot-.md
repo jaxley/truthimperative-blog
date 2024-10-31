@@ -14,6 +14,6 @@ url: /2003/06/gov-blindly-trusts-antivirus-industry.html
 
 I love the quote below and the 15 claims about how shady the Antivirus industry is are great, especially #7, "expect applause when you release hundreds of security patches for your product each year;"  
   
-[Vmyths.com- Truth About Computer Virus Myths & Hoaxes](http://vmyths.com/rant.cfm?id=562&page=4 "Vmyths.com- Truth About Computer Virus Myths & Hoaxes")  
+[Vmyths.com- Truth About Computer Virus Myths & Hoaxes](https://vmyths.com/rant.cfm?id=562&page=4 "Vmyths.com- Truth About Computer Virus Myths & Hoaxes")  
   
 "The Pentagon should not protect a weapon system with software written by people they'd never trust. Yet they do."

@@ -18,7 +18,7 @@ This is a good sign.  Although Bush is likely to veto this even though a majori
   
 Everything that I have heard about regarding Stem Cell Research says that it is a long shot, but has so much potential benefit that, like SETI, is worth investing resources in studying.  Regardless of the benefits, the government should not be putting restrictions on what kind of basic research scientists can engage in.  
   
-[RichardDawkins.net - The Official Richard Dawkins Website](http://richarddawkins.net/article,1247,n,n)  
+[RichardDawkins.net - The Official Richard Dawkins Website](https://richarddawkins.net/article,1247,n,n)  
 
 > The House gave final Congressional approval on Thursday to legislation aimed at easing restrictions on federal financing of embryonic stem cell research, but Democratic leaders in both chambers conceded they were short of the votes needed to override a veto threatened by President Bush.  
 >   

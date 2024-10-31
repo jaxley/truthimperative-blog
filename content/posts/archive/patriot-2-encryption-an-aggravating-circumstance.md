@@ -26,5 +26,5 @@ Declan McCullagh asks a good question on the cryptography list:
   
 It is a terrible idea to presume that using encryption is an aggravating circumstance. "Why are you using encryption? You must have something to hide..."  
   
-Original SAFE Act: [http://thomas.loc.gov/cgi-bin/bdquery/z?d105:h.r.00695:](http://thomas.loc.gov/cgi-bin/bdquery/z?d105:h.r.00695:)  
-Leaked new Patriot Act 2 draft: [http://www.privacy.org/patriot2draft.pdf](http://www.privacy.org/patriot2draft.pdf )
+Original SAFE Act: [https://thomas.loc.gov/cgi-bin/bdquery/z?d105:h.r.00695:](https://thomas.loc.gov/cgi-bin/bdquery/z?d105:h.r.00695:)  
+Leaked new Patriot Act 2 draft: [https://www.privacy.org/patriot2draft.pdf](https://www.privacy.org/patriot2draft.pdf )

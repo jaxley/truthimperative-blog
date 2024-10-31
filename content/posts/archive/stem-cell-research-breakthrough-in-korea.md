@@ -11,7 +11,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:58:48-07:00
 ---
 
-[WorldNetDaily: Paraplegic breakthrough using adult stem cells](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=46546 "WorldNetDaily: Paraplegic breakthrough using adult stem cells")  
+[WorldNetDaily: Paraplegic breakthrough using adult stem cells](https://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=46546 "WorldNetDaily: Paraplegic breakthrough using adult stem cells")  
   
 This is truly great news and will be even better if it holds up to peer review and brings about additional breakthroughs. It is proof positive of a couple of things:  
   

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Geocentrist-challenge
 ---
 
 
-Catholic Apologetics International is challenging people to provide [proof that the earth revolves around the sun](http://www.catholicintl.com/epologetics/articles/science/geochallenge.htm).  
+Catholic Apologetics International is challenging people to provide [proof that the earth revolves around the sun](https://www.catholicintl.com/epologetics/articles/science/geochallenge.htm).  
   
 
 >   

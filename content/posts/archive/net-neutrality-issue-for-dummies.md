@@ -15,6 +15,6 @@ linter-yaml-title-alias: Net-neutrality-issue-for-dummies
 ---
 
 
-[Network Neutrality Threatened In Norway](http://yro.slashdot.org/comments.pl?sid=198983&cid=16303117 "Network Neutrality Threatened In Norway")  
+[Network Neutrality Threatened In Norway](https://yro.slashdot.org/comments.pl?sid=198983&cid=16303117 "Network Neutrality Threatened In Norway")  
   
 A very clear description of the Net Neutrality issue and how the claims made by those against it are baseless.

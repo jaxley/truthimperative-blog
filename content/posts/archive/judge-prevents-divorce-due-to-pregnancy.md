@@ -16,7 +16,7 @@ linter-yaml-title-alias: Judge-prevents-divorce-due-to-pregnancy
 ---
 
 
-[Seattle Post-Intelligencer: Judge won't let woman divorce while she's pregnant](http://seattlepi.nwsource.com/local/aplocal_story.asp?category=6420&slug=WA%20Divorce%20Denied "Seattle Post-Intelligencer: Judge won't let woman divorce while she's pregnant")  
+[Seattle Post-Intelligencer: Judge won't let woman divorce while she's pregnant](https://seattlepi.nwsource.com/local/aplocal_story.asp?category=6420&slug=WA%20Divorce%20Denied "Seattle Post-Intelligencer: Judge won't let woman divorce while she's pregnant")  
   
 
 >   
@@ -24,7 +24,7 @@ linter-yaml-title-alias: Judge-prevents-divorce-due-to-pregnancy
 
   
   
-That link is no longer accessible, but The Stranger had an article which is accessible: [A Difficult Pregnancy](http://www.thestranger.com/seattle/Content?oid=20171)  
+That link is no longer accessible, but The Stranger had an article which is accessible: [A Difficult Pregnancy](https://www.thestranger.com/seattle/Content?oid=20171)  
   
 Just sick. But the issue may not necessariily be one of an "activist judge" but Spokane law:  
   

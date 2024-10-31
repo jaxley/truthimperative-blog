@@ -28,7 +28,7 @@ I also personally got rid of McAfee products after a multitude of issues:
 3\. Lots of errors resulting in having to reinstall the product (without there being an easy way to do so).  
 4\. Their website security is horrendous.  My wife forgot her password to their site so she used their "forgot my password" feature.  Guess what?  They emailed her, not a new random password, but her **_\_actual password\__**_  This from a security company!_  They either store passwords without encryption or store them with reversible encryption--both of which are seriously bad ideas and McAfee should know better.5\. Their suite product line is very expensive and the price seems to go up every year.  They have since reworked their product line and it seems to be better now.  
 6\. I read the F-Secure blog and can tell those guys really get security.  
-7\. McAfee was the company with the poor QA that removed critical Office files to "protect" you and also [mislabeled a legitmate ISP software program](http://www.securityfocus.com/news/9469)  
-8\. McAfee products, like Symantec, have suffered from some [local privilege escalation vulnerabilities](http://www.securityfocus.com/bid/16040) or [remote buffer overflows](http://www.securityfocus.com/bid/19265).  The cure is worse than the disease?  
+7\. McAfee was the company with the poor QA that removed critical Office files to "protect" you and also [mislabeled a legitmate ISP software program](https://www.securityfocus.com/news/9469)  
+8\. McAfee products, like Symantec, have suffered from some [local privilege escalation vulnerabilities](https://www.securityfocus.com/bid/16040) or [remote buffer overflows](https://www.securityfocus.com/bid/19265).  The cure is worse than the disease?  
   
-[Ranking Response Times for Anti-Virus Programs - security Fix](http://blog.washingtonpost.com/securityfix/2005/12/ranking_response_times_for_ant.html)
+[Ranking Response Times for Anti-Virus Programs - security Fix](https://blog.washingtonpost.com/securityfix/2005/12/ranking_response_times_for_ant.html)

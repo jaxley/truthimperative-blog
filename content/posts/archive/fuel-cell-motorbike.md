@@ -15,6 +15,6 @@ linter-yaml-title-alias: Fuel-cell-motorbike
 ---
 
 
-[Riding Sun ENV bike at Tokyo Fuel Cell Expo](http://www.ridingsun.com/posts/1138204339.shtml "Riding Sun ENV bike at Tokyo Fuel Cell Expo")  
+[Riding Sun ENV bike at Tokyo Fuel Cell Expo](https://www.ridingsun.com/posts/1138204339.shtml "Riding Sun ENV bike at Tokyo Fuel Cell Expo")  
   
 Move over Vespa. There's a new show in town and I want one of these...

@@ -20,7 +20,7 @@ I work for a company that is 'too big to fail' and that is a scary prospect.  H
   
 Hopefully congress can see through this and will pass some decent legislation regarding overhauling the so-called PATRIOT act and other things that Obama has not taken a very strong stand on.  
   
-[Volcker: Obama Plans Maintain 'Too Big To Fail'](http://www.huffingtonpost.com/2009/09/24/volcker-too-big-to-fail-s_n_298429.html)  
+[Volcker: Obama Plans Maintain 'Too Big To Fail'](https://www.huffingtonpost.com/2009/09/24/volcker-too-big-to-fail-s_n_298429.html)  
 
 > A top White House economic adviser says the Obama administration's proposed overhaul of financial rules preserves the policy of "too big to fail," and could lead to future bailouts.  
 >   
@@ -29,4 +29,4 @@ Hopefully congress can see through this and will pass some decent legislation re
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=191f3508-9743-8871-93a3-f30b02bd1721) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=191f3508-9743-8871-93a3-f30b02bd1721) -->

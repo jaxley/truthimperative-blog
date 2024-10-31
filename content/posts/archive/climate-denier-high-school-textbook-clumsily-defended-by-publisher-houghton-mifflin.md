@@ -14,7 +14,7 @@ linter-yaml-title-alias: Climate-denier-high-school-textbook-clumsily-defended-b
 ---
 
 
-[Think Progress » Blog Archive » Houghton Mifflin offers misleading defense for climate-denier high school textbook.](http://thinkprogress.org/2008/04/12/houghton-mifflin-defense/)  
+[Think Progress » Blog Archive » Houghton Mifflin offers misleading defense for climate-denier high school textbook.](https://thinkprogress.org/2008/04/12/houghton-mifflin-defense/)  
 
 > Houghton Mifflin issued this statement in response to the growing controversy: 
 

@@ -14,7 +14,7 @@ url: /2005/04/law-unconstitutional.html
 
 At least there is some good and rationality left in the world. This is great.  
   
-[Daily Kos :: Political Analysis and other daily rants on the state of the nation.](http://www.dailykos.com/story/2005/3/31/144855/674 "Daily Kos :: Political Analysis and other daily rants on the state of the nation.")  
+[Daily Kos :: Political Analysis and other daily rants on the state of the nation.](https://www.dailykos.com/story/2005/3/31/144855/674 "Daily Kos :: Political Analysis and other daily rants on the state of the nation.")  
   
 
 >   

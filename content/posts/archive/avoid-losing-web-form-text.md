@@ -16,7 +16,7 @@ linter-yaml-title-alias: Avoid-losing-web-form-text
 ---
 
 
-[Scribe, Mozilla Firefox Extension](http://prismicspiral.com/scribe/ "Scribe, Mozilla Firefox Extension") looks like a handy extension to add to Firefox. How many times have you lost a long textarea posting? No more typing in VIM or Notepad and then pasting into the web. No need to constantly save to the server to avoid losing text.  
+[Scribe, Mozilla Firefox Extension](https://prismicspiral.com/scribe/ "Scribe, Mozilla Firefox Extension") looks like a handy extension to add to Firefox. How many times have you lost a long textarea posting? No more typing in VIM or Notepad and then pasting into the web. No need to constantly save to the server to avoid losing text.  
   
 Example given uses movable type... I'll definitely be checking this out.  
   

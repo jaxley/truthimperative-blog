@@ -18,7 +18,7 @@ linter-yaml-title-alias: My-first-greasemonkey-script-now-available
 
 I just posted a greasemonkey script I wrote months back that I use all the time to make managing my Chase accounts just a bit easier.  I cleaned it up a bit and added some missing comments.  I decided later to switch to jQuery by referring to a remotely-hosted copy on chase.com so eventually I'll simplify things and rewrite what I can in jQuery instead but it works great!  
   
-[Chase OFX downloader for Greasemonkey](http://userscripts.org/scripts/show/60257)  
+[Chase OFX downloader for Greasemonkey](https://userscripts.org/scripts/show/60257)  
 
 > Script Summary:  
 > Automates chase.com OFX file downloads for every eligible account. One click to download all available OFX files one after the other instead of manually. Also adds useful features not present in the site, such as remembering the date you last downloaded  
@@ -35,4 +35,4 @@ I just posted a greasemonkey script I wrote months back that I use all the time 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=9e05d9e6-1a4f-84fe-a3e4-94e569c91d37) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=9e05d9e6-1a4f-84fe-a3e4-94e569c91d37) -->

@@ -16,7 +16,7 @@ linter-yaml-title-alias: Make-a-difference-become-a-mentor-
 ---
 
 
-I am now a third-year mentor with [Community For Youth](http://www.communityforyouth.org/) (CFY), a wonderful non-profit organization that works with youth in the three lowest-performing Seattle public high schools:  Chief Sealth, Rainier Beach, and Cleveland.  The program "transforms high school students who are struggling - with school, with family, with their direction in life - into young adults who have confidence, determination and self-awareness."  
+I am now a third-year mentor with [Community For Youth](https://www.communityforyouth.org/) (CFY), a wonderful non-profit organization that works with youth in the three lowest-performing Seattle public high schools:  Chief Sealth, Rainier Beach, and Cleveland.  The program "transforms high school students who are struggling - with school, with family, with their direction in life - into young adults who have confidence, determination and self-awareness."  
   
   
 It has been one of the most rewarding things that I have ever done.  I love the energy of the kids; the creativity; the possibilities.   
@@ -69,7 +69,7 @@ I also think about my life in high school and how great it would have been to ha
 
   
   
-Contact me with any questions!  But go to their website and [sign up for an orientation](http://www.communityforyouth.org/contact.html)!  Only two left for 2008/2009:  
+Contact me with any questions!  But go to their website and [sign up for an orientation](https://www.communityforyouth.org/contact.html)!  Only two left for 2008/2009:  
   
   
 October 29, 2008 @ 5:30pm  

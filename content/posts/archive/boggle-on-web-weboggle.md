@@ -15,6 +15,6 @@ linter-yaml-title-alias: Boggle-on-web-weboggle
 ---
 
 
-[WEBoggle](http://weboggle.shackworks.com/ "WEBoggle")  
+[WEBoggle](https://weboggle.shackworks.com/ "WEBoggle")  
   
 This is a great use of AJAX and is also VERY addicting. You have been warned... I'm core24 if I'm playing. But I suck compared to the others. I think they are just monkeys typing random letters and waiting for the squares to light up.

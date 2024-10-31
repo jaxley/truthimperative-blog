@@ -18,4 +18,4 @@ This is a fascinating video.  Abortion protesters are asked what should be done
 
 > ""**Did you know you can stump anti-abortionists with one simple question?"**  They know it’s absurd and unfair — which means _they know abortion is not really murder_."
 
-[Pharyngula: This must be a very hard question](http://scienceblogs.com/pharyngula/2009/01/this_must_be_a_very_hard_quest.php)
+[Pharyngula: This must be a very hard question](https://scienceblogs.com/pharyngula/2009/01/this_must_be_a_very_hard_quest.php)

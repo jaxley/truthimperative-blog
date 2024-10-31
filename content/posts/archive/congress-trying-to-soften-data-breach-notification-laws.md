@@ -15,7 +15,7 @@ linter-yaml-title-alias: Congress-trying-to-soften-data-breach-notification-laws
 ---
 
 
-[http://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:](http://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:)  
+[https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:](https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:)  
   
 Call your representatives now to get them to oppose this legislation. This is the bill that passed out of committee and would seriously weaken the gains that have been made over the past few years in data breach notification, as well as preventing people from preemptively "freezing" their credit file from being used to open new accounts--something that itself could curb much of the ID theft problems (and perhaps some consumer credit problems...)  
   

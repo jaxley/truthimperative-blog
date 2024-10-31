@@ -24,6 +24,6 @@ From the BSA letter:
 Filename: /mandrake\_current/SRPMS/OpenOffice.org-1.0.1-9mdk.src.rpm (199,643kb)  
 Filename: /mandrake\_current/i586/Mandrake/RPMS/OpenOffice.org-libs-1.0.1-9mdk.i586.rpm (35,444kb)"  
   
-[OpenOffice.org thread](http://distribution.openoffice.org/servlets/ReadMsg?msgId=581265&listName=dev "OpenOffice.org")  
+[OpenOffice.org thread](https://distribution.openoffice.org/servlets/ReadMsg?msgId=581265&listName=dev "OpenOffice.org")  
   
 Anyone have a clue stick handy?

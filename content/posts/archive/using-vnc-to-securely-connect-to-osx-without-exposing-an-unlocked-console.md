@@ -17,7 +17,7 @@ I tried a few things suggested, such as enabling the screen saver or screen blan
   
 The solution I found that had the right security and usability properties was to use fast user switching + the Vine VNC Server.  This enables you to have a different set of content on the physical display from what you see remotely on VNC.  Unfortunately, fast user switching with the Apple VNC "Screen sharing" server doesn't work.  It mirrors your display exactly to the VNC display so does not allow you to have separate physical and remote displays.  I presume that's why it has a name like "Screen sharing".  It's also not surprising that this doesn't quite work as well outside of the Apple monoculture.  
 
-1.  [Download](http://www.testplant.com/dlds/vine/) and install [Vine VNC Server](http://www.testplant.com/eggplant/testing-tools/vine-vnc-for-mac/)
+1.  [Download](https://www.testplant.com/dlds/vine/) and install [Vine VNC Server](https://www.testplant.com/eggplant/testing-tools/vine-vnc-for-mac/)
 2.  Enable Fast User Switching on the mac
 
 ![](/FastUserSwitching.png)

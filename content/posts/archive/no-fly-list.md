@@ -15,6 +15,6 @@ linter-yaml-title-alias: No-fly-list
 ---
 
 
-[Schneier on Security: No-Fly List](http://www.schneier.com/blog/archives/2006/10/nofly_list.html "Schneier on Security: No-Fly List")  
+[Schneier on Security: No-Fly List](https://www.schneier.com/blog/archives/2006/10/nofly_list.html "Schneier on Security: No-Fly List")  
   
 What a piece of crap!

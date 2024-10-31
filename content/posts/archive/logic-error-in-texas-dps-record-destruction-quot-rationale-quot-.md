@@ -17,8 +17,8 @@ linter-yaml-title-alias: Logic-error-in-texas-dps-record-destruction-quot-ration
 ---
 
 
-[Talking Points Memo: by Joshua Micah Marshall](http://talkingpointsmemo.com/ "Talking Points Memo: by Joshua Micah Marshall")  
+[Talking Points Memo: by Joshua Micah Marshall](https://talkingpointsmemo.com/ "Talking Points Memo: by Joshua Micah Marshall")  
   
 "The DPS \[Department of Public Safety\] appears to have violated Texas state law by destroying the records. To justify this, they point to a federal regulation which a legal expert says is plainly inapplicable. And the very regulation they're trying to hang their hat on seems to bar the original conduct itself."  
   
-This whole story is unbelievable. I'm still waiting for what assistance they requested and perhaps received from the department of Homeland Security... There is a possible [criminal investigation](http://www.chron.com/cs/CDA/ssistory.mpl/topstory/1921044) ensuing.
+This whole story is unbelievable. I'm still waiting for what assistance they requested and perhaps received from the department of Homeland Security... There is a possible [criminal investigation](https://www.chron.com/cs/CDA/ssistory.mpl/topstory/1921044) ensuing.

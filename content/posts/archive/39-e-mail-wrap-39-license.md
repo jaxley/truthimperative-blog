@@ -14,4 +14,4 @@ url: /2003/05/license.html
 
 Like 'click-through' or 'clickwrap' licenses before, Lawrence Lessig publishes what may be described as an 'e-mail through' or 'e-mail wrap' license:  
   
-[welcome spammers](http://cyberlaw.stanford.edu/lessig/blog/archives/2003_05.shtml#001214)
+[welcome spammers](https://cyberlaw.stanford.edu/lessig/blog/archives/2003_05.shtml#001214)

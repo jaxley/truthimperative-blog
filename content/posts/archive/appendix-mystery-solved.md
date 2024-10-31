@@ -18,6 +18,6 @@ linter-yaml-title-alias: Appendix-mystery-solved
 
 Well, I had mine taken out two years ago so I hope I'm not at a disadvantage after the next GI bug.  
   
-[Function of the appendix found? A good bacteria safehouse. - Boing Boing](http://www.boingboing.net/2007/10/06/function-of-the-appe.html)  
+[Function of the appendix found? A good bacteria safehouse. - Boing Boing](https://www.boingboing.net/2007/10/06/function-of-the-appe.html)  
 
 > "Immunologists from Duke University believe they've found the function of the supposedly useless and often dangerous appendix: It's a reserve store of good germs to 'reboot' your digestive system in case another bug wipes out the germs necessary for human survival."

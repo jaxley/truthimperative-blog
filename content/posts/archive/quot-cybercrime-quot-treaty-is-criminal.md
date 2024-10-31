@@ -16,7 +16,7 @@ linter-yaml-title-alias: Quot-cybercrime-quot-treaty-is-criminal
 ---
 
 
-[Fuzzy logic behind Bush's cybercrime treaty | Perspectives | CNET News.com](http://news.com.com/2010-1071_3-5969719.html "Fuzzy logic behind Bush's cybercrime treaty | Perspectives | CNET News.com")  
+[Fuzzy logic behind Bush's cybercrime treaty | Perspectives | CNET News.com](https://news.com.com/2010-1071_3-5969719.html "Fuzzy logic behind Bush's cybercrime treaty | Perspectives | CNET News.com")  
   
 
 >   

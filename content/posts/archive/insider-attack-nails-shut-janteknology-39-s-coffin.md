@@ -21,7 +21,7 @@ It's unbelievable how often I hear things like:
 "Well you _have_ to trust your employees/administrator/etc!"  
 "But we're behind the firewall!"  
   
-I even noticed Microsoft's [STRIDE threat model](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/csvr2002/htm/cs_se_securecode_zlsj.asp) does not include the threat:  
+I even noticed Microsoft's [STRIDE threat model](https://msdn.microsoft.com/library/default.asp?url=/library/en-us/csvr2002/htm/cs_se_securecode_zlsj.asp) does not include the threat:  
   
 Misuse of granted privileges.  
   
@@ -31,4 +31,4 @@ You have to consider this angle in designs and in how you manage privileges and 
   
 "Security software distributor, Janteknology, has shutdown amidst dramatic circumstances, its battle to survive tough market conditions ended by industrial sabotage."  
   
-[News: Security firm shuttered by sabotage](http://zdnet.com.com/2100-1105-990747.html "News: Security firm shuttered by sabotage")
+[News: Security firm shuttered by sabotage](https://zdnet.com.com/2100-1105-990747.html "News: Security firm shuttered by sabotage")

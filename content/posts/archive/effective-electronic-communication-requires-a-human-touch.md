@@ -15,7 +15,7 @@ linter-yaml-title-alias: Effective-electronic-communication-requires-a-human-tou
 ---
 
 
-[http://www.asktog.com/columns/047HowToWriteAReport.html](http://www.asktog.com/columns/047HowToWriteAReport.html)  
+[https://www.asktog.com/columns/047HowToWriteAReport.html](https://www.asktog.com/columns/047HowToWriteAReport.html)  
   
 
 >   
@@ -25,4 +25,4 @@ linter-yaml-title-alias: Effective-electronic-communication-requires-a-human-tou
   
 Good reminder to not forget the human element in human communications. Pick up the phone every once in a while instead of just IM or email and you'll be surprised by the results. Also, if you build human trust in non-electronic means first, it makes understanding nuances in electronic communications easier.  
   
-Along the same lines, check out [The Art of Schmoozing](http://blog.guykawasaki.com/2006/02/the_art_of_schm.html) for some tips on how to build human trust. Hint: it requires human interaction.
+Along the same lines, check out [The Art of Schmoozing](https://blog.guykawasaki.com/2006/02/the_art_of_schm.html) for some tips on how to build human trust. Hint: it requires human interaction.

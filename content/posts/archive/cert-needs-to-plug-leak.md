@@ -33,4 +33,4 @@ Jericho's comments on the ISN list were classic, especially:
 Even with leaked draft copies, CERT still can't release anything  
 ontime. Go figure."  
   
-[Wired News: Leaked Bug Alerts Cause a Stir](http://www.wired.com/news/infostructure/0,1377,58106,00.html "Wired News: Leaked Bug Alerts Cause a Stir")
+[Wired News: Leaked Bug Alerts Cause a Stir](https://www.wired.com/news/infostructure/0,1377,58106,00.html "Wired News: Leaked Bug Alerts Cause a Stir")

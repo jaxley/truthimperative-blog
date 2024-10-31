@@ -15,6 +15,6 @@ linter-yaml-title-alias: Id-theft-targets-are-everywhere
 ---
 
 
-[Security no match for theater lovers](http://searchsecurity.techtarget.com/originalContent/0,289142,sid14_gci1071265,00.html "Security no match for theater lovers")  
+[Security no match for theater lovers](https://searchsecurity.techtarget.com/originalContent/0,289142,sid14_gci1071265,00.html "Security no match for theater lovers")  
   
 This article shows that for the promise of a $7-$10 movie ticket, you can trivially gather enough information about almost anyone to steal their identity. And this was at a _security_ conference. I've seen a couple of other studies such as this with other low-value enticements work just as effectively.

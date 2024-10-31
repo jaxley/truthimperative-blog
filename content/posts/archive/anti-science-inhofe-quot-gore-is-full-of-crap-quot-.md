@@ -16,6 +16,6 @@ linter-yaml-title-alias: Anti-science-inhofe-quot-gore-is-full-of-crap-quot-
 ---
 
 
-[Think Progress: Sen. Inhofe: ‘Gore Is Full of Crap,’ ‘All Recent Science…Confirms This Thing Is A Hoax’](http://thinkprogress.org/2006/07/21/inhofe-gore/ "Think Progress: Sen. Inhofe: ‘Gore Is Full of Crap,’ ‘All Recent Science…Confirms This Thing Is A Hoax’")  
+[Think Progress: Sen. Inhofe: ‘Gore Is Full of Crap,’ ‘All Recent Science…Confirms This Thing Is A Hoax’](https://thinkprogress.org/2006/07/21/inhofe-gore/ "Think Progress: Sen. Inhofe: ‘Gore Is Full of Crap,’ ‘All Recent Science…Confirms This Thing Is A Hoax’")  
   
 Wanker.

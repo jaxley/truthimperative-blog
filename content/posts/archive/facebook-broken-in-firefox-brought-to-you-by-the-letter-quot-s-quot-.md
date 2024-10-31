@@ -23,4 +23,4 @@ I hadn't noticed that Firefox had opened facebook up without SSL, but sure enoug
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=2a81b7dc-e0b5-8a02-94e1-46aeca5d259d) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=2a81b7dc-e0b5-8a02-94e1-46aeca5d259d) -->

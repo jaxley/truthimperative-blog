@@ -16,7 +16,7 @@ So, I was shocked to notice that the e-mail from Sony that was supposedly warnin
   
 Within the text, it contained a couple of URLs that, in the HTML version of the e-mail, deceptively show up as www.sonystyle.com, but in fact pointed to some other site at m0.net. Here is one of the deceptive URLs _from Sony_:  
   
-http://news.sonystyle.m0.net/m/S.asp?HB9483736521X2571692X218821X  
+https://news.sonystyle.m0.net/m/S.asp?HB9483736521X2571692X218821X  
   
 Not to mention that the From address of the e-mail was also from the same site: sonystyle@news.sonystyle.m0.net  
   

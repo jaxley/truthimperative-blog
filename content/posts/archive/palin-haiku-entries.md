@@ -28,7 +28,7 @@ I posted three, with a theme of trying to use her own words to answer the questi
 > "A maverick...nuc-u-lar"  
 > "Hockey mom...you know"
 
-[Left Take:: $20.09 HAIKU contest: Why Sarah Palin is a jackass](http://leftake.com/diary/392/2009-haiku-contest-why-sarah-palin-is-a-jackass)  
+[Left Take:: $20.09 HAIKU contest: Why Sarah Palin is a jackass](https://leftake.com/diary/392/2009-haiku-contest-why-sarah-palin-is-a-jackass)  
 
 > Let's try something new -- a "haiku" contest.  
 >   
@@ -42,4 +42,4 @@ I posted three, with a theme of trying to use her own words to answer the questi
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=9e8f961a-615e-86d1-af3d-9188c57b1f3e) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=9e8f961a-615e-86d1-af3d-9188c57b1f3e) -->

@@ -11,7 +11,7 @@ Here's a challenge to WSDOT:  Are you willing to halt and reverse the variable 
   
 All too often the readerboards that give information on accidents seem to slow traffic down even more.  
   
-[WSDOT - I-90 - Two-Way Transit and HOV Operations - Variable Speed Limit Signs](http://www.wsdot.wa.gov/Projects/I90/TwoWayTransit/vsl.htm)  
+[WSDOT - I-90 - Two-Way Transit and HOV Operations - Variable Speed Limit Signs](https://www.wsdot.wa.gov/Projects/I90/TwoWayTransit/vsl.htm)  
 
 > Tried and true on our mountain passes  
 > WSDOT uses variable speed limit signs on US 2 at Steven Pass and on I-90 at Snoqualmie Pass to alert drivers to slow down during icy, snowy and congested driving conditions. Similar signs installed on European urban roadways incresed safety and decrease congestion-related collisions by 30% or more.
@@ -19,4 +19,4 @@ All too often the readerboards that give information on accidents seem to slow t
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=c7b0b9ce-aa65-8b19-af53-cf2caaeba6fa) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=c7b0b9ce-aa65-8b19-af53-cf2caaeba6fa) -->

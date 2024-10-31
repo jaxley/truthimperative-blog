@@ -17,6 +17,6 @@ linter-yaml-title-alias: Just-how-insecure-is-electronic-voting
 ---
 
 
-[Black Box Voting : 2-23-06: Someone accessed 40 Palm Beach County voting machines Nov 2004](http://www.bbvforums.org/cgi-bin/forums/board-auth.cgi?file=/1954/19421.html "Black Box Voting : 2-23-06: Someone accessed 40 Palm Beach County voting machines Nov 2004")  
+[Black Box Voting : 2-23-06: Someone accessed 40 Palm Beach County voting machines Nov 2004](https://www.bbvforums.org/cgi-bin/forums/board-auth.cgi?file=/1954/19421.html "Black Box Voting : 2-23-06: Someone accessed 40 Palm Beach County voting machines Nov 2004")  
   
-This is good work. NOW do the naysayers see why we need [voter verifiable](http://www.verifiedvoting.org/) paper ballots?
+This is good work. NOW do the naysayers see why we need [voter verifiable](https://www.verifiedvoting.org/) paper ballots?

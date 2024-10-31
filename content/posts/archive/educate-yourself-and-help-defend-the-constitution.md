@@ -18,7 +18,7 @@ linter-yaml-title-alias: Educate-yourself-and-help-defend-the-constitution
 ---
 
 
-[Atheist Ethicist: Defending the Constitution](http://atheistethicist.blogspot.com/2006/09/defending-constitution.html "Atheist Ethicist: Defending the Constitution")  
+[Atheist Ethicist: Defending the Constitution](https://atheistethicist.blogspot.com/2006/09/defending-constitution.html "Atheist Ethicist: Defending the Constitution")  
   
 
 >   

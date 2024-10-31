@@ -16,7 +16,7 @@ linter-yaml-title-alias: Onsecurity-podcast-taking-issue-with-pci-dss-web-applic
 
 I already have noted that equating a web app firewall to a security source-code-reviewed and threat-modeled application is ridiculous.  Dinis Cruz will remind you that the most devastating web application flaws are business logic flaws that none of these devices will find.  Even web application scanners are ineffective for most things beyond low hanging fruit.  
   
-[Holes in the Firewall?](http://www.eweek.com/article2/0,1759,2170691,00.asp?kc=EWRSS03129TX1K0000614)  
+[Holes in the Firewall?](https://www.eweek.com/article2/0,1759,2170691,00.asp?kc=EWRSS03129TX1K0000614)  
 
 >   
 > Holes in the Firewall?  

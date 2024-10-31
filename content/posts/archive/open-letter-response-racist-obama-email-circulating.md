@@ -20,7 +20,7 @@ a simple email could possibly be harmful.&nbsp; Well, these falsehoods are makin
 their way to other people and they are changing people's voting plans.&nbsp;  
   
 This is just \_one example\_ of where people have believed this Internet filth:  
-[http://www.huffingtonpost.com/2008/03/02/ohio-voter-on-60-minutes\_n\_89476.html](http://www.huffingtonpost.com/2008/03/02/ohio-voter-on-60-minutes_n_89476.html)  
+[https://www.huffingtonpost.com/2008/03/02/ohio-voter-on-60-minutes\_n\_89476.html](https://www.huffingtonpost.com/2008/03/02/ohio-voter-on-60-minutes_n_89476.html)  
   
 There is \_real harm\_ from forwarding falsehoods on the Internet.&nbsp; Stop them before  
 they destroy anyone else's life or reputation.  
@@ -37,9 +37,9 @@ Google!
 Refuse to be part of any swiftboat-style smear campaign based on lies and  
 racist propaganda such as this.  
   
-[http://www.snopes.com/politics/obama/church.asp](http://www.snopes.com/politics/obama/church.asp)  
-[http://www.snopes.com/politics/obama/muslim.asp](http://www.snopes.com/politics/obama/muslim.asp)  
-http://urbanlegends.about.com/library/bl\_barack\_obama\_muslim.htm  
+[https://www.snopes.com/politics/obama/church.asp](https://www.snopes.com/politics/obama/church.asp)  
+[https://www.snopes.com/politics/obama/muslim.asp](https://www.snopes.com/politics/obama/muslim.asp)  
+https://urbanlegends.about.com/library/bl\_barack\_obama\_muslim.htm  
   
 "no evidence supports a claim that Obama is currently, or ever has been, a  
 Muslim (radical or otherwise)"  

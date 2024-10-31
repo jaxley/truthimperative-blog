@@ -17,6 +17,6 @@ linter-yaml-title-alias: Repeat-after-me-quot-gay-quot-and-quot-pedophile-quot-a
 ---
 
 
-[MotherJones.com | MoJo Blog - Social Issues and Political Commentary: Repeat After Me: "Gay" and "Pedophile" Are Not Remotely Related](http://www.motherjones.com/mojoblog/archives/2006/10/2460_repeat_after_me.html "MotherJones.com | MoJo Blog - Social Issues and Political Commentary: Repeat After Me: ")  
+[MotherJones.com | MoJo Blog - Social Issues and Political Commentary: Repeat After Me: "Gay" and "Pedophile" Are Not Remotely Related](https://www.motherjones.com/mojoblog/archives/2006/10/2460_repeat_after_me.html "MotherJones.com | MoJo Blog - Social Issues and Political Commentary: Repeat After Me: ")  
   
 I just heard Limbaugh today repeating the crap talking point about the Foley issue being about the existence of a "gay" republican. That is bullshit. This is about exploitation and preying on innocent children. Wanker.

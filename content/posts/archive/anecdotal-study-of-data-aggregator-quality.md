@@ -17,7 +17,7 @@ linter-yaml-title-alias: Anecdotal-study-of-data-aggregator-quality
 ---
 
 
-[PrivacyActivism.org - Data Aggregators: A Study of Data Quality and Responsiveness](http://www.privacyactivism.org/Item/222 "PrivacyActivism.org - Data Aggregators: A Study of Data Quality and Responsiveness")  
+[PrivacyActivism.org - Data Aggregators: A Study of Data Quality and Responsiveness](https://www.privacyactivism.org/Item/222 "PrivacyActivism.org - Data Aggregators: A Study of Data Quality and Responsiveness")  
   
 
 >   
@@ -27,9 +27,9 @@ linter-yaml-title-alias: Anecdotal-study-of-data-aggregator-quality
 
   
   
-To go along with my other [post](http://juxtaposition.axley.net/archives/000250.html) on data aggregator service efficacy, another set of nails in the coffin. Keep in mind that this is anecdotal. However there was at least another study that I can't find a reference for that found something like 80% of entries had errors.  
+To go along with my other [post](https://juxtaposition.axley.net/archives/000250.html) on data aggregator service efficacy, another set of nails in the coffin. Keep in mind that this is anecdotal. However there was at least another study that I can't find a reference for that found something like 80% of entries had errors.  
   
-Anyhow, more fuel to the fire from real-life experience with ChoicePoint data was the voter roll [purging debacle](http://www.sptimes.com/2003/12/21/State/No_telling_if_voter_r.shtml):  
+Anyhow, more fuel to the fire from real-life experience with ChoicePoint data was the voter roll [purging debacle](https://www.sptimes.com/2003/12/21/State/No_telling_if_voter_r.shtml):  
   
 
 >   

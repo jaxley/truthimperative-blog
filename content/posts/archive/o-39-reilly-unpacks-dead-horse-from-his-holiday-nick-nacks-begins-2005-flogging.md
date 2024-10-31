@@ -12,7 +12,7 @@ url: /2005/11/o-unpacks-dead-horse-from-his-holiday.html
 ---
 
 
-[O'Reilly opens new front in "war" on Christmas ... \[Media Matters\]](http://mediamatters.org/items/200511100014 "O'Reilly opens new front in ")  
+[O'Reilly opens new front in "war" on Christmas ... \[Media Matters\]](https://mediamatters.org/items/200511100014 "O'Reilly opens new front in ")  
   
 O'Reilly is ridiculous and a hypocrite. He is trying to create a controversy where one does not exist and then beat that dead horse senseless. And his issue? "Season's Greetings" and "Happy Holidays" used by businesses around this time of year "absolutely does \[offend Christians\]. And I know that for a fact."  
   

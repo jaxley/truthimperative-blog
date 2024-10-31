@@ -13,4 +13,4 @@ This site has great graphics for tying your own if you happen to be wiring a lig
   
 ![](/LampFig2.jpg)  
   
-[Electricity Lab Graphics](http://www.hope.edu/academic/engineering/labs/Electricity_Lab/Figures.html)
+[Electricity Lab Graphics](https://www.hope.edu/academic/engineering/labs/Electricity_Lab/Figures.html)

@@ -22,7 +22,7 @@ Several applications use the same library, but most are open source free softwar
 
 When I learned the details, I wondered what can other entities that either have application security programs in place (or should) learn from this?  
 
-1.  Even security software companies make mistakes and imperil security -- sometimes they make some [doozies](http://funoverip.net/2013/06/mcafee-epolicy-0wner-preview/)
+1.  Even security software companies make mistakes and imperil security -- sometimes they make some [doozies](https://funoverip.net/2013/06/mcafee-epolicy-0wner-preview/)
 
 So, don't assume that because a company has a security stalwart like Phil Zimmerman or that it's in the security business that it is immune from the software security problems most everyone in every organization is dealing with.
 
@@ -32,7 +32,7 @@ ZRTPCPP code had these bugs for roughly 6 years before they were found, and ther
 
 1.  Use static analysis!
 
-Several of these bugs are trivial for static analysis tools to find. For C++ code, there's even the [clang](http://clang-analyzer.llvm.org/) analyzer that is open source.  This should be part of the build process and findings validated and hopefully fixed prior to release.  
+Several of these bugs are trivial for static analysis tools to find. For C++ code, there's even the [clang](https://clang-analyzer.llvm.org/) analyzer that is open source.  This should be part of the build process and findings validated and hopefully fixed prior to release.  
 
 1.  Trust, but verify your application security controls
 
@@ -52,10 +52,10 @@ This could be a corollary of the unit test recommendation. Code expecting untrus
 
   
 
-(1) "NSA Reportedly Mines Servers Of U.S. Internet Firms For Data : The Two-Way : NPR." Last modified 07/03/2013 04:04:55. [http://www.npr.org/blogs/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data](http://www.npr.org/blogs/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data) (accessed 7/2/2013).
+(1) "NSA Reportedly Mines Servers Of U.S. Internet Firms For Data : The Two-Way : NPR." Last modified 07/03/2013 04:04:55. [https://www.npr.org/blogs/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data](https://www.npr.org/blogs/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data) (accessed 7/2/2013).
 
-(2) "Startup sees boost in business following news of NSA surveillance - Washington Business Journal." Last modified 07/03/2013 04:06:02. [http://www.bizjournals.com/washington/blog/techflash/2013/06/startup-sees-boost-in-business.html](http://www.bizjournals.com/washington/blog/techflash/2013/06/startup-sees-boost-in-business.html) (accessed 7/2/2013).  
-(3) "Azimuth Security: Attacking Crypto Phones: Weaknesses in ZRTPCPP." Last modified 07/02/2013 13:28:12. [http://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html](http://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html) (accessed 7/2/2013).  
+(2) "Startup sees boost in business following news of NSA surveillance - Washington Business Journal." Last modified 07/03/2013 04:06:02. [https://www.bizjournals.com/washington/blog/techflash/2013/06/startup-sees-boost-in-business.html](https://www.bizjournals.com/washington/blog/techflash/2013/06/startup-sees-boost-in-business.html) (accessed 7/2/2013).  
+(3) "Azimuth Security: Attacking Crypto Phones: Weaknesses in ZRTPCPP." Last modified 07/02/2013 13:28:12. [https://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html](https://blog.azimuthsecurity.com/2013/06/attacking-crypto-phones-weaknesses-in.html) (accessed 7/2/2013).  
 (4) "Impact of ZRTP library critical security vulnerabilities · Issue #5 · SilentCircle/silent-phone-base · GitHub." Last modified 07/03/2013 04:38:41. [https://github.com/SilentCircle/silent-phone-base/issues/5#issuecomment-20232374](https://github.com/SilentCircle/silent-phone-base/issues/5#issuecomment-20232374) (accessed 7/2/2013).  
 (5) " Microsoft’s Many Eyeballs and the Security Development Lifecycle - Thinking About Security - Site Home - MSDN Blogs ." Last modified 07/03/2013 04:52:27. [https://blogs.msdn.com/b/shawnhernan/archive/2010/02/13/microsoft-s-many-eyeballs-and-the-security-development-lifecycle.aspx?Redirected=true](https://blogs.msdn.com/b/shawnhernan/archive/2010/02/13/microsoft-s-many-eyeballs-and-the-security-development-lifecycle.aspx?Redirected=true) (accessed 7/2/2013).  
-(6) "What Happened With ZRTP This Week | Silent Circle Blog." Last modified 07/03/2013 05:10:20. [http://silentcircle.wordpress.com/2013/06/29/what-happened-with-zrtp-this-week/](http://silentcircle.wordpress.com/2013/06/29/what-happened-with-zrtp-this-week/) (accessed 7/2/2013).
+(6) "What Happened With ZRTP This Week | Silent Circle Blog." Last modified 07/03/2013 05:10:20. [https://silentcircle.wordpress.com/2013/06/29/what-happened-with-zrtp-this-week/](https://silentcircle.wordpress.com/2013/06/29/what-happened-with-zrtp-this-week/) (accessed 7/2/2013).

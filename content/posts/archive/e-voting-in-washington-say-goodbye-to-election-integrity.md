@@ -31,12 +31,12 @@ Electronic voting is very, very dangerous. Don't even get me started on **Intern
   
 There are tons of published cases of errors and delays caused by electronic voting that has been done around the country in practice, including more votes being counted than registered voters in the precinct.  
   
-Here is one list: [http://www.csl.sri.com/neumann/illustrative.html#24](http://www.csl.sri.com/neumann/illustrative.html#24)  
-And another: [http://www.csl.sri.com/users/neumann/book-voting.html](http://www.csl.sri.com/users/neumann/book-voting.html)  
+Here is one list: [https://www.csl.sri.com/neumann/illustrative.html#24](https://www.csl.sri.com/neumann/illustrative.html#24)  
+And another: [https://www.csl.sri.com/users/neumann/book-voting.html](https://www.csl.sri.com/users/neumann/book-voting.html)  
   
-Washington State is even looking at Internet Voting: [http://www.secstate.wa.gov/elections/evoting\_paper.aspx](http://www.secstate.wa.gov/elections/evoting_paper.aspx)  
+Washington State is even looking at Internet Voting: [https://www.secstate.wa.gov/elections/evoting\_paper.aspx](https://www.secstate.wa.gov/elections/evoting_paper.aspx)  
   
-I heard and saw Sam Reed talking about an Electronic Voting pilot in Washington State on the news. Here's a press release: [http://www.secstate.wa.gov/office/news.aspx?news\_id=150](http://www.secstate.wa.gov/office/news.aspx?news_id=150)  
+I heard and saw Sam Reed talking about an Electronic Voting pilot in Washington State on the news. Here's a press release: [https://www.secstate.wa.gov/office/news.aspx?news\_id=150](https://www.secstate.wa.gov/office/news.aspx?news_id=150)  
   
 This is an area that fascinates me because of all of the research that has gone into this area that public officials ignore on the dangers and how to do this correctly. They are often giving way too much credence to vendors that tell them all is safe. I would love to ask the people doing these pilots how they plan to assure voters of the integrity of the election, especially when e-voting machines are often closed-source and cannot be reverse-engineered because the companies claim trade secrets and will probably sic the DMCA on you.  
   
@@ -46,21 +46,21 @@ Sam Reed, Secretary of State
 Dean Logan, Director of Elections ([elections@secstate.wa.gov](mailto:elections@secstate.wa.gov))  
 David M. Elliott, Assistant Director of Elections  
   
-To find the representatives in your district, check out [http://dfind.leg.wa.gov/dfinder.cfm](http://dfind.leg.wa.gov/dfinder.cfm)  
+To find the representatives in your district, check out [https://dfind.leg.wa.gov/dfinder.cfm](https://dfind.leg.wa.gov/dfinder.cfm)  
   
 In the meantime, there is a petition that you can sign up with:  
   
-[http://verify.stanford.edu/evote.html](http://verify.stanford.edu/evote.html)  
+[https://verify.stanford.edu/evote.html](https://verify.stanford.edu/evote.html)  
   
 A ton of big-name researchers and security experts have already signed it.  
   
 And two renowned experts in electronic voting:  
   
-Rebecca Mercuri, Ph.D. [http://www.notablesoftware.com/evote.html](http://www.notablesoftware.com/evote.html) (been researching for over a decade). " Her position statement: [http://www.notablesoftware.com/RMstatement.html](http://www.notablesoftware.com/RMstatement.html)  
+Rebecca Mercuri, Ph.D. [https://www.notablesoftware.com/evote.html](https://www.notablesoftware.com/evote.html) (been researching for over a decade). " Her position statement: [https://www.notablesoftware.com/RMstatement.html](https://www.notablesoftware.com/RMstatement.html)  
   
-Peter G. Neumann (moderator of the ACM Risks Forum): http://www.csl.sri.com/users/neumann/ and a paper at [http://www.csl.sri.com/users/neumann/ncs93.html](http://www.csl.sri.com/users/neumann/ncs93.html)  
-His excellent summary of the issue: [http://www.interesting-people.org/archives/interesting-people/200211/msg00090.html](http://www.interesting-people.org/archives/interesting-people/200211/msg00090.html)  
+Peter G. Neumann (moderator of the ACM Risks Forum): https://www.csl.sri.com/users/neumann/ and a paper at [https://www.csl.sri.com/users/neumann/ncs93.html](https://www.csl.sri.com/users/neumann/ncs93.html)  
+His excellent summary of the issue: [https://www.interesting-people.org/archives/interesting-people/200211/msg00090.html](https://www.interesting-people.org/archives/interesting-people/200211/msg00090.html)  
   
-Avi Rubin has also written a paper on this topic: [http://avirubin.com/e-voting.security.html](http://avirubin.com/e-voting.security.html)  
+Avi Rubin has also written a paper on this topic: [https://avirubin.com/e-voting.security.html](https://avirubin.com/e-voting.security.html)  
   
-**NPR also just ran a [segment](http://discover.npr.org/features/feature.jhtml?wfId=990452) on the risks of electronic voting during Morning Edition Feb 10, 2003**
+**NPR also just ran a [segment](https://discover.npr.org/features/feature.jhtml?wfId=990452) on the risks of electronic voting during Morning Edition Feb 10, 2003**

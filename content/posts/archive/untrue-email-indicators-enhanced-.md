@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:42-07:00
 ---
 
-I found myself writing an enhanced follow-up to a [previous blog posting](http://www.blogger.com/2009/02/untrue-email-in.html) on the indicators that correlate to the likely falsehood of a chain email.  In my experience on the Internet, there are many factors which \__**negatively correlate**_\_ to the truthfulness of a chain email message (meaning, the presence of one or more of these factors only increases the probability that the content is bunk). I could likely write a program to analyze emails for these factors and identify about 100% of chain emails:  
+I found myself writing an enhanced follow-up to a [previous blog posting](https://www.blogger.com/2009/02/untrue-email-in.html) on the indicators that correlate to the likely falsehood of a chain email.  In my experience on the Internet, there are many factors which \__**negatively correlate**_\_ to the truthfulness of a chain email message (meaning, the presence of one or more of these factors only increases the probability that the content is bunk). I could likely write a program to analyze emails for these factors and identify about 100% of chain emails:  
 
 *   Font size > 12 point (less true the larger the font size)
 *   Forwarded so many times the original email is 4 or more levels below the most recent email

@@ -18,7 +18,7 @@ This is a very stark comparison.  I am sickened by the Dumbfuckistan residents 
   
 We need smart people, who know smart people for their cabinet, who will have the smarts and creativity to get us out of these messes we are in.  For all the talk of "experience" as the #1 factor for a president or VP, what about \_not being a dumbass like Sarah Palin\_?  Doesn't that count for something?  And further, wouldn't you say that pretty much any Harvard law grad would be a reasonable choice for President -- especially one toward the top of his class??  
   
-[Pharyngula: Elitism is not a four-letter word](http://scienceblogs.com/pharyngula/2008/10/elitism_is_not_a_fourletter_wo.php)  
+[Pharyngula: Elitism is not a four-letter word](https://scienceblogs.com/pharyngula/2008/10/elitism_is_not_a_fourletter_wo.php)  
   
 
 > **Educational Background:**  

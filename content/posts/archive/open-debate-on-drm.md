@@ -16,7 +16,7 @@ linter-yaml-title-alias: Open-debate-on-drm
 ---
 
 
-[WSJ.com - 'DRM' Protects Downloads, But Does It Stifle Innovation?](http://online.wsj.com/public/article/SB115047057428882434-1V_FEK_CJelMfytdST8APRW7cZw_20060720.html "WSJ.com - 'DRM' Protects Downloads, But Does It Stifle Innovation?")  
+[WSJ.com - 'DRM' Protects Downloads, But Does It Stifle Innovation?](https://online.wsj.com/public/article/SB115047057428882434-1V_FEK_CJelMfytdST8APRW7cZw_20060720.html "WSJ.com - 'DRM' Protects Downloads, But Does It Stifle Innovation?")  
   
 Remember, DRM = Digital **_Restriction_** Management.  
   

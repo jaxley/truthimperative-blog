@@ -15,7 +15,7 @@ linter-yaml-title-alias: Mosh-the-vote
 ---
 
 
-[the politics of Mosh](http://www.dailykos.com/story/2004/10/27/1473/8436) is a great, in-depth review of Eminem's new video for the song "Mosh" that is now the top video at MTV. Whatever you may think of Eminem, his music is always forceful and powerful and this is no exception. The video is exquisite. You can watch it online at [http://www.gnn.tv/content/eminem\_mosh.html](http://www.gnn.tv/content/eminem_mosh.html)  
+[the politics of Mosh](https://www.dailykos.com/story/2004/10/27/1473/8436) is a great, in-depth review of Eminem's new video for the song "Mosh" that is now the top video at MTV. Whatever you may think of Eminem, his music is always forceful and powerful and this is no exception. The video is exquisite. You can watch it online at [https://www.gnn.tv/content/eminem\_mosh.html](https://www.gnn.tv/content/eminem_mosh.html)  
   
 If it rains let it rain, yea the wetter the better  
 They ain't gonna stop us, they can't, we're stronger now more then ever,  

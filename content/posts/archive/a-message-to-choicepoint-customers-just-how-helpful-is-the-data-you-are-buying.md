@@ -15,7 +15,7 @@ linter-yaml-title-alias: A-message-to-choicepoint-customers-just-how-helpful-is-
 ---
 
 
-[The Five Most Shocking Things About the ChoicePoint Debacle - CSO Magazine - May 2005](http://www.csoonline.com/read/050105/choicepoint.html "The Five Most Shocking Things About the ChoicePoint Debacle - CSO Magazine - May 2005")  
+[The Five Most Shocking Things About the ChoicePoint Debacle - CSO Magazine - May 2005](https://www.csoonline.com/read/050105/choicepoint.html "The Five Most Shocking Things About the ChoicePoint Debacle - CSO Magazine - May 2005")  
   
 Maybe it was the fact that this wasn't a hack. Personal information of nearly 145,000 people wasn't stolen from ChoicePoint. In fact, the company sold the information to inadequately vetted bogus businesses--this when the company itself helps other businesses verify cred\[entials of employees or others using the data in their databank\].  
   

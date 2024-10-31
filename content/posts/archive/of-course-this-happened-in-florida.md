@@ -18,7 +18,7 @@ linter-yaml-title-alias: Of-course-this-happened-in-florida
 
 This might get the award for best article title too.  
   
-[The Seattle Times: Nation & World: He was naked, on crack and in alligator's mouth](http://seattletimes.nwsource.com/html/nationworld/2003456199_gator01.html)  
+[The Seattle Times: Nation & World: He was naked, on crack and in alligator's mouth](https://seattletimes.nwsource.com/html/nationworld/2003456199_gator01.html)  
 
 > "A gator's got me," Apgar replied, his voice faint in the background.  
 >   
@@ -35,4 +35,4 @@ This might get the award for best article title too.
 > leg. He underwent surgery Wednesday afternoon at Lakeland Regional  
 > Medical Center
 
-[](http://slashdot.org/article.pl?sid=06/12/01/2215241)
+[](https://slashdot.org/article.pl?sid=06/12/01/2215241)

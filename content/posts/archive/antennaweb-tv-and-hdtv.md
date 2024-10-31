@@ -17,4 +17,4 @@ linter-yaml-title-alias: Antennaweb-tv-and-hdtv
 ---
 
 
-[AntennaWeb](http://www.antennaweb.org/aw/welcome.aspx "AntennaWeb")
+[AntennaWeb](https://www.antennaweb.org/aw/welcome.aspx "AntennaWeb")

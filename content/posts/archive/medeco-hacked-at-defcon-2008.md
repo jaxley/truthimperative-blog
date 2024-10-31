@@ -18,6 +18,6 @@ Ahh, the holy grail. Basically, if anyone gets to photograph your medeco keys, a
   
 Add "Obtain photograph of building keys" as a node in your physical security threat models ;-)  
   
-[Working Medeco high-security keys can be whittled out of plastic - Boing Boing](http://www.boingboing.net/2008/08/08/working-medeco-highs.html)  
+[Working Medeco high-security keys can be whittled out of plastic - Boing Boing](https://www.boingboing.net/2008/08/08/working-medeco-highs.html)  
 
 > Researchers at DefCon in Vegas have demonstrated that they can make "high security" Medeco key-blanks out of the plastic used in credit-cards, and then whittle them into working keys by referring to low-resolution photos of original keys.

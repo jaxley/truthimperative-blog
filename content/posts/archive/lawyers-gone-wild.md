@@ -17,7 +17,7 @@ linter-yaml-title-alias: Lawyers-gone-wild
 ---
 
 
-[When Legal Strikes—Chaos Theory Meets DRM](http://www.eweek.com/article2/0,1759,1892713,00.asp?kc=EWRSS03129TX1K0000614 "When Legal Strikes—Chaos Theory Meets DRM")  
+[When Legal Strikes—Chaos Theory Meets DRM](https://www.eweek.com/article2/0,1759,1892713,00.asp?kc=EWRSS03129TX1K0000614 "When Legal Strikes—Chaos Theory Meets DRM")  
   
 
 >   

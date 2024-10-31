@@ -35,4 +35,4 @@ As if the health risks are just some kind of matter of opinion? Why not ask a qu
   
 "Researchers have shown that these machines emit X-rays in high enough doses that are concentrated at skin depth and may well increase the risk of cancer (skin, testicular, etc.), which will knowingly result in harming people each year -- more than the machines might save from terrorist attacks. Given this information, do you think that their usage is justified?"  
   
-[http://abcnews.go.com/Politics/abc-news-washington-post-poll-air-travel-security/story?id=12215139](http://abcnews.go.com/Politics/abc-news-washington-post-poll-air-travel-security/story?id=12215139)
+[https://abcnews.go.com/Politics/abc-news-washington-post-poll-air-travel-security/story?id=12215139](https://abcnews.go.com/Politics/abc-news-washington-post-poll-air-travel-security/story?id=12215139)

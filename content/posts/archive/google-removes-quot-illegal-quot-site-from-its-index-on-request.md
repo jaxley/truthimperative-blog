@@ -21,4 +21,4 @@ Seth Finkelstein has details on a troubling case about someone in Chester county
   
 So, all it takes is for someone to make a complaint, for google to not really research it, and you can get someone's site removed from google's cache.  
   
-[\[IP\] Google removal - Chester's Guide to Molesting Google](http://www.interesting-people.org/archives/interesting-people/200302/msg00211.html "[IP] Google removal - Chester's Guide to Molesting Google")
+[\[IP\] Google removal - Chester's Guide to Molesting Google](https://www.interesting-people.org/archives/interesting-people/200302/msg00211.html "[IP] Google removal - Chester's Guide to Molesting Google")

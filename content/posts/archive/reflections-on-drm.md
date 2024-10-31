@@ -36,4 +36,4 @@ I would think that the true value of a single digital, lossless-encoded, non-DRM
   
 And don't get me started on how absurd paying $1-2 for monotonic ringtones is. Why don't labels give those away for free as a promotional tool, ala radio? They just don't get it.  
   
-[TidBITS: Apple Changes the Face of Digital Music](http://db.tidbits.com/getbits.acgi?tbart=07175 "TidBITS: Apple Changes the Face of Digital Music")
+[TidBITS: Apple Changes the Face of Digital Music](https://db.tidbits.com/getbits.acgi?tbart=07175 "TidBITS: Apple Changes the Face of Digital Music")

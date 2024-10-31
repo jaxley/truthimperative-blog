@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:09-07:00
 ---
 
-[Australian IT - Oracle on track of secure search (, MARCH 07, 2006)](http://australianit.news.com.au/articles/0,7204,18341811%5E15841%5E%5Enbv%5E,00.html "Australian IT - Oracle on track of secure search (, MARCH 07, 2006)")  
+[Australian IT - Oracle on track of secure search (, MARCH 07, 2006)](https://australianit.news.com.au/articles/0,7204,18341811%5E15841%5E%5Enbv%5E,00.html "Australian IT - Oracle on track of secure search (, MARCH 07, 2006)")  
   
 
 >   

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Another-reason-to-buy-a-cross-cut-shredder
 ---
 
 
-[The Torn-Up Credit Card Application](http://www.cockeyed.com/citizen/creditcard/application.shtml "The Torn-Up Credit Card Application")  
+[The Torn-Up Credit Card Application](https://www.cockeyed.com/citizen/creditcard/application.shtml "The Torn-Up Credit Card Application")  
   
 They tore up their own credit card application, then changed the address and phone number and still got the card!  
   

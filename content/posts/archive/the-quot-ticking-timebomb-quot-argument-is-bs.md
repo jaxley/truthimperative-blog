@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 12:19:11-07:00
 ---
 
-[Once Upon a Time...: Lies in the Service of Evil](http://powerofnarrative.blogspot.com/2006/10/lies-in-service-of-evil.html "Once Upon a Time...: Lies in the Service of Evil")  
+[Once Upon a Time...: Lies in the Service of Evil](https://powerofnarrative.blogspot.com/2006/10/lies-in-service-of-evil.html "Once Upon a Time...: Lies in the Service of Evil")  
   
 
 > I have written about the utterly fictitious "ticking bomb" scenario on several occasions. Because I do not want to engage in this exercise ever again, I have assembled here the major relevant arguments, so that they will all be in one place.  

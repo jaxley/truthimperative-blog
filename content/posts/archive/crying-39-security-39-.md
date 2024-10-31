@@ -17,7 +17,7 @@ And now candidates are crying "security" to win elections... It works on both si
 \-J  
   
 
-> [WSJ.com - Companies Cry 'Security' to Get A Break From the Government](http://online.wsj.com/article_email/0,,SB10541572621041000,00.html "WSJ.com - Companies Cry 'Security' to Get A Break From the Government")  
+> [WSJ.com - Companies Cry 'Security' to Get A Break From the Government](https://online.wsj.com/article_email/0,,SB10541572621041000,00.html "WSJ.com - Companies Cry 'Security' to Get A Break From the Government")  
 >   
 > In Kansas, utilities want to raise rates without having to tell their customers why. Elsewhere, grocers and mall owners seek tax breaks for equipment purchases. And at sports arenas, teams want to keep banner-trailing planes away from their stadiums.  
 >   

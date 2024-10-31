@@ -14,7 +14,7 @@ linter-yaml-title-alias: Church-and-state-just-snuggled-closer
 ---
 
 
-[Americans United for the Separation of Church and State](http://www.commondreams.org/news2006/0907-01.htm "Americans United for the Separation of Church and State")  
+[Americans United for the Separation of Church and State](https://www.commondreams.org/news2006/0907-01.htm "Americans United for the Separation of Church and State")  
   
 
 >   

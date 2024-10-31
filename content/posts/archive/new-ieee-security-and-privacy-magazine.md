@@ -17,4 +17,4 @@ linter-yaml-title-alias: New-ieee-security-and-privacy-magazine
 
 I will have to check this out. Although, I have several piles of other publications to whittle down first.  
   
-"The IEEE Computer Society has created a new [magazine](http://www.computer.org/security/) called "Security and Privacy" specifically for the security community The magazine intends to present a balanced mix of scientific research and practical security discussion. "
+"The IEEE Computer Society has created a new [magazine](https://www.computer.org/security/) called "Security and Privacy" specifically for the security community The magazine intends to present a balanced mix of scientific research and practical security discussion. "

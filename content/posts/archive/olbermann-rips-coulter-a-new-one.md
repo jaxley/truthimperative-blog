@@ -15,6 +15,6 @@ linter-yaml-title-alias: Olbermann-rips-coulter-a-new-one
 ---
 
 
-[Olbermann slams Coulter: Shameless](http://www.crooksandliars.com/2006/06/07.html#a8626 "Crooks and Liars")  
+[Olbermann slams Coulter: Shameless](https://www.crooksandliars.com/2006/06/07.html#a8626 "Crooks and Liars")  
   
 Coulter's hate and hypocrisy are f\*ing sickening. Olbermann uses her own words and positions to destroy her and adds some choice ones of his own.

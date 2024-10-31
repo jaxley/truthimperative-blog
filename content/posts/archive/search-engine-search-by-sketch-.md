@@ -15,6 +15,6 @@ linter-yaml-title-alias: Search-engine-search-by-sketch-
 ---
 
 
-[retrievr - search by sketch](http://labs.systemone.at/retrievr/ "retrievr - search by sketch")  
+[retrievr - search by sketch](https://labs.systemone.at/retrievr/ "retrievr - search by sketch")  
   
-This is a lot of fun to see what search results you get. Maybe Google will pick up similar technology for Google [images](http://images.google.com) and [video](http://video.google.com)?
+This is a lot of fun to see what search results you get. Maybe Google will pick up similar technology for Google [images](https://images.google.com) and [video](https://video.google.com)?

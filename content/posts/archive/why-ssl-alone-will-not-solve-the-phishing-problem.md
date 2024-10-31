@@ -27,7 +27,7 @@ That is not to say that SSL does not have its problems:
   
 
   
-2.  Who made the trust decision to put the 50-100 CA certs in the browser? Why should the user trust those introducers? How do we know that those issuers won't screw up (like Equifax/GeoTrust did recently by issuing a domain-verified cert automatically that was very similar to a real bank: [http://jordy.gundy.org/?p=49](http://jordy.gundy.org/?p=49))
+2.  Who made the trust decision to put the 50-100 CA certs in the browser? Why should the user trust those introducers? How do we know that those issuers won't screw up (like Equifax/GeoTrust did recently by issuing a domain-verified cert automatically that was very similar to a real bank: [https://jordy.gundy.org/?p=49](https://jordy.gundy.org/?p=49))
   
 4.    
     The UI is horrible for security. The lock is too small, it is too easy for the "simon says" problem to bite you since you don't notice when it isn't there. Some changes, such as changing the browser toolbar color based on the encryption will help, but Firefox and IE7 use different color schemes for the same semantics...

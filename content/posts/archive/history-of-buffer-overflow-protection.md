@@ -67,17 +67,17 @@ check out these papers:
 "Buffer Overflows: Attacks and Defenses for the Vulnerability of  
 the Decade". Crispin Cowan, Perry Wagle, Calton Pu, Steve Beattie,  
 and Jonathan Walpole. DARPA Information Survivability Conference and  
-Expo (DISCEX) [http://schafercorp-ballston.com/discex/](http://schafercorp-ballston.com/discex/), Hilton Head  
+Expo (DISCEX) [https://schafercorp-ballston.com/discex/](https://schafercorp-ballston.com/discex/), Hilton Head  
 Island SC, January 2000. Also presented as an invited talk at SANS  
-2000 [http://www.sans.org/sans2000/sans2000.htm](http://www.sans.org/sans2000/sans2000.htm), Orlando FL, March  
-2000\. PDF [http://immunix.com/%7Ecrispin/discex00.pdf](http://immunix.com/%7Ecrispin/discex00.pdf).  
+2000 [https://www.sans.org/sans2000/sans2000.htm](https://www.sans.org/sans2000/sans2000.htm), Orlando FL, March  
+2000\. PDF [https://immunix.com/%7Ecrispin/discex00.pdf](https://immunix.com/%7Ecrispin/discex00.pdf).  
   
 "Software Security for Open Source Systems". Crispin Cowan. IEEE  
-Security & Privacy Magazine [http://www.computer.org/security/](http://www.computer.org/security/),  
+Security & Privacy Magazine [https://www.computer.org/security/](https://www.computer.org/security/),  
 February 2003, Volume 1, Number 1  
-[http://www.computer.org/security/sp2003/j1toc.htm?SMSESSION=NO](http://www.computer.org/security/sp2003/j1toc.htm?SMSESSION=NO),  
+[https://www.computer.org/security/sp2003/j1toc.htm?SMSESSION=NO](https://www.computer.org/security/sp2003/j1toc.htm?SMSESSION=NO),  
 pages 35-48. PDF  
-[http://wirex.com/%7Ecrispin/opensource\_security\_survey.pdf](http://wirex.com/%7Ecrispin/opensource_security_survey.pdf).  
+[https://wirex.com/%7Ecrispin/opensource\_security\_survey.pdf](https://wirex.com/%7Ecrispin/opensource_security_survey.pdf).  
   
-Crispin Cowan, Ph.D., Chief Scientist, Immunix http://immunix.com  
-http://immunix.com/~crispin/ http://www.immunix.com/shop/
+Crispin Cowan, Ph.D., Chief Scientist, Immunix https://immunix.com  
+https://immunix.com/~crispin/ https://www.immunix.com/shop/

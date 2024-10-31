@@ -13,4 +13,4 @@ url: /2007/06/7-senators-vote-against-habeas-corpus.html
 
 Senator Brownback (US Presidential Candidate) and 6 other Republican Senators voted against the Restoration of Habeas Corpus act.  Un-freaking-believable.  
   
-[Crooks and Liars » Jonathan Turley Slams Bush, Republicans On Habeas Corpus](http://www.crooksandliars.com/2007/06/07/jonathan-turley-slams-bush-republicans-on-habeas-corpus/)
+[Crooks and Liars » Jonathan Turley Slams Bush, Republicans On Habeas Corpus](https://www.crooksandliars.com/2007/06/07/jonathan-turley-slams-bush-republicans-on-habeas-corpus/)

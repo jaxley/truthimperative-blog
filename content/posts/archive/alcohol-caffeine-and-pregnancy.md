@@ -23,7 +23,7 @@ Summary:
 Caffeine bad ("Pregnant women should avoid caffeine because of potential effects on  
 fetal growth and spontaneous abortion."), Alcohol seems okay in moderation (i.e. no known conclusive data exists that shows a problem with low intake during pregnancy)  
   
-[Science-Based Medicine » Alcohol and Pregnancy](http://www.sciencebasedmedicine.org/?p=5116)  
+[Science-Based Medicine » Alcohol and Pregnancy](https://www.sciencebasedmedicine.org/?p=5116)  
   
 "The scientific evidence has not identified a threshold below which  
 alcohol consumption during pregnancy is definitely safe, but neither has  
@@ -31,4 +31,4 @@ it shown any convincing evidence of harm at low levels of intake, and
 it has not ruled out the possibility that low levels might provide a  
 small benefit."  
 
-[NeuroLogica Blog » Caffeine](http://www.theness.com/neurologicablog/?p=2023)
+[NeuroLogica Blog » Caffeine](https://www.theness.com/neurologicablog/?p=2023)

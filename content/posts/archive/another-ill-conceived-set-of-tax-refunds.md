@@ -23,4 +23,4 @@ linter-yaml-title-alias: Another-ill-conceived-set-of-tax-refunds
 4\. Companies want refunds of taxes paid on those earnings  
 5\. Unbelievably, they get the refunds!  
   
-[Firms Want Refunds Of Tax on Fake Profit (TechNews.com)](http://www.washingtonpost.com/wp-dyn/articles/A7656-2003May2.html "Firms Want Refunds Of Tax on Fake Profit (TechNews.com)")
+[Firms Want Refunds Of Tax on Fake Profit (TechNews.com)](https://www.washingtonpost.com/wp-dyn/articles/A7656-2003May2.html "Firms Want Refunds Of Tax on Fake Profit (TechNews.com)")

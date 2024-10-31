@@ -20,7 +20,7 @@ The worst outcome of the religious-based morality is that they do not follow a s
   
 This is my favorite section of the article that nicely summarizes some very damning criticism of the bible as a moral compass:  
   
-[RichardDawkins.net - The Official Richard Dawkins Website](http://richarddawkins.net/article,1229,n,n)  
+[RichardDawkins.net - The Official Richard Dawkins Website](https://richarddawkins.net/article,1229,n,n)  
 
 > If a book like the Bible were the only reliable blueprint for human decency that we had, it would be impossible (both practically and logically) to criticize it in moral terms. But it is extraordinarily easy to criticize the morality one finds in the Bible, as most of it is simply odious and incompatible with a civil society.  
 >   

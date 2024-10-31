@@ -22,4 +22,4 @@ And the more difficult thing to do that vim makes easy is deleting non-matching 
 
 > :g!/.\*foo.\*/d
 
-[Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Delete Lines Matching Keyword](http://dailyvim.blogspot.com/2008/03/delete-lines-matching-keyword.html)
+[Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Delete Lines Matching Keyword](https://dailyvim.blogspot.com/2008/03/delete-lines-matching-keyword.html)

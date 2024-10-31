@@ -16,11 +16,11 @@ linter-yaml-title-alias: Democratic-leaders-need-a-spine-say-no-to-fisa-compromi
 
 This points out how the Democrats aren't capitalizing on this issue which is working against the Republicans. Show how the Democratic party is about freedom and the Republicans are about unitary executive and a police state.  
   
-[Daily Kos: State of the Nation: McCain's FISA Flip-Flops Still in the News](http://www.dailykos.com/storyonly/2008/6/14/13102/4913)  
+[Daily Kos: State of the Nation: McCain's FISA Flip-Flops Still in the News](https://www.dailykos.com/storyonly/2008/6/14/13102/4913)  
   
 Now, take some action and tell your congresscritters to take a stand on our rights. Thanks to CREDO Mobile!  
   
-[Say No to Senator Bond's FISA Capitulation](http://act.credoaction.com/campaign/no_fisa_capitulation/?rc=homepage)  
+[Say No to Senator Bond's FISA Capitulation](https://act.credoaction.com/campaign/no_fisa_capitulation/?rc=homepage)  
 
 > For over 30 years, the Foreign Intelligence Surveillance Act (FISA) has dictated necessary and appropriate ways for the U.S. government to collect intelligence on its own citizens for the sake of national security. Two key provisions of this law are that:  
 >   

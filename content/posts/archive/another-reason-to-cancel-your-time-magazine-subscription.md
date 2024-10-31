@@ -19,6 +19,6 @@ First Ann Coulter on the cover of Time, now a so-called-news story on religion v
   
 "Welcome to Jesusland" Part Deux...  
   
-[The United States of Almighty-God](http://whohastimeforthis.blogspot.com/2005/08/united-states-of-almighty-god.html)  
+[The United States of Almighty-God](https://whohastimeforthis.blogspot.com/2005/08/united-states-of-almighty-god.html)  
   
 Ugh.

@@ -17,7 +17,7 @@ linter-yaml-title-alias: Eff-breaks-secret-tracking-quot-dot-code-quot-
 ---
 
 
-[EFF: DocuColor Tracking Dot Decoding Guide](http://www.eff.org/Privacy/printers/docucolor/ "EFF: DocuColor Tracking Dot Decoding Guide")  
+[EFF: DocuColor Tracking Dot Decoding Guide](https://www.eff.org/Privacy/printers/docucolor/ "EFF: DocuColor Tracking Dot Decoding Guide")  
   
 This is a breakthrough. It has been rumoured for years that printers and copy machines include secret codes on documents to track them back to the source machine but the EFF now has real evidence and even tools that you can use to perhaps decode your printer's secret tracking information.  
   

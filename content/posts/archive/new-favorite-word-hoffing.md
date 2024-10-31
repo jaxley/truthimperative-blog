@@ -15,4 +15,4 @@ linter-yaml-title-alias: New-favorite-word-hoffing
 ---
 
 
-[Hackers no hassle: Hoff - People - Entertainment - theage.com.au](http://www.theage.com.au/news/people/hackers-no-hassle-hoff/2005/10/18/1129401238164.html "Hackers no hassle: Hoff - People - Entertainment - theage.com.au")
+[Hackers no hassle: Hoff - People - Entertainment - theage.com.au](https://www.theage.com.au/news/people/hackers-no-hassle-hoff/2005/10/18/1129401238164.html "Hackers no hassle: Hoff - People - Entertainment - theage.com.au")

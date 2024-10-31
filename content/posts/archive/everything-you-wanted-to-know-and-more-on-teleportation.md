@@ -15,7 +15,7 @@ linter-yaml-title-alias: Everything-you-wanted-to-know-and-more-on-teleportation
 ---
 
 
-[Teleportation -- Facts, Info, and Encyclopedia article](http://www.absoluteastronomy.com/encyclopedia/t/te/teleportation.htm "Teleportation -- Facts, Info, and Encyclopedia article")  
+[Teleportation -- Facts, Info, and Encyclopedia article](https://www.absoluteastronomy.com/encyclopedia/t/te/teleportation.htm "Teleportation -- Facts, Info, and Encyclopedia article")  
   
 
 >   

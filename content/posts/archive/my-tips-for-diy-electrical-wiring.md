@@ -15,7 +15,7 @@ linter-yaml-title-alias: My-tips-for-diy-electrical-wiring
 ---
 
 
-I recently finished wiring my second kitchen and wanted to document and share the tips that I've learned. I'm not an electrician so when in doubt, check your local regulations and refer to the National Fire Prevention Association's National Electrical Code ([NFPA 70](http://www.nfpa.org/catalog/product.asp?pid=7005SB&order_src=A291)) But, doing your wiring yourself can save you A LOT of money. It is really not that difficult if you read up on the requirements and practice with someone who has done it before. The inspectors are generally patient with you as a DIY homeowner and will help guide you along if you ask them questions.  
+I recently finished wiring my second kitchen and wanted to document and share the tips that I've learned. I'm not an electrician so when in doubt, check your local regulations and refer to the National Fire Prevention Association's National Electrical Code ([NFPA 70](https://www.nfpa.org/catalog/product.asp?pid=7005SB&order_src=A291)) But, doing your wiring yourself can save you A LOT of money. It is really not that difficult if you read up on the requirements and practice with someone who has done it before. The inspectors are generally patient with you as a DIY homeowner and will help guide you along if you ask them questions.  
   
 Kitchen minimum circuit requirements:  
   
@@ -111,4 +111,4 @@ Here are the required inspections since this is not apparent to the layperson do
   
 Here are a couple of helpful resources:  
   
-[Codecheck.com](http://www.codecheck.com/eleccode.htm) and also this [checklist](http://www.codecheck.com/pg27_28electrical.html).
+[Codecheck.com](https://www.codecheck.com/eleccode.htm) and also this [checklist](https://www.codecheck.com/pg27_28electrical.html).

@@ -20,4 +20,4 @@ were 0.1 and 0.3 per 1,000 lines of code. "
   
 Because of the very limited scope of this audit, and because who knows what specific defects were being tested out of the set of all possible defects, I would not be so quick to draw sweeping conclusions from it. However, it is very interesting in itself.  
   
-[Study lauds open-source code quality](http://news.com.com/2100-1001-985221.html?tag=fd_top)
+[Study lauds open-source code quality](https://news.com.com/2100-1001-985221.html?tag=fd_top)

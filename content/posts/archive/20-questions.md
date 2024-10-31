@@ -14,7 +14,7 @@ url: /2005/09/20-questions.html
 ---
 
 
-[20 questions: AI style](http://www.20q.net/)  
+[20 questions: AI style](https://www.20q.net/)  
   
 This is pretty freaky that a computer can guess what you are thinking...  
   

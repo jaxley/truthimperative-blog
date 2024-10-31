@@ -24,7 +24,7 @@ You would think that if the institution of marriage was so sacred, that the peop
   
 This essay puts a finer point on this than I could:  
   
-[Atheist Ethicist: The Immorality of Homosexual Marriage](http://atheistethicist.blogspot.com/2008/06/immorality-of-homosexual-marriage.html)  
+[Atheist Ethicist: The Immorality of Homosexual Marriage](https://atheistethicist.blogspot.com/2008/06/immorality-of-homosexual-marriage.html)  
 
 > Yet, none of that is relevant to the point of this essay – that a society that permits homosexual marriage is more moral than a society that does not.  
 >   
@@ -35,11 +35,11 @@ This essay puts a finer point on this than I could:
 > I would like to hear the fact that reported that those who wish to prohibit homosexual marriage and who defend it through scripture are no different in principle than those who wrote into the U.S. Constitution that black slavery was permissible and defended it with references to scripture.  
 
 Some reasoned answers to the common illogical rationales:  
-[Americans United: The Federal Marriage Amendment: Some Questions and Answers](http://www.au.org/site/PageServer?pagename=issues_marriage_faq)  
+[Americans United: The Federal Marriage Amendment: Some Questions and Answers](https://www.au.org/site/PageServer?pagename=issues_marriage_faq)  
   
 And for those who seek to ban same-sex marriage, here is a list of several things that same-sex couples are not granted \_**_by the State_**\_ that heterosexual couples benefit from.  Therefore, it is immoral to deny these rights, especially without justification.  
   
-[HRC | Questions about Same-Sex Marriage](http://www.hrc.org/issues/5517.htm)  
+[HRC | Questions about Same-Sex Marriage](https://www.hrc.org/issues/5517.htm)  
 
 > *   Hospital visitation. Married couples have the automatic right to visit each other in the hospital and make medical decisions. Same-sex couples can be denied the right to visit a sick or injured loved one in the hospital.
 > *   Social Security benefits. Married people receive Social Security payments upon the death of a spouse. Despite paying payroll taxes, gay and lesbian workers receive no Social Security survivor benefits – resulting in an average annual income loss of $5,528 upon the death of a partner.

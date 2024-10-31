@@ -20,7 +20,7 @@ Rob McKenna is a good friend of the Security community here in Washington. Go ge
 > 'Continue' to purchase your license and stop these reminders."   The  
 > pop-ups remain on the screen for 40 seconds and cannot be closed during that time. McKenna also said that computer owners are not obligated to honor contracts entered into by others using their computers.
 > 
-> [http://www.theregister.co.uk/2006/08/16/washington\_movie\_spyware\_lawsuit/print.html](http://www.theregister.co.uk/2006/08/16/washington_movie_spyware_lawsuit/print.html)  
-> [http://www.networkworld.com/news/2006/081406-washington-sues-movie-download-service.html](http://www.networkworld.com/news/2006/081406-washington-sues-movie-download-service.html)
+> [https://www.theregister.co.uk/2006/08/16/washington\_movie\_spyware\_lawsuit/print.html](https://www.theregister.co.uk/2006/08/16/washington_movie_spyware_lawsuit/print.html)  
+> [https://www.networkworld.com/news/2006/081406-washington-sues-movie-download-service.html](https://www.networkworld.com/news/2006/081406-washington-sues-movie-download-service.html)
 > 
 >

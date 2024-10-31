@@ -31,4 +31,4 @@ So back in to configure additional SNAT and routing rules with a virtual interfa
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=498a6d1e-5878-875f-8e0f-0b78f98ef944) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=498a6d1e-5878-875f-8e0f-0b78f98ef944) -->

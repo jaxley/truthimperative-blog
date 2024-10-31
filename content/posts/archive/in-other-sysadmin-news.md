@@ -18,8 +18,8 @@ linter-yaml-title-alias: In-other-sysadmin-news
 ---
 
 
-I also finally started using the excellent [PromoteThis](http://www.majordojo.com/movable_type/promote_this.php) plugin to create the nice links to digg.  
+I also finally started using the excellent [PromoteThis](https://www.majordojo.com/movable_type/promote_this.php) plugin to create the nice links to digg.  
   
-Also, I had to install the [MTStripControlChars](http://golem.ph.utexas.edu/~distler/blog/archives/000347.html) plugin, but an updated one from an entry at the [VOIP and Gadgets Blog](http://blog.tmcnet.com/blog/tom-keating/movabletype/movabletype-garbage-characters-problem.asp) to keep Windows 1252 encoded characters (mostly quotes and double-quotes) from creeping into postings. It happens a lot with pasted in text from websites. Ugh.  
+Also, I had to install the [MTStripControlChars](https://golem.ph.utexas.edu/~distler/blog/archives/000347.html) plugin, but an updated one from an entry at the [VOIP and Gadgets Blog](https://blog.tmcnet.com/blog/tom-keating/movabletype/movabletype-garbage-characters-problem.asp) to keep Windows 1252 encoded characters (mostly quotes and double-quotes) from creeping into postings. It happens a lot with pasted in text from websites. Ugh.  
   
 You know, it's kind of irritating that the MTAmazon and MTBlogroll plugins aren't XHTML compliant yet. I may just contribute some fixes to do proper URL entity encoding. I had a ton of HTML cruft from migrating from various template versions and bad Sidebars I didn't test. Fortunately, the browsers didn't seem to mind. All of the HTML I could clean up should be cleaned up now, save for some possible issues from Performancing-edited posts. Can't wait for the revival of Performancing...

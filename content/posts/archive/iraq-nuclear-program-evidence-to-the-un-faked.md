@@ -17,4 +17,4 @@ linter-yaml-title-alias: Iraq-nuclear-program-evidence-to-the-un-faked
 ---
 
 
-[\[IP\] Some Evidence on Iraq Called Fake U.N. Nuclear Inspector SaysDocum](http://www.interesting-people.org/archives/interesting-people/200303/msg00101.html "[IP] Some Evidence on Iraq Called Fake U.N. Nuclear Inspector SaysDocum")
+[\[IP\] Some Evidence on Iraq Called Fake U.N. Nuclear Inspector SaysDocum](https://www.interesting-people.org/archives/interesting-people/200303/msg00101.html "[IP] Some Evidence on Iraq Called Fake U.N. Nuclear Inspector SaysDocum")

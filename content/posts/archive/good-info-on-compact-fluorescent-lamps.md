@@ -18,4 +18,4 @@ linter-yaml-title-alias: Good-info-on-compact-fluorescent-lamps
 
 Plus recommendations on where to, and where not to, use them, based on the best use of the technology for the money without excessive wear on the lamps.  
   
-[What C.F. Lamps to Use Where](http://members.misty.com/don/cfapp.html)
+[What C.F. Lamps to Use Where](https://members.misty.com/don/cfapp.html)

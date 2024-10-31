@@ -19,6 +19,6 @@ linter-yaml-title-alias: Dmca-still-stands-but-now-with-some-exemptions
 
 It's still a shitty law though.  Something else I will happily ignore to avoid my fair use rights being infringed.  Again, how could I watch DVDs (legally rented/owned) on my Linux box without doing so?  
   
-[Boing Boing: Copyright Office creates 6 DMCA exemptions](http://www.boingboing.net/2006/11/24/copyright_office_cre.html)  
+[Boing Boing: Copyright Office creates 6 DMCA exemptions](https://www.boingboing.net/2006/11/24/copyright_office_cre.html)  
 
 > the office refused to grant exemptions that would benefit the general public -- space- and format-shifting, backing up your DVDs -- and they took back an earlier exemption that let people reverse-engineer the blacklists maintained by censorware companies to bring some transparency to their process.

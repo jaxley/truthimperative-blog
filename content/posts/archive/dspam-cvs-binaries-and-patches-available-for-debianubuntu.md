@@ -14,8 +14,8 @@ linter-yaml-title-alias: Dspam-cvs-binaries-and-patches-available-for-debianubun
 ---
 
 
-I finally have my patches and binaries for the latest version of [dspam](http://dspam.nuclearelephant.com/) cvs available at [my oz.net page](http://www.oz.net/~jaxley/) for download. There have been upwards of 30 patches applied to dspam 3.8.0 in the cvs version that fix all kinds of bugs so it is nice to be able to run the latest and greatest. It is likely to be more stable than the 3.8.0 binaries out there even for bleeding edge... Lots of memory leaks fixed as well in this version.  
+I finally have my patches and binaries for the latest version of [dspam](https://dspam.nuclearelephant.com/) cvs available at [my oz.net page](https://www.oz.net/~jaxley/) for download. There have been upwards of 30 patches applied to dspam 3.8.0 in the cvs version that fix all kinds of bugs so it is nice to be able to run the latest and greatest. It is likely to be more stable than the 3.8.0 binaries out there even for bleeding edge... Lots of memory leaks fixed as well in this version.  
   
 You can follow similar instructions from my previous post:  
   
-[Postfix + DSPAM 3.8.0 + Ubuntu](http://www.blogger.com/archives/2007/11/postfix_dspam_3_1.html) if you want to build this from scratch.
+[Postfix + DSPAM 3.8.0 + Ubuntu](https://www.blogger.com/archives/2007/11/postfix_dspam_3_1.html) if you want to build this from scratch.

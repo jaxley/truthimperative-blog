@@ -32,7 +32,7 @@ Repeat after me: Identifiers are not Authenticators.
 
   
   
-So, because of this mess, you need to know how to protect yourself. [Know your rights about bank account fraud](http://www.msnbc.msn.com/id/8915217/).  
+So, because of this mess, you need to know how to protect yourself. [Know your rights about bank account fraud](https://www.msnbc.msn.com/id/8915217/).  
   
 Perry Metzger's posting to the cryptography mailing list recently about the problems of financial fraud were spot on:  
   

@@ -14,4 +14,4 @@ updated: 2024-10-10 10:49:43-07:00
 
 A press release on RSA's website announces that a unanimous verdict was reached on all infringement claims in favor of the defendants, RSA Security Inc. and Verisign Inc.  
   
-[RSA Security | RSA Security Wins SSL Patent Infringement Trial](http://www.rsasecurity.com/company/news/releases/pr.asp?doc_id=1577 "RSA Security | RSA Security Wins SSL Patent Infringement Trial")
+[RSA Security | RSA Security Wins SSL Patent Infringement Trial](https://www.rsasecurity.com/company/news/releases/pr.asp?doc_id=1577 "RSA Security | RSA Security Wins SSL Patent Infringement Trial")

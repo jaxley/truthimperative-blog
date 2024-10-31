@@ -15,7 +15,7 @@ linter-yaml-title-alias: No-city-official-left-behind
 ---
 
 
-[Local officials nearly fall for H2O hoax - Science - MSNBC.com](http://www.msnbc.msn.com/id/4534017/ "Local officials nearly fall for H2O hoax - Science - MSNBC.com")  
+[Local officials nearly fall for H2O hoax - Science - MSNBC.com](https://www.msnbc.msn.com/id/4534017/ "Local officials nearly fall for H2O hoax - Science - MSNBC.com")  
   
 They should also make sure that their hand isn't larger than their face or they might have cancer.  
   

@@ -18,4 +18,4 @@ Ahh.  Wonder who will take his place to continue the divisive self-righteous co
   
 There is a short timeline of many of the controversial public incidents with Falwell at The Carpetbagger Report.  
   
-[The Carpetbagger Report » Blog Archive » Jerry Falwell dies at age 73](http://www.thecarpetbaggerreport.com/archives/10806.html)
+[The Carpetbagger Report » Blog Archive » Jerry Falwell dies at age 73](https://www.thecarpetbaggerreport.com/archives/10806.html)

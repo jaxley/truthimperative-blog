@@ -15,6 +15,6 @@ linter-yaml-title-alias: Right-wing-pundit-wankers-more-good-use-of-free-speech
 ---
 
 
-[scootmandubious: GOP's Revealing Response To Foley Scandal](http://scootmandubious.blogspot.com/2006/10/gops-revealing-response-to-foley.html "scootmandubious: GOP's Revealing Response To Foley Scandal")  
+[scootmandubious: GOP's Revealing Response To Foley Scandal](https://scootmandubious.blogspot.com/2006/10/gops-revealing-response-to-foley.html "scootmandubious: GOP's Revealing Response To Foley Scandal")  
   
 Step right up! Join your fellow Right-wingers and go on record as a child predator apologist! Downplay the crime of statutory rape! Justify the coverup as necessary for political reasons!

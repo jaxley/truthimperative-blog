@@ -15,6 +15,6 @@ linter-yaml-title-alias: Geeky-xmas-gifts-for-under-100
 ---
 
 
-[MAKE: Blog: MAKE's Mostly Under $100 Gift Guide 2005!](http://www.makezine.com/blog/archive/2005/12/makes_mostly_under_100_gift_gu.html#more "MAKE: Blog: MAKE's Mostly Under $100 Gift Guide 2005!")  
+[MAKE: Blog: MAKE's Mostly Under $100 Gift Guide 2005!](https://www.makezine.com/blog/archive/2005/12/makes_mostly_under_100_gift_gu.html#more "MAKE: Blog: MAKE's Mostly Under $100 Gift Guide 2005!")  
   
 What a cool list. I'm sure I'd enjoy anything on this list--even the PVC pipe (I do have a kitchen remodel coming up...)

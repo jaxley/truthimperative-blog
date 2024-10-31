@@ -15,7 +15,7 @@ linter-yaml-title-alias: Blockbuster-busted
 ---
 
 
-[BLOCKBUSTER SETTLES INVESTIGATION INTO ADVERTISING FOR "NO LATE FEE" PROGRAM](http://www.oag.state.ny.us/press/2005/mar/mar29b_05.html "BLOCKBUSTER SETTLES INVESTIGATION INTO ADVERTISING FOR ")  
+[BLOCKBUSTER SETTLES INVESTIGATION INTO ADVERTISING FOR "NO LATE FEE" PROGRAM](https://www.oag.state.ny.us/press/2005/mar/mar29b_05.html "BLOCKBUSTER SETTLES INVESTIGATION INTO ADVERTISING FOR ")  
   
 For the most part, this is a good thing. It was addressed fairly quickly for one. I'm not sure that, aside from the negative publicity, that this is going to dissuade them from continuing with other deceptive practices because, according to the agreement, they do not have to do anything other than:  
   

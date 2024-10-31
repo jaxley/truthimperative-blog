@@ -23,4 +23,4 @@ Case in point is PeopleSoft (Oracle)  I happened to need to report some vacatio
 Okay, 99.9% of all other UIs would have the logic 180 degrees opposite of this (choose OK to continue, Cancel to go back).  But why be conventional when you can be obtuse?  
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=deb9778e-8882-86d2-9ad1-e698a247a7f9) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=deb9778e-8882-86d2-9ad1-e698a247a7f9) -->

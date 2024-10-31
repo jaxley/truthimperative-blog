@@ -18,7 +18,7 @@ linter-yaml-title-alias: Can-you-actually-fly-without-providing-id
 ---
 
 
-[IDP : Investigation](http://www.papersplease.org/investigation.html "IDP : Investigation")  
+[IDP : Investigation](https://www.papersplease.org/investigation.html "IDP : Investigation")  
   
 
 >   

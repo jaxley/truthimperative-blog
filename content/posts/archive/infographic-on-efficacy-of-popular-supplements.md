@@ -18,4 +18,4 @@ The really cool thing is that the whole graphic is backed by a google doc spread
   
 I think that skeptics need to do more and more of these things to consolidate the current state of affairs for all kinds of scientific questions that are muddied by woo proponents.  
   
-[Snake Oil? The scientific evidence for health supplements](http://www.informationisbeautiful.net/play/snake-oil-supplements/)
+[Snake Oil? The scientific evidence for health supplements](https://www.informationisbeautiful.net/play/snake-oil-supplements/)

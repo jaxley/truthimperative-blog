@@ -18,10 +18,10 @@ Very cool developments in biology.
   
 Interesting that the first article involves changing cells from one species to another.  Wonder what the Intelligent Design folks would say about that (they often argue that we have never observed one species becoming another)  
   
-[Daily Kos: Science Friday: The Legos of Life](http://www.dailykos.com/storyonly/2007/6/29/10441/5169)  
+[Daily Kos: Science Friday: The Legos of Life](https://www.dailykos.com/storyonly/2007/6/29/10441/5169)  
 
 > The team at the J. Craig Venter Institute took all of the genes from one species of bacteria, Mycoplasma mycoides, and transferred them into another, Mycoplasma capricolum. The result: The genes from the mycoides took over, changing the cells from one species to another simply by moving around DNA.
 
-[ABC News: Scientist Build a 'Brain' From Rat Cells](http://abcnews.go.com/Technology/DyeHard/story?id=198839&page=1)  
+[ABC News: Scientist Build a 'Brain' From Rat Cells](https://abcnews.go.com/Technology/DyeHard/story?id=198839&page=1)  
 
 > The Combination of Biology and Technology Can Be Trained to Fly a Flight Simulator

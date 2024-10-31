@@ -15,4 +15,4 @@ After sending out the umpteenth rebuttal of a demonstrably untrue email this wee
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=226b437c-dffa-444b-94b9-47e9e6459fb6) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=226b437c-dffa-444b-94b9-47e9e6459fb6) -->

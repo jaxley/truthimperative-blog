@@ -15,6 +15,6 @@ linter-yaml-title-alias: Searing-discount-of-liebermann-win
 ---
 
 
-[The Insignificance of Lieberman - TalkLeft: The Politics Of Crime](http://www.talkleft.com/story/2006/11/8/135838/424 "The Insignificance of Lieberman - TalkLeft: The Politics Of Crime")  
+[The Insignificance of Lieberman - TalkLeft: The Politics Of Crime](https://www.talkleft.com/story/2006/11/8/135838/424 "The Insignificance of Lieberman - TalkLeft: The Politics Of Crime")  
   
 What Big Tent Democrat says.

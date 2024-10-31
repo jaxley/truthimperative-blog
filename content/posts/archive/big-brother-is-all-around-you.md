@@ -22,4 +22,4 @@ ABCNews is reporting that several police agencies are under fire for domestic sp
   
 I hope that Seattle maintains their current ban on this practice.  
   
-[ABCNEWS.com : Is Police Spying Back in Fashion?](http://abcnews.go.com/sections/us/DailyNews/police_spying030102.html "ABCNEWS.com : Is Police Spying Back in Fashion?")
+[ABCNEWS.com : Is Police Spying Back in Fashion?](https://abcnews.go.com/sections/us/DailyNews/police_spying030102.html "ABCNEWS.com : Is Police Spying Back in Fashion?")

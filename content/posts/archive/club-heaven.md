@@ -16,6 +16,6 @@ linter-yaml-title-alias: Club-heaven
 
 75% of Americans think they'll get into Heaven?  They must be Evangelicals whose sole criteria is "belief" and not "good deeds"...  At least I'll have lots of friends in hell.  
   
-[ABC News: Poll: Elbow Room No Problem in Heaven](http://abcnews.go.com/2020/Beliefs/story?id=1422658)  
+[ABC News: Poll: Elbow Room No Problem in Heaven](https://abcnews.go.com/2020/Beliefs/story?id=1422658)  
 
 > Who gets in is another matter. Among people who believe in heaven, one in four thinks access is limited to Christians. More than a third of Protestants feel that way, and this view peaks at 55 percent among Protestants who describe themselves as very religious.

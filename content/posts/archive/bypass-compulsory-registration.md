@@ -15,6 +15,6 @@ linter-yaml-title-alias: Bypass-compulsory-registration
 ---
 
 
-[Bugmenot.com - login with these free web passwords to bypass compulsory registration](http://www.bugmenot.com/ "Bugmenot.com - login with these free web passwords to bypass compulsory registration")  
+[Bugmenot.com - login with these free web passwords to bypass compulsory registration](https://www.bugmenot.com/ "Bugmenot.com - login with these free web passwords to bypass compulsory registration")  
   
 What a great idea.

@@ -16,4 +16,4 @@ linter-yaml-title-alias: More-black-marks-for-dhs
 ---
 
 
-[Think Progress: Homeland Insecurity.](http://thinkprogress.org/2006/06/16/homeland-insecurity-2/ "Think Progress � Homeland Insecurity.")
+[Think Progress: Homeland Insecurity.](https://thinkprogress.org/2006/06/16/homeland-insecurity-2/ "Think Progress � Homeland Insecurity.")

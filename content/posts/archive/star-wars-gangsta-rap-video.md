@@ -10,6 +10,6 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 15:00:16-07:00
 ---
 
-[Star Wars Gangsta Rap](http://www.shockwave.com/af/content/gangsta_rap)  
+[Star Wars Gangsta Rap](https://www.shockwave.com/af/content/gangsta_rap)  
   
 The funniest part I think are the stormtroopers. What a bunch of nancies...

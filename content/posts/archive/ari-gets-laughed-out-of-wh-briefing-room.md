@@ -15,6 +15,6 @@ linter-yaml-title-alias: Ari-gets-laughed-out-of-wh-briefing-room
 ---
 
 
-[\[IP\] Must Read and See: Ari Gets Laughed Out of WH Briefing Room\]](http://www.interesting-people.org/archives/interesting-people/200302/msg00212.html "[IP] Must Read and See: Ari Gets Laughed Out of WH Briefing Room]")  
+[\[IP\] Must Read and See: Ari Gets Laughed Out of WH Briefing Room\]](https://www.interesting-people.org/archives/interesting-people/200302/msg00212.html "[IP] Must Read and See: Ari Gets Laughed Out of WH Briefing Room]")  
   
-Join in [laughing Ari Fleischer out of the briefing room](http://video.c-span.org:8080/ramgen/edrive/iraq022503_whpb.rm?mode=compact). Start at about 30 minutes into the tape when Ari is being repeatedly questioned about US diplomat quotes that some aid packages are being offered to Mexico and Columbia relating to their upcoming UN Security Council votes.
+Join in [laughing Ari Fleischer out of the briefing room](https://video.c-span.org:8080/ramgen/edrive/iraq022503_whpb.rm?mode=compact). Start at about 30 minutes into the tape when Ari is being repeatedly questioned about US diplomat quotes that some aid packages are being offered to Mexico and Columbia relating to their upcoming UN Security Council votes.

@@ -17,7 +17,7 @@ I still run into people who believe that PKI is a viable end-user authentication
 \-J  
   
 
-> [PKI 'not working'](http://www.kablenet.com/kd.nsf/Frontpage/2FBC229CDE8C5A1680256D43004176EA?OpenDocument)  
+> [PKI 'not working'](https://www.kablenet.com/kd.nsf/Frontpage/2FBC229CDE8C5A1680256D43004176EA?OpenDocument)  
 >   
 > The e-envoy's office has started searching for new ways to authenticate the users of e-services as existing technology is "not working", a senior UK Government official revealed on 11 June 2003.  
 >   

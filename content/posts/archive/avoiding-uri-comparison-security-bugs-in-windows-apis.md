@@ -22,6 +22,6 @@ Bottom line:  Use IUri::IsEqual. 
   
 Future extra credit:  use Reflector to find out what .Net methods for URI comparison there are and if they marshal to the good or bad methods mentioned here...  
   
-[IEBlog : URI Comparison Functions](http://blogs.msdn.com/ie/archive/2007/10/24/uri-comparison-functions.aspx)  
+[IEBlog : URI Comparison Functions](https://blogs.msdn.com/ie/archive/2007/10/24/uri-comparison-functions.aspx)  
 
 > Investigating URI parsing related issues in various products, I’ve run across many instances of code erroneously attempting to compare two URIs for equality. In some cases the author writes their own comparison and seems to be unaware of URI semantics and in other cases the author delegates to a Windows provided function that doesn’t quite work for the author’s scenario. In this blog post I’ll describe some of the unmanaged URI comparison functions available to Win32 developers, and a few common mistakes to avoid.

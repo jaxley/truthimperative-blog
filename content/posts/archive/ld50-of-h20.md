@@ -14,9 +14,9 @@ url: /2005/09/ld50-of-h20.html
 ---
 
 
-This [calculator](http://www.punkasspunk.com/caffeine.php) for the lethal dose (toxicity) for caffeine reminded me that even water has an LD50 [http://en.wikipedia.org/wiki/LD50  
-](http://en.wikipedia.org/wiki/LD50)  
+This [calculator](https://www.punkasspunk.com/caffeine.php) for the lethal dose (toxicity) for caffeine reminded me that even water has an LD50 [https://en.wikipedia.org/wiki/LD50  
+](https://en.wikipedia.org/wiki/LD50)  
 Intraperitoneal Mouse LD50 (for water): 190 g/kg  
 Intravenous Mouse LD50 (for water): 25g/kg  
   
-[The alt.drugs FAQ](http://www.baetzler.de/humor/water_faq.var) has info too on LD50
+[The alt.drugs FAQ](https://www.baetzler.de/humor/water_faq.var) has info too on LD50

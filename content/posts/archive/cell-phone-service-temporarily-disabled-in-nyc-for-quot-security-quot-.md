@@ -15,7 +15,7 @@ linter-yaml-title-alias: Cell-phone-service-temporarily-disabled-in-nyc-for-quot
 ---
 
 
-[CNN.com - Cell phone service disabled in New York tunnels - Jul 12, 2005](http://www.cnn.com/2005/US/07/11/tunnels.cell.phones.ap/index.html?section=cnn_topstories "CNN.com - Cell phone service disabled in New York tunnels - Jul 12, 2005")  
+[CNN.com - Cell phone service disabled in New York tunnels - Jul 12, 2005](https://www.cnn.com/2005/US/07/11/tunnels.cell.phones.ap/index.html?section=cnn_topstories "CNN.com - Cell phone service disabled in New York tunnels - Jul 12, 2005")  
   
 
 >   
@@ -51,6 +51,6 @@ And while we're on the subject of anti-terrorist governmental reactions that don
   
 
 >   
-> [PCWorld.com - Feds Seek Wiretap Access for Mobile Calls on Planes](http://www.pcworld.com/news/article/0,aid,121807,00.asp "PCWorld.com - Feds Seek Wiretap Access for Mobile Calls on Planes")  
+> [PCWorld.com - Feds Seek Wiretap Access for Mobile Calls on Planes](https://www.pcworld.com/news/article/0,aid,121807,00.asp "PCWorld.com - Feds Seek Wiretap Access for Mobile Calls on Planes")  
 >   
 > If cell phones and other handheld wireless devices are allowed to be used on aircraft by the U.S. Federal Communications Commission, the U.S. Department of Justice wants built-in terrorism-fighting capabilities to allow fast wiretaps and quick ways to disconnect conversations between terrorists.

@@ -17,7 +17,7 @@ This story from my hometown of Seattle is further proof that the current airport
   
 When was the last time you heard about these security procedures actually catching a terrorist?  
   
-[komo news | 'This Is Not Right'](http://www.komotv.com/stories/37150.htm "komo news | 'This Is Not Right'")  
+[komo news | 'This Is Not Right'](https://www.komotv.com/stories/37150.htm "komo news | 'This Is Not Right'")  
   
 
 >   

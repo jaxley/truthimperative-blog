@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:23-07:00
 ---
 
-[Legal Fiction: THE TWO 9/11s](http://lawandpolitics.blogspot.com/2006_09_01_lawandpolitics_archive.html#115794363495869773 "Legal Fiction")  
+[Legal Fiction: THE TWO 9/11s](https://lawandpolitics.blogspot.com/2006_09_01_lawandpolitics_archive.html#115794363495869773 "Legal Fiction")  
   
 
 >   

@@ -27,4 +27,4 @@ Curious if anyone else out there vends open wi-fi for the interloper?
 I've borrowed some neighbor's open linksys many a time to get info on the Internet when my DSL is down.  But these days, most are encrypted, which makes me sad.  
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=d511461a-1ddb-8538-abbf-e87405ac734b) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=d511461a-1ddb-8538-abbf-e87405ac734b) -->

@@ -15,6 +15,6 @@ linter-yaml-title-alias: Doj-puts-porn-over-terrorism
 ---
 
 
-[\[infowarrior\] - Top DoJ Priority Isn't Terrorism, it's Adult Entertainment](http://www.mail-archive.com/infowarrior@g2-forward.org/msg01325.html "[infowarrior] - Top DoJ Priority Isn't Terrorism, it's Adult Entertainment")  
+[\[infowarrior\] - Top DoJ Priority Isn't Terrorism, it's Adult Entertainment](https://www.mail-archive.com/infowarrior@g2-forward.org/msg01325.html "[infowarrior] - Top DoJ Priority Isn't Terrorism, it's Adult Entertainment")  
   
 This is disgusting. I'm glad it is getting such a negative public reaction.

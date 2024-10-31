@@ -15,6 +15,6 @@ linter-yaml-title-alias: Quot-put-any-object-or-thing-that-produces-data-into-th
 ---
 
 
-[Boing Boing: Julian Bleecker's blobjects manifesto: "Why Things Matter"](http://www.boingboing.net/2006/04/03/julian_bleeckers_blo.html "Boing Boing: Julian Bleecker's blobjects manifesto: ")  
+[Boing Boing: Julian Bleecker's blobjects manifesto: "Why Things Matter"](https://www.boingboing.net/2006/04/03/julian_bleeckers_blo.html "Boing Boing: Julian Bleecker's blobjects manifesto: ")  
   
 This Xport device looks pretty cool. I wonder if I could meld it with my weather station to make a data logger...

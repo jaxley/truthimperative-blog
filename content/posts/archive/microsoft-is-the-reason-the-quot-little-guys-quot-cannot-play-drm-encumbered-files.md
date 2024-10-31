@@ -15,6 +15,6 @@ linter-yaml-title-alias: Microsoft-is-the-reason-the-quot-little-guys-quot-canno
 ---
 
 
-[Boing Boing: MSFT: Our DRM licensing is there to eliminate hobbyists and little guys](http://www.boingboing.net/2006/01/30/msft_our_drm_licensi.html "Boing Boing: MSFT: Our DRM licensing is there to eliminate hobbyists and little guys")  
+[Boing Boing: MSFT: Our DRM licensing is there to eliminate hobbyists and little guys](https://www.boingboing.net/2006/01/30/msft_our_drm_licensi.html "Boing Boing: MSFT: Our DRM licensing is there to eliminate hobbyists and little guys")  
   
 It has been freaking annoying that I can't play DRM encumbered WMA files on my Neuros or even on Linux. Now we know why: Microsoft's business practices.

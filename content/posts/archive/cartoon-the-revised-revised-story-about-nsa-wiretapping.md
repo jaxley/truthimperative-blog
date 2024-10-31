@@ -17,4 +17,4 @@ linter-yaml-title-alias: Cartoon-the-revised-revised-story-about-nsa-wiretapping
 ---
 
 
-[WorkingForChange-This Modern World: The revised revised story](http://www.workingforchange.com/comic.cfm?itemid=20803 "WorkingForChange-This Modern World: The revised revised story")
+[WorkingForChange-This Modern World: The revised revised story](https://www.workingforchange.com/comic.cfm?itemid=20803 "WorkingForChange-This Modern World: The revised revised story")

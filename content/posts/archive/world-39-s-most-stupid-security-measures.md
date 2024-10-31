@@ -13,6 +13,6 @@ updated: 2024-10-10 15:00:01-07:00
 "Human rights watchdog Privacy International has launched a quest to  
 find the World's Most Stupid Security Measure. "  
   
-[http://www.theregister.co.uk/content/55/29279.html](http://www.theregister.co.uk/content/55/29279.html)  
+[https://www.theregister.co.uk/content/55/29279.html](https://www.theregister.co.uk/content/55/29279.html)  
   
 There were some preliminary examples in discussion on the cryptography mailing list.

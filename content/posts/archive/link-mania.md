@@ -15,12 +15,12 @@ linter-yaml-title-alias: Link-mania
 ---
 
 
-[Gas prices in your area](http://autos.msn.com/everyday/gasstations.aspx?zip=&src=Netx)  
+[Gas prices in your area](https://autos.msn.com/everyday/gasstations.aspx?zip=&src=Netx)  
   
-[This Site Rocks - FUNNY Videos & Pictures](http://www.thissiterocks.com/ "This Site Rocks - FUNNY Videos & Pictures")  
+[This Site Rocks - FUNNY Videos & Pictures](https://www.thissiterocks.com/ "This Site Rocks - FUNNY Videos & Pictures")  
   
-[Seed Magazine: on policy and social implications of science](http://www.boingboing.net/2005/10/26/seed_magazine_is_bac.html)  
+[Seed Magazine: on policy and social implications of science](https://www.boingboing.net/2005/10/26/seed_magazine_is_bac.html)  
   
-[FARK.com: (1837095) Pick the best photoshop image of 2005 used in a previous contest](http://forums.fark.com/cgi/fark/comments.pl?IDLink=1837095 "FARK.com: (1837095) Pick the best photoshop image of 2005 used in a previous contest")  
+[FARK.com: (1837095) Pick the best photoshop image of 2005 used in a previous contest](https://forums.fark.com/cgi/fark/comments.pl?IDLink=1837095 "FARK.com: (1837095) Pick the best photoshop image of 2005 used in a previous contest")  
   
-[Gone in 20 Minutes: using laptops to steal cars | Leftlane News - Car News For Enthusiasts](http://www.leftlanenews.com/2006/05/03/gone-in-20-minutes-using-laptops-to-steal-cars/ "Gone in 20 Minutes: using laptops to steal cars | Leftlane News - Car News For Enthusiasts") Backdoors for locksmiths in electronic lock systems being used by car thieves. Who would have guessed that could happen?
+[Gone in 20 Minutes: using laptops to steal cars | Leftlane News - Car News For Enthusiasts](https://www.leftlanenews.com/2006/05/03/gone-in-20-minutes-using-laptops-to-steal-cars/ "Gone in 20 Minutes: using laptops to steal cars | Leftlane News - Car News For Enthusiasts") Backdoors for locksmiths in electronic lock systems being used by car thieves. Who would have guessed that could happen?

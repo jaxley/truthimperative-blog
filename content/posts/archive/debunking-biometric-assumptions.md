@@ -17,7 +17,7 @@ linter-yaml-title-alias: Debunking-biometric-assumptions
 ---
 
 
-[Chris Hill's biometrics thesis:](http://chris.fornax.net/biometrics.html)  
+[Chris Hill's biometrics thesis:](https://chris.fornax.net/biometrics.html)  
   
 This is a very interesting development. It challenges a key assumption that people have made about biometrics:  
   
@@ -44,10 +44,10 @@ Adam Shostack also had some additional comments on this today, pointing out the 
 > out Ross, Shah and Jain, "Towards Reconstructing Fingerprints from  
 > Minutiae Points."\[1\]  
 >   
-> \[1\] [http://www.csee.wvu.edu/~ross/pubs/RossReconstruct\_SPIE05.pdf](http://www.csee.wvu.edu/~ross/pubs/RossReconstruct_SPIE05.pdf)  
+> \[1\] [https://www.csee.wvu.edu/~ross/pubs/RossReconstruct\_SPIE05.pdf](https://www.csee.wvu.edu/~ross/pubs/RossReconstruct_SPIE05.pdf)  
 >   
 > Some additional tidbits are on my blog at  
-> [http://www.emergentchaos.com/archives/001443.html](http://www.emergentchaos.com/archives/001443.html)  
+> [https://www.emergentchaos.com/archives/001443.html](https://www.emergentchaos.com/archives/001443.html)  
 
   
   

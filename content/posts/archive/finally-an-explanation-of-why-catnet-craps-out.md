@@ -20,6 +20,6 @@ Even with the command-line tool, any large set of assemblies being analyzed seem
   
 BTW, I think that "Call Flow Super Graph" would be an \_awesome\_ band name.  
   
-[The Connected Information Security Group : Current Memory Limitations of CAT.NET](http://blogs.msdn.com/cisg/archive/2009/01/12/current-memory-limitations-of-cat-net.aspx)  
+[The Connected Information Security Group : Current Memory Limitations of CAT.NET](https://blogs.msdn.com/cisg/archive/2009/01/12/current-memory-limitations-of-cat-net.aspx)  
 
 > Even with virtual memory there are limits to how much memory a single .NET application can allocate. As reported in recent blog post a 32-bit process, such as the CAT.NET Visual Studio plug-in version can only allocate about 1200 MB, even on a 4GB RAM (32-bit) system. Moreover another shortcoming of the current implementation is that when CAT.NET runs out of memory is it exits with an unhandled OutOfMemory (OOM) exception, unfortunately this does not get reported by the Visual Studio plug-in and the plug-in just seems to hang.

@@ -14,7 +14,7 @@ linter-yaml-title-alias: Fairy-amp-human-relations
 ---
 
 
-I was sad that when I was near Winthrop, WA this past weekend I was not able to break away to check out the [Fairy & Human Relations Congress 2008](http://www.fairycongress.com/) that was going on. I'm glad I remembered the website address so I could read more about it.  
+I was sad that when I was near Winthrop, WA this past weekend I was not able to break away to check out the [Fairy & Human Relations Congress 2008](https://www.fairycongress.com/) that was going on. I'm glad I remembered the website address so I could read more about it.  
   
 The notion that Fairies are not Human, such that they need to find ways of relating to us humans was strange. "The humans are vastly outnumbered at the Congress by the fairies, devas and other Light beings who are in attendance." I wasn't sure from the advertisement I saw if they were for real or not but I think they are. Of course you need to bring your crystals and items for the fairy altar.  
   
@@ -24,4 +24,4 @@ I think their mission to increase peace is a good one, although I'm not sure whi
   
 Some photos of what I missed:  
 
-[Flickr: Fairy & Human Relations Congress 2008](http://www.flickr.com/groups/fairycongress2008/)
+[Flickr: Fairy & Human Relations Congress 2008](https://www.flickr.com/groups/fairycongress2008/)

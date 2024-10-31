@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:56:40-07:00
 ---
 
-[Signaling Vulnerabilities in Wiretapping Systems](http://www.crypto.com/papers/wiretapping/ "Signaling Vulnerabilities in Wiretapping Systems")  
+[Signaling Vulnerabilities in Wiretapping Systems](https://www.crypto.com/papers/wiretapping/ "Signaling Vulnerabilities in Wiretapping Systems")  
   
 Ahh, too bad I don't work for a telecom compnay anymore (actually, it is good). This might be fun to test out...  
   

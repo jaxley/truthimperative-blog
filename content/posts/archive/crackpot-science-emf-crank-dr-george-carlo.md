@@ -36,7 +36,7 @@ But Dr. Carlo came across as really knowledgeable and spouting out "facts" so he
   
 Of course a search for Dr. George Carlo turns up loads of credulous cruft (as is typical with pseudoscience and fringe claims on the Internet)  
   
-Dr. Steven Novella from the Skeptic's Guide to the Universe podcast has a posting on his Neurologica Blog about [Wireless Technology and Autism](http://www.theness.com/neurologicablog/?p=55) where he discusses some "research" done by Dr. Carlo that was published in an obscure journal -- not a mainstream journal. This guy seems to be poking at the fringes of science to push his agenda.  
+Dr. Steven Novella from the Skeptic's Guide to the Universe podcast has a posting on his Neurologica Blog about [Wireless Technology and Autism](https://www.theness.com/neurologicablog/?p=55) where he discusses some "research" done by Dr. Carlo that was published in an obscure journal -- not a mainstream journal. This guy seems to be poking at the fringes of science to push his agenda.  
   
 One critical review is a rebuttal to a supposed email from Dr. Carlo on a skeptical blog:  
-[Dr George Carlo responds to Andrew Goldacre](http://www.badscience.net/?p=430) via Bad Science blog.
+[Dr George Carlo responds to Andrew Goldacre](https://www.badscience.net/?p=430) via Bad Science blog.

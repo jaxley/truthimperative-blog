@@ -24,4 +24,4 @@ And this frustration can be seen in what I wrote for the democratic petition to 
 > Get it together Democrats! Take a stand to protect what this country stands for--as embodied in our constitution. Stop being the party of the spineless trash-talkers and do something active protect the constitution and our freedoms before they are gone forever.
 
   
-Join me and [sign the petition](http://www.democrats.com/impeach-for-torture). Reminds me of a funny but sad bumper sticker I saw that said, "Will somebody blow this guy so we can impeach him?" with a picture of George W. Bush.
+Join me and [sign the petition](https://www.democrats.com/impeach-for-torture). Reminds me of a funny but sad bumper sticker I saw that said, "Will somebody blow this guy so we can impeach him?" with a picture of George W. Bush.

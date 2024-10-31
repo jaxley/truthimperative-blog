@@ -22,6 +22,6 @@ linter-yaml-title-alias: Defeating-censorware
 
   
   
-[Boing Boing's Guide to Defeating Censorware](http://www.boingboing.net/censorroute.html "Boing Boing's Guide to Defeating Censorware")  
+[Boing Boing's Guide to Defeating Censorware](https://www.boingboing.net/censorroute.html "Boing Boing's Guide to Defeating Censorware")  
   
-Of course, good network admins take evasive action for these evasive actions, but the reality is that there are always ways to get around proxies. Especially when they do stupid shit like "Smart" filter does. Smartfilter will often block an entire domain in a category for one single page that may fit in that category. They blocked [attrition.org](http://attrition.org) under "criminal skills" and several other security sites. I recall them blocking geocities.com or something like it when only some of the pages met the criteria. Why don't they block specific URLs or URL patterns instead of an entire domain?
+Of course, good network admins take evasive action for these evasive actions, but the reality is that there are always ways to get around proxies. Especially when they do stupid shit like "Smart" filter does. Smartfilter will often block an entire domain in a category for one single page that may fit in that category. They blocked [attrition.org](https://attrition.org) under "criminal skills" and several other security sites. I recall them blocking geocities.com or something like it when only some of the pages met the criteria. Why don't they block specific URLs or URL patterns instead of an entire domain?

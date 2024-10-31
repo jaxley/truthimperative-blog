@@ -15,7 +15,7 @@ linter-yaml-title-alias: Defeating-fingerprint-readersby-force
 ---
 
 
-[Carjackers swipe biometric Merc, plus owner's finger | The Register](http://www.theregister.co.uk/2005/04/04/fingerprint_merc_chop/ "Carjackers swipe biometric Merc, plus owner's finger | The Register")  
+[Carjackers swipe biometric Merc, plus owner's finger | The Register](https://www.theregister.co.uk/2005/04/04/fingerprint_merc_chop/ "Carjackers swipe biometric Merc, plus owner's finger | The Register")  
   
 
 >   

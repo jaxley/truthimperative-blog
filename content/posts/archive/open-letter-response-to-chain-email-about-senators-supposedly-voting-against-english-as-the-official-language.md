@@ -40,7 +40,7 @@ I would love to actually hear which parts of the below email people actually bel
 > 5\. Anyone who has a disagreement with \_your\_ political opinion is "unfit to serve" and is not "patriotic" or "traitorous" (yes/no)?  
 > 6\. You agree with the implied sentiments and suggested punishments for casting a vote from below, "willfully take actions during wartime that damage morale, and undermine the military are saboteurs and should be arrested, exiled or hanged." (yes/no)?
 
-By the way, the text below is a retread from a year prior it seems:  [http://www.snopes.com/politics/immigration/englishvote.asp](http://www.snopes.com/politics/immigration/englishvote.asp)  And it is not even correct in stating that it was voting against "English as the official language".  It had to do with whether the government would provide access to services in languages other than English.  [http://www.truthorfiction.com/rumors/e/english-official.htm](http://www.truthorfiction.com/rumors/e/english-official.htm)  
+By the way, the text below is a retread from a year prior it seems:  [https://www.snopes.com/politics/immigration/englishvote.asp](https://www.snopes.com/politics/immigration/englishvote.asp)  And it is not even correct in stating that it was voting against "English as the official language".  It had to do with whether the government would provide access to services in languages other than English.  [https://www.truthorfiction.com/rumors/e/english-official.htm](https://www.truthorfiction.com/rumors/e/english-official.htm)  
   
 Some extra credit questions:  
 
@@ -97,7 +97,7 @@ Neil wrote:
 > > 
 > > * * *
 > > 
-> > Check out AOL Money & Finance's list of the [hottest products](http://money.aol.com/special/hot-products-2007?NCID=aoltop00030000000001 "http://money.aol.com/special/hot-products-2007?NCID=aoltop00030000000001") and [top money wasters](http://money.aol.com/top5/general/ways-you-are-wasting-money?NCID=aoltop00030000000002 "http://money.aol.com/top5/general/ways-you-are-wasting-money?NCID=aoltop00030000000002") of 2007.
+> > Check out AOL Money & Finance's list of the [hottest products](https://money.aol.com/special/hot-products-2007?NCID=aoltop00030000000001 "https://money.aol.com/special/hot-products-2007?NCID=aoltop00030000000001") and [top money wasters](https://money.aol.com/top5/general/ways-you-are-wasting-money?NCID=aoltop00030000000002 "https://money.aol.com/top5/general/ways-you-are-wasting-money?NCID=aoltop00030000000002") of 2007.
 > 
 > !DSPAM:4,475ee5da32571006577316!  
 > 

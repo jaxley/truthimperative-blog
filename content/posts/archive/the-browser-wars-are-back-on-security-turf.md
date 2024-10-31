@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:56:37-07:00
 ---
 
-In this article, [OSS means slower patches](http://australianit.news.com.au/articles/0,7204,16650762%5E15306%5E%5Enbv%5E,00.html), David Sykes from Symantec makes some absurd claims about open source being slower to patch than closed source.  
+In this article, [OSS means slower patches](https://australianit.news.com.au/articles/0,7204,16650762%5E15306%5E%5Enbv%5E,00.html), David Sykes from Symantec makes some absurd claims about open source being slower to patch than closed source.  
   
 
 >   
@@ -24,7 +24,7 @@ Also, "I'm sure \[relying on the goodwill and best efforts of many people\] is p
   
 Of course, Mr Sykes has a vested interest in maintaining a level of fear in users to keep buying Symantec products to protect them.  
   
-Fortunately, the Mozilla organization has hit back with the facts: [Mozilla hits back at browser security claim](http://news.zdnet.co.uk/0,39020330,39219186,00.htm)  
+Fortunately, the Mozilla organization has hit back with the facts: [Mozilla hits back at browser security claim](https://news.zdnet.co.uk/0,39020330,39219186,00.htm)  
   
 
 >   

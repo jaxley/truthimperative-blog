@@ -19,6 +19,6 @@ linter-yaml-title-alias: Airport-security-oversights-from-the-onion
 
 This was the most troubling one:  
   
-[Airport Security Oversights | The Onion - America's Finest News Source](http://www.theonion.com/content/node/52333)  
+[Airport Security Oversights | The Onion - America's Finest News Source](https://www.theonion.com/content/node/52333)  
 
 > Sept. 3, London to New York: A few Muslim people may have slipped through with their dignity

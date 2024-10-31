@@ -21,4 +21,4 @@ William Raspberry from the Washington post asks a great question:
   
 If WMD are there for defense purposes, they have to be readily-available to provide a benefit to the holder. Accounts indicate thousands of tons of WMD and production capabilities should be all over the place but -- nothing. However, we find his stash of cash fairly easily.  
   
-[\>http://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html](http://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html)
+[\>https://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html](https://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html)

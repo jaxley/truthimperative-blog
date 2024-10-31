@@ -14,7 +14,7 @@ linter-yaml-title-alias: Cheney-proves-he-can-be-even-more-shortsighted-and-evil
 ---
 
 
-[Crooks and Liars » Cheney Criticizes Geneva Convention in Commencement Address](http://www.crooksandliars.com/2007/05/27/cheney-criticizes-geneva-convention-in-commencement-address/)  
+[Crooks and Liars » Cheney Criticizes Geneva Convention in Commencement Address](https://www.crooksandliars.com/2007/05/27/cheney-criticizes-geneva-convention-in-commencement-address/)  
 
 > I'd say that's perfectly emblematic of this administration: In the context of moral and ethical circumstances, dismiss as irrelevant the standards held by the entire rest of the world.
 

@@ -16,4 +16,4 @@ linter-yaml-title-alias: Electoral-projections-blog
 
 Got this link via a colleague and it has some of the most detailed, up-to-date data and analysis on the polling data and cruft coming from the punditrocracy about who's going to win what and how they can win it. One to keep an eye on this election season. These will be some long months ahead! Right now it shows that Obama has an 88.6% chance of winning the election if it were held today.  
   
-[FiveThirtyEight.com: Electoral Projections Done Right](http://www.fivethirtyeight.com/)
+[FiveThirtyEight.com: Electoral Projections Done Right](https://www.fivethirtyeight.com/)

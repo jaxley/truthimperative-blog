@@ -18,4 +18,4 @@ linter-yaml-title-alias: Global-warming-report-pay-now-or-pay-lots-more-later
 
 Financial and ecological consequences by delaying the inevitable though.  
   
-[Think Progress » GLOBAL WARMING REPORT: Right-Wing Fiction vs. Economic Reality](http://thinkprogress.org/2006/10/30/stern-report/)
+[Think Progress » GLOBAL WARMING REPORT: Right-Wing Fiction vs. Economic Reality](https://thinkprogress.org/2006/10/30/stern-report/)

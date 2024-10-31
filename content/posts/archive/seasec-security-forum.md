@@ -12,7 +12,7 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-[SeaSec security forum](http://www.dec.net/seasec/ "SeaSec security forum")  
+[SeaSec security forum](https://www.dec.net/seasec/ "SeaSec security forum")  
   
 Just found out about an informal security group that meets in Seattle. I've often seen a need for interaction with security professionals between Agora and ISSA monthly meetings (and I'm on the ISSA Puget Sound board). Where organizations don't meet needs, they often spring up on their own. Once my dance lessons are over at Century Ballroom, I'll be able to attend these on Wednesdays.  
   

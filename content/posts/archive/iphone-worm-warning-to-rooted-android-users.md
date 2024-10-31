@@ -18,9 +18,9 @@ linter-yaml-title-alias: Iphone-worm-warning-to-rooted-android-users
 
 As I recently wrote about the security issues with rooting your android phone.  Fortunately, this should spark some discussion about how to securely jailbreak or root your phone.  
   
-[BBC NEWS | Technology | Worm attack bites at Apple iPhone](http://news.bbc.co.uk/2/hi/technology/8349905.stm)  
+[BBC NEWS | Technology | Worm attack bites at Apple iPhone](https://news.bbc.co.uk/2/hi/technology/8349905.stm)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=00412251-106a-8593-a10a-1edd431b620c) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=00412251-106a-8593-a10a-1edd431b620c) -->

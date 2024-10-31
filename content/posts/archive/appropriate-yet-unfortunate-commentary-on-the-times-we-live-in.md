@@ -15,7 +15,7 @@ linter-yaml-title-alias: Appropriate-yet-unfortunate-commentary-on-the-times-we-
 ---
 
 
-[Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them](http://www.dailyhowler.com/dh042005.shtml "Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them")  
+[Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them](https://www.dailyhowler.com/dh042005.shtml "Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them")  
   
 ERNSTEIN WATCHES THINGS FALL APART: Congratulations to Carl Bernstein, perhaps our frankest press bigfoot. On last evening’s Special Report, Jim Angle cited a recent speech by the Watergate worthy:  
   

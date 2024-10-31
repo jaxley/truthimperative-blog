@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:58:40-07:00
 ---
 
-[The Seattle Times: Local News: Election trial dispatches](http://seattletimes.nwsource.com/html/localnews/2002284497_trialnotes.html "The Seattle Times: Local News: Election trial dispatches")  
+[The Seattle Times: Local News: Election trial dispatches](https://seattletimes.nwsource.com/html/localnews/2002284497_trialnotes.html "The Seattle Times: Local News: Election trial dispatches")  
   
 Some highlights:  
   

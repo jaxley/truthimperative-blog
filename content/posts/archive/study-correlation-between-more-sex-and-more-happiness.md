@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:40-07:00
 ---
 
-[Planned Parenthood Federation of America, Inc. - Sex And Happiness: What's The Connection?](http://www.plannedparenthood.org/pp2/portal/files/portal/webzine/sexualityhealth/feas-050713-sex-happiness.xml "Planned Parenthood Federation of America, Inc. - Sex And Happiness: What's The Connection?")  
+[Planned Parenthood Federation of America, Inc. - Sex And Happiness: What's The Connection?](https://www.plannedparenthood.org/pp2/portal/files/portal/webzine/sexualityhealth/feas-050713-sex-happiness.xml "Planned Parenthood Federation of America, Inc. - Sex And Happiness: What's The Connection?")  
   
 If I had to choose, I'd choose more sex over wealth even before reading about this study :-)  
   

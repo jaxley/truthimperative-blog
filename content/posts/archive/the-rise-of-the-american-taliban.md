@@ -11,7 +11,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:21-07:00
 ---
 
-[Daily Kos: State of the Nation](http://www.dailykos.com/ "Daily Kos: State of the Nation")  
+[Daily Kos: State of the Nation](https://www.dailykos.com/ "Daily Kos: State of the Nation")  
   
 I was just talking last week about the rise of the American Taliban and how hypocritical some brands of "christian" are about who gets to have freedom of religion in this country. This article is very apropos.  
   

@@ -17,8 +17,8 @@ updated: 2024-10-10 14:56:48-07:00
 > \-- snip --  
 > \--Researcher Warns Some Online Banking Sites Don't Provide Adequate Authentication (20 April 2006) SANS Institute chief research officer Johannes Ullrich says many widely used online banking sites do not use authentication technology to assure that they are who they claim to be. Banks would be well advised to send users to an HTTP Secure (HTTPS) web page which uses the Secure Sockets layer (SSL) security protocol instead of merely encrypting login forms.  
 > Web pages that do not use HTTPS make themselves vulnerable to DNS spoofing in which attackers try to trick users into visiting phony web sites in an attempt to gather their account information.  
-> [http://www.computerworld.com/printthis/2006/0,4814,110738,00.html](http://www.computerworld.com/printthis/2006/0,4814,110738,00.html)  
-> Internet Storm Center: [http://isc.sans.org/diary.php?storyid=1278](http://isc.sans.org/diary.php?storyid=1278)  
+> [https://www.computerworld.com/printthis/2006/0,4814,110738,00.html](https://www.computerworld.com/printthis/2006/0,4814,110738,00.html)  
+> Internet Storm Center: [https://isc.sans.org/diary.php?storyid=1278](https://isc.sans.org/diary.php?storyid=1278)  
 > \-- snip --  
 
   

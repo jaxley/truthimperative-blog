@@ -15,6 +15,6 @@ linter-yaml-title-alias: Myspace-infects-yourpc
 ---
 
 
-[Schneier on Security: Hacked MySpace Server Infects a Million Computers with Malware](http://www.schneier.com/blog/archives/2006/07/hacked_myspace.html "Schneier on Security: Hacked MySpace Server Infects a Million Computers with Malware")  
+[Schneier on Security: Hacked MySpace Server Infects a Million Computers with Malware](https://www.schneier.com/blog/archives/2006/07/hacked_myspace.html "Schneier on Security: Hacked MySpace Server Infects a Million Computers with Malware")  
   
 Malicious banner ad exploits unpatched IE hole (there are many and more all the time). You have switched to Firefox, Opera, Konqueror or anything other than IE, right?

@@ -11,7 +11,7 @@ Actually, lots of browsers get poor marks overall for how the password managemen
   
 I'm still floored that Firefox does not have the functionality of the Master Password Timeout extension as a base option.  Otherwise, anyone who walks up to your browser can access any site you visit and log in (if you don't use a master password and/or once you type in the master password once)!  With this extension, you ensure that the exposure is limited to a set time period.  It also helps protect against automated attacks since they can't succeed unless you type your master password in again.  
   
-[Chapin Information Services](http://www.info-svc.com/news/2008/12-12/)  
+[Chapin Information Services](https://www.info-svc.com/news/2008/12-12/)  
 
 > Google Chrome Receives Lowest Password Security Score  
 > Safari Ties for Last Place

@@ -16,7 +16,7 @@ linter-yaml-title-alias: Bushit-stem-cell-veto
 ---
 
 
-[Scott Rosenberg's Links & Comment](http://blogs.salon.com/0000014/2006/07/19.html#a1068 "Scott Rosenberg's Links & Comment")  
+[Scott Rosenberg's Links & Comment](https://blogs.salon.com/0000014/2006/07/19.html#a1068 "Scott Rosenberg's Links & Comment")  
   
 
 >   

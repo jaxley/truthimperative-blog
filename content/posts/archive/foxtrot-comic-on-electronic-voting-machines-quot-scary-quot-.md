@@ -14,6 +14,6 @@ linter-yaml-title-alias: Foxtrot-comic-on-electronic-voting-machines-quot-scary-
 ---
 
 
-[Welcome to goComics Web Site featuring FoxTrot - Online Comics, Editorial Cartoons, Email Comics, Political Cartoons](http://www.gocomics.com/foxtrot/2006/10/29/)  
+[Welcome to goComics Web Site featuring FoxTrot - Online Comics, Editorial Cartoons, Email Comics, Political Cartoons](https://www.gocomics.com/foxtrot/2006/10/29/)  
   
 10-29-2006 sunday comic in case the link breaks in the future.

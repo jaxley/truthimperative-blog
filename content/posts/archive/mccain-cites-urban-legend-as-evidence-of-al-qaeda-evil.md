@@ -18,7 +18,7 @@ Nothing annoys me more than someone using debunked, false, misleading, distorted
   
 I was reminded of a great quote recently from Daniel Patrick Moynihan, "Everyone is entitled to their own opinion, but not their own facts."  
   
-[Ben Smith's Blog: McCain cites questionable story on 'evil' - Politico.com](http://www.politico.com/blogs/bensmith/0808/McCain_cites_questionable_story_on_evil.html?showall)  
+[Ben Smith's Blog: McCain cites questionable story on 'evil' - Politico.com](https://www.politico.com/blogs/bensmith/0808/McCain_cites_questionable_story_on_evil.html?showall)  
 
 > "Not long ago in Baghdad, Al Qaeda took two young women who were mentally disabled and put suicide vests on them, sent them into a marketplace, and by remote control, detonated those suicide vests," McCain told Rick Warren. "If that isn't evil, you have to tell me what is."  
 >   

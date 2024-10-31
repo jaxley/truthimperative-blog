@@ -15,6 +15,6 @@ linter-yaml-title-alias: Discovered-site-for-bittorrent-downloads-of-all-kinds
 ---
 
 
-[mininova : the ultimate bittorrent source!](http://www.mininova.org/ "mininova : the ultimate bittorrent source!")  
+[mininova : the ultimate bittorrent source!](https://www.mininova.org/ "mininova : the ultimate bittorrent source!")  
   
 Hours and hours of entertainment, not all of it legal.

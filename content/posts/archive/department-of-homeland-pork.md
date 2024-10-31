@@ -20,7 +20,7 @@ Get this:  The list of top terrorist targets from the Department of Homeland Se
   
 The worst part is that DHS didn't even try to hide the pork-barreling by making the inclusions and omissions clear and blatant.  Oy.  I reluctantly file this in the security category...  
   
-[The Seattle Times: Local News: Dept. of Homeland Lunacy](http://seattletimes.nwsource.com/html/localnews/2003123566_danny13.html)  
+[The Seattle Times: Local News: Dept. of Homeland Lunacy](https://seattletimes.nwsource.com/html/localnews/2003123566_danny13.html)  
 
 > When it comes to homeland security, I give up.  
 >   

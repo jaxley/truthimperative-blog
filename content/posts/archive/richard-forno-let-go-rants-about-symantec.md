@@ -19,4 +19,4 @@ Richard Forno was let go by Symantec, coincidentally right after he had politely
   
 I really enjoyed his commentary so I hope to see him show up somewhere else soon!  
   
-[symantec-bitch](http://www.infowarrior.org/symantec/symantec-lackingcommonsense.html "symantec-bitch")
+[symantec-bitch](https://www.infowarrior.org/symantec/symantec-lackingcommonsense.html "symantec-bitch")

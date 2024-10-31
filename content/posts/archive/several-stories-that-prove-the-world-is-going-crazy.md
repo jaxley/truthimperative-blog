@@ -14,7 +14,7 @@ updated: 2024-10-10 14:58:10-07:00
 
 First out of the gate:  
   
-Fedex sued a loyal customer for posting photos of furniture he made for himself out of Fedex boxes on the web. Get this, they used many...er...novel...legal arguments to try to scare him. Welcome to the doghouse FedEx. You've got great company, such as [Cisco](http://www.wired.com/news/technology/0,1282,68435,00.html) and [Oracle.](http://www.attrition.org/pipermail/isn/2005-August/001816.html)  
+Fedex sued a loyal customer for posting photos of furniture he made for himself out of Fedex boxes on the web. Get this, they used many...er...novel...legal arguments to try to scare him. Welcome to the doghouse FedEx. You've got great company, such as [Cisco](https://www.wired.com/news/technology/0,1282,68435,00.html) and [Oracle.](https://www.attrition.org/pipermail/isn/2005-August/001816.html)  
   
 Some highlights:  
   
@@ -29,14 +29,14 @@ Some highlights:
 
   
   
-[Furniture Causes FedEx Fits](http://www.wired.com/news/culture/0,1284,68492,00.html)  
+[Furniture Causes FedEx Fits](https://www.wired.com/news/culture/0,1284,68492,00.html)  
   
 Also in the WTF files. A Doonesbury strip was recently pulled for using a real, albeit crude, nickname for Karl Rove. The papers claimed it was "in bad taste".  
   
-[Some pull 'Doonesbury' over Rove moniker](http://www.cnn.com/2005/SHOWBIZ/books/07/27/doonesbury.language.ap/index.html?section=cnn_topstories)  
+[Some pull 'Doonesbury' over Rove moniker](https://www.cnn.com/2005/SHOWBIZ/books/07/27/doonesbury.language.ap/index.html?section=cnn_topstories)  
   
 The strip itself:  
-[http://www.doonesbury.com/strip/dailydose/index.html?uc\_full\_date=20050726](http://www.doonesbury.com/strip/dailydose/index.html?uc_full_date=20050726)  
+[https://www.doonesbury.com/strip/dailydose/index.html?uc\_full\_date=20050726](https://www.doonesbury.com/strip/dailydose/index.html?uc_full_date=20050726)  
   
 Next on the list. Jason Coombs had a great rant on Bugtraq about computer forensics professionals who are testifying against defendants who may well have a legitimate defense -- the "the trojan ate my homework" defense. He takes issue with claims that a forensics investigation could reasonably ascertain whether a past action was performed by a human or a trojan horse or other malware:  
   
@@ -48,4 +48,4 @@ Next on the list. Jason Coombs had a great rant on Bugtraq about computer forens
 
   
   
-And finally, [How many laws do you have to break to get fired in the Department of Homeland Security](http://www.emergentchaos.com/archives/001542.html)? Since this ran, we now know that the DHS has now deleted the data that they illegally obtained from data miners. So now, americans have no way of knowing if the TSA had used data about them illegally. A group from Alaska [is suing the government](http://alaskafreedom.com/akn/home.html) now.
+And finally, [How many laws do you have to break to get fired in the Department of Homeland Security](https://www.emergentchaos.com/archives/001542.html)? Since this ran, we now know that the DHS has now deleted the data that they illegally obtained from data miners. So now, americans have no way of knowing if the TSA had used data about them illegally. A group from Alaska [is suing the government](https://alaskafreedom.com/akn/home.html) now.

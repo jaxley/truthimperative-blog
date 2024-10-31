@@ -15,4 +15,4 @@ c) Oh, don't forget the most important part -- bury him \_upside down\_.
   
 Funny how products you buy on TV from hacks have a supposed "Guaranteed to work or your money back" promise, yet religious cruft from the local "Christan Supply" store doesn't...  Think about it...  
   
-[Some homeowners resort to outside help to sell their property: Consumer Reports Home & Garden Blog](http://blogs.consumerreports.org/home/2008/12/sell-your-home.html)
+[Some homeowners resort to outside help to sell their property: Consumer Reports Home & Garden Blog](https://blogs.consumerreports.org/home/2008/12/sell-your-home.html)

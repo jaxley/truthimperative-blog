@@ -16,4 +16,4 @@ One of the best things you can do for your Windows security is to make sure you 
   
 Unfortunately, you have to be on Windows XP SP2 or higher to use IE 7.  So, it will force Windows 2000 users to upgrade to XP first.  That is probably also a good thing for security though.  
   
-[Schneier on Security: Internet Explorer Sucks](http://www.schneier.com/blog/archives/2005/12/internet_explor.html)
+[Schneier on Security: Internet Explorer Sucks](https://www.schneier.com/blog/archives/2005/12/internet_explor.html)

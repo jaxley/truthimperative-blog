@@ -10,4 +10,4 @@ created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 14:58:24-07:00
 ---
 
-[HDTV Magazine - Broadcast HDTV Market : Seattle-Tacoma](http://www.hdtvmagazine.com/programming/broadcast-market.php?dma_name%5B%5D=Seattle-Tacoma "HDTV Magazine - Broadcast HDTV Market : Seattle-Tacoma")
+[HDTV Magazine - Broadcast HDTV Market : Seattle-Tacoma](https://www.hdtvmagazine.com/programming/broadcast-market.php?dma_name%5B%5D=Seattle-Tacoma "HDTV Magazine - Broadcast HDTV Market : Seattle-Tacoma")

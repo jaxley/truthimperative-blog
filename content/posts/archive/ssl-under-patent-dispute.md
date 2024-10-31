@@ -22,4 +22,4 @@ He is suing RSA Security and Verisign now, trying to extract money. Ugh.
   
 The companies are arguing that his invention (patented in 1992) is distinct from SSL. SSL was developed in 1994 and patented in 1997, according to the Reuters article.  
   
-The Reuters story is [here](http://zdnet.com.com/2100-1105-986265.html)
+The Reuters story is [here](https://zdnet.com.com/2100-1105-986265.html)

@@ -12,7 +12,7 @@ updated: 2024-10-10 15:00:12-07:00
 
 Several notes on this Intelligent Design crap driving us toward another Scopes trial.  
   
-[Evolution Lawsuit Opens in Pennsylvania](http://www.nytimes.com/2005/09/27/education/27evolution.htm/partner/rssnyt)  
+[Evolution Lawsuit Opens in Pennsylvania](https://www.nytimes.com/2005/09/27/education/27evolution.htm/partner/rssnyt)  
   
 US President Jimmy Carter, and an evangelical Christian:  
 
@@ -31,4 +31,4 @@ The President continues, with my favorite part of his statements. This is exactl
   
 **"They're blinding you with NOT science" - Lewis Black on Intelligent Design**  
   
-I just finished reading [Science Friction (ISBN 0-8050-7708-1)](http://www.amazon.com/exec/obidos/ASIN/0805077081/juxtaposition-20/102-0825886-4374559?dev-t=1B7AVRRGVX9PB4T4ZD02%26camp=2025%26link_code=xm2) which has several essays discussing the interplay between Religion and Science. Chapters 8 and 11 dive into a lot of the fray and Chapter 11 provides "ten arguments and ten answers" against ID which point out the absolute ridiculousness of their position(s). Oh, and the "What type of creationist are you?" is a great one if you run into any proclaimed creationists. There are at least 10 different positions on a continuum so the answer is not binary as many creationists would have you believe and probably believe themselves.
+I just finished reading [Science Friction (ISBN 0-8050-7708-1)](https://www.amazon.com/exec/obidos/ASIN/0805077081/juxtaposition-20/102-0825886-4374559?dev-t=1B7AVRRGVX9PB4T4ZD02%26camp=2025%26link_code=xm2) which has several essays discussing the interplay between Religion and Science. Chapters 8 and 11 dive into a lot of the fray and Chapter 11 provides "ten arguments and ten answers" against ID which point out the absolute ridiculousness of their position(s). Oh, and the "What type of creationist are you?" is a great one if you run into any proclaimed creationists. There are at least 10 different positions on a continuum so the answer is not binary as many creationists would have you believe and probably believe themselves.

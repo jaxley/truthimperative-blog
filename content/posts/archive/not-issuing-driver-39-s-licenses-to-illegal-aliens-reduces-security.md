@@ -12,4 +12,4 @@ url: /2005/01/not-issuing-driver-licenses-to-illegal.html
 ---
 
 
-[U.S. Newswire : Releases : "Not Issuing Driver's Licenses to Illegal Aliens..."](http://releases.usnewswire.com/GetRelease.asp?id=40902 "U.S. Newswire : Releases : ")
+[U.S. Newswire : Releases : "Not Issuing Driver's Licenses to Illegal Aliens..."](https://releases.usnewswire.com/GetRelease.asp?id=40902 "U.S. Newswire : Releases : ")

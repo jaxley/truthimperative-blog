@@ -18,18 +18,18 @@ linter-yaml-title-alias: Homeland-security-getting-smarter-or-staying-stupid
 
 Getting smarter:  
   
-Chertoff is a good guy. When I heard this [NPR interview](http://www.npr.org/templates/story/story.php?storyId=4537007) I remember thinking, holy crap, someone who _gets it_. Security is about tradeoffs and with limited resources, making the most cost effective and rational decisions based on risk and threat analysis.  
+Chertoff is a good guy. When I heard this [NPR interview](https://www.npr.org/templates/story/story.php?storyId=4537007) I remember thinking, holy crap, someone who _gets it_. Security is about tradeoffs and with limited resources, making the most cost effective and rational decisions based on risk and threat analysis.  
   
 TSA may move to reallow knives, etc. back on aircraft.  
-[Threats Reassessed To Make Travel Easier for Public](http://www.washingtonpost.com/wp-dyn/content/article/2005/08/12/AR2005081201557_pf.html)  
+[Threats Reassessed To Make Travel Easier for Public](https://www.washingtonpost.com/wp-dyn/content/article/2005/08/12/AR2005081201557_pf.html)  
   
 The stay-seated the first and last 30-minutes of a flight rule is also going away, due to reasoned analysis:  
-[http://www.mail-archive.com/infowarrior@g2-forward.org/msg01084.html](http://www.mail-archive.com/infowarrior@g2-forward.org/msg01084.html)  
+[https://www.mail-archive.com/infowarrior@g2-forward.org/msg01084.html](https://www.mail-archive.com/infowarrior@g2-forward.org/msg01084.html)  
   
 Staying stupid:  
   
 (proposing requiring passports to enter the US from Canada)  
   
-[http://www.mail-archive.com/infowarrior@g2-forward.org/msg01280.html](http://www.mail-archive.com/infowarrior@g2-forward.org/msg01280.html)  
+[https://www.mail-archive.com/infowarrior@g2-forward.org/msg01280.html](https://www.mail-archive.com/infowarrior@g2-forward.org/msg01280.html)  
   
 Looks like getting smarter may finally win out.

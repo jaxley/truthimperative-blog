@@ -28,7 +28,7 @@ There are still not known attacks against encryption schemes that make use of th
 > MD4 collisions can be generated almost instantly, MD5 can be generated  
 > in approximately 45 minutes on my p4 1.6ghz (on average).  
 >   
-> [http://www.stachliu.com/collisions.html](http://www.stachliu.com/collisions.html)  
+> [https://www.stachliu.com/collisions.html](https://www.stachliu.com/collisions.html)  
 >   
 > Enjoy  
 > \-Patrick Stach

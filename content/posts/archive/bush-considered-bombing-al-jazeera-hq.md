@@ -15,6 +15,6 @@ linter-yaml-title-alias: Bush-considered-bombing-al-jazeera-hq
 ---
 
 
-[NPR : Report: Bush Considered Bombing Al Jazeera](http://www.npr.org/templates/story/story.php?storyId=5026752&ft=1&f=1001 "NPR : Report: Bush Considered Bombing Al Jazeera")  
+[NPR : Report: Bush Considered Bombing Al Jazeera](https://www.npr.org/templates/story/story.php?storyId=5026752&ft=1&f=1001 "NPR : Report: Bush Considered Bombing Al Jazeera")  
   
 I never would have thought I would say, "Thank heavens for Tony Blair".

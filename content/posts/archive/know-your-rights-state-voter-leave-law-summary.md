@@ -17,4 +17,4 @@ linter-yaml-title-alias: Know-your-rights-state-voter-leave-law-summary
 
 Many states allow voters to take time off of work to vote. In Washington state, this allows up to 2 hours off in certain cases.  
   
-[Time To Vote | Voter Leave Laws](http://www.timetovote.net/voter_leave_laws.html "Time To Vote | Voter Leave Laws")
+[Time To Vote | Voter Leave Laws](https://www.timetovote.net/voter_leave_laws.html "Time To Vote | Voter Leave Laws")

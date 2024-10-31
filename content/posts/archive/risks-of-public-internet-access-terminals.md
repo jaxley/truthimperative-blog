@@ -24,7 +24,7 @@ This story about 16M Yen (~$136,000) stolen from someone's CityBank online banki
   
 The trend toward SSL-based VPNs and Internet-enabling everything under the sun leads to uncontrolled client-side access that significantly increases this risk. Gartner is "bullish" on these SSL-based VPNs but I'm not convinced that their convenience outweighs the increased risk in many cases. You would need to deploy token authentication at a minimum with these solutions but you would still be at risk of general data compromise. In any company with a large amount of employees, training everyone to not use their personal computer, a library computer, an Internet cafe computer, etc. to access such a solution would be difficult and not entirely effective. Users will choose the convenience over security much (all?) of the time.  
   
-Full story below and at [CNN.com](http://www.cnn.com/2003/TECH/internet/03/06/internet.theft.ap/index.html)  
+Full story below and at [CNN.com](https://www.cnn.com/2003/TECH/internet/03/06/internet.theft.ap/index.html)  
   
 Date: Fri, 07 Mar 2003 00:40:28 +0900  
 From: Chiaki Ishikawa  

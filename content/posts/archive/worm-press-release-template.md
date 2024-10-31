@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:58:58-07:00
 ---
 
-Keep this handy for the next MS Worm. Posted to [RISKS 22.53:](http://catless.ncl.ac.uk/Risks/22.53.html#subj7) .  
+Keep this handy for the next MS Worm. Posted to [RISKS 22.53:](https://catless.ncl.ac.uk/Risks/22.53.html#subj7) .  
 \[From Pete Lindstrom, Spire Security, petelind@spiresecurity.com\]  
   
 \*<adjective> Computer Worm <verb> Internet\*  

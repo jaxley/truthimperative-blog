@@ -15,8 +15,8 @@ WEP has been cracked \_again\_ and read the description--it is a devastating bre
   
 I hope you have switched to WPA or an alternative by now if you care about wireless privacy and keeping people off of your network.  
   
-If this isn't enough to run a VPN like [OpenVPN](http://www.openvpn.org) or IPSec (although I don't favor IPSec anymore for many reasons; that's another crypto by committee with its own problems).  
+If this isn't enough to run a VPN like [OpenVPN](https://www.openvpn.org) or IPSec (although I don't favor IPSec anymore for many reasons; that's another crypto by committee with its own problems).  
   
-[aircrack-ptw](http://www.cdc.informatik.tu-darmstadt.de/aircrack-ptw/)  
+[aircrack-ptw](https://www.cdc.informatik.tu-darmstadt.de/aircrack-ptw/)  
 
 > We were able to extend Klein's attack and optimize it for usage against WEP. Using our version, it is possible to recover a 104 bit WEP key with probability 50% using just 40,000 captured packets. For 60,000 available data packets, the success probability is about 80% and for 85,000 data packets about 95%. Using active techniques like deauth and ARP re-injection, 40,000 packets can be captured in less than one minute under good condition. The actual computation takes about 3 seconds and 3 MB main memory on a Pentium-M 1.7 GHz and can additionally be optimized for devices with slower CPUs. The same attack can be used for 40 bit keys too with an even higher success probability.

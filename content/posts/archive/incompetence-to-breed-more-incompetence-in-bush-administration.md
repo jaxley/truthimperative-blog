@@ -17,4 +17,4 @@ linter-yaml-title-alias: Incompetence-to-breed-more-incompetence-in-bush-adminis
 ---
 
 
-[Think Progress: Bush Asserts Constitutional Right To Hire Incompetent People At FEMA](http://thinkprogress.org/2006/10/06/bush-fema-signing-statement/ "Think Progress: Bush Asserts Constitutional Right To Hire Incompetent People At FEMA")
+[Think Progress: Bush Asserts Constitutional Right To Hire Incompetent People At FEMA](https://thinkprogress.org/2006/10/06/bush-fema-signing-statement/ "Think Progress: Bush Asserts Constitutional Right To Hire Incompetent People At FEMA")

@@ -15,10 +15,10 @@ linter-yaml-title-alias: Airborne-airheads-the-sellers-or-the-buyers
 ---
 
 
-[Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!](http://whohastimeforthis.blogspot.com/2006/04/created-by-school-teacher.html "Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!")
+[Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!](https://whohastimeforthis.blogspot.com/2006/04/created-by-school-teacher.html "Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!")
 
 Perfect real-life case of a company using deceit and faulty arguments to convince the public.  Too bad the FDA doesn't take a more active role in investigating these kinds of products and claims.  The placebo effect also makes people more apt to believe these products work.  
 
 [  
   
-](http://whohastimeforthis.blogspot.com/2006/04/created-by-school-teacher.html "Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!")
+](https://whohastimeforthis.blogspot.com/2006/04/created-by-school-teacher.html "Who Has Time For This?: CREATED BY A SCHOOL TEACHER!!!!!")

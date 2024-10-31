@@ -15,7 +15,7 @@ linter-yaml-title-alias: Aacs-crack-overview
 
 
 ```
-Excellent high-level description of what went into the AACS crack.  This arms race is even funnier now that the replacement key has been [cracked \_before\_ it has been released](http://arstechnica.com/news.ars/post/20070517-latest-aacs-revision-defeated-a-week-before-release.html).  Media industry:  you lost the battle against your customers before it was started.  
+Excellent high-level description of what went into the AACS crack.  This arms race is even funnier now that the replacement key has been [cracked \_before\_ it has been released](https://arstechnica.com/news.ars/post/20070517-latest-aacs-revision-defeated-a-week-before-release.html).  Media industry:  you lost the battle against your customers before it was started.  
   
 \-Jason  
 
@@ -32,7 +32,7 @@ Excellent high-level description of what went into the AACS crack.  This arms ra
 > > ```
 > > \> Article "AACS cracks cannot be revoked, says hacker"  
 > > \>  
-> > \> [http://arstechnica.com/news.ars/post/20070415-aacs-cracks-cannot-be-revoked-says-hacker.html](http://arstechnica.com/news.ars/post/20070415-aacs-cracks-cannot-be-revoked-says-hacker.html)  
+> > \> [https://arstechnica.com/news.ars/post/20070415-aacs-cracks-cannot-be-revoked-says-hacker.html](https://arstechnica.com/news.ars/post/20070415-aacs-cracks-cannot-be-revoked-says-hacker.html)  
 > > \>  
 > > \> Excerpt: "The latest attack vector bypasses the encryption performed   
 > > \> by the Device Keys -- the same keys that were revoked by the WinDVD   

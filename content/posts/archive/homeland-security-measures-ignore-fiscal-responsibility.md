@@ -56,4 +56,4 @@ Catching up on draft postings, this is one that is very timely today, although i
 > rslade@vcn.bc.ca slade@victoria.tc.ca rslade@sun.soci.niu.edu  
 > Allowing an unimportant mistake to pass without comment is a  
 > wonderful social grace. - Judith Martin  
-> http://victoria.tc.ca/techrev or http://sun.soci.niu.edu/~rslade
+> https://victoria.tc.ca/techrev or https://sun.soci.niu.edu/~rslade

@@ -29,12 +29,12 @@ AJAX security is no different than normal web application security, except that 
 > Their article is eerily similar to my Ajax presentation from February  
 > (particularly if you've seen me give the presentation), and even more  
 > similar to the draft Ajax chapter I wrote shortly after for the OWASP  
-> Guide (now posted to our Wiki - http://www.owasp.org/index.php/  
+> Guide (now posted to our Wiki - https://www.owasp.org/index.php/  
 > Ajax\_and\_Other\_%22Rich%22\_Interface\_Technologies). Hmmmm. As the saying  
 > goes, this is the best form of flattery. I suppose.  
 >   
 > If you haven't had a chance to read up on Ajax security, their article  
-> is a start... as is my presentation (http://www.greebo.net/?  
+> is a start... as is my presentation (https://www.greebo.net/?  
 > page\_id=329) and the draft chapter in the OWASP Guide 3.0 current.  
 >   
 > thanks,  
@@ -51,4 +51,4 @@ AJAX security is no different than normal web application security, except that 
 > \> > applications can be more difficult to test, security professionals  
 > \> > already have most of relevant approaches and tools needed.  
 > \> >  
-> \> > http://www.securityfocus.com/infocus/1868
+> \> > https://www.securityfocus.com/infocus/1868

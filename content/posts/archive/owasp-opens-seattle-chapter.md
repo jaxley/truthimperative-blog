@@ -15,7 +15,7 @@ linter-yaml-title-alias: Owasp-opens-seattle-chapter
 ---
 
 
-[Web Security Group Launches Northwest Chapter](http://www.prweb.com/releases/2005/2/prweb207025.php "Web Security Group Launches Northwest Chapter")  
+[Web Security Group Launches Northwest Chapter](https://www.prweb.com/releases/2005/2/prweb207025.php "Web Security Group Launches Northwest Chapter")  
   
 
 >   
@@ -27,6 +27,6 @@ linter-yaml-title-alias: Owasp-opens-seattle-chapter
   
 I may be spending some time with this group. Glad to see more volunteer security orgs in the Seattle area! And glad to see some emphasis on application security, of course.  
   
-Their website is [http://www.owasp.org/local/seattle.html](http://www.owasp.org/local/seattle.html)  
+Their website is [https://www.owasp.org/local/seattle.html](https://www.owasp.org/local/seattle.html)  
   
 Be warned: the site looks atrocious in Firefox.

@@ -10,11 +10,11 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:46-07:00
 ---
 
-A 2-17-2003 very short Reuters story reports that [Over 5 million Visa/MasterCard accounts hacked into](http://www.forbes.com/markets/newswire/2003/02/17/rtr881826.html)  
+A 2-17-2003 very short Reuters story reports that [Over 5 million Visa/MasterCard accounts hacked into](https://www.forbes.com/markets/newswire/2003/02/17/rtr881826.html)  
   
 "More than five million Visa and MasterCard accounts throughout the nation were accessed after the computer system at a third party processor was hacked into, according to representatives for the card association"  
   
-This story by the BBC has more [details](http://news.bbc.co.uk/1/hi/business/2774477.stm)  
+This story by the BBC has more [details](https://news.bbc.co.uk/1/hi/business/2774477.stm)  
   
 Great. Why were the account numbers on Internet-accessible systems. And why were the accounts not stored encrypted at the third party?  
   

@@ -49,7 +49,7 @@ My sister pointed out that every car I've owned has been hit by someone. The sor
   
 \*sigh\*  
   
-My brother-in-law found a [Serta Sheep #86](http://216.138.222.40/Merchant2/merchant.mvc?Screen=PROD&Product_Code=SHEEP_86&Category_Code=TH&Product_Count=1) that arrived on my doorstop unexpectedly yesterday. This is hilarious! A quote from the fictional sheep:  
+My brother-in-law found a [Serta Sheep #86](https://216.138.222.40/Merchant2/merchant.mvc?Screen=PROD&Product_Code=SHEEP_86&Category_Code=TH&Product_Count=1) that arrived on my doorstop unexpectedly yesterday. This is hilarious! A quote from the fictional sheep:  
   
 "Of course Serta is bad...very bad...maybe the most evil force in the whole universe."  
   

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Common-writing-mistakes
 ---
 
 
-This post about [Grammar Nerds](http://whohastimeforthis.blogspot.com/2005/11/grammar-nerds.html) reminded me that I've long wanted to write about some common mistakes I see over and over on the Internet and in emails.  
+This post about [Grammar Nerds](https://whohastimeforthis.blogspot.com/2005/11/grammar-nerds.html) reminded me that I've long wanted to write about some common mistakes I see over and over on the Internet and in emails.  
   
 The most common thing that I notice is confusing words that sound somewhat alike but have very different meanings and spellings:  
   
@@ -68,4 +68,4 @@ to = a preposition meaning a variety of things, such as "toward"
 
   
   
-There are a ton of sites that go into more detail than this. A simple [google search](http://www.google.com/search?hl=en&lr=&q=common+mistakes+two+to+too&btnG=Search) will find most all of them. Or just check your favorite dictionary.
+There are a ton of sites that go into more detail than this. A simple [google search](https://www.google.com/search?hl=en&lr=&q=common+mistakes+two+to+too&btnG=Search) will find most all of them. Or just check your favorite dictionary.

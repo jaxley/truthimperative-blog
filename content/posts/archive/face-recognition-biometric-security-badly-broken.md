@@ -20,7 +20,7 @@ My guess would be that just a simple webcam is not going to be able to get enoug
   
 The hack seems to rely on faking the image comparison algorithms since ultimately these systems are storing the original facial image and using image processing on it.  
   
-[Researchers Hack Faces In Biometric Facial Authentication Systems](http://www.darkreading.com/vulnerability/researchers-hack-faces-in-biometric-faci/213901113)  
+[Researchers Hack Faces In Biometric Facial Authentication Systems](https://www.darkreading.com/vulnerability/researchers-hack-faces-in-biometric-faci/213901113)  
 
 > "There is no way to fix this vulnerability," Duc says. "Asus, Lenovo, and Toshiba have to remove this function from all the models of their laptops ... \[they\] must give an advisory to users all over the world: Stop using this \[biometric\] function."  
 >   
@@ -29,4 +29,4 @@ The hack seems to rely on faking the image comparison algorithms since ultimatel
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=16be0692-3694-4020-bbb7-98594c7fe96a) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=16be0692-3694-4020-bbb7-98594c7fe96a) -->

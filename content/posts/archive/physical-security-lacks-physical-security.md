@@ -18,7 +18,7 @@ I can't believe that these systems have such a horrible design!
   
 Basically, these guys showed how you can inject a tiny device that can record the data that the scanner reads in such that you can create devices to replay it later.  
   
-[2 Screws, 1 Plastic Cover, How Many Airports Infiltrated?](http://www.channelinsider.com/article/2+Screws+1+Plastic+Cover+How+Many+Airports+Infiltrated/212907_1.aspx)  
+[2 Screws, 1 Plastic Cover, How Many Airports Infiltrated?](https://www.channelinsider.com/article/2+Screws+1+Plastic+Cover+How+Many+Airports+Infiltrated/212907_1.aspx)  
 
 > besides a meat cleaver or, in the case of your eyeballs, a soup spoon, these systems are all laughably easy to bypass, thanks to a primitive protocol called Wiegand that just about all ACSes (access control systems) have inherited.  
 >   

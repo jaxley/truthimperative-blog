@@ -16,7 +16,7 @@ linter-yaml-title-alias: Questions-for-democratic-wankers-who-support-fisa
 
 It is infuriating me that the spineless Democrats are not taking a stand on FISA and are actually putting their own political spin on how it's a "compromise" (read: "capitulation", as noted elsewhere in the blogosphere) and a good thing. Here are several key questions I had been thinking myself, but not in such clear terms:  
   
-[Daily Kos: Betting it all on criminal wiretapping prosecutions.](http://www.dailykos.com/storyonly/2008/7/2/173636/3230)  
+[Daily Kos: Betting it all on criminal wiretapping prosecutions.](https://www.dailykos.com/storyonly/2008/7/2/173636/3230)  
 
 > 1\. Why, if you believe there are or may be grounds for criminal prosecution, would you immunize against civil liability? What sense does that make, exactly? Why make life easier for people you're telling us should be or could be subject to criminal liability?  
 >   

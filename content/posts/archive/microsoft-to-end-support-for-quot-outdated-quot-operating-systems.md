@@ -20,4 +20,4 @@ linter-yaml-title-alias: Microsoft-to-end-support-for-quot-outdated-quot-operati
 > (18 April 2006)  
 > Microsoft plans to retire support for Windows 98, Windows 98 SE and Windows ME on July 11, 2006; after that date, there will be no more security updates for these versions of the company's operating systems.  
 > Microsoft calls these systems "outdated" and recommends that users upgrade to a more secure operating system, such as Windows XP.  
-> [http://searchsecurity.techtarget.com/originalContent/0,289142,sid14\_gci1182527,00.html](http://searchsecurity.techtarget.com/originalContent/0,289142,sid14_gci1182527,00.html)
+> [https://searchsecurity.techtarget.com/originalContent/0,289142,sid14\_gci1182527,00.html](https://searchsecurity.techtarget.com/originalContent/0,289142,sid14_gci1182527,00.html)

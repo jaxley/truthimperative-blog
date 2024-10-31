@@ -15,6 +15,6 @@ Furthermore, if you just invested the $42.00 at 5% interest (there are many grea
   
 So, save your money ;-)  
   
-[Rising cost of U.S. Postage Stamps](http://www.spudart.org/blogs/randomthoughts_comments/3997_0_3_0_C/)  
+[Rising cost of U.S. Postage Stamps](https://www.spudart.org/blogs/randomthoughts_comments/3997_0_3_0_C/)  
 
 > Every decade since the 1970s has seen around eight to ten cents increase in the cost of a stamp.

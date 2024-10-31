@@ -12,7 +12,7 @@ url: /2005/09/movable-type-32-upgrade-woe-new.html
 ---
 
 
-I was having the same problem as in this [posting to the MT forum](http://www.movabletype.org/support/index.php?act=ST&f=9&t=53983&hl=mt_trans&s=4750d003ccb0f195b5954ca24c17ea68) after upgrading to the new 3.2 templates by copying them in from the default\_templates directory or from the movable type templates website:  
+I was having the same problem as in this [posting to the MT forum](https://www.movabletype.org/support/index.php?act=ST&f=9&t=53983&hl=mt_trans&s=4750d003ccb0f195b5954ca24c17ea68) after upgrading to the new 3.2 templates by copying them in from the default\_templates directory or from the movable type templates website:  
   
 
 >   

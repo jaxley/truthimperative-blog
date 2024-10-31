@@ -32,8 +32,8 @@ server. "
   
 One of the URLs looks like this, so you can see how someone could be easily tricked into believing it as legitimate:  
   
-http://press.nokia.com~id=@%31%39%34%2e%31%36%34%2e%32%30%2e%38/release/7650.htm  
+https://press.nokia.com~id=@%31%39%34%2e%31%36%34%2e%32%30%2e%38/release/7650.htm  
   
-The page no longer works, but you need to be very diligent online and can't trust everything you read. Someone could easily hide this URL in some inocuous text so you would not easily notice the underhandedness: [Nokia fake press release](http://press.nokia.com~id=@%31%39%34%2e%31%36%34%2e%32%30%2e%38/release/7650.htm)  
+The page no longer works, but you need to be very diligent online and can't trust everything you read. Someone could easily hide this URL in some inocuous text so you would not easily notice the underhandedness: [Nokia fake press release](https://press.nokia.com~id=@%31%39%34%2e%31%36%34%2e%32%30%2e%38/release/7650.htm)  
   
-Read more about these same techniques that spammers often use to trick you at [Stupid Spam Tricks](http://gregsearle.tripod.com/spam_tech.html).
+Read more about these same techniques that spammers often use to trick you at [Stupid Spam Tricks](https://gregsearle.tripod.com/spam_tech.html).

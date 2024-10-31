@@ -11,4 +11,4 @@ This is really unfortunate.  I hope it comes back. Was an excellent service.
   
 For now, I'm using mininova or eztv.it directly and having good luck.  Not sure if I want to take the time to update all my auto download feeds though or stick it out and hope tvrss.net makes it back online...  
   
-[3 Alternatives to TVRSS.net’s RSS feeds | OzSoapbox](http://ozsoapbox.com/personal/3-alternatives-to-tvrssnets-rss-feeds/)
+[3 Alternatives to TVRSS.net’s RSS feeds | OzSoapbox](https://ozsoapbox.com/personal/3-alternatives-to-tvrssnets-rss-feeds/)

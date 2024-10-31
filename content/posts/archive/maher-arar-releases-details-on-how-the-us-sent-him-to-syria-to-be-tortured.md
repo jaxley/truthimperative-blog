@@ -20,8 +20,8 @@ An update to this story: As of Sept 2004, a heavily-redacted report was released
 
 > "Prime Minister Jean Chr�en tells the House of Commons that the U.S. government's deportation of a Canadian to Syria was "unacceptable," but he is adamant that he will not allow an independent inquiry into the case of Maher Arar. He says his government has asked U.S. Secretary of State Colin Powell for an explanation and that the government also wants to find out whether Canadian intelligence officials played a role in the deportation of Arar."  
 >   
-> [National Story - canada.com network](http://www.canada.com/national/story.asp?id=46cd9a7e-bd89-4d6d-8312-b98107e60828 "National Story - canada.com network")  
+> [National Story - canada.com network](https://www.canada.com/national/story.asp?id=46cd9a7e-bd89-4d6d-8312-b98107e60828 "National Story - canada.com network")  
 >   
-> [Wikipedia: Maher Arar](http://en2.wikipedia.org/wiki/Maher_Arar)  
+> [Wikipedia: Maher Arar](https://en2.wikipedia.org/wiki/Maher_Arar)  
 >   
-> [CBC News: Maher Arar Timeline](http://www.cbc.ca/news/background/arar/)
+> [CBC News: Maher Arar Timeline](https://www.cbc.ca/news/background/arar/)

@@ -20,9 +20,9 @@ I'm going to play the wait-and-see game for a while. There are some new Minidisc
   
 The most promising product is the Neuros, although some poor design decisions, including only providing USB 1.x support, may kill this one before it gets started. The promise for me is the ability to have both a memory-based player and a hard-drive based player in one. I could take it to the gym without the hard disk pack, but still be able to add the disk for roadtrips or just the daily commute. The built-in FM transmitter is another great feature.  
   
-[PC Firewire iPod](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?family=iPod)  
-[Creative Nomad Jukebox Zen](http://www.americas.creative.com/products/product.asp?product=731&category=2&maincategory=)  
-[Creative Nomad Jukebox 3](http://www.americas.creative.com/products/product.asp?product=420&category=2&maincategory=)  
-[Neuros](http://www.neurosaudio.com)  
-[Archos Jukebox Multimedia 20](http://www.archos.com/lang=en/products/prw_500375.html)  
+[PC Firewire iPod](https://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?family=iPod)  
+[Creative Nomad Jukebox Zen](https://www.americas.creative.com/products/product.asp?product=731&category=2&maincategory=)  
+[Creative Nomad Jukebox 3](https://www.americas.creative.com/products/product.asp?product=420&category=2&maincategory=)  
+[Neuros](https://www.neurosaudio.com)  
+[Archos Jukebox Multimedia 20](https://www.archos.com/lang=en/products/prw_500375.html)  
 Bantam Interactive BA1000

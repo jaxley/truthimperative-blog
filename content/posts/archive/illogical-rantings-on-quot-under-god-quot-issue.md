@@ -17,7 +17,7 @@ linter-yaml-title-alias: Illogical-rantings-on-quot-under-god-quot-issue
 
 I couldn't pass this one up.  
   
-[Miami News-Record - Gerald Stone Column](http://www.miaminewsrecord.com/MIAMINEWSRECORD/sites/MIAMINEWSRECORD/0747edition/myarticles806650.asp?P=806650&S=320&PubID=13381 "Miami News-Record - Gerald Stone Column")  
+[Miami News-Record - Gerald Stone Column](https://www.miaminewsrecord.com/MIAMINEWSRECORD/sites/MIAMINEWSRECORD/0747edition/myarticles806650.asp?P=806650&S=320&PubID=13381 "Miami News-Record - Gerald Stone Column")  
   
 
 >   

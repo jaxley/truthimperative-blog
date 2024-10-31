@@ -18,6 +18,6 @@ Legally, there is no requirement that you must have an ID to fly in the US. Howe
   
 Seems as if the TSA may even have different procedures for those who \_forget\_ their IDs than for those who \_refuse to show\_ ID. Funny. It is also noted that if they write SSSS on your boarding pass for "special screening", if you were to have another copy of your boarding pass without the SSSS you may be able to bypass the extra screening.  
   
-[philosecurity » Blog Archive » Flying Without a Wallet](http://philosecurity.org/2008/08/10/flying-without-a-wallet)  
+[philosecurity » Blog Archive » Flying Without a Wallet](https://philosecurity.org/2008/08/10/flying-without-a-wallet)  
 
 > I was curious to learn more about the TSA’s new practices for ID-less travelers. As a security professional, I decided to research TSA’s latest security screening procedures.

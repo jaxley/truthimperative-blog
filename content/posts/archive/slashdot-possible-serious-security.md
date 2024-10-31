@@ -12,4 +12,4 @@ updated: 2024-10-10 14:59:09-07:00
 
   
   
-[Slashdot | Possible Serious Security Flaw In ATMs](http://it.slashdot.org/article.pl?sid=06/11/30/2139235)
+[Slashdot | Possible Serious Security Flaw In ATMs](https://it.slashdot.org/article.pl?sid=06/11/30/2139235)

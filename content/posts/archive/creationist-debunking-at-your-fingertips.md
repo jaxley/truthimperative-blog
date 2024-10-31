@@ -15,6 +15,6 @@ linter-yaml-title-alias: Creationist-debunking-at-your-fingertips
 ---
 
 
-[An Index to Creationist Claims](http://home.earthlink.net/~misaak/guide/list.html "An Index to Creationist Claims")  
+[An Index to Creationist Claims](https://home.earthlink.net/~misaak/guide/list.html "An Index to Creationist Claims")  
   
 An online Index to Creationist Claims that debunks many of them, with references.

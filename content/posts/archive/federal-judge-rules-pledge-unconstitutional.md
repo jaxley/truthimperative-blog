@@ -15,7 +15,7 @@ linter-yaml-title-alias: Federal-judge-rules-pledge-unconstitutional
 ---
 
 
-[http://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001](http://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001)  
+[https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001](https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001)  
   
 
 >   

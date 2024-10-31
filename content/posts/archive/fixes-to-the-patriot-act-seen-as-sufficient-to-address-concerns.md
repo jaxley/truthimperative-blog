@@ -19,7 +19,7 @@ linter-yaml-title-alias: Fixes-to-the-patriot-act-seen-as-sufficient-to-address-
 
 Appropriate rational commentary on the specifics that need to be changed about the PATRIOT act to address privacy and governmental power and oversight issues.  
   
-[](http://online.wsj.com/article_print/0,,SB110022195361672222,00.html)  
+[](https://online.wsj.com/article_print/0,,SB110022195361672222,00.html)  
   
 The Wall Street Journal  
   

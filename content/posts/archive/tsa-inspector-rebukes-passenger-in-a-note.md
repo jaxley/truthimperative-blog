@@ -14,4 +14,4 @@ updated: 2024-10-10 10:49:43-07:00
 
 I hope that somebody is guarding the constitution. People seem to be lining up to shred it with war on the horizon.  
   
-[The Seattle Times: Local News: Suitcase surprise: Rebuke written on inspection notice](http://seattletimes.nwsource.com/html/localnews/134653764_tsasign15m.html "The Seattle Times: Local News: Suitcase surprise: Rebuke written on inspection notice")
+[The Seattle Times: Local News: Suitcase surprise: Rebuke written on inspection notice](https://seattletimes.nwsource.com/html/localnews/134653764_tsasign15m.html "The Seattle Times: Local News: Suitcase surprise: Rebuke written on inspection notice")

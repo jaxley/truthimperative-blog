@@ -11,24 +11,24 @@ I think it is a horrible waste that the US spends so much money to fund the Nati
   
 However, one good thing is that they have tested out many of the common "remedies" and supplements that many Americans take and have succeeded in disproving them.  The trash heap now contains at least:  
 
-*   [ginkgo](http://nccam.nih.gov/research/results/gems/)
-*   [glucosamine/chondroitin](http://nccam.nih.gov/research/results/gait/)
-*   [echinacea](http://nccam.nih.gov/research/results/echinacea_rr.htm)
-*   [St. John’s wort](http://nccam.nih.gov/news/2002/stjohnswort/pressrelease.htm)
-*   [shark cartilage](http://nccam.nih.gov/research/results/spotlight/061507.htm)
+*   [ginkgo](https://nccam.nih.gov/research/results/gems/)
+*   [glucosamine/chondroitin](https://nccam.nih.gov/research/results/gait/)
+*   [echinacea](https://nccam.nih.gov/research/results/echinacea_rr.htm)
+*   [St. John’s wort](https://nccam.nih.gov/news/2002/stjohnswort/pressrelease.htm)
+*   [shark cartilage](https://nccam.nih.gov/research/results/spotlight/061507.htm)
 
 Other non-remedies to add to the list are:  
 
-*   [Vitamin C](http://www.quackcast.com/spodcasts/files/podcast_27.mp3)
+*   [Vitamin C](https://www.quackcast.com/spodcasts/files/podcast_27.mp3)
 (Too much can cause diarrhea or oxalate stones)  
-*   ["Probiotics"](http://www.sciencebasedmedicine.org/?p=344)
-*   [Antioxidants](http://vitamins-minerals.suite101.com/article.cfm/vitamins_dont_prevent_cancer)  They may actually harm systems that depend on free radicals
+*   ["Probiotics"](https://www.sciencebasedmedicine.org/?p=344)
+*   [Antioxidants](https://vitamins-minerals.suite101.com/article.cfm/vitamins_dont_prevent_cancer)  They may actually harm systems that depend on free radicals
 
-Oh, and Airborne is chock full of a bunch of woo and is not going to be effective so don't give those thieves any of your money.  Also, Airborne contains 100% of your RDA of Vitamin A, but if you take up to the maximum recommended "dose" of Airborne (every 3 hours, or 8 times/day) you will get 8 times the RDA of Vitamin A.  And excess vitamins can be harmful as a [new study shows](http://blog.taragana.com/health/2009/10/09/too-much-of-vitamin-a-is-bad-for-human-system-13336/) specifically with Vitamin A.  
+Oh, and Airborne is chock full of a bunch of woo and is not going to be effective so don't give those thieves any of your money.  Also, Airborne contains 100% of your RDA of Vitamin A, but if you take up to the maximum recommended "dose" of Airborne (every 3 hours, or 8 times/day) you will get 8 times the RDA of Vitamin A.  And excess vitamins can be harmful as a [new study shows](https://blog.taragana.com/health/2009/10/09/too-much-of-vitamin-a-is-bad-for-human-system-13336/) specifically with Vitamin A.  
   
-And if you thought that Zicam was safe, watch out.  It can cause a complete [loss of smell and taste](http://www.flupatrol.com/2006/12/13/debate-over-zicam-does-risk-outweigh-the-benefits/).  So although it \_may\_ have a modest affect for the common cold, I don't think that the risk may outweigh the benefits.  
+And if you thought that Zicam was safe, watch out.  It can cause a complete [loss of smell and taste](https://www.flupatrol.com/2006/12/13/debate-over-zicam-does-risk-outweigh-the-benefits/).  So although it \_may\_ have a modest affect for the common cold, I don't think that the risk may outweigh the benefits.  
   
 Also, if any substance has a pharmacological effect on the human body, then \_it is a drug\_  And you should tell your doctor when you are taking these things because they can have drug interaction effects just like any prescription drug.  Some can be very dangerous to not tell your doctor about.  And as with any drug, they can have side effects.  
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=42da41e6-e78e-8e68-a6a9-fdba6fcfbd95) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=42da41e6-e78e-8e68-a6a9-fdba6fcfbd95) -->

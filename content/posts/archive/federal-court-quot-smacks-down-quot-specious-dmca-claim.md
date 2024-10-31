@@ -15,7 +15,7 @@ linter-yaml-title-alias: Federal-court-quot-smacks-down-quot-specious-dmca-claim
 ---
 
 
-[Fed. Circuit Smacks Down Bad DMCA Decision Re: Independent Repair Techs](http://www.corante.com/copyfight/archives/039297print.html)  
+[Fed. Circuit Smacks Down Bad DMCA Decision Re: Independent Repair Techs](https://www.corante.com/copyfight/archives/039297print.html)  
   
 Great news for the public's rights over "copy" rights.  
   

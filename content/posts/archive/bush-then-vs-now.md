@@ -15,7 +15,7 @@ linter-yaml-title-alias: Bush-then-vs-now
 ---
 
 
-[Then:](http://www.cbsnews.com/stories/2004/03/15/opinion/polls/main606465.shtml)  
+[Then:](https://www.cbsnews.com/stories/2004/03/15/opinion/polls/main606465.shtml)  
   
 
 >   
@@ -23,7 +23,7 @@ linter-yaml-title-alias: Bush-then-vs-now
 
   
   
-[Now:](http://www.cbsnews.com/stories/2005/09/08/opinion/polls/main824591.shtml)  
+[Now:](https://www.cbsnews.com/stories/2005/09/08/opinion/polls/main824591.shtml)  
   
 
 >   

@@ -15,6 +15,6 @@ linter-yaml-title-alias: Quot-religious-right-quot-confirms-they-are-hypocrites
 ---
 
 
-[AMERICAblog: Religious right bigots upset that a US Senator called them on their religious bigotry](http://americablog.blogspot.com/2005/11/religious-right-bigots-upset-that-us.html "AMERICAblog: Because a great nation deserves the truth")  
+[AMERICAblog: Religious right bigots upset that a US Senator called them on their religious bigotry](https://americablog.blogspot.com/2005/11/religious-right-bigots-upset-that-us.html "AMERICAblog: Because a great nation deserves the truth")  
   
 Yet another reason to love Vermont Senator Pat Leahy.

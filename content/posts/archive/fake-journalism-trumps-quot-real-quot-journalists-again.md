@@ -15,7 +15,7 @@ linter-yaml-title-alias: Fake-journalism-trumps-quot-real-quot-journalists-again
 ---
 
 
-[Boing Boing: Colbert White House video on DVD at CSPAN](http://www.boingboing.net/2006/05/06/colbert_white_house_.html "Boing Boing: Colbert White House video on DVD at CSPAN")  
+[Boing Boing: Colbert White House video on DVD at CSPAN](https://www.boingboing.net/2006/05/06/colbert_white_house_.html "Boing Boing: Colbert White House video on DVD at CSPAN")  
   
 This was the most scathing satirical commentary on the lapdog media and the president himself -- and right in front of both subjects!  
   

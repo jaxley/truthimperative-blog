@@ -26,7 +26,7 @@ I can't believe how many privacy policies are cut from the same tattered cloth a
 
 Now that is USEFUL information about data privacy that is understandable and I can get behind!  
   
-[drop.io privacy policy](http://drop.io/privacy)  
+[drop.io privacy policy](https://drop.io/privacy)  
   
 The typical corporate privacy policy is typified by:  
 
@@ -45,4 +45,4 @@ No wonder people don't care enough about their privacy.  They aren't able to un
 To be fair, the companies writing the policies (if they are big enough) probably don't really understand very well what is being collected or used so they are forced to write generic policies.  It's hard work to actually catalog and enforce customer data tracking and most companies don't think they need to do this, and customers enable they by not demanding this level of accountability.  
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=f901312a-7646-8efc-a9bb-d7767c2144ab) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=f901312a-7646-8efc-a9bb-d7767c2144ab) -->

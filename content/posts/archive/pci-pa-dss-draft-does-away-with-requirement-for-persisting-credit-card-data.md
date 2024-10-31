@@ -26,4 +26,4 @@ I did a very detailed decision tree previously that I'll have to get out there f
   
 It all depends on your threat model whether encryption solves your problem or not.  If the data theft is due to an application or business logic flaw, then encryption is unlikely to do anything for you (e.g. an XSS attack can reveal encrypted data just fine...)  
   
-[Group drafts rules to nix credit-card storage](http://www.securityfocus.com/news/11496)
+[Group drafts rules to nix credit-card storage](https://www.securityfocus.com/news/11496)

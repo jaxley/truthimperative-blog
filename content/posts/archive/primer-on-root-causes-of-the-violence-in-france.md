@@ -15,4 +15,4 @@ linter-yaml-title-alias: Primer-on-root-causes-of-the-violence-in-france
 ---
 
 
-[TomPaine.com - Why Paris Is Burning](http://www.tompaine.com/articles/20051109/why_paris_is_burning.php "TomPaine.com - Why Paris Is Burning")
+[TomPaine.com - Why Paris Is Burning](https://www.tompaine.com/articles/20051109/why_paris_is_burning.php "TomPaine.com - Why Paris Is Burning")

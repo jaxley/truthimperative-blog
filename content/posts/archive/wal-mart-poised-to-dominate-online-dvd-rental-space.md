@@ -12,7 +12,7 @@ updated: 2024-10-10 14:56:38-07:00
 
 This does not look good for Netflix, which is too bad. They have been a great service.  
   
-[Excite News](http://apnews.excite.com/article/20030610/D7RJ558O0.html "Excite News")  
+[Excite News](https://apnews.excite.com/article/20030610/D7RJ558O0.html "Excite News")  
   
 After a seven-month trial, Wal-Mart Stores Inc. has begun full-scale operations in its online DVD rental business, hoping to catch up with market leader Netflix Inc. (NFLX)  
   

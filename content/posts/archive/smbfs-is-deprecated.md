@@ -16,4 +16,4 @@ If you are getting any of these kinds of errors, especially after hitting the fi
 \[167296.124968\] smb\_add\_request: request \[ea3c5100, mid=53572\] timed out!  
 \[167315.978636\] smb\_add\_request: request \[ea3c5200, mid=53573\] timed out!
 ```  
-[Joey Stanford :: Resolution to Mounting Samba Shares - Don’t use smbfs](http://joey.ubuntu-rocks.org/blog/2007/04/25/resolution-to-mounting-samba-shares-dont-use-smbfs/)
+[Joey Stanford :: Resolution to Mounting Samba Shares - Don’t use smbfs](https://joey.ubuntu-rocks.org/blog/2007/04/25/resolution-to-mounting-samba-shares-dont-use-smbfs/)

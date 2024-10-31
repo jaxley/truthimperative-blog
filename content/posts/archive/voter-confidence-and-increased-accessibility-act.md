@@ -10,13 +10,13 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:58:04-07:00
 ---
 
-[Voter Verification Newsletter -- Vol 1, Number 3](http://verify.stanford.edu/EVOTE/NEWSLETTERS/v1n3.html "Voter Verification Newsletter -- Vol 1, Number 3")  
+[Voter Verification Newsletter -- Vol 1, Number 3](https://verify.stanford.edu/EVOTE/NEWSLETTERS/v1n3.html "Voter Verification Newsletter -- Vol 1, Number 3")  
   
 "Federal Legislation Introduced!  
   
 Rep. Rush Holt of New Jersey has introduced a bill requiring a voter-verifiable paper trail.  
   
-[http://holt.house.gov/issues2.cfm?id=5996](http://holt.house.gov/issues2.cfm?id=5996)  
+[https://holt.house.gov/issues2.cfm?id=5996](https://holt.house.gov/issues2.cfm?id=5996)  
   
 The Voter Confidence and Increased Accessibility Act of 2003.  
   

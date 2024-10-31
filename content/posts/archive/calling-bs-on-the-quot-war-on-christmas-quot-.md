@@ -15,7 +15,7 @@ linter-yaml-title-alias: Calling-bs-on-the-quot-war-on-christmas-quot-
 ---
 
 
-[Salon.com News | How the secular humanist grinch didn't steal Christmas](http://www.salon.com/news/feature/2005/11/21/christmas/ "Salon.com News | How the secular humanist grinch didn't steal Christmas")  
+[Salon.com News | How the secular humanist grinch didn't steal Christmas](https://www.salon.com/news/feature/2005/11/21/christmas/ "Salon.com News | How the secular humanist grinch didn't steal Christmas")  
   
 A great article in Salon with actual \_facts\_ instead of anecdotes. Remember kids, anecdotes is not the plural form of the word data.  
   

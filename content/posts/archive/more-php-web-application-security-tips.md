@@ -15,7 +15,7 @@ linter-yaml-title-alias: More-php-web-application-security-tips
 ---
 
 
-[Hacks From Pax: PHP Web Application Security - The Community's Center for Security](http://www.linuxsecurity.com/content/view/120043/ "Hacks From Pax: PHP Web Application Security - The Community's Center for Security")  
+[Hacks From Pax: PHP Web Application Security - The Community's Center for Security](https://www.linuxsecurity.com/content/view/120043/ "Hacks From Pax: PHP Web Application Security - The Community's Center for Security")  
   
 
 >   

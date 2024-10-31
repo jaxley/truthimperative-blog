@@ -11,4 +11,4 @@ Reports are that people are getting fake TXT messages claiming to announce Obama
   
 But to bring in the security angle, Verizon's website makes it easy to spoof the return address of text addresses to perpetrate these messages.  
   
-[Wonkette: The D.C. Gossip » Blog Archive » Freak Out Your Friends With Fake Obama VP TXT](http://wonkette.com/402054/freak-out-your-friends-with-fake-obama-vp-txt)
+[Wonkette: The D.C. Gossip » Blog Archive » Freak Out Your Friends With Fake Obama VP TXT](https://wonkette.com/402054/freak-out-your-friends-with-fake-obama-vp-txt)

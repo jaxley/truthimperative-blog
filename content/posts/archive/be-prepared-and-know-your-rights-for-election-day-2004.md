@@ -15,11 +15,11 @@ linter-yaml-title-alias: Be-prepared-and-know-your-rights-for-election-day-2004
 ---
 
 
-[The Rittenhouse Review: LET NO KERRY VOTER LEAVE LINE](http://rittenhouse.blogspot.com/2004/10/let-no-kerry-voter-leave-line-prepare.html "The Rittenhouse Review:  LET NO KERRY VOTER LEAVE LINE")  
+[The Rittenhouse Review: LET NO KERRY VOTER LEAVE LINE](https://rittenhouse.blogspot.com/2004/10/let-no-kerry-voter-leave-line-prepare.html "The Rittenhouse Review:  LET NO KERRY VOTER LEAVE LINE")  
   
 
 > some interesting thoughts about Election Day that are worth keeping in mind heading toward -- and on -- Tuesday.
 
   
   
-Also, check out the similar information in the [Voter bill of rights](http://www.democrats.org/votingrights/index.html)
+Also, check out the similar information in the [Voter bill of rights](https://www.democrats.org/votingrights/index.html)

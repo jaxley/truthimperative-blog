@@ -72,7 +72,7 @@ dozens of complaints forwarded via Congresspeople are well worth
 reading:  
   
   
-[http://www.plastic.com/article.html;sid=03/03/12/06265215;cmt=42](http://www.epic.org/privacy/airtravel/foia/watchlist_foia_analysis.html)  
+[https://www.plastic.com/article.html;sid=03/03/12/06265215;cmt=42](https://www.epic.org/privacy/airtravel/foia/watchlist_foia_analysis.html)  
   
 \---------------------------------------------------------------------  
 The Cryptography Mailing List  

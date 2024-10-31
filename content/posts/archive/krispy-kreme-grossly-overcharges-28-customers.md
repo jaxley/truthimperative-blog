@@ -38,7 +38,7 @@ what they ordered, each of 28 customers using a credit card were charged
 EXACTLY $84,213.60 for the purchase. KK blamed Heartland Payment Systems,  
 which processes their credit-card transactions. \[Source: KRQE News 13,  
 Albuquerque, N.M., 19 Feb 2003; PGN-ed\]  
-http://www.krqe.com/Global/story.asp?S=1140274  
+https://www.krqe.com/Global/story.asp?S=1140274  
 \[These charges were actually APPROVED, and of course also blew the  
 customers' credit ratings for a few days. Amazing!  
 \`\`The $84,000 charge, were it legitimate, would have purchased over  

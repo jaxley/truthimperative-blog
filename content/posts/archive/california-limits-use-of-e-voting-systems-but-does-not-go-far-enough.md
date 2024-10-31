@@ -18,9 +18,9 @@ linter-yaml-title-alias: California-limits-use-of-e-voting-systems-but-does-not-
 
 It was unclear from my cursory read of the materials whether machines will require voter verifiable paper audit trails.  At least the Sequoia and Diebold machines must have their ballots hand-counted so it does sound like all-electronic voting is dead for those machines at least.  
   
-The full details are available here:  [http://www.sos.ca.gov/elections/elections\_vsr.htm](http://www.sos.ca.gov/elections/elections_vsr.htm)  
+The full details are available here:  [https://www.sos.ca.gov/elections/elections\_vsr.htm](https://www.sos.ca.gov/elections/elections_vsr.htm)  
   
-Read Rebecca Mercuri's comments in Risks on this announcment:  [California Voting System Hacking Report](http://catless.ncl.ac.uk/Risks/24.76.html#subj2.1)  
+Read Rebecca Mercuri's comments in Risks on this announcment:  [California Voting System Hacking Report](https://catless.ncl.ac.uk/Risks/24.76.html#subj2.1)  
   
 My favorite gem:  
   
@@ -30,7 +30,7 @@ My favorite gem:
 > Here's a novel thought: why not just throw this crap in the junk heap whereit belongs, vote on paper, and let the citizens do the counting? Maybe foranother $1.8M some State can get a team of PhDs to validate that conclusion.
 
   
-[California Puts Limits on Use of E-voting Systems](http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=300571&source=rss_topic17)  
+[California Puts Limits on Use of E-voting Systems](https://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=300571&source=rss_topic17)  
 
 > California Secretary of State Debra Bowen has mandated tough new  
 > security standards for the state’s e-voting systems and curtailed their  

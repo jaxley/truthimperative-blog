@@ -19,6 +19,6 @@ linter-yaml-title-alias: Duk-koo-kim
   
 I recently purchased the one and only vinyl album that I own. I had to do so, even though I do not own a turntable, because it is a 1000 copy limited release single. It contains two versions of the same beautiful song, called Duk Koo Kim, by Mark Kozelek of the Red House Painters. This is one of my favorite RHP songs. Reading the history about Duk Koo Kim makes the song that much more poignant and sad.  
   
-[Duk Koo Kim - Wikipedia](http://www.wikipedia.org/wiki/Duk_Koo_Kim "Duk Koo Kim - Wikipedia")  
+[Duk Koo Kim - Wikipedia](https://www.wikipedia.org/wiki/Duk_Koo_Kim "Duk Koo Kim - Wikipedia")  
   
 A tragic turn of events that reads more like Shakespeare than real life. One death leads to several others and radical changes to the world of boxing.

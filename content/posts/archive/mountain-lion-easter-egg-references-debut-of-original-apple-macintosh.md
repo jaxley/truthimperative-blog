@@ -16,6 +16,6 @@ linter-yaml-title-alias: Mountain-lion-easter-egg-references-debut-of-original-a
 
 How clever.  I just noticed this today.
 
-> [Mountain Lion easter egg references debut of](http://appleinsider.com/articles/12/07/26/mountain_lion_easter_egg_references_debut_of_original_apple_macintosh)[ original Apple Macintosh](http://appleinsider.com/articles/12/07/26/mountain_lion_easter_egg_references_debut_of_original_apple_macintosh): Mountain Lion easter egg references debut of original Apple Macintosh
+> [Mountain Lion easter egg references debut of](https://appleinsider.com/articles/12/07/26/mountain_lion_easter_egg_references_debut_of_original_apple_macintosh)[ original Apple Macintosh](https://appleinsider.com/articles/12/07/26/mountain_lion_easter_egg_references_debut_of_original_apple_macintosh): Mountain Lion easter egg references debut of original Apple Macintosh
 
 >  Incomplete downloads in OS X 10.8 Mountain Lion show a "Date Modified" of Jan. 24, 1984, a reference to the day when Apple's very first Macintosh was unveiled by Steve Jobs.

@@ -20,4 +20,4 @@ Here are two great ways to debug nunit tests. I opted for the simpler option of 
 ```
     ...<br />    <StartAction>Program</StartAction><br />    <StartProgram>C:\\Program Files\\TestDriven.NET 2.0\\NUnit\\2.4\\nunit.exe</StartProgram><br />  </PropertyGroup><br />
 ```  
-[Stu's Blog: Debugging NUnit in Visual Studio Express](http://stewartr.blogspot.com/2006/09/debugging-nunit-in-visual-studio.html)
+[Stu's Blog: Debugging NUnit in Visual Studio Express](https://stewartr.blogspot.com/2006/09/debugging-nunit-in-visual-studio.html)

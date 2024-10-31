@@ -14,7 +14,7 @@ url: /2006/11/scans-from-1962-fallout-shelter-handbook.html
 ---
 
 
-[The Ward-O-Matic: Fallout Shelter Handbook 1962](http://wardomatic.blogspot.com/2006/11/fallout-shelter-handbook-1962.html "The Ward-O-Matic: Fallout Shelter Handbook 1962")  
+[The Ward-O-Matic: Fallout Shelter Handbook 1962](https://wardomatic.blogspot.com/2006/11/fallout-shelter-handbook-1962.html "The Ward-O-Matic: Fallout Shelter Handbook 1962")  
   
 I've been working on emergency preparedness for my neighborhood lately so this is very apropos.  
   

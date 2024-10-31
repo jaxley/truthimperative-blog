@@ -22,7 +22,7 @@ Subject: MS Windows crash traps Thai politician in car (From Dave
 Farber's IP)  
   
 Crashed Computer Traps Thai Politician, 14 May 2003  
-[http://aardvark.co.nz/daily/2003/n051301.shtml](http://aardvark.co.nz/daily/2003/n051301.shtml)  
+[https://aardvark.co.nz/daily/2003/n051301.shtml](https://aardvark.co.nz/daily/2003/n051301.shtml)  
   
 Thailand's Finance Minister Suchart Jaovisidha had to be rescued today  
 from  
@@ -38,7 +38,7 @@ were
 able to summon the attention of a nearby guard who freed the two men by  
 smashing one of the vehicle's windows with a sledgehammer.  
   
-A report ([http://www.bangkokpost.com/Business/13May2003\_biz12.html](http://www.bangkokpost.com/Business/13May2003_biz12.html))  
+A report ([https://www.bangkokpost.com/Business/13May2003\_biz12.html](https://www.bangkokpost.com/Business/13May2003_biz12.html))  
 published in the \*Bangkok Post\* indicates that the vehicle was Mr  
 Jaovisidha's own BMW 520 which was being used while his state-supplied  
 Mercedes, was being repaired.  
@@ -46,16 +46,16 @@ Mercedes, was being repaired.
 BMW's more up-market 7-series range uses a computer system called  
 i-drive  
 which has Microsoft's WindowsCE at its core.  
-[http://www.microsoft.com/presspass/press/2002/Mar02/03-04BMWpr.asp](http://www.microsoft.com/presspass/press/2002/Mar02/03-04BMWpr.asp)  
+[https://www.microsoft.com/presspass/press/2002/Mar02/03-04BMWpr.asp](https://www.microsoft.com/presspass/press/2002/Mar02/03-04BMWpr.asp)  
   
 Did Mr Jaovisidha narrowly miss being killed by the blue windscreen of  
 death?  
   
 Robert J. Berger - Internet Bandwidth Development, LLC.  
 Voice: 408-882-4755 eFax: +1-408-490-2868  
-http://www.ibd.com  
+https://www.ibd.com  
   
 IP Archives at:  
-http://www.interesting-people.org/archives/interesting-people/  
+https://www.interesting-people.org/archives/interesting-people/  
   
 \[At least 33 readers have noted this one thus far. TNX! PGN\]

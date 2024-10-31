@@ -18,6 +18,6 @@ linter-yaml-title-alias: Deregulation-behind-the-massive-financial-crisis
 
 No, it wasn't Fannie and Freddie.  Alan Greenspan (who owns a lot of blame for the mess), the SEC chairman and John Snow agree it wasn't them.  Fannie and Freddie weren't even securitizing those mortgages in large numbers until 2005.  
   
-[Wonk Room » The Perino Challenge: ‘What Specific Regulation Did We Eliminate?’](http://wonkroom.thinkprogress.org/2008/09/19/perino-challenge/)  Lists several key ones.  
+[Wonk Room » The Perino Challenge: ‘What Specific Regulation Did We Eliminate?’](https://wonkroom.thinkprogress.org/2008/09/19/perino-challenge/)  Lists several key ones.  
 
-[Think Progress » Cox, Greenspan, Snow Agree: Freddie Mac And Fannie Mae Did Not Cause The Financial Crisis](http://thinkprogress.org/2008/10/23/mica-waxman/)
+[Think Progress » Cox, Greenspan, Snow Agree: Freddie Mac And Fannie Mae Did Not Cause The Financial Crisis](https://thinkprogress.org/2008/10/23/mica-waxman/)

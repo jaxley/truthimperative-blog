@@ -16,4 +16,4 @@ linter-yaml-title-alias: More-mccain-flip-floppery-now-on-abortion
 
   
   
-[Think Progress: McCain Flip-Flops, Supports Immediate Reversal of Roe v. Wade](http://thinkprogress.org/2006/11/19/mccain-abortion/)
+[Think Progress: McCain Flip-Flops, Supports Immediate Reversal of Roe v. Wade](https://thinkprogress.org/2006/11/19/mccain-abortion/)

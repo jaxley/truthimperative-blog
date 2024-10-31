@@ -13,6 +13,6 @@ url: /2008/06/from-so-dumb-it-hilarious-department.html
 
 A running family joke, but I laugh every time I hear this.  
   
-[YouTube - Kitty Cat Dance](http://www.youtube.com/watch?v=DpA2tMrQ4RU)  
+[YouTube - Kitty Cat Dance](https://www.youtube.com/watch?v=DpA2tMrQ4RU)  
 
-[YouTube - cat i'm a kitty cat](http://www.youtube.com/watch?v=QuPwwGEeSLo&feature=related)
+[YouTube - cat i'm a kitty cat](https://www.youtube.com/watch?v=QuPwwGEeSLo&feature=related)

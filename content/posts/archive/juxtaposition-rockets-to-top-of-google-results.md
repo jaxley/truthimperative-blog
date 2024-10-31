@@ -19,4 +19,4 @@ Juxtaposition has rocketed to the top of the Google search results for the word 
   
 Sadly, a link search (for link:juxtaposition.axley.net) returns no hits though.  
   
-[http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search](http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search)
+[https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search](https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search)

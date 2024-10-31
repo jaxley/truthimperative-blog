@@ -18,9 +18,9 @@ linter-yaml-title-alias: Richard-stallman-quot-foils-quot-rfid-quot-security-quo
 ---
 
 
-[GNU project founder foils UN security](http://www.theinquirer.net/?article=27834 "GNU project founder foils UN security")  
+[GNU project founder foils UN security](https://www.theinquirer.net/?article=27834 "GNU project founder foils UN security")  
   
-Glad my passport does not expire for many years to come. Perhaps by then passports won't [have RFID tags in them](http://news.zdnet.com/2100-1009_22-5913644.html) any longer. But if they do, I guess this is an easy way to keep myself from being a target for a shoulder-fired missile overseas.  
+Glad my passport does not expire for many years to come. Perhaps by then passports won't [have RFID tags in them](https://news.zdnet.com/2100-1009_22-5913644.html) any longer. But if they do, I guess this is an easy way to keep myself from being a target for a shoulder-fired missile overseas.  
   
 
 >   

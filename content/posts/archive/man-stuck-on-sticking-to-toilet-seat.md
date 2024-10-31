@@ -16,4 +16,4 @@ linter-yaml-title-alias: Man-stuck-on-sticking-to-toilet-seat
 ---
 
 
-[CNN.com - Man glued to toilet may have history - Nov 8, 2005](http://www.cnn.com/2005/LAW/11/08/toilet.man.ap/index.html?section=cnn_topstories "CNN.com - Man glued to toilet may have history - Nov 8, 2005")
+[CNN.com - Man glued to toilet may have history - Nov 8, 2005](https://www.cnn.com/2005/LAW/11/08/toilet.man.ap/index.html?section=cnn_topstories "CNN.com - Man glued to toilet may have history - Nov 8, 2005")

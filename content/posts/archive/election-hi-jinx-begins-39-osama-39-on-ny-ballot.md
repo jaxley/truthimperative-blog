@@ -13,7 +13,7 @@ url: /2008/10/election-hi-jinx-begins-on-ny-ballot.html
 
 Yeah, "Oops".  "Honest mistake"  
   
-[ELECTION MIX-UP: 'OSAMA' ON THE BALLOT - New York Post](http://www.nypost.com/seven/10102008/news/politics/election_mix_up__osama_on_the_ballot_133050.htm)  
+[ELECTION MIX-UP: 'OSAMA' ON THE BALLOT - New York Post](https://www.nypost.com/seven/10102008/news/politics/election_mix_up__osama_on_the_ballot_133050.htm)  
 
 > TROY, N.Y. - Who is running for president? In an upstate New York county, hundreds of voters have been sent absentee ballots in which they could vote for "Barack Osama."  
 >   

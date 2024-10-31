@@ -17,7 +17,7 @@ linter-yaml-title-alias: Acceptable-risk-as-a-euphamism-for-shifting-fraud-liabi
 
 [Financial Cryptography: "Acceptable Risk" - a Euphemism for Selling Fraud?](https://www.financialcryptography.com/mt/archives/000520.html "Financial Cryptography: ")  
   
-This is a post from a while back but is still relevant to recent discussions about how the financial industry is still shifting the burden of identity theft and fraud to the customers. Bruce Schneier just wrote about this in regards to phishing in the [most recent edition of Crypto-Gram](http://www.schneier.com/crypto-gram-0510.html#1) as well.  
+This is a post from a while back but is still relevant to recent discussions about how the financial industry is still shifting the burden of identity theft and fraud to the customers. Bruce Schneier just wrote about this in regards to phishing in the [most recent edition of Crypto-Gram](https://www.schneier.com/crypto-gram-0510.html#1) as well.  
   
 
 >   

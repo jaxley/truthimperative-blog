@@ -18,7 +18,7 @@ linter-yaml-title-alias: Congress-may-curtail-some-patriot-act-powers
 ---
 
 
-[Congress May Curb Some Patriot Act Powers - Yahoo! News](http://news.yahoo.com/s/ap/20051109/ap_on_go_co/patriot_act "Congress May Curb Some Patriot Act Powers - Yahoo! News")  
+[Congress May Curb Some Patriot Act Powers - Yahoo! News](https://news.yahoo.com/s/ap/20051109/ap_on_go_co/patriot_act "Congress May Curb Some Patriot Act Powers - Yahoo! News")  
   
 Now that congress has apparently taken the time to read the PATRIOT Act, they are more likely to do the right thing before voting for it a second time:  
   

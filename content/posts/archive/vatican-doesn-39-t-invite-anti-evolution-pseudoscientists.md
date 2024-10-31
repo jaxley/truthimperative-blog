@@ -9,6 +9,6 @@ updated: 2024-10-10 12:20:29-07:00
 
 Heh.  Gotta hand it to the Catholics for their ability to not deny fundamental scientific advances to save face with their religious dogma.  The Vatican astronomer was great in Bill Maher's Religulous too.  
   
-[Little Green Footballs - Pope Benedict Meets Stephen Hawking, Sans Creationists](http://littlegreenfootballs.com/article/31778_Pope_Benedict_Meets_Stephen_Hawking_Sans_Creationists#rss)  
+[Little Green Footballs - Pope Benedict Meets Stephen Hawking, Sans Creationists](https://littlegreenfootballs.com/article/31778_Pope_Benedict_Meets_Stephen_Hawking_Sans_Creationists#rss)  
 
 > Pope Benedict met Stephen Hawking at a Vatican-sponsored conference on evolution yesterday, and the pseudo-scientific shills of the Discovery Institute were not invited.

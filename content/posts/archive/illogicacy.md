@@ -15,7 +15,7 @@ linter-yaml-title-alias: Illogicacy
 ---
 
 
-[Atheist Ethicist: Well Founded Beliefs](http://atheistethicist.blogspot.com/2006/08/well-founded-beliefs.html "Atheist Ethicist: Well Founded Beliefs")  
+[Atheist Ethicist: Well Founded Beliefs](https://atheistethicist.blogspot.com/2006/08/well-founded-beliefs.html "Atheist Ethicist: Well Founded Beliefs")  
   
 Great treatise on how the inability for people to properly reason (I called it Illogicacy here after Innumeracy) leads them to make terrible mistakes that result in harm to others, often worse than those that society often feels harm society most.  
   

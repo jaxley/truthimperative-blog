@@ -11,9 +11,9 @@ This site is a demonstration that makes use of CSS and/or javascript tricks (nos
   
 e.g. if a site wanted to see if you had visited their competitor's sites, they could use this technique to peek into your browser history.  Or maybe they want to see if you've ever been to a popular pr0n site.  Or maybe your employer wants to see if you've visited wikileaks, etc.  
   
-[What the Internet knows about you](http://wtikay.com/docs/details.html%20and%20http://wtikay.com/docs/solutions.html)  
+[What the Internet knows about you](https://wtikay.com/docs/details.html%20and%20https://wtikay.com/docs/solutions.html)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=dc588cd4-d054-8cb6-b09a-8041af21f4dc) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=dc588cd4-d054-8cb6-b09a-8041af21f4dc) -->

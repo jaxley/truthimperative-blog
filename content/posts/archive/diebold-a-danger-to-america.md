@@ -16,7 +16,7 @@ linter-yaml-title-alias: Diebold-a-danger-to-america
 ---
 
 
-[The Open Voting Foundation](http://openvotingfoundation.org/ "The Open Voting Foundation")  
+[The Open Voting Foundation](https://openvotingfoundation.org/ "The Open Voting Foundation")  
   
 
 >   
@@ -24,4 +24,4 @@ linter-yaml-title-alias: Diebold-a-danger-to-america
 
   
   
-Makes you wonder how secure those ATMs made by Diebold are ([USBank](http://www.usbank.com) uses them I know).
+Makes you wonder how secure those ATMs made by Diebold are ([USBank](https://www.usbank.com) uses them I know).

@@ -11,7 +11,7 @@ I recently listened to Rush while driving and wanted to reach into the radio and
   
 This sounds about like the best description of this foul human being. There are some hilarious other entries as well you have to read.  
   
-[THE BEAST 50 MOST LOATHSOME PEOPLE IN AMERICA, 2008](http://buffalobeast.com/134/50mostloathsome2008-p4.html)  
+[THE BEAST 50 MOST LOATHSOME PEOPLE IN AMERICA, 2008](https://buffalobeast.com/134/50mostloathsome2008-p4.html)  
 
 > 11\. Rush Limbaugh  
 >   

@@ -13,7 +13,7 @@ I will definitely be checking this book out.
 > From: Brian Chess <brian@fortifysoftware.com>  
 > Subject: Secure Programming with Static Analysis  
 > Jacob West and I are proud to announce that our book, Secure Programming with Static Analysis, is now available.  
->  [http://www.amazon.com/dp/0321424778](http://www.amazon.com/dp/0321424778)  
+>  [https://www.amazon.com/dp/0321424778](https://www.amazon.com/dp/0321424778)  
 > The book covers a lot of ground.  
 > \* It explains why static source code analysis is a critical part of a secure  
 >   development process.  

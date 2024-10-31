@@ -16,6 +16,6 @@ linter-yaml-title-alias: Mccain-sells-out-to-the-religious-right
 ---
 
 
-[Daily Kos: McCain Embraces Falwell In All His Wingnut Glory](http://www.dailykos.com/storyonly/2006/3/28/121748/577 "Daily Kos: McCain Embraces Falwell In All His Wingnut Glory")  
+[Daily Kos: McCain Embraces Falwell In All His Wingnut Glory](https://www.dailykos.com/storyonly/2006/3/28/121748/577 "Daily Kos: McCain Embraces Falwell In All His Wingnut Glory")  
   
 I thought that McCain was one of the good guys but when he can't even be true to his own assertion that Falwell is one of the "agents of intolerance", what kind of integrity does he really have? Disappointing. I'm glad that John Stewart pushed him about this on The Daily Show. The "real" news media certainly did not point this out.

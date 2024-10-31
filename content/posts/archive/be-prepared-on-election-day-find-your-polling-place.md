@@ -17,4 +17,4 @@ linter-yaml-title-alias: Be-prepared-on-election-day-find-your-polling-place
 
 A great site that will tell you where you should go vote and other information about your polling place. You can even get text message reminders on voting day.  
   
-[MyPollingPlace.com](http://66.147.238.2/ "MyPollingPlace.com")
+[MyPollingPlace.com](https://66.147.238.2/ "MyPollingPlace.com")

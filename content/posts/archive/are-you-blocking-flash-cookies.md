@@ -24,10 +24,10 @@ Unbeknownst to many people, Macromedia Flash player allows surreptitious cookies
 Some information on eradicating them:  
   
 Firefox extension for blocking flash cookies:  
-\[http://www.yardley.ca/objection/\]  
+\[https://www.yardley.ca/objection/\]  
   
 Macromedia info (opens up the hidden flash config tool in your browser that lets you view and expunge flash cookies):  
-\[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager06.html\]  
+\[https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager06.html\]  
   
 EPIC Flash Cookie page:  
-\[http://www.epic.org/privacy/cookies/flash.html\]
+\[https://www.epic.org/privacy/cookies/flash.html\]

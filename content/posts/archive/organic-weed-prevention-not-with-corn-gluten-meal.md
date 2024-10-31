@@ -18,7 +18,7 @@ linter-yaml-title-alias: Organic-weed-prevention-not-with-corn-gluten-meal
 
 I've used this before and was considering it again as an alternative to Preen (a pesticide/herbicide) but found that there is no evidence that it does anything and actual evidence it makes weeds \_worse\_ because it contains 10% nitrogen.  
   
-[Corn gluten meal did not prevent weeds from germinating in OSU study](http://extension.oregonstate.edu/news/story.php?S_No=956&storyType=garde)  
+[Corn gluten meal did not prevent weeds from germinating in OSU study](https://extension.oregonstate.edu/news/story.php?S_No=956&storyType=garde)  
 
 > Corn gluten meal is a natural substitute for a synthetic “pre-emergence” herbicide and has been advertised as a more environmentally friendly way to control weeds.  
 >   
@@ -28,6 +28,6 @@ I've used this before and was considering it again as an alternative to Preen (a
 >   
 > The use of corn gluten meal as an herbicide was discovered by accident during turfgrass disease research at Iowa State University. Researchers noticed that it prevented grass seeds from sprouting. Further research at Iowa State showed that it also effectively prevents other seeds from sprouting, including seeds from many weeds such as crabgrass, chickweed, and even dandelions. Components in corn gluten meal called dipeptides are apparently responsible for herbicidal activity.
 
-[...](http://extension.oregonstate.edu/news/story.php?S_No=956&storyType=garde)  
+[...](https://extension.oregonstate.edu/news/story.php?S_No=956&storyType=garde)  
 
 > Corn gluten meal did not control any weeds in any trials under any circumstances over a two-year period. They found no evidence of pre- or post-emergence weed control in any of their trials. Because it contains 10 percent nitrogen, corn gluten meal proved to be a very effective fertilizer, causing lush, dense growth of turfgrass and of weeds in shrub beds.

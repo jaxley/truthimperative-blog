@@ -21,4 +21,4 @@ This is an entertaining 6 minute video (out of Seattle no less) I documented man
 9.  Don't sign until you are done with everything and all is in writing.
 10.  Don't buy any of the add-on stuff (high-margin stuff). Akin to stocking up on candy "at the movie theater" to bring home.
 
-[How to buy a new car and not get screwed - Boing Boing](http://www.boingboing.net/2008/08/13/how-to-buy-a-new-car.html)
+[How to buy a new car and not get screwed - Boing Boing](https://www.boingboing.net/2008/08/13/how-to-buy-a-new-car.html)

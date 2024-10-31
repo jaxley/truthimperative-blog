@@ -15,7 +15,7 @@ linter-yaml-title-alias: Pki-considered-harmful
 ---
 
 
-[PKI considered harmful](http://iang.org/ssl/pki_considered_harmful.html "PKI considered harmful")  
+[PKI considered harmful](https://iang.org/ssl/pki_considered_harmful.html "PKI considered harmful")  
   
 Next time someone at your company says "we can't do encryption until we get a PKI", refer to this essay and collection of references.  
   

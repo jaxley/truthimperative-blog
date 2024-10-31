@@ -13,7 +13,7 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-[Bogus analysis led to terror alert in Dec. 2003 - Lisa Myers & the NBC Investigative Unit - MSNBC.com](http://msnbc.msn.com/id/8380365 "Bogus analysis led to terror alert in Dec.  2003 - Lisa Myers & the NBC Investigative Unit - MSNBC.com")  
+[Bogus analysis led to terror alert in Dec. 2003 - Lisa Myers & the NBC Investigative Unit - MSNBC.com](https://msnbc.msn.com/id/8380365 "Bogus analysis led to terror alert in Dec.  2003 - Lisa Myers & the NBC Investigative Unit - MSNBC.com")  
   
 
 >   
@@ -60,7 +60,7 @@ And the critics come out:
   
 I find it very interesting that steganography was the cause for raising the alert level. The article says the messages were supposedly found "in the moving text" in the "crawl", which would seem to implicate Al-Jazeera in communicating secret messages from terrorits since they control the crawl and would presumably have authored the content. The only way they wouldn't be implicated would be if they were to have been scrolling direct quotes from terrorists.  
   
-But is the "intelligence" applied to the "steganographic data" (flight numbers, etc.) that was "found" simply masking the fact that the CIA is resorting to numerology? Mining arbitrary data for significance where there is none, ala [The Bible Code](http://cs.anu.edu.au/~bdm/dilugim/torah.html)? The reference to reading "tea leaves" above is apropos...  
+But is the "intelligence" applied to the "steganographic data" (flight numbers, etc.) that was "found" simply masking the fact that the CIA is resorting to numerology? Mining arbitrary data for significance where there is none, ala [The Bible Code](https://cs.anu.edu.au/~bdm/dilugim/torah.html)? The reference to reading "tea leaves" above is apropos...  
   
 What I'm also curious about is who leaked the information about why we raised the terror alert level? You would think that would be a national security secret--even now. Makes both the CIA and the decision makers in Homeland security look like idiots to put this information out there.  
   

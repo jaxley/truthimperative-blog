@@ -15,6 +15,6 @@ linter-yaml-title-alias: Great-site-on-bayesian-statistics
 ---
 
 
-This site has a great overview of Bayesian statistics (the basis for [bogofilter](http://bogofilter.sourceforge.net/) , why my email is still useful). Also look for information on common misinterpretations of statistics and statistical error rationale for why lie detector tests are less than useful.  
+This site has a great overview of Bayesian statistics (the basis for [bogofilter](https://bogofilter.sourceforge.net/) , why my email is still useful). Also look for information on common misinterpretations of statistics and statistical error rationale for why lie detector tests are less than useful.  
   
-[cause, chance and Bayesian statistics: a briefing document](http://www.abelard.org/briefings/bayes.htm)
+[cause, chance and Bayesian statistics: a briefing document](https://www.abelard.org/briefings/bayes.htm)

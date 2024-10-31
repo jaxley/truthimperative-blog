@@ -20,9 +20,9 @@ Several articles on the topic of the government pushing religion.
   
 Drum-beating about the 9th circuit decision about "Under God" in the pledge:  
   
-[AMERICAN ATHEISTS LEGAL UPDATE](http://www.atheists.org/flash.line/legal.htm "AMERICAN ATHEISTS LEGAL UPDATE")  
+[AMERICAN ATHEISTS LEGAL UPDATE](https://www.atheists.org/flash.line/legal.htm "AMERICAN ATHEISTS LEGAL UPDATE")  
   
-[Public prayer fanatics borrow page from enemy's script](http://www.interesting-people.org/archives/interesting-people/200303/msg00081.html)  
+[Public prayer fanatics borrow page from enemy's script](https://www.interesting-people.org/archives/interesting-people/200303/msg00081.html)  
   
 
 > The Bush administration has been dealt a setback in its campaign to  
@@ -34,9 +34,9 @@ Drum-beating about the 9th circuit decision about "Under God" in the pledge:
   
   
 How did your senator vote on the pledge legislation (" S. Res. 71 As Amended; A resolution expressing the support for the Pledge of Allegiance.")?  
-[U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00039 "U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote")  
+[U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote](https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108&session=1&vote=00039 "U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote")  
   
-[The Sacramento Bee -- sacbee.com -- Diana Griego Erwin: Pledge debate recalls another tradition, another controversy](http://www.sacbee.com/content/news/story/6204199p-7158853c.html "The Sacramento Bee -- sacbee.com -- Diana Griego Erwin: Pledge debate recalls another tradition, another controversy") The best quote is, "the Constitution wasn't written to uphold majority opinion." It was written to protect the minority from the tyranny of the majority.  
+[The Sacramento Bee -- sacbee.com -- Diana Griego Erwin: Pledge debate recalls another tradition, another controversy](https://www.sacbee.com/content/news/story/6204199p-7158853c.html "The Sacramento Bee -- sacbee.com -- Diana Griego Erwin: Pledge debate recalls another tradition, another controversy") The best quote is, "the Constitution wasn't written to uphold majority opinion." It was written to protect the minority from the tyranny of the majority.  
   
 
 >   
@@ -46,4 +46,4 @@ How did your senator vote on the pledge legislation (" S. Res. 71 As Amended; A 
 
   
   
-And finally, an article debunking the religious nut talking point that we are a "Christian nation". [The Nation | Article | Our Godless Constitution | Brooke Allen](http://www.thenation.com/doc.mhtml?i=20050221&s=allen "The Nation | Article | Our Godless Constitution | Brooke Allen")
+And finally, an article debunking the religious nut talking point that we are a "Christian nation". [The Nation | Article | Our Godless Constitution | Brooke Allen](https://www.thenation.com/doc.mhtml?i=20050221&s=allen "The Nation | Article | Our Godless Constitution | Brooke Allen")

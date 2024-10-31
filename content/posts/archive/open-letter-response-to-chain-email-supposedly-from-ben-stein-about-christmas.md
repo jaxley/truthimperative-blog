@@ -52,24 +52,24 @@ Vincent wrote:
 > > * * *
 > > 
 > > Date: Tue, 11 Dec 2007 10:41:03 -0800  
-> > From: [redacted@example.com](http://www.blogger.com/blogger.g?blogID=7617793329353943789)  
+> > From: [redacted@example.com](https://www.blogger.com/blogger.g?blogID=7617793329353943789)  
 > > Subject: Fwd: FW: Ben Stein  
-> > To: [redacted@example.com](mailto:stalvord@yahoo.com)[](http://www.blogger.com/blogger.g?blogID=7617793329353943789)  
+> > To: [redacted@example.com](mailto:stalvord@yahoo.com)[](https://www.blogger.com/blogger.g?blogID=7617793329353943789)  
 > >   
 > >   
 > >   
 > > Note: forwarded message attached.  
 > >   
-> > ![](http://us.i1.yimg.com/us.yimg.com/i/mesg/tsmileys2/04.gif) ....Neil  
+> > ![](https://us.i1.yimg.com/us.yimg.com/i/mesg/tsmileys2/04.gif) ....Neil  
 > > 
 > > * * *
 > > 
 > > [  
-> > ](http://us.rd.yahoo.com/evt=51733/*http://mobile.yahoo.com/;_ylt=Ahu06i62sR8HDtDypao8Wcj9tAcJ)  
+> > ](https://us.rd.yahoo.com/evt=51733/*https://mobile.yahoo.com/;_ylt=Ahu06i62sR8HDtDypao8Wcj9tAcJ)  
 > > 
 > > > \--Forwarded Message Attachment--  
-> > > From: redacted@example.com[](http://www.blogger.com/blogger.g?blogID=7617793329353943789)  
-> > > To: [redacted@example.com](http://www.blogger.com/blogger.g?blogID=7617793329353943789)[](mailto:nagruchalla@yahoo.com)  
+> > > From: redacted@example.com[](https://www.blogger.com/blogger.g?blogID=7617793329353943789)  
+> > > To: [redacted@example.com](https://www.blogger.com/blogger.g?blogID=7617793329353943789)[](mailto:nagruchalla@yahoo.com)  
 > > > Subject: FW: Ben Stein  
 > > > Date: Tue, 11 Dec 2007 09:43:30 -0800  
 > > >   
@@ -97,7 +97,7 @@ Vincent wrote:
 > > > > > against. That's what they are: Christmas trees.  
 > > > > > _
 
-\[Jason\] Well, christmas trees weren't always associated with Christmas.  As with many Christian symbols, the Christmas tree was formerly a Pagan tradition.  Note that Ben Stein was not reputed as a historical scholar so I guess his error can be understood.  See [http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/25/MNV6U3MJI.DTL](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/25/MNV6U3MJI.DTL) for more info.  
+\[Jason\] Well, christmas trees weren't always associated with Christmas.  As with many Christian symbols, the Christmas tree was formerly a Pagan tradition.  Note that Ben Stein was not reputed as a historical scholar so I guess his error can be understood.  See [https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/25/MNV6U3MJI.DTL](https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/12/25/MNV6U3MJI.DTL) for more info.  
 
 > > > > > _  
 > > > > >  It doesn't bother me a bit when people say, 'Merry Christmas' to me. I don't think_
@@ -140,7 +140,7 @@ Vincent wrote:
   
 Article 11 of the Treaty with Tripoli in 1797 (just years after the revolutionary war ended) declared that "the government of the United States is not in any sense founded on the Christian religion..."  This treaty was ratified by all of Congress and the first two presidents of our country.  
   
-Here is a lot more info on what our founding fathers actually intended (and many of them were actually Deists (not Christians!) and believed in god, but they knew the government needed to stay out of it).  [http://www.infidels.org/library/modern/farrell\_till/myth.html](http://www.infidels.org/library/modern/farrell_till/myth.html)  
+Here is a lot more info on what our founding fathers actually intended (and many of them were actually Deists (not Christians!) and believed in god, but they knew the government needed to stay out of it).  [https://www.infidels.org/library/modern/farrell\_till/myth.html](https://www.infidels.org/library/modern/farrell_till/myth.html)  
 
 > > > > > > > _  
 > > > > > > > But there are a lot of us who are wondering where Nick and Jessica came from_
@@ -149,7 +149,7 @@ Here is a lot more info on what our founding fathers actually intended (and many
 > > > > > > > _
 
   
-\[Jason\] **Just so you know, this is where Ben Stein's comments end.  The rest were tacked on later and dishonestly attributed to Ben Stein.**  Source:  [http://www.snopes.com/politics/soapbox/benstein2.asp](http://www.snopes.com/politics/soapbox/benstein2.asp)  
+\[Jason\] **Just so you know, this is where Ben Stein's comments end.  The rest were tacked on later and dishonestly attributed to Ben Stein.**  Source:  [https://www.snopes.com/politics/soapbox/benstein2.asp](https://www.snopes.com/politics/soapbox/benstein2.asp)  
 
 > > > > > > > _  
 > > > > > > > In light of the many jokes we send to one another for a laugh, this is a little_
@@ -193,7 +193,7 @@ What an petulant, indiscriminate baby that God is!  He'll show you by punishing
 
 \[Jason\] I think "it" (our secular government) started when our country was founded on the principle of Religious Freedom (which includes the freedom to \_not\_ believe as well) as embodied in the Very First Amendment to our constitution.  Every society regardless of religion tends to believe in the killing and stealing are bad parts (well, there have been notable exceptions, such as the inquisition, the crusades, and 9-11).  But that doesn't mean the rest of it is widely believed or should be promoted.  For example, those same religions also do not condemn slavery.  They actually say that disobedient children should be stoned to death.  Oh, and women who marry but are not virgins deserve to be stoned to death.  Adulterers:  They should be put to death.  If you don't believe me, I can show you where to look in the Bible.  
   
-And for those of you who are pro-public-displays-of-the-ten-commandments, most of the 10 commandments have nothing to do with the law.  In fact, the very first is "Do not have any other gods before Me."  How can you reconcile putting that in a public square--it is overtly anti-any-other-non-christian-religion!  Oh, and surprisingly there are two sets of 10 commandments in the Bible but people only seem to be interested in the one set of 10 and not the other...  You should check out [http://en.wikipedia.org/wiki/Ten\_Commandments#Text\_of\_the\_Ten\_Commandments](http://en.wikipedia.org/wiki/Ten_Commandments#Text_of_the_Ten_Commandments) for more details on how even different denominations divide up the commandments differently.  How many of you honor this commandment from the second set (often known as the Ritual Decalogue):  "Sacrifice firstborn male animals to Yahweh. The firstborn of a donkey may be redeemed; redeem firstborn sons."?    
+And for those of you who are pro-public-displays-of-the-ten-commandments, most of the 10 commandments have nothing to do with the law.  In fact, the very first is "Do not have any other gods before Me."  How can you reconcile putting that in a public square--it is overtly anti-any-other-non-christian-religion!  Oh, and surprisingly there are two sets of 10 commandments in the Bible but people only seem to be interested in the one set of 10 and not the other...  You should check out [https://en.wikipedia.org/wiki/Ten\_Commandments#Text\_of\_the\_Ten\_Commandments](https://en.wikipedia.org/wiki/Ten_Commandments#Text_of_the_Ten_Commandments) for more details on how even different denominations divide up the commandments differently.  How many of you honor this commandment from the second set (often known as the Ritual Decalogue):  "Sacrifice firstborn male animals to Yahweh. The firstborn of a donkey may be redeemed; redeem firstborn sons."?    
 
 > > > > > > > _  
 > > > > > > > Then Dr. Benjamin Spock said we shouldn't spank our children when they misbehave because  
@@ -291,4 +291,4 @@ And for those of you who are pro-public-displays-of-the-ten-commandments, most o
 > > > > * * *
 > > > > 
 > > > >   
-> > > > [](http://www.windowslive.com/?ocid=TXT_TAGLM_Wave2_powerofwindows_112007)
+> > > > [](https://www.windowslive.com/?ocid=TXT_TAGLM_Wave2_powerofwindows_112007)

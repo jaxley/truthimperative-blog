@@ -12,7 +12,7 @@ updated: 2024-10-10 14:56:40-07:00
 
 Warren Buffet writes:  
   
-[Dividend Voodoo (washingtonpost.com)](http://www.washingtonpost.com/wp-dyn/articles/A13113-2003May19.html "Dividend Voodoo (washingtonpost.com)")  
+[Dividend Voodoo (washingtonpost.com)](https://www.washingtonpost.com/wp-dyn/articles/A13113-2003May19.html "Dividend Voodoo (washingtonpost.com)")  
   
 Putting $1,000 in the pockets of 310,000 families with urgent needs is going to provide far more stimulus to the economy than putting the same $310 million in my pockets.  
   

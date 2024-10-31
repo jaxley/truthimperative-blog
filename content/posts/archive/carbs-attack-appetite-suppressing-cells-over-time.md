@@ -16,7 +16,7 @@ linter-yaml-title-alias: Carbs-attack-appetite-suppressing-cells-over-time
 
 Fascinating that we now know that the very mechanism of how our brain determines that we are full (satiety) relies on free radicals, but it is these same free radicals that actually negatively affect our very ability to detect satiety long-term! But carbs are soooo good.  
   
-[Killer Carbs: Scientist Finds Key To Overeating As We Age](http://www.sciencedaily.com/releases/2008/08/080821110113.htm)  
+[Killer Carbs: Scientist Finds Key To Overeating As We Age](https://www.sciencedaily.com/releases/2008/08/080821110113.htm)  
 
 > Dr Andrews found that appetite-suppressing cells are attacked by free radicals after eating and said the degeneration is more significant following meals rich in carbohydrates and sugars.  
 >   

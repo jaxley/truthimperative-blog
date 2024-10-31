@@ -16,13 +16,13 @@ linter-yaml-title-alias: California-marrying-same-sex-couplesjust-like-gassing-t
 ---
 
 
-Um, yeah. [Godwin's law](http://en.wikipedia.org/wiki/Godwin%27s_law) in full effect. Disgraceful!  
+Um, yeah. [Godwin's law](https://en.wikipedia.org/wiki/Godwin%27s_law) in full effect. Disgraceful!  
   
-['Gas the jews' vs. 'Marry the gays': 'SaveCalifornia' get cold feet - Good As You:: Gay and Lesbian Activism With a Sense of](http://www.goodasyou.org/good_as_you/2008/05/gas-the-jews-vs.html) [Humor](http://www.goodasyou.org/good_as_you/2008/05/gas-the-jews-vs.html)  
+['Gas the jews' vs. 'Marry the gays': 'SaveCalifornia' get cold feet - Good As You:: Gay and Lesbian Activism With a Sense of](https://www.goodasyou.org/good_as_you/2008/05/gas-the-jews-vs.html) [Humor](https://www.goodasyou.org/good_as_you/2008/05/gas-the-jews-vs.html)  
   
 But it is also good to see New York State move to recognize same-sex marriages as well.  
   
-How can people compartmentalize so that they don't see how "Separate but Equal" is the same argument as "Civil unions but not "marriage""? "Separate but equal is a set phrase denoting the system of [segregation](http://en.wikipedia.org/wiki/Racial_segregation "Racial segregation")  
+How can people compartmentalize so that they don't see how "Separate but Equal" is the same argument as "Civil unions but not "marriage""? "Separate but equal is a set phrase denoting the system of [segregation](https://en.wikipedia.org/wiki/Racial_segregation "Racial segregation")  
 that justifies giving different groups of people separate facilities or  
 services with the declaration that the quality of each group's public  
-facilities remain equal." Hello? If that is illegal and immoral, then why not these laws? It's the same thing and I predict eventually they will either be repealed or ruled unconstitutional. In fact, it violates the [Fourteenth Amendment (Equal Protection Clause)](http://en.wikipedia.org/wiki/Equal_Protection_Clause)
+facilities remain equal." Hello? If that is illegal and immoral, then why not these laws? It's the same thing and I predict eventually they will either be repealed or ruled unconstitutional. In fact, it violates the [Fourteenth Amendment (Equal Protection Clause)](https://en.wikipedia.org/wiki/Equal_Protection_Clause)

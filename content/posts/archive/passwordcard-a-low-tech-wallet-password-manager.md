@@ -18,4 +18,4 @@ Visit this site and it will automatically generate a card with symbols for colum
   
 It's an alternative to writing your passwords down directly and keeping them in your wallet (which is actually not a bad thing since it allows you to have varying passwords with better quality).  
   
-[Your PasswordCard](http://passwordcard.org/)
+[Your PasswordCard](https://passwordcard.org/)

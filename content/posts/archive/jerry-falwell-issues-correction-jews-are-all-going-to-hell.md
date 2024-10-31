@@ -17,6 +17,6 @@ linter-yaml-title-alias: Jerry-falwell-issues-correction-jews-are-all-going-to-h
 ---
 
 
-[Jerry Falwell issues correction, Jews ARE all going to hell](http://americablog.blogspot.com/2006/03/jerry-falwell-issues-correction-jews.html " Jerry Falwell issues correction, Jews ARE all going to hell")  
+[Jerry Falwell issues correction, Jews ARE all going to hell](https://americablog.blogspot.com/2006/03/jerry-falwell-issues-correction-jews.html " Jerry Falwell issues correction, Jews ARE all going to hell")  
   
 It must be nice to be in a religion where you can be a callous, holier-than-thou prick and still get into heaven. It also must be nice that all you have to do to get into heaven and avoid eternal damnation is to **believe in some shit**. The world is such an amazing place where you have free will, but if you process information about that world incorrectly and decide to not believe in Jesus as your saviour, you can suffer for all eternity. Nice. And they get out of having to be Jesus-like in this life in order to get into heaven. Do-gooders need not apply to heaven! Sounds more like the lazy, judgemental person's religion.

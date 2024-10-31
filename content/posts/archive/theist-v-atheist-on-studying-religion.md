@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:01-07:00
 ---
 
-[Web exclusive: 'How should we study religion?' by Daniel Dennett | Prospect Magazine March 2006 issue 120](http://www.prospectmagazine.co.uk/article_details.php?id=7365 "Web exclusive: 'How should we study religion?' by Daniel Dennett | Prospect Magazine March 2006 issue 120")  
+[Web exclusive: 'How should we study religion?' by Daniel Dennett | Prospect Magazine March 2006 issue 120](https://www.prospectmagazine.co.uk/article_details.php?id=7365 "Web exclusive: 'How should we study religion?' by Daniel Dennett | Prospect Magazine March 2006 issue 120")  
   
 Daniel Dennett was just in Seattle, but I missed him. But my colleague saw him and filled me in. His fundamental point is that we need to remove the stigma attached to scientifically studying religion, which I agree with. He also has a different take on the role and origin of religion as a "natural phenomena" rather than what I have typically seen as more of a "tribal tendency" theory in terms of evolutionary advantage of religion. An interesting claim that is often made by religious people is that without religion, there an be no morality. So, Dan suggests that we should empirically study questions like these--put them to the test. I hardly believe that in the overall scheme of life that religion generally makes people more "moral" than nontheists. There are a lot of atrocities done in the name of religion that will deduct from that tally.  
   

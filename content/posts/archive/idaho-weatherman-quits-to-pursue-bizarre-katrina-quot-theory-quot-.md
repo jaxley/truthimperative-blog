@@ -17,7 +17,7 @@ linter-yaml-title-alias: Idaho-weatherman-quits-to-pursue-bizarre-katrina-quot-t
 
 You can't make up better sh\*t than this. Unbelievable.  
   
-Unfortunately, a ["theory"](http://en.wikipedia.org/wiki/Theory) must be "either originating from observable facts or supported by them."  
+Unfortunately, a ["theory"](https://en.wikipedia.org/wiki/Theory) must be "either originating from observable facts or supported by them."  
   
 
 >   

@@ -18,4 +18,4 @@ linter-yaml-title-alias: Richard-dawkins-mania-in-silicon-valley
 
 I was bummed that he didn't come to Seattle on his tour, but I'll enjoy listening to the mp3 of his appearance in Silicon Valley.  
   
-[Who Has Time For This?: Silicon Valley Loves Richard Dawkins](http://whohastimeforthis.blogspot.com/2006/11/silicon-valley-loves-richard-dawkins.html)
+[Who Has Time For This?: Silicon Valley Loves Richard Dawkins](https://whohastimeforthis.blogspot.com/2006/11/silicon-valley-loves-richard-dawkins.html)

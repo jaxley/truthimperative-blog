@@ -25,8 +25,8 @@ That sounds like quite a deal actually. Verisign still charges an exhorbitant am
 >   
 > $25 and a bit of marijuana, apparently. See:  
 >   
-> [http://www.wjla.com/news/stories/0305/210558.html](http://www.wjla.com/news/stories/0305/210558.html)  
-> [http://www.wjla.com/news/stories/0105/200474.html](http://www.wjla.com/news/stories/0105/200474.html)  
+> [https://www.wjla.com/news/stories/0305/210558.html](https://www.wjla.com/news/stories/0305/210558.html)  
+> [https://www.wjla.com/news/stories/0105/200474.html](https://www.wjla.com/news/stories/0105/200474.html)  
 >   
 > Although the story doesn't mention this, the "ID" in question was the  
 > DoD Common Access Card, a smart card containing a DoD-issued  

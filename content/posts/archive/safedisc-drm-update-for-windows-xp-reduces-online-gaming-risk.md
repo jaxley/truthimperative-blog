@@ -18,7 +18,7 @@ linter-yaml-title-alias: Safedisc-drm-update-for-windows-xp-reduces-online-gamin
 ---
 
 
-[http://www.microsoft.com/downloads/details.aspx?familyid=eae20f0f-c41c-44fe-84ce-1df707d7a2e9&displaylang=en](http://www.microsoft.com/downloads/details.aspx?familyid=eae20f0f-c41c-44fe-84ce-1df707d7a2e9&displaylang=en)  
+[https://www.microsoft.com/downloads/details.aspx?familyid=eae20f0f-c41c-44fe-84ce-1df707d7a2e9&displaylang=en](https://www.microsoft.com/downloads/details.aspx?familyid=eae20f0f-c41c-44fe-84ce-1df707d7a2e9&displaylang=en)  
   
 This update starts the driver secdrv for SafeDisc from Macrovision at boot time to allow you to run games as a non-admin, lower-privilege user. Games that use SafeDisc otherwise require you to play the game as Administrator in order to have the rights to start the Manual service. Now, if only PunkBuster were to do the same...  
   

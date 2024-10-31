@@ -15,9 +15,9 @@ This rep is making the tired old "fairness" argument, "Why are people who call t
   
 Note to Berman:  Science is not a "debate".  It is based on facts and a rigorous methodology for evaluating those facts to approximate the truth as closely as is possible to make predictions about the natural world.  Creationism is not based on facts or a methodology at all.   
   
-[Little Green Footballs - Texas Lawmaker Backs Creationist 'Degree'](http://littlegreenfootballs.com/article/33080_Texas_Lawmaker_Backs_Creationist_Degree#rss)  
+[Little Green Footballs - Texas Lawmaker Backs Creationist 'Degree'](https://littlegreenfootballs.com/article/33080_Texas_Lawmaker_Backs_Creationist_Degree#rss)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=f8d911fc-5bf8-4acc-b78b-59f76cb4db39) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=f8d911fc-5bf8-4acc-b78b-59f76cb4db39) -->

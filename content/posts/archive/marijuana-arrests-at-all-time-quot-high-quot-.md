@@ -18,4 +18,4 @@ linter-yaml-title-alias: Marijuana-arrests-at-all-time-quot-high-quot-
   
 God damn it's time to decriminalize this.  We have real police work that could be done instead of wasting police, jail, and court time on this crap.  I can only imagine what it was like during alcohol prohibition.  Sheesh.  
   
-[Marijuana Arrests at All-Time High - TalkLeft: The Politics Of Crime](http://www.talkleft.com/story/2007/9/24/153752/631)
+[Marijuana Arrests at All-Time High - TalkLeft: The Politics Of Crime](https://www.talkleft.com/story/2007/9/24/153752/631)

@@ -15,6 +15,6 @@ linter-yaml-title-alias: Notable-web-site-designs
 ---
 
 
-[Current style in web design](http://www.webdesignfromscratch.com/current-style.cfm "Current style in web design")  
+[Current style in web design](https://www.webdesignfromscratch.com/current-style.cfm "Current style in web design")  
   
 Discussion of notable web site designs and properties of good web design.

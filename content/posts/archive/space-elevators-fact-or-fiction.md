@@ -20,4 +20,4 @@ What is a Space Elevator, you ask? A superstrong elevator "shaft" stretching fro
   
 "carbon nanotube fibers are both strong and light enough that a 100,000 km elevator, constructed of a 2m wide carbon nanotube "ribbon," could be constructed in 10 years for a cost of US $6 billion, and be capable of lifting a 13-ton payload to geosynchronous orbit once every few days. If feasible, it would present a stunning breakthrough in space accessibility, and likely usher in a new age of space development and exploration."  
   
-[Slashdot story](http://books.slashdot.org/article.pl?sid=03/03/05/1914246&mode=nocomment&tid=134&tid=160)
+[Slashdot story](https://books.slashdot.org/article.pl?sid=03/03/05/1914246&mode=nocomment&tid=134&tid=160)

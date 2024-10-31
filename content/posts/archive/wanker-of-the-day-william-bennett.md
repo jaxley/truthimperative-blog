@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:56:54-07:00
 ---
 
-[CNN.com - Bennett under fire for remarks on blacks, crime - Sep 30, 2005](http://www.cnn.com/2005/POLITICS/09/30/bennett.comments/index.html?section=cnn_topstories "CNN.com - Bennett under fire for remarks on blacks, crime - Sep 30, 2005")  
+[CNN.com - Bennett under fire for remarks on blacks, crime - Sep 30, 2005](https://www.cnn.com/2005/POLITICS/09/30/bennett.comments/index.html?section=cnn_topstories "CNN.com - Bennett under fire for remarks on blacks, crime - Sep 30, 2005")  
   
 
 >   

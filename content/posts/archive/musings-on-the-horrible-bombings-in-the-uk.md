@@ -27,4 +27,4 @@ So, are there not any other terrorist groups that can be "well-coordinated" and 
   
 Seeing that the terror alert level was only raised **_after_** the bombings occurred indicates that our intelligence is still in pretty bad shape. I'm sure that if the US knew about a threat against the UK in advance, they would have raised our alert level in anticipation.  
   
-From the [AP: U.S. Raises Alert to Orange for Transit](http://news.yahoo.com/news?tmpl=story&u=/ap/20050707/ap_on_re_us/us_explosions)
+From the [AP: U.S. Raises Alert to Orange for Transit](https://news.yahoo.com/news?tmpl=story&u=/ap/20050707/ap_on_re_us/us_explosions)

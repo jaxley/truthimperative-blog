@@ -15,11 +15,11 @@ linter-yaml-title-alias: Another-state-to-avoid-kansas
 ---
 
 
-Close to adopting "intelligent design" in Kansas. They're joining [Pennsylvania](/archives/2005/10/the_new_new_cre.html). FYI, there was an [update on NPR from Oct 21](http://www.npr.org/templates/story/story.php?storyId=4968632) about the Pennsylvania case. It may be good that this is not a jury trial. The defense is now bringing on their witnesses about the merits of the "theory" of intelligent design. At least the science teachers at the schools in question had refused to read the ridiculous statement about intelligent design being another "theory" that is out there.  
+Close to adopting "intelligent design" in Kansas. They're joining [Pennsylvania](/archives/2005/10/the_new_new_cre.html). FYI, there was an [update on NPR from Oct 21](https://www.npr.org/templates/story/story.php?storyId=4968632) about the Pennsylvania case. It may be good that this is not a jury trial. The defense is now bringing on their witnesses about the merits of the "theory" of intelligent design. At least the science teachers at the schools in question had refused to read the ridiculous statement about intelligent design being another "theory" that is out there.  
   
 Also good news: 8 of the 9 school board members are up for reelection. More reason to vote in PA so you can vote these people out who pushed ID BS into schools.  
   
-[http://www.npr.org/templates/story/story.php?storyId=4795205&sourceCode=RSS](http://www.npr.org/templates/story/story.php?storyId=4795205&sourceCode=RSS)  
+[https://www.npr.org/templates/story/story.php?storyId=4795205&sourceCode=RSS](https://www.npr.org/templates/story/story.php?storyId=4795205&sourceCode=RSS)  
   
 
 >   

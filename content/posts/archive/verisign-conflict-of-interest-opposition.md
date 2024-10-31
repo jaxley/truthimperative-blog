@@ -12,9 +12,9 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-[ICANN Email Archives: \[net-rfp-verisign\]](http://forum.icann.org/lists/net-rfp-verisign/msg00008.html "ICANN Email Archives: [net-rfp-verisign]")  
+[ICANN Email Archives: \[net-rfp-verisign\]](https://forum.icann.org/lists/net-rfp-verisign/msg00008.html "ICANN Email Archives: [net-rfp-verisign]")  
   
-See also [http://www.financialcryptography.com/mt/archives/000332.html](http://www.financialcryptography.com/mt/archives/000332.html)  
+See also [https://www.financialcryptography.com/mt/archives/000332.html](https://www.financialcryptography.com/mt/archives/000332.html)  
   
 
 >   

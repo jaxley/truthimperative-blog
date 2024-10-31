@@ -11,7 +11,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:58:55-07:00
 ---
 
-[Executive Order: Protecting the Property Rights of the American People](http://www.whitehouse.gov/news/releases/2006/06/20060623-10.html "Executive Order: Protecting the Property Rights of the American People")  
+[Executive Order: Protecting the Property Rights of the American People](https://www.whitehouse.gov/news/releases/2006/06/20060623-10.html "Executive Order: Protecting the Property Rights of the American People")  
   
 I think this is a very cool move. Too bad Congress couldn't do something like this and too bad the courts had to side too much with corporations. This may restore some balance for the little guy against the Wal-Marts of the world...while it lasts.  
   

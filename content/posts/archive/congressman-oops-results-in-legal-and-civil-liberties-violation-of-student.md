@@ -18,7 +18,7 @@ linter-yaml-title-alias: Congressman-oops-results-in-legal-and-civil-liberties-v
 
 Something tells me that the government has too much power...  
   
-[Boing Boing: Congressman on Boarding Pass Generator guy: Uh... oops?](http://www.boingboing.net/2006/10/29/congressman_on_board.html)  
+[Boing Boing: Congressman on Boarding Pass Generator guy: Uh... oops?](https://www.boingboing.net/2006/10/29/congressman_on_board.html)  
 
 > Last Friday, Rep. Edward Markey (D-MA) called for the arrest of Christopher Soghoian, and the takedown of his "Boarding Pass Generator" website which illustrated an airline security hole documented on the web for several years. Hours after the congressman's statement, Soghoian says FBI agents visited his home, then returned a second time after he'd left -- in the middle of the night -- with a search warrant signed at 2AM, and seized Soghoian's computer(s) and other belongings.  
 >   

@@ -20,11 +20,11 @@ In a posting to the cryptography mailing list. Interesting statistics in the pre
 
 >   
 > Folks might want to look at  
-> [http://www.huitema.net/talks/ietf63-security.ppt](http://www.huitema.net/talks/ietf63-security.ppt)  
+> [https://www.huitema.net/talks/ietf63-security.ppt](https://www.huitema.net/talks/ietf63-security.ppt)  
 > the slides from a talk Christian Huitema gave at the Applications Area  
 > at IETF63 this past week. Of particular interest is just how cheap it  
 > is to brute-force a passphrase these days, especially if it's just used  
 > as a cryptographic key with known plaintext (i.e., in challenge/  
 > response protocols).  
 >   
-> \--Steven M. Bellovin, [http://www.cs.columbia.edu/~smb](http://www.cs.columbia.edu/~smb)
+> \--Steven M. Bellovin, [https://www.cs.columbia.edu/~smb](https://www.cs.columbia.edu/~smb)

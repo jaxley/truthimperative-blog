@@ -15,6 +15,6 @@ linter-yaml-title-alias: Hitler-v-coulter
 ---
 
 
-[Give Up Blog: The Hitler vs. Coulter Quiz](http://www.people.virginia.edu/~jac3he/GiveUpQuiz/hitlercoulterquiz.html "Give Up Blog:  The Hitler vs. Coulter Quiz")  
+[Give Up Blog: The Hitler vs. Coulter Quiz](https://www.people.virginia.edu/~jac3he/GiveUpQuiz/hitlercoulterquiz.html "Give Up Blog:  The Hitler vs. Coulter Quiz")  
   
 She is such a despicable human being.

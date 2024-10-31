@@ -11,6 +11,6 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:56:53-07:00
 ---
 
-[Crooks and Liars: White House Bars Hurricane Report](http://www.crooksandliars.com/2006/09/26/white-house-bars-hurricane-report/ "Crooks and Liars: White House Bars Hurricane Report")  
+[Crooks and Liars: White House Bars Hurricane Report](https://www.crooksandliars.com/2006/09/26/white-house-bars-hurricane-report/ "Crooks and Liars: White House Bars Hurricane Report")  
   
 More in the front on the War on Science. Ugh.

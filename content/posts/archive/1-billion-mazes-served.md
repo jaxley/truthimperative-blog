@@ -14,7 +14,7 @@ url: /2007/03/1-billion-mazes-served.html
 ---
 
 
-[Exactly One Billion Mazes to Solve](http://www.onebillionmazes.com/?t=919990)  
+[Exactly One Billion Mazes to Solve](https://www.onebillionmazes.com/?t=919990)  
 
 > This site contains one billion mazes in high-quality printable PDF  
 > format. You may view, print and solve these mazes... and yes, there are exactly one billion mazes!

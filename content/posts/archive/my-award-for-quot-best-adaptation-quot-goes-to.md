@@ -18,5 +18,5 @@ linter-yaml-title-alias: My-award-for-quot-best-adaptation-quot-goes-to
 <!-- ![](run_liberal_run.jpg) -->
   
 Of course 
-<!-- [the original](http://www.hosstyle.com/Goofy%20shit/images/godkills.jpg) -->
+<!-- [the original](https://www.hosstyle.com/Goofy%20shit/images/godkills.jpg) -->
 is hilarious and knowing that this was the original makes the image all the more humorous.

@@ -20,9 +20,9 @@ I was surprised to find recently that these kinds of propaganda videos/emails se
   
 So, I figured that this would be a good response to make open to add to the fray and maybe open up some lines of communication about the premises of these kinds of thoughts.  
   
-[YouTube - Dear Mr. Obama](http://www.youtube.com/watch?v=TG4fe9GlWS8)  
+[YouTube - Dear Mr. Obama](https://www.youtube.com/watch?v=TG4fe9GlWS8)  
   
-Anecdote is not plural for data. This, of course, is an anecdote. There are certainly many more military personnel who do not believe as this gentleman does: Take this Zogby poll as some actual data. [http://www.zogby.com/news/readnews.dbm?id=1075](http://www.zogby.com/news/readnews.dbm?id=1075) Here's a choice example:  
+Anecdote is not plural for data. This, of course, is an anecdote. There are certainly many more military personnel who do not believe as this gentleman does: Take this Zogby poll as some actual data. [https://www.zogby.com/news/readnews.dbm?id=1075](https://www.zogby.com/news/readnews.dbm?id=1075) Here's a choice example:  
   
   
 *   Le Moyne College/Zogby Poll shows just one in five **troops** want to heed Bush call to stay “as long as they are needed”
@@ -43,7 +43,7 @@ b)
   
 But, I think it's more likely that he is like many Americans who look at some outcomes of our involvement in the war and conclude that the end justifies the means. Additionally, none of these people seem to be looking at the cost, and the opportunity cost, of the resources we have expended in Iraq. I'm not saying that Sadaam was not a bad guy, but is it worth the estimated $3 Trillion dollars it will cost? I find it hard to believe that there wasn't something better for our grandchildren to spend that money on than a war of convenience that was sold to us by a bunch of lies. We were never in Iraq to "spread freedom". The original intent was (as the lies go) because we \_knew\_ that Iraq had WMDs and that they would not hesitate to use them on us. Oh, and then sprinkle in 9-11 over and over until even our troops think that we were going in there because of some link to 9-11. The troops were lied to (probably still are) just as the American people were so it is not surprising to see some make these claims based on their experiences on the ground.  
   
-Here is some more data -- from actually asking Iraqis if they feel they are better off. This one from 2007. 90% think they were better off under Sadaam. http://www.angus-reid.com/polls/view/14282 It's no wonder since many go without electricity, water, etc. for hours or days at a time. They've been force from their houses. It is very dangerous in many parts still.  
+Here is some more data -- from actually asking Iraqis if they feel they are better off. This one from 2007. 90% think they were better off under Sadaam. https://www.angus-reid.com/polls/view/14282 It's no wonder since many go without electricity, water, etc. for hours or days at a time. They've been force from their houses. It is very dangerous in many parts still.  
   
 The following two statements were made by the gentleman in the video:  
   
@@ -88,7 +88,7 @@ As to the second, that is just not true. It is often put out there that any crit
 > > > Hi, My son Joe just did a commercial for John McCain.  
 > > > Please pass this on.  
 > > >   
-> > > [http://www.youtube.com/watch?v=TG4fe9GlWS8](http://www.youtube.com/watch?v=TG4fe9GlWS8 "http://www.youtube.com/watch?v=TG4fe9GlWS8")  
+> > > [https://www.youtube.com/watch?v=TG4fe9GlWS8](https://www.youtube.com/watch?v=TG4fe9GlWS8 "https://www.youtube.com/watch?v=TG4fe9GlWS8")  
 > > > 
 > > >   
 > > > 

@@ -19,4 +19,4 @@ Just hilarious if this suspect was truly the robber.
   
 "A California man who got away after allegedly sticking up an Aurora Avenue North video store a couple of weeks ago apparently couldn't leave well enough alone."  
   
-[The Seattle Times: Local News: Robbery suspect nabbed during return visit to store](http://seattletimes.nwsource.com/html/localnews/134647959_crook07m.html "The Seattle Times: Local News: Robbery suspect nabbed during return visit to store")
+[The Seattle Times: Local News: Robbery suspect nabbed during return visit to store](https://seattletimes.nwsource.com/html/localnews/134647959_crook07m.html "The Seattle Times: Local News: Robbery suspect nabbed during return visit to store")

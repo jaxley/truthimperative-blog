@@ -16,6 +16,6 @@ linter-yaml-title-alias: Attend-or-host-a-walmart-movie-screening
 ---
 
 
-[WAL-MART Movie Screenings](http://www.walmartmovie.com/find.php "WAL-MART Movie Screenings")  
+[WAL-MART Movie Screenings](https://www.walmartmovie.com/find.php "WAL-MART Movie Screenings")  
   
 Attend or host a movie screening of the new film Wal\*Mart: The High Cost of Low Price. I'll be attending one in Seattle next Wednesday. Hope to see you there!

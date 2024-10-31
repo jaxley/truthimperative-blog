@@ -16,4 +16,4 @@ linter-yaml-title-alias: Mr-wizard-rip
 
 Wow.  I loved his show when I was younger.  Sorry to see him go.  Hopefully Bill Nye the Science Guy is filling his shoes sufficiently.  
   
-[Boing Boing: Mr. Wizard (1917-2007)](http://www.boingboing.net/2007/06/12/mr_wizard_19172007.html)
+[Boing Boing: Mr. Wizard (1917-2007)](https://www.boingboing.net/2007/06/12/mr_wizard_19172007.html)

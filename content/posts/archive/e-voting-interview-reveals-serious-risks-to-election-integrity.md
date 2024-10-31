@@ -31,4 +31,4 @@ Harris: "But the positive, which can be proved, is that every election system th
   
 Miller: "I think we've gone as far as we can go."  
   
-[Black Box Voting: Ballot - Tampering in the 21st Century - Interview with Paul Miller & Kathryn Ferguson (Sequoia)](http://www.blackboxvoting.com/modules.php?name=News&file=article&sid=10 "Black Box Voting: Ballot - Tampering in the 21st Century - Interview with Paul Miller & Kathryn Ferguson (Sequoia)")
+[Black Box Voting: Ballot - Tampering in the 21st Century - Interview with Paul Miller & Kathryn Ferguson (Sequoia)](https://www.blackboxvoting.com/modules.php?name=News&file=article&sid=10 "Black Box Voting: Ballot - Tampering in the 21st Century - Interview with Paul Miller & Kathryn Ferguson (Sequoia)")

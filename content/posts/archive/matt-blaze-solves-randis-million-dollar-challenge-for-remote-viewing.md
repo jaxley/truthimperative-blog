@@ -14,17 +14,17 @@ linter-yaml-title-alias: Matt-blaze-solves-randis-million-dollar-challenge-for-r
 ---
 
 
-Well, he remote viewed the answer, but only used his superhuman crypto skills; nothing paranormal. [Bit commitment](http://en.wikipedia.org/wiki/Bit_commitment) schemes are pretty useful in cryptography.  But, you have to do them correctly.  
+Well, he remote viewed the answer, but only used his superhuman crypto skills; nothing paranormal. [Bit commitment](https://en.wikipedia.org/wiki/Bit_commitment) schemes are pretty useful in cryptography.  But, you have to do them correctly.  
 
 > ```
 > ...one of James Randi's "million dollar
 > paranormal challenges" is protected by a surprisingly weak (dictionary-
 > based) commitment scheme that is easily reversed and that suffers from
-> collisions. For details, see my blog entry about it:  [](http://www.crypto.com/blog/psychic_cryptanalysis/)[Matt Blaze: James Randi owes me a million dollars](http://www.crypto.com/blog/psychic_cryptanalysis/)
+> collisions. For details, see my blog entry about it:  [](https://www.crypto.com/blog/psychic_cryptanalysis/)[Matt Blaze: James Randi owes me a million dollars](https://www.crypto.com/blog/psychic_cryptanalysis/)
 > ```
 
   
-Matt made a great observation in his message about this that goes along with my recent post about [Crypto Maxims](http://www.blogger.com/archives/2007/05/cryptomaxims_fo.html) I can say that many of the crypto APIs I have seen are either too complicated to get right unless you are an expert, or they allow easy access to crypto primitives such that programmers are often compelled to make mistakes by oversimplifying a complex solution and not knowing what they are missing. Getting more of this information out of academic papers and into the hands of practitioners and API / framework designers would be a big win for the security field.  
+Matt made a great observation in his message about this that goes along with my recent post about [Crypto Maxims](https://www.blogger.com/archives/2007/05/cryptomaxims_fo.html) I can say that many of the crypto APIs I have seen are either too complicated to get right unless you are an expert, or they allow easy access to crypto primitives such that programmers are often compelled to make mistakes by oversimplifying a complex solution and not knowing what they are missing. Getting more of this information out of academic papers and into the hands of practitioners and API / framework designers would be a big win for the security field.  
 
 > ```
 > It occurs to me that the lack of secure, practical crypto primitives and

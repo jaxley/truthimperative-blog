@@ -19,6 +19,6 @@ I sure hope so. I have high expectations for Windows 2003. We'll see how things 
   
 I want to know who the companies are that were surveyed... I assure you mine wasn't one of them.  
   
-[Commentary: Can Microsoft be secure? | CNET News.com](http://news.com.com/2009-1122-996403.html?tag=nl "Commentary: Can Microsoft be secure? | CNET News.com")  
+[Commentary: Can Microsoft be secure? | CNET News.com](https://news.com.com/2009-1122-996403.html?tag=nl "Commentary: Can Microsoft be secure? | CNET News.com")  
   
 Customers worry about Microsoft's security: Seventy-seven percent of respondents to a Forrester survey cited security as their top concern about deploying Windows. Despite those concerns, 89 percent of users are still deploying sensitive applications like financial transaction systems and medical records databases on Windows.

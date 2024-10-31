@@ -15,7 +15,7 @@ linter-yaml-title-alias: Penguins-not-on-terrorist-watch-list
 ---
 
 
-[TheDenverChannel.com - Slideshow](http://www.thedenverchannel.com/slideshow/4402056/detail.html?qs=;s=3;w=320 "TheDenverChannel.com - Slideshow")  
+[TheDenverChannel.com - Slideshow](https://www.thedenverchannel.com/slideshow/4402056/detail.html?qs=;s=3;w=320 "TheDenverChannel.com - Slideshow")  
   
 The American public can rest easy now that these penguins have been rigorously vetted by the TSA. Someone managing the Terrorist Watch List must have recently seen one of the Batman movies. That was \_just a movie\_.  
   

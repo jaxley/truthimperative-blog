@@ -15,8 +15,8 @@ linter-yaml-title-alias: Incompetent-design-theory
 ---
 
 
-[Daily Kos: "Incompetent Design" theory](http://www.dailykos.com/storyonly/2005/12/8/141418/264 "Daily Kos: ")  
+[Daily Kos: "Incompetent Design" theory](https://www.dailykos.com/storyonly/2005/12/8/141418/264 "Daily Kos: ")  
   
 Take that and this Creationists and foes of science:  
   
-[Evolution of 'irreducible complexity' explained](http://www.eurekalert.org/pub_releases/2006-04/uoo-eo040406.php "Evolution of 'irreducible complexity' explained")
+[Evolution of 'irreducible complexity' explained](https://www.eurekalert.org/pub_releases/2006-04/uoo-eo040406.php "Evolution of 'irreducible complexity' explained")

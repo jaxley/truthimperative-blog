@@ -15,6 +15,6 @@ linter-yaml-title-alias: British-video-association-admission-debunks-claims-of-q
 ---
 
 
-[BBC NEWS | Entertainment | Digital film: Industry answers](http://news.bbc.co.uk/1/hi/entertainment/4691228.stm#6 "BBC NEWS | Entertainment | Digital film: Industry answers")  
+[BBC NEWS | Entertainment | Digital film: Industry answers](https://news.bbc.co.uk/1/hi/entertainment/4691228.stm#6 "BBC NEWS | Entertainment | Digital film: Industry answers")  
   
 Oops?

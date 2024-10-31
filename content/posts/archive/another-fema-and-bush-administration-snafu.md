@@ -17,7 +17,7 @@ linter-yaml-title-alias: Another-fema-and-bush-administration-snafu
 ---
 
 
-[Think Progress � Another Titanic Mistake](http://thinkprogress.org/2005/11/08/a-titanic-mistake/ "Think Progress � Another Titanic Mistake")  
+[Think Progress � Another Titanic Mistake](https://thinkprogress.org/2005/11/08/a-titanic-mistake/ "Think Progress � Another Titanic Mistake")  
   
 
 >   

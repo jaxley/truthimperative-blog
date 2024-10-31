@@ -16,4 +16,4 @@ linter-yaml-title-alias: Antivirus-bakeoff-public-results
 
 This site does comparitive testing of a host of leading Antivirus software and publishes the results online.  AVG did fairly poorly in the latest polymorphic tests from Feb 2007 compared to others and in DOS viruses.  
 [  
-http://www.av-comparatives.org/](http://www.av-comparatives.org)
+https://www.av-comparatives.org/](https://www.av-comparatives.org)

@@ -15,11 +15,11 @@ linter-yaml-title-alias: Penn-jillette-quot-there-is-no-god-quot-
 ---
 
 
-[NPR : There Is No God](http://www.npr.org/templates/story/story.php?storyId=5015557 "NPR : There Is No God")  
+[NPR : There Is No God](https://www.npr.org/templates/story/story.php?storyId=5015557 "NPR : There Is No God")  
   
 Just in time for the holidays, a piece on what people believe that is not necessarily in the mainstream. A good reminder that not everyone believes the same as you do, especially among the "christian" religions.  
   
-Penn Jillette wrote an excellent piece for [NPR's "This I Believe" series](http://www.npr.org/rss/rss.php?id=4538138) on why he is "beyond Atheism". Many religious people don't understand or simply don't believe that you can have morals without god but I think that Penn has a very simple model that explains how there are even possible advantages to the atheist moral world view:  
+Penn Jillette wrote an excellent piece for [NPR's "This I Believe" series](https://www.npr.org/rss/rss.php?id=4538138) on why he is "beyond Atheism". Many religious people don't understand or simply don't believe that you can have morals without god but I think that Penn has a very simple model that explains how there are even possible advantages to the atheist moral world view:  
   
 
 >   

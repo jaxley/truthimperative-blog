@@ -17,6 +17,6 @@ linter-yaml-title-alias: Quot-if-you-are-not-doing-anything-wrong-why-should-you
 ---
 
 
-[Schneier on Security: Police Cameras in Your Home](http://www.schneier.com/blog/archives/2006/02/police_cameras.html "Schneier on Security: Police Cameras in Your Home")  
+[Schneier on Security: Police Cameras in Your Home](https://www.schneier.com/blog/archives/2006/02/police_cameras.html "Schneier on Security: Police Cameras in Your Home")  
   
 Great rationale for how the "fully trust the government" crowd does not understand the legitimate purpose of limits on governmental intrusion and power. I've seen several pundits cry that the end (catching terrorists) justifies the means even still.

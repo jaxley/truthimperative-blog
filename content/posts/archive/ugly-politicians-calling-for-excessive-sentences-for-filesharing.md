@@ -12,4 +12,4 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-[\[IP\] Does File Trading Fund Terrorism?](http://www.interesting-people.org/archives/interesting-people/200303/msg00180.html "[IP] Does File Trading Fund Terrorism?")
+[\[IP\] Does File Trading Fund Terrorism?](https://www.interesting-people.org/archives/interesting-people/200303/msg00180.html "[IP] Does File Trading Fund Terrorism?")

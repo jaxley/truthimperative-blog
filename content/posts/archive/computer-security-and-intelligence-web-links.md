@@ -15,8 +15,8 @@ linter-yaml-title-alias: Computer-security-and-intelligence-web-links
 ---
 
 
-The [C4I.org - Computer Security and Intelligence](http://www.c4i.org/ "C4I.org - Computer Security and Intelligence") website has, according to the author, "little nuggets" of information he finds "interesting enough to post online".  
+The [C4I.org - Computer Security and Intelligence](https://www.c4i.org/ "C4I.org - Computer Security and Intelligence") website has, according to the author, "little nuggets" of information he finds "interesting enough to post online".  
   
-The most interesting thing that I found there (so far) is [Tradesports.com](http://www.tradesports.com) where people are betting on current events, such as whether or not Saddam will still be in power as of March 31.  
+The most interesting thing that I found there (so far) is [Tradesports.com](https://www.tradesports.com) where people are betting on current events, such as whether or not Saddam will still be in power as of March 31.  
   
 \-Jason

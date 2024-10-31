@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:34-07:00
 ---
 
-I made the west seattle blog!  [West Seattle Blog… » Non-snow news: Neighborhood radio test - talk about timely!](http://westseattleblog.com/blog/?p=12679)  
+I made the west seattle blog!  [West Seattle Blog… » Non-snow news: Neighborhood radio test - talk about timely!](https://westseattleblog.com/blog/?p=12679)  
   
 <!-- ![](neighborhoodradio.jpg) -->
   

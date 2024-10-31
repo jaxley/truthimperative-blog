@@ -42,4 +42,4 @@ The danger of false alarms...
 > sent to them, police sources told CBC News."  
 >   
 > Full article:  
-> [http://www.cbc.ca/arts/story/2008/06/04/bc-ubc-security-ruse.html](http://www.cbc.ca/arts/story/2008/06/04/bc-ubc-security-ruse.html)
+> [https://www.cbc.ca/arts/story/2008/06/04/bc-ubc-security-ruse.html](https://www.cbc.ca/arts/story/2008/06/04/bc-ubc-security-ruse.html)

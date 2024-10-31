@@ -15,7 +15,7 @@ linter-yaml-title-alias: Drm-annoying-mistake
 ---
 
 
-[The big DRM mistake](http://www.securityfocus.com/columnists/390 "The big DRM mistake")  
+[The big DRM mistake](https://www.securityfocus.com/columnists/390 "The big DRM mistake")  
   
 
 >   
@@ -23,7 +23,7 @@ linter-yaml-title-alias: Drm-annoying-mistake
 
   
   
-I have to say that DRM is really on my s\*it list these days. I was excited to find out that the Seattle Public Library had three separate e-book and digital audio book relationships so you can access content without even leaving the house. However, I quickly found that one uses WMA files with DRM (which won't play on my [Neuros](http://www.neurosaudio.com)) and the other uses a proprietary software player that somehow integrates with Windows media player. I can't even play these files on Linux, let alone on a portable media player. And I can't burn most of them to CDs to play in the car. What do they expect you to do--play hours of audio books while sitting at your PC??? Retarded.  
+I have to say that DRM is really on my s\*it list these days. I was excited to find out that the Seattle Public Library had three separate e-book and digital audio book relationships so you can access content without even leaving the house. However, I quickly found that one uses WMA files with DRM (which won't play on my [Neuros](https://www.neurosaudio.com)) and the other uses a proprietary software player that somehow integrates with Windows media player. I can't even play these files on Linux, let alone on a portable media player. And I can't burn most of them to CDs to play in the car. What do they expect you to do--play hours of audio books while sitting at your PC??? Retarded.  
   
 I'm going to go back to getting the CD audio books and then ripping them so that I can listen to them on the bus on my Neuros.  
   

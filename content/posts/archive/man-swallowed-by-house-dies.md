@@ -15,6 +15,6 @@ linter-yaml-title-alias: Man-swallowed-by-house-dies
 ---
 
 
-[CANOE -- CNEWS - Weird News: Man dies after plummeting into large hole that opened beneath his home](http://cnews.canoe.ca/CNEWS/WeirdNews/2006/04/23/1547128-ap.html "CANOE -- CNEWS - Weird News: Man dies after plummeting into large hole that opened beneath his home")  
+[CANOE -- CNEWS - Weird News: Man dies after plummeting into large hole that opened beneath his home](https://cnews.canoe.ca/CNEWS/WeirdNews/2006/04/23/1547128-ap.html "CANOE -- CNEWS - Weird News: Man dies after plummeting into large hole that opened beneath his home")  
   
 This is bizarre!

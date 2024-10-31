@@ -15,4 +15,4 @@ linter-yaml-title-alias: More-geeky-sex-related-content
 ---
 
 
-Just to continue the geeky sex-related Internet content update, you can now get daily doses of customized porn via your RSS reader. Enter [Sex By RSS](http://www.sexbyrss.com/)
+Just to continue the geeky sex-related Internet content update, you can now get daily doses of customized porn via your RSS reader. Enter [Sex By RSS](https://www.sexbyrss.com/)

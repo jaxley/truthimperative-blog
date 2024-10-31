@@ -17,7 +17,7 @@ linter-yaml-title-alias: Science-toys-you-can-make-at-home
 ---
 
 
-[Science Toys](http://www.scitoys.com/ "Science Toys")  
+[Science Toys](https://www.scitoys.com/ "Science Toys")  
   
 
 >   

@@ -17,4 +17,4 @@ url: /2006/10/tour-coincides-with-museum.html
 
 Oh brother.  "allegedly 3.2-million" years old.  
   
-[Biblical creationist blasts tour of 'Lucy' at Pandagon](http://pandagon.net/2006/10/30/biblical-creationist-blasts-tour-of-lucy)
+[Biblical creationist blasts tour of 'Lucy' at Pandagon](https://pandagon.net/2006/10/30/biblical-creationist-blasts-tour-of-lucy)

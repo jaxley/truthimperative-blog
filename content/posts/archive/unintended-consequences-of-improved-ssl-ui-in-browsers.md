@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:56:59-07:00
 ---
 
-[SSL Organization Vulnerabilities](http://geotrust.com/resources/advisory/sslorg/index.htm "SSL Organization Vulnerabilities")  
+[SSL Organization Vulnerabilities](https://geotrust.com/resources/advisory/sslorg/index.htm "SSL Organization Vulnerabilities")  
   
 
 >   

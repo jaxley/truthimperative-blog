@@ -15,7 +15,7 @@ linter-yaml-title-alias: Creative-zen-digital-media-players-ship-with-a-worm
 ---
 
 
-Glad I'm sticking with the [Neuros](http://www.neurosaudio.com/) which doesn't run Windows now and  
+Glad I'm sticking with the [Neuros](https://www.neurosaudio.com/) which doesn't run Windows now and  
 will run Linux in the next version. Not to mention the open source aspects and the ability to play OGG/Vorbis audio files...  
   
-[http://rss.slashdot.org/Slashdot/slashdot?m=251](http://rss.slashdot.org/Slashdot/slashdot?m=251)
+[https://rss.slashdot.org/Slashdot/slashdot?m=251](https://rss.slashdot.org/Slashdot/slashdot?m=251)

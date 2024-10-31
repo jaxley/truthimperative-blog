@@ -16,6 +16,6 @@ linter-yaml-title-alias: Dnssec-explained-and-criticized
 
 Ouch.  
   
-[Matasano Chargen » A Case Against DNSSEC, Count 2: Too Complicated To Deploy](http://www.matasano.com/log/772/a-case-against-dnssec-count-2-too-complicated-to-deploy/)  
+[Matasano Chargen » A Case Against DNSSEC, Count 2: Too Complicated To Deploy](https://www.matasano.com/log/772/a-case-against-dnssec-count-2-too-complicated-to-deploy/)  
 
 > dnssec is the worst design-by-committee effort i’ve ever seen, both in terms of how late it is, how fuzzy the goals have been, how often the goals have changed, and how complicated and heavy it is now that it is trying to be all-things-to-all-people. (Paul Vixie)

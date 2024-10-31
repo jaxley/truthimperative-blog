@@ -16,6 +16,6 @@ linter-yaml-title-alias: Airline-lt-strike-gt-security-lt-strike-gt-
 ---
 
 
-[A Dangerous Loophole in Airport Security - If Slate could discover it, the terrorists will too. By Andy Bowers](http://slate.msn.com/id/2113157/fr/rss/ "A Dangerous Loophole in Airport Security - If Slate could discover it, the terrorists will too. By Andy Bowers")  
+[A Dangerous Loophole in Airport Security - If Slate could discover it, the terrorists will too. By Andy Bowers](https://slate.msn.com/id/2113157/fr/rss/ "A Dangerous Loophole in Airport Security - If Slate could discover it, the terrorists will too. By Andy Bowers")  
   
 More security window-dressing... More reason that ID checks and the watch list are BS security.

@@ -17,4 +17,4 @@ linter-yaml-title-alias: Big-quot-no-crap-quot-garage-sale-this-weekend
 
 I'm going to be selling lots of good stuff this weekend at a Big alley sale. Come by and check out the goods!  
   
-[http://seattle.craigslist.org/see/gms/174151604.html](http://seattle.craigslist.org/see/gms/174151604.html)
+[https://seattle.craigslist.org/see/gms/174151604.html](https://seattle.craigslist.org/see/gms/174151604.html)

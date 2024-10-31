@@ -9,7 +9,7 @@ updated: 2024-10-10 10:49:42-07:00
 
 I can't believe this hasn't been fixed yet.  I was not about to reset back to factory defaults and I had been meaning to root my phone anyhow so went this route.  It was difficult to find a solution that did NOT require resetting to factory defaults.  Enjoy.  
   
-[Issue 3477 - android - HTC Hero - can't sign Gmail account if user skips signing when initially using the phone. - Project Hosting on Google Code](http://code.google.com/p/android/issues/detail?id=3477)  
+[Issue 3477 - android - HTC Hero - can't sign Gmail account if user skips signing when initially using the phone. - Project Hosting on Google Code](https://code.google.com/p/android/issues/detail?id=3477)  
 
 > referring to my comment 37 above, and 16 ...  
 > (1) First you need to root the phone. I had to Google how to do this, I found the solution (for 2.0, not 2.01) on some German site (yes, careless, I know).  

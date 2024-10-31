@@ -14,4 +14,4 @@ url: /2006/10/olbermann-blistering-retort-of-bush.html
 ---
 
 
-[Crooks and Liars: Olbermann’s Special Comment: It is not the Democrats whose inaction in the face of the enemy you fear](http://www.crooksandliars.com/2006/10/05/olbermanns-special-comment-it-is-not-the-democrats-whose-inaction-in-the-face-of-the-enemy-you-fear/ "Crooks and Liars: Olbermann’s Special Comment: It is not the Democrats whose inaction in the face of the enemy you fear")
+[Crooks and Liars: Olbermann’s Special Comment: It is not the Democrats whose inaction in the face of the enemy you fear](https://www.crooksandliars.com/2006/10/05/olbermanns-special-comment-it-is-not-the-democrats-whose-inaction-in-the-face-of-the-enemy-you-fear/ "Crooks and Liars: Olbermann’s Special Comment: It is not the Democrats whose inaction in the face of the enemy you fear")

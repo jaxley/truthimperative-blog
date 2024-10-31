@@ -16,9 +16,9 @@ linter-yaml-title-alias: New-study-suggests-exposure-to-microbes-as-kids-is-heal
 
 Best to have a kid get a cold here or there to reduce the chance of higher inflammation as adults and protect them from cardiovascular diseases.  We were just talking about this...  
   
-[Everyday germs in childhood may prevent diseases in adulthood](http://www.sciencedaily.com/releases/2009/12/091208192005.htm)  
+[Everyday germs in childhood may prevent diseases in adulthood](https://www.sciencedaily.com/releases/2009/12/091208192005.htm)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=b26f7953-68bb-8a12-a9ec-49583b32fed9) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=b26f7953-68bb-8a12-a9ec-49583b32fed9) -->

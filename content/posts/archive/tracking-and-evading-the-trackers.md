@@ -9,7 +9,7 @@ updated: 2024-10-10 10:49:42-07:00
 
 A very interesting research paper to read up on.  I'm most curious how they baited the RIAA/MPAA into thinking that printers had been downloading files over bittorrent.  
   
-[Tracking the Trackers](http://dmca.cs.washington.edu/)  
+[Tracking the Trackers](https://dmca.cs.washington.edu/)  
 
 > As people increasingly rely on the Internet to deliver downloadable music, movies, and television, content producers are faced with the problem of increasing Internet piracy. To protect their content, copyright holders police the Internet, searching for unauthorized distribution of their work on websites like YouTube or peer-to-peer networks such as BitTorrent. When infringement is (allegedly) discovered, formal complaints are issued to network operators that may result in websites being taken down or home Internet connections being disabled.  
 >   

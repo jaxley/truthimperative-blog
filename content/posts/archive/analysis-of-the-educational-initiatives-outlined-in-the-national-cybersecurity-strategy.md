@@ -39,4 +39,4 @@ Rob Slade takes an in-depth look at what the National Cybersecurity Strategy is 
   
 The document seems to say a lot but does not seem as if it will actually _**do**_ anything.  
   
-Read the full analysis in [Risks 22.63, article 1](http://catless.ncl.ac.uk/Risks/22.63.html#subj1)
+Read the full analysis in [Risks 22.63, article 1](https://catless.ncl.ac.uk/Risks/22.63.html#subj1)

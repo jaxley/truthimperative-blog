@@ -17,4 +17,4 @@ linter-yaml-title-alias: Legal-standards-for-expert-witnesses
 ---
 
 
-[Daubert Standard - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Daubert_Standard "Daubert Standard - Wikipedia, the free encyclopedia")
+[Daubert Standard - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Daubert_Standard "Daubert Standard - Wikipedia, the free encyclopedia")

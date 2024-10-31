@@ -19,7 +19,7 @@ Seems as if many devices don't like Linux's USB device autosuspend feature.  Ma
   
 sudo echo -1 > /sys/module/usbcore/parameters/autosuspend  
   
-[\[linux-usb-devel\] usb-storage autosuspend bug?](http://www.mail-archive.com/linux-usb-devel@lists.sourceforge.net/msg56202.html)  
+[\[linux-usb-devel\] usb-storage autosuspend bug?](https://www.mail-archive.com/linux-usb-devel@lists.sourceforge.net/msg56202.html)  
   
 [Bug #85488 - Comment #363](https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.20/+bug/85488/comments/363)  
   

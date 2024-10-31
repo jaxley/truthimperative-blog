@@ -14,8 +14,8 @@ url: /2003/05/interpreting-and-in-computer-misuse.html
 ---
 
 
-The [paper](http://papers.ssrn.com/sol3/delivery.cfm/SSRN_ID399740_code030507630.pdf?abstractid=399740) is 81 pages long but based on the abstract, it appears like important work. I hope that this will be taken to heart by policy shapers.  
+The [paper](https://papers.ssrn.com/sol3/delivery.cfm/SSRN_ID399740_code030507630.pdf?abstractid=399740) is 81 pages long but based on the abstract, it appears like important work. I hope that this will be taken to heart by policy shapers.  
   
-[Cybercrime's Scope: Interpreting 'Access' and 'Authorization' in Computer Misuse Statutes](http://papers.ssrn.com/sol3/delivery.cfm/SSRN_ID399740_code030507630.pdf?abstractid=399740 "Cybercrime's Scope: Interpreting 'Access' and 'Authorization' in Computer Misuse Statutes")  
+[Cybercrime's Scope: Interpreting 'Access' and 'Authorization' in Computer Misuse Statutes](https://papers.ssrn.com/sol3/delivery.cfm/SSRN_ID399740_code030507630.pdf?abstractid=399740 "Cybercrime's Scope: Interpreting 'Access' and 'Authorization' in Computer Misuse Statutes")  
   
 This Article presents a comprehensive inquiry into the meaning of unauthorized access statutes. It begins by explaining why legislatures enacted unauthorized access statutes, and why early beliefs that such statutes solved the problem of computer misuse have proved remarkably na�. Next, the Article explains how the courts have construed these statutes in an overly broad way that threatens to criminalize a surprising range of innocuous conduct involving computers. In the final section, the Article offers a normative proposal for interpreting "access" and "authorization." This section argues that courts should reject a contract theory of authorization, and should narrow the scope of unauthorized access statutes to circumvention of code-based restrictions on computer privileges.

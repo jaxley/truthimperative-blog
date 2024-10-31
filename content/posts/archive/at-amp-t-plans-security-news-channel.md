@@ -15,7 +15,7 @@ linter-yaml-title-alias: At-amp-t-plans-security-news-channel
 ---
 
 
-[AT&T plans CNN-style security channel](http://www.networkworld.com/news/2005/062305-att-cnn-security.html "AT&T plans CNN-style security channel")  
+[AT&T plans CNN-style security channel](https://www.networkworld.com/news/2005/062305-att-cnn-security.html "AT&T plans CNN-style security channel")  
   
 
 >   

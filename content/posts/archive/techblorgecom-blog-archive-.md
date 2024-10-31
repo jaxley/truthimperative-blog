@@ -9,4 +9,4 @@ updated: 2024-10-10 10:49:35-07:00
 
   
   
-[TECH.BLORGE.com » Blog Archive » Definitive guide: Windows Vista and XP head to head](http://tech.blorge.com/Structure:%20/2006/12/02/definitive-guide-windows-vista-and-xp-head-to-head/)
+[TECH.BLORGE.com » Blog Archive » Definitive guide: Windows Vista and XP head to head](https://tech.blorge.com/Structure:%20/2006/12/02/definitive-guide-windows-vista-and-xp-head-to-head/)

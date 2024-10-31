@@ -14,6 +14,6 @@ updated: 2024-10-10 11:52:38-07:00
 
 ![](/vimxml.png)
   
-A great HOWTO: [Vim as XML Editor](http://www.pinkjuice.com/howto/vimxml/ "Vim as XML Editor")  
+A great HOWTO: [Vim as XML Editor](https://www.pinkjuice.com/howto/vimxml/ "Vim as XML Editor")  
   
 I'm not sure I'll give up a GUI for XML editing, but you can do quite a lot with VIM that many GUI XML editors can't.

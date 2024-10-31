@@ -17,7 +17,7 @@ linter-yaml-title-alias: E-voting-systems-assailed
 
 A great article with some perfect quotes from leading advocates and experts for voter verifiable audit trails. Also, there are some documented cases of voting machine errors in the article.  
   
-[New Voting Systems Assailed](http://www.washingtonpost.com/ac2/wp-dyn/A39241-2003Mar27?language=printer)  
+[New Voting Systems Assailed](https://www.washingtonpost.com/ac2/wp-dyn/A39241-2003Mar27?language=printer)  
   
 New Voting Systems Assailed  
 Computer Experts Cite Fraud Potential  

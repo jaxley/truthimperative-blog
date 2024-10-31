@@ -13,7 +13,7 @@ url: /2007/05/7-habits-of-highly-effective-it-people.html
 
 His original intent was specifically to discuss program management skills (at Microsoft), but I think this general framework is a good one for any effective IT person.  I employ several of these in my security work and of course any of them can always be improved.  
   
-[J.D. Meier's Blog: 7 Habits of Highly Effective Program Managers](http://blogs.msdn.com/jmeier/archive/2007/04/09/7-habbits-of-effective-program-managers.aspx)  
+[J.D. Meier's Blog: 7 Habits of Highly Effective Program Managers](https://blogs.msdn.com/jmeier/archive/2007/04/09/7-habbits-of-effective-program-managers.aspx)  
 
 > \* Habit 1, Frame problems and solutions.  
 > \* Habit 2, Sell visions.  

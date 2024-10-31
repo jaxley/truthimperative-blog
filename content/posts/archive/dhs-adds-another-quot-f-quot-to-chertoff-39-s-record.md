@@ -13,7 +13,7 @@ url: /2006/03/dhs-adds-another-to-chertoff-record.html
 ---
 
 
-[DHS Gets Another F in Computer Security](http://www.washingtonpost.com/wp-dyn/content/article/2006/03/15/AR2006031501589.html "DHS Gets Another F in Computer Security")  
+[DHS Gets Another F in Computer Security](https://www.washingtonpost.com/wp-dyn/content/article/2006/03/15/AR2006031501589.html "DHS Gets Another F in Computer Security")  
   
 Is anyone surprised? They can't even manage a disaster in the physical world (Katrina), what makes you think they can manage the disaster that DHS is? Another black mark for Chertoff and the Bush administration.  
   

@@ -15,7 +15,7 @@ linter-yaml-title-alias: Help-for-your-penis-anxiety
 ---
 
 
-[Entrez PubMed: Treatment of men complaining of short penis.](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15922413&query_hl=1 "Entrez PubMed:  Treatment of men complaining of short penis.")  
+[Entrez PubMed: Treatment of men complaining of short penis.](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15922413&query_hl=1 "Entrez PubMed:  Treatment of men complaining of short penis.")  
   
 
 >   
@@ -23,4 +23,4 @@ linter-yaml-title-alias: Help-for-your-penis-anxiety
 
   
   
-I say they save their money and just call [Loveline](http://www.kroq.com/loveline/) for some ridicule-therapy.
+I say they save their money and just call [Loveline](https://www.kroq.com/loveline/) for some ridicule-therapy.

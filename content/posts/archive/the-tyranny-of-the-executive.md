@@ -12,7 +12,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:58:14-07:00
 ---
 
-[Atheist Ethicist](http://atheistethicist.blogspot.com/ "Atheist Ethicist")  
+[Atheist Ethicist](https://atheistethicist.blogspot.com/ "Atheist Ethicist")  
   
 
 >   

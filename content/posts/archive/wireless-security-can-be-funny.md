@@ -14,11 +14,11 @@ This is a true story!
   
 The link to the story below is stale now, but this one still works:  
   
-[Hackers tell man he's "too fat" to eat at Burger King - silicon.com](http://www.silicon.com/software/security/0,39024655,39117752,00.htm "Hackers tell man he's ")  
+[Hackers tell man he's "too fat" to eat at Burger King - silicon.com](https://www.silicon.com/software/security/0,39024655,39117752,00.htm "Hackers tell man he's ")  
   
 
 >   
-> http://www.ananova.com/news/story/sm\_853744.html?menu=news.latestheadlines  
+> https://www.ananova.com/news/story/sm\_853744.html?menu=news.latestheadlines  
 >   
 > Burger King customers told: 'You are too fat to have a Whopper'  
 >   

@@ -15,7 +15,7 @@ What kinds of risks might you be exposed to when simply wrapping an application?
 
 *   Platform vulnerabilities
 
-*   Insecure platform components (e.g. OpenSSL or Apple SecureTransport flaws, such as ["goto fail"](http://support.apple.com/kb/HT6147))
+*   Insecure platform components (e.g. OpenSSL or Apple SecureTransport flaws, such as ["goto fail"](https://support.apple.com/kb/HT6147))
 *   Vulnerable unpatched/unpatchable platform (Android end-of-life or unmaintained devices)
 
 *   [M3: Insufficient Transport Layer Protection](https://www.owasp.org/index.php/Mobile_Top_10_2014-M3)
@@ -65,7 +65,7 @@ Some additional areas of attack surface, specific to the mobile hybrid integrati
 
 *   [M7: Client Side Injection](https://www.owasp.org/index.php/Mobile_Top_10_2014-M7)
 
-*   If you add a javascript-to-native bridge, such as Android's [addJavascriptInterface](http://developer.android.com/reference/android/webkit/WebView.html#addJavascriptInterface(java.lang.Object,%20java.lang.String)) or the [JSExport](http://www.bignerdranch.com/blog/javascriptcore-example/) capabilities in iOS7+, any Cross-Site Scripting (XSS) vulnerability might enable an attacker to remotely execute native code in your application.  Secure transport becomes hyper-critical in these situations, and on Android, restricting to only the secure versions.
+*   If you add a javascript-to-native bridge, such as Android's [addJavascriptInterface](https://developer.android.com/reference/android/webkit/WebView.html#addJavascriptInterface(java.lang.Object,%20java.lang.String)) or the [JSExport](https://www.bignerdranch.com/blog/javascriptcore-example/) capabilities in iOS7+, any Cross-Site Scripting (XSS) vulnerability might enable an attacker to remotely execute native code in your application.  Secure transport becomes hyper-critical in these situations, and on Android, restricting to only the secure versions.
 
 *   [M10: Lack of Binary Protections](https://www.owasp.org/index.php/Mobile_Top_10_2014-M10)
 *   [M9: Improper Session Handling](https://www.owasp.org/index.php/Mobile_Top_10_2014-M9)

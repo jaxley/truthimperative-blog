@@ -17,6 +17,6 @@ linter-yaml-title-alias: Handset-security-flaws-on-the-horizon
 
 Software quality, especially data input filtering, is critical for mobile devices; especially devices that do not typically have user-updateable software.  
   
-[News: Mobile phone hacking expected to spread](http://zdnet.com.com/2100-1105-986083.html "News: Mobile phone hacking expected to spread")  
+[News: Mobile phone hacking expected to spread](https://zdnet.com.com/2100-1105-986083.html "News: Mobile phone hacking expected to spread")  
   
 United States-based security company @stake has released a security advisory detailing a Denial of Service (DoS) vulnerability in the Nokia 6210 GSM mobile phone, and although the flaw isn't serious it could be a sign of worse things to come.

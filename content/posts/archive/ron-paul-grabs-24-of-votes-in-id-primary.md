@@ -15,7 +15,7 @@ url: /2008/05/ron-paul-grabs-24-of-votes-in-id-primary.html
 
 Ouch. Even after winning the nomination McCain still can only get 70% of his own party's votes--which is not unlike other state totals. And to have Ron Paul continue to get double-digits is very intriguing.  
   
-[Paul has best showing yet, in Idaho - 2008 Presidential Campaign Blog - Political Intelligence - Boston.com](http://www.boston.com/news/politics/politicalintelligence/2008/05/paul_has_best_s.html)  
+[Paul has best showing yet, in Idaho - 2008 Presidential Campaign Blog - Political Intelligence - Boston.com](https://www.boston.com/news/politics/politicalintelligence/2008/05/paul_has_best_s.html)  
 
 > John McCain has the Republican nomination wrapped up, but Ron Paul isn't going anywhere.  
 >   

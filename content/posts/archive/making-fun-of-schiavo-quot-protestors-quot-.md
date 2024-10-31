@@ -19,4 +19,4 @@ linter-yaml-title-alias: Making-fun-of-schiavo-quot-protestors-quot-
 
 This is priceless. Click on the link and look at the pictures where someone mingled with the crowd, holding a sign saying "We are idiots" for the media to see.  
   
-[kill\_terri: Fun at the expense of nutbag Christians](http://www.livejournal.com/community/kill_terri/9666.html#cutid1 "Fun at the expense of nutbag Christians")
+[kill\_terri: Fun at the expense of nutbag Christians](https://www.livejournal.com/community/kill_terri/9666.html#cutid1 "Fun at the expense of nutbag Christians")

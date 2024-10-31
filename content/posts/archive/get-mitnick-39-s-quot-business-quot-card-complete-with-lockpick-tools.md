@@ -15,7 +15,7 @@ This is really cool.  I've got to send in for mine.  Which password should I s
   
 On a related note, I was running a table for the ISSA Puget Sound and we had a raffle where we asked for business cards or alternatively, a piece of paper with your name and contact information.  As a joke, we asked people for their email password and/or their Social Security Number.  There were actually some people willing to give them up.  
   
-[Mitnick Security Consulting, LLC](http://mitnicksecurity.com/)  
+[Mitnick Security Consulting, LLC](https://mitnicksecurity.com/)  
 
 > Send a self-addressed stamped envelope, your IP address and password to:  
 >   

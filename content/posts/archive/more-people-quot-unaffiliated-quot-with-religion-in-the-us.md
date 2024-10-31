@@ -49,6 +49,6 @@ In 2001, Washington State had 25% in the "unaffiliated" with religion category. 
 4% of the 16.1% say they are atheist or agnostic. So, I'm definitely in the minority. But the overall "unaffiliated" minority is still growing. And, it seems to be growing more among the next generation, which is a good sign "one-in-four \[18-29\] say they are not currently affiliated with a particular religion."  
   
 Survey data from 35000 Americans:  
-[http://pewforum.org/news/rss.php?NewsID=15041](http://pewforum.org/news/rss.php?NewsID=15041)  
-[http://www.biblicalrecorder.org/content/news/2008/02\_25\_2008/ne25022008study.shtml](http://www.biblicalrecorder.org/content/news/2008/02_25_2008/ne25022008study.shtml) (this link has images of the full survey results)  
-[http://www.religioustolerance.org/chr\_prac2.htm](http://www.religioustolerance.org/chr_prac2.htm)
+[https://pewforum.org/news/rss.php?NewsID=15041](https://pewforum.org/news/rss.php?NewsID=15041)  
+[https://www.biblicalrecorder.org/content/news/2008/02\_25\_2008/ne25022008study.shtml](https://www.biblicalrecorder.org/content/news/2008/02_25_2008/ne25022008study.shtml) (this link has images of the full survey results)  
+[https://www.religioustolerance.org/chr\_prac2.htm](https://www.religioustolerance.org/chr_prac2.htm)

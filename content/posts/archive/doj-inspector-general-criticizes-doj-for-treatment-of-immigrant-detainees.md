@@ -15,7 +15,7 @@ linter-yaml-title-alias: Doj-inspector-general-criticizes-doj-for-treatment-of-i
 ---
 
 
-Courtesy of EPIC Alert 10.10. [http://www.epic.org](http://www.epic.org)  
+Courtesy of EPIC Alert 10.10. [https://www.epic.org](https://www.epic.org)  
   
 \======================================================================  
 \[3\] Inspector General Criticizes DOJ on September 11 Detainees  
@@ -68,8 +68,8 @@ attacks.
   
 The September 11 Detainees Report, Office of Inspector General:  
   
-[http://www.usdoj.gov/oig/special/0603/full.pdf](http://www.usdoj.gov/oig/special/0603/full.pdf)  
+[https://www.usdoj.gov/oig/special/0603/full.pdf](https://www.usdoj.gov/oig/special/0603/full.pdf)  
   
 CNSS/EPIC v. Department of Justice (detainee FOIA case):  
   
-[http://www.epic.org/open\_gov/foia/cnss\_v\_doj.html](http://www.epic.org/open_gov/foia/cnss_v_doj.html)
+[https://www.epic.org/open\_gov/foia/cnss\_v\_doj.html](https://www.epic.org/open_gov/foia/cnss_v_doj.html)

@@ -14,12 +14,12 @@ linter-yaml-title-alias: Mainstream-media-defensiveness-indicates-more-of-same-i
 ---
 
 
-[Media Matters - "Media Matters"; By Jamison Foser](http://mediamatters.org/items/200805300009)  
+[Media Matters - "Media Matters"; By Jamison Foser](https://mediamatters.org/items/200805300009)  
 
 > Does anybody who isn't employed by or related to George Bush still deny that the administration wasn't truthful about Iraq? Or that the news media could have done a better job in the months preceding the war?  
 
   
-This was a rhetorical question in the article, but the answer is "yes", unfortunately. Who are these who think the media did just a fine job of covering the run-up to the war? Well, the media themselves. I watched David Gregory defend himself with disgust on Hardball. Read this article [Nieman Watchdog > Commentary > A refresher on how the press failed the people](http://www.niemanwatchdog.org/index.cfm?fuseaction=background.view&backgroundid=00255) for more examples, but also some examples where the press rightly criticized itself. Given that even many journalists and media outlets have actually admitted some level of failing, it is even more baffling how many still claim that everything was as good as it could have been. This article is also notable in that it has larger excerpts from McClellan's book criticizing the press than have been covered elsewhere.  
+This was a rhetorical question in the article, but the answer is "yes", unfortunately. Who are these who think the media did just a fine job of covering the run-up to the war? Well, the media themselves. I watched David Gregory defend himself with disgust on Hardball. Read this article [Nieman Watchdog > Commentary > A refresher on how the press failed the people](https://www.niemanwatchdog.org/index.cfm?fuseaction=background.view&backgroundid=00255) for more examples, but also some examples where the press rightly criticized itself. Given that even many journalists and media outlets have actually admitted some level of failing, it is even more baffling how many still claim that everything was as good as it could have been. This article is also notable in that it has larger excerpts from McClellan's book criticizing the press than have been covered elsewhere.  
   
 It is too bad that someone hasn't trotted out the names of the media executives who were quashing critical stories. I'd like to see some of them in the spotlight and hear their response to the charges.  
   

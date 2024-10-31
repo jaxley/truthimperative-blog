@@ -15,6 +15,6 @@ linter-yaml-title-alias: Iran-iraq-part-2
 ---
 
 
-[Crooks and Liars: IAEA calls US Report on Iran—a lie](http://www.crooksandliars.com/2006/09/14/iaea-calls-us-report-on-iran-a-lie/ "Crooks and Liars:  IAEA calls US Report on Iran—a lie")  
+[Crooks and Liars: IAEA calls US Report on Iran—a lie](https://www.crooksandliars.com/2006/09/14/iaea-calls-us-report-on-iran-a-lie/ "Crooks and Liars:  IAEA calls US Report on Iran—a lie")  
   
 Cooking the books to lead us into war with Iran now? Where have we seen this before...

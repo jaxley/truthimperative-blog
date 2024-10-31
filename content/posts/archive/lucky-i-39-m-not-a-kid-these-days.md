@@ -15,6 +15,6 @@ url: /2007/08/lucky-i-not-kid-these-days.html
   
 Zero tolerance policies are actually Zero thought policies.  They allow schools to make one-size-does-not-fit-all decisions without any reprieve or mitigating circumstances.  Imagine if the justice system worked that way.  
   
-[AZ: School suspends boy for drawing gun » Rational Review](http://www.rationalreview.com/content/34270)  
+[AZ: School suspends boy for drawing gun » Rational Review](https://www.rationalreview.com/content/34270)  
 
 > School officials suspended a 13-year-old boy for sketching what looked like a gun, saying the action posed a threat to his classmates.

@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:58:48-07:00
 ---
 
-[U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=2&vote=00163 "U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote")  
+[U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote](https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=109&session=2&vote=00163 "U.S. Senate: Legislation & Records Home > Votes > Roll Call Vote")  
   
 From the results of the Gay Marriage Ban cloture vote (read: write discrimination into the constitution), we get a nice list of the bigots in the US Senate that should be defeated, especially the two Democrats who joined the 47 Republicans.  
   

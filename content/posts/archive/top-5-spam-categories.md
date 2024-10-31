@@ -10,7 +10,7 @@ created: 2024-10-06 21:27:14-07:00
 updated: 2024-10-10 14:59:10-07:00
 ---
 
-[Security Scoop - NSI Watercooler Stories - BankInfoSecurity.com](http://bankinfosecurity.com/node/2604 "Security Scoop - NSI Watercooler Stories - BankInfoSecurity.com")  
+[Security Scoop - NSI Watercooler Stories - BankInfoSecurity.com](https://bankinfosecurity.com/node/2604 "Security Scoop - NSI Watercooler Stories - BankInfoSecurity.com")  
   
 This seems consistent with what I've seen in spam that comes into axley.net. Spammers and scammers are the scourge.  
   

@@ -18,7 +18,7 @@ Gotta love Google.
   
 I added this key, rebooted and now I'm back in business!  
   
-[NVIDIA Forums -> WHQL 175.16 - remote desktop fails](http://forums.nvidia.com/index.php?showtopic=67147&st=60)  
+[NVIDIA Forums -> WHQL 175.16 - remote desktop fails](https://forums.nvidia.com/index.php?showtopic=67147&st=60)  
 
 > This problem is not specific to any one graphics company. It can probably happen with printer drivers too.  
 >   

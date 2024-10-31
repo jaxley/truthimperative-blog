@@ -12,7 +12,7 @@ url: /2005/07/drooling-over-my-7mbps-892-kbps-dsl.html
 ---
 
 
-[broadband Speed Interpretation](http://www.dslreports.com/speedtests/4533441%3B737104%3B5c3ec70b1b7ed2400929a4754fe73534%3B3.0%3Bwww.dslreports.com/1121822883 "broadband%20%BB%20Speed%20Interpretation")  
+[broadband Speed Interpretation](https://www.dslreports.com/speedtests/4533441%3B737104%3B5c3ec70b1b7ed2400929a4754fe73534%3B3.0%3Bwww.dslreports.com/1121822883 "broadband%20%BB%20Speed%20Interpretation")  
   
 Just upgraded from 1.5mbps / 768kbps to 7mbps / 892kbps. Yum.  
   

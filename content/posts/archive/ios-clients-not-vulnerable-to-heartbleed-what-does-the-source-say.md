@@ -20,9 +20,9 @@ linter-yaml-title-alias: Ios-clients-not-vulnerable-to-heartbleed-what-does-the-
 
 ![](/heartbleed.png)
   
-Apple's language in their assertion that they are not vulnerable to heartbleed on iOS are troubling as they specifically say (via [ReCode](http://recode.net/2014/04/10/apple-says-ios-osx-and-key-web-services-not-affected-by-heartbleed-security-flaw/)), "IOS and OS X never incorporated the vulnerable software..."  However, not incorporating the vulnerable OpenSSL software is merely one way that their customers could have been made vulnerable.  What about the Apple SSL/TLS implementation?  Has anyone checked it?  Did they incorporate [RFC 6520](https://tools.ietf.org/html/rfc6520) for heartbeat support?  I couldn't find anything Google so figured I would share what I found.  
+Apple's language in their assertion that they are not vulnerable to heartbleed on iOS are troubling as they specifically say (via [ReCode](https://recode.net/2014/04/10/apple-says-ios-osx-and-key-web-services-not-affected-by-heartbleed-security-flaw/)), "IOS and OS X never incorporated the vulnerable software..."  However, not incorporating the vulnerable OpenSSL software is merely one way that their customers could have been made vulnerable.  What about the Apple SSL/TLS implementation?  Has anyone checked it?  Did they incorporate [RFC 6520](https://tools.ietf.org/html/rfc6520) for heartbeat support?  I couldn't find anything Google so figured I would share what I found.  
   
-Since the Apple SSL library code is open sourced, we can actually look at the code.  And based on my read of the code, Apple doesn’t even implement the heartbeat extension. [http://opensource.apple.com/source/Security/Security-55471/libsecurity\_ssl/lib/sslHandshake.h](http://opensource.apple.com/source/Security/Security-55471/libsecurity_ssl/lib/sslHandshake.h) doesn’t even define the [heartbeat helloextension code 15](https://www.iana.org/assignments/tls-extensiontype-values/tls-extensiontype-values.xhtml#tls-extensiontype-values-1) in the data structure:  
+Since the Apple SSL library code is open sourced, we can actually look at the code.  And based on my read of the code, Apple doesn’t even implement the heartbeat extension. [https://opensource.apple.com/source/Security/Security-55471/libsecurity\_ssl/lib/sslHandshake.h](https://opensource.apple.com/source/Security/Security-55471/libsecurity_ssl/lib/sslHandshake.h) doesn’t even define the [heartbeat helloextension code 15](https://www.iana.org/assignments/tls-extensiontype-values/tls-extensiontype-values.xhtml#tls-extensiontype-values-1) in the data structure:  
   
 ```
 /\* Hello Extensions per RFC 3546 \*/
@@ -52,7 +52,7 @@ typedef enum
  SSL\_HE\_SessionTicket = 35
 } SSLHelloExtensionType;
 ```  
-Then in the implementation [http://opensource.apple.com/source/Security/Security-55471/libsecurity\_ssl/lib/sslHandshakeHello.c](http://opensource.apple.com/source/Security/Security-55471/libsecurity_ssl/lib/sslHandshakeHello.c), they actually only support one extension, SSL\_HE\_SecureRenegotation. All others return an error code.  
+Then in the implementation [https://opensource.apple.com/source/Security/Security-55471/libsecurity\_ssl/lib/sslHandshakeHello.c](https://opensource.apple.com/source/Security/Security-55471/libsecurity_ssl/lib/sslHandshakeHello.c), they actually only support one extension, SSL\_HE\_SecureRenegotation. All others return an error code.  
   
 ```
      switch (extType) {

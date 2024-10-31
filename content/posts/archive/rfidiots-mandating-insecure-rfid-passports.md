@@ -26,7 +26,7 @@ Nice proof of concept code that can read passport data posted to BUGTRAQ. The "k
 > The Expiry Date of the Passport  
 
 >   
-> The latest version of [RFIDIOt](http://rfidiot.org/), the open-source python library for RFID  
+> The latest version of [RFIDIOt](https://rfidiot.org/), the open-source python library for RFID  
 > exploration/manipulation, contains code that implements the ICAO 9303  
 > standard for Machine Readable Travel Documents in the form of a test  
 > program called 'mrpkey.py'.  
@@ -37,4 +37,4 @@ Nice proof of concept code that can read passport data posted to BUGTRAQ. The "k
 
 Bruce Schneier advises US passport holders to renew your passport NOW before the RFID requirement goes into effect so you can avoid being tracked or hunted down in our country or a foreign country. Otherwise, how will you still be able to claim you're a Canadian in foreign countries?  
   
-Also see this [news story.](http://news.com.com/2061-10789_3-6130396.html?part=rss&tag=6130396&subj=news)
+Also see this [news story.](https://news.com.com/2061-10789_3-6130396.html?part=rss&tag=6130396&subj=news)

@@ -18,6 +18,6 @@ I hate to add to the excessive frenzy over Paris going to jail, but there are so
   
 <!-- ![](/archives/hilton10607_wideweb__470x355,0.jpg) -->
   
-[The Sydney Morning Herald: national, world, business, entertainment, sport and technology news from Australia's leading newspaper.](http://www.smh.com.au/articles/2007/06/09/1181089386847.html?from=top5)  
+[The Sydney Morning Herald: national, world, business, entertainment, sport and technology news from Australia's leading newspaper.](https://www.smh.com.au/articles/2007/06/09/1181089386847.html?from=top5)  
 
 > Hilton's release for an undisclosed medical condition - and the decision to allow her to serve the time at her luxurious home - caused outrage among civil rights leaders and many Americans, who argued it could be interpreted as affording the socialite favours not available to other, less famous, inmates.

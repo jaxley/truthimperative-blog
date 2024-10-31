@@ -32,4 +32,4 @@ There is also a full-disclosure debate arising over whistle-blowers who may poin
   
 Security measures should be able to withstand scrutiny.  
   
-[Fifth Report: The Myth of Security at Canada�s Airports](http://www.parl.gc.ca/37/2/parlbus/commbus/senate/com-e/defe-e/rep-e/rep05jan03-e.htm "Fifth Report:  The Myth of Security at Canada�s Airports")
+[Fifth Report: The Myth of Security at Canada�s Airports](https://www.parl.gc.ca/37/2/parlbus/commbus/senate/com-e/defe-e/rep-e/rep05jan03-e.htm "Fifth Report:  The Myth of Security at Canada�s Airports")

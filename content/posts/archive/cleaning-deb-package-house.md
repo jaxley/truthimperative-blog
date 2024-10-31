@@ -15,6 +15,6 @@ linter-yaml-title-alias: Cleaning-deb-package-house
 ---
 
 
-[Ubuntu Blog: Better Management of Packages while Uninstalling](http://ubuntu.wordpress.com/2005/09/30/better-management-of-packages-while-uninstalling/ "Ubuntu Blog: Better Management of Packages while Uninstalling")  
+[Ubuntu Blog: Better Management of Packages while Uninstalling](https://ubuntu.wordpress.com/2005/09/30/better-management-of-packages-while-uninstalling/ "Ubuntu Blog: Better Management of Packages while Uninstalling")  
   
-[HOWTO: Using debfoster in practice](http://www.ubuntuforums.org/showthread.php?t=24403)
+[HOWTO: Using debfoster in practice](https://www.ubuntuforums.org/showthread.php?t=24403)

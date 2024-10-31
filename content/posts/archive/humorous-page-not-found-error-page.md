@@ -14,6 +14,6 @@ linter-yaml-title-alias: Humorous-page-not-found-error-page
 ---
 
 
-This is great!  (from http://www.computershare.com/Style%20Library/Images/404.png
+This is great!  (from https://www.computershare.com/Style%20Library/Images/404.png
   
 ![](/404.png)

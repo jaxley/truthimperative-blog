@@ -18,6 +18,6 @@ The "they" is the Democrats.  We know we can't count on the Republican wankers 
   
 I'd be down for an independent ticket for 2008, so long as it doesn't put another Republican in the white house like Nader helped with last time.  However, it is looking like the Dems have a good set of candidates to choose from thus far.  But who of them can \_lead\_?  We'll see.  
   
-[Daily Kos: Gonzo No Confidence Vote Fails](http://www.dailykos.com/storyonly/2007/6/11/18297/2743)  
+[Daily Kos: Gonzo No Confidence Vote Fails](https://www.dailykos.com/storyonly/2007/6/11/18297/2743)  
 
 > If they are serious in having no confidence in Gonzales (and who couldn't be, outside of Bush?) then it's time to begin the process for the next step: impeachment.

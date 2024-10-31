@@ -15,6 +15,6 @@ linter-yaml-title-alias: Great-site-watching-out-for-stupid-religion-tricks
 ---
 
 
-[Retard of the Month](http://www.evilbible.com/Retard.htm "Retard of the Month")  
+[Retard of the Month](https://www.evilbible.com/Retard.htm "Retard of the Month")  
   
 No disrespect meant to the disabled, but the content is priceless. Going to keep an eye on this site. Perhaps it will show up in the links section soon.

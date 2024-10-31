@@ -26,4 +26,4 @@ My blog doesn't really have many that link to it and probably the fact that I po
   
 That said, I have anecdotal evidence that my blog only gets noticed when I post original content.  My recent entry about SOA security is a perfect example.  I also was thinking about how I like the SANS newsbites because they actually summarize the stories they link to, not just provide links (on a related note, the links in Crypto-Gram require me to go read every story that sounds interesting so I generally read fewer of them).  
   
-[No-one links to the linkers at Andrew Garrett’s Mutation](http://mutation.co.nz/2006/06/09/no-one-links-to-the-linkers)
+[No-one links to the linkers at Andrew Garrett’s Mutation](https://mutation.co.nz/2006/06/09/no-one-links-to-the-linkers)

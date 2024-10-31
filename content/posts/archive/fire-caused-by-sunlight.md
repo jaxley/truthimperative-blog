@@ -18,7 +18,7 @@ linter-yaml-title-alias: Fire-caused-by-sunlight
 
 Wow.  Was just recalling how a mirror on the passenger seat of my grandparents' car burned a hole in the dashboard on a sunny day when I was a kid.  Was a reminder to not leave mirrors attached inside the vehicle (even though having one to watch our little cutie would be handy)  
   
-[Sunlight, Water, Bowl Likely Cause Of Bellevue Fire - Seattle News Story - KIRO Seattle](http://www.kirotv.com/news/19497842/detail.html)  
+[Sunlight, Water, Bowl Likely Cause Of Bellevue Fire - Seattle News Story - KIRO Seattle](https://www.kirotv.com/news/19497842/detail.html)  
 
 > BELLEVUE, Wash. -- Investigators suspect sunlight was the cause of a fire that destroyed a deck and kitchen in an east Bellevue home on Sunday, said Lt. Eric Keenan of the City of Bellevue.  
 >   
@@ -33,4 +33,4 @@ Wow.  Was just recalling how a mirror on the passenger seat of my grandparents'
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=844d71a2-55c5-8c91-9df3-43d084816b3f) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=844d71a2-55c5-8c91-9df3-43d084816b3f) -->

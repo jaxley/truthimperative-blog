@@ -9,4 +9,4 @@ updated: 2024-10-10 10:49:32-07:00
 
 Technically, they are in the Kirkland office.  Sign up and get notified of upcoming talks.  I attended one by Vint Cerf that was very elucidating.  
   
-[Join us for Technical Talks in Seattle](http://services.google.com/events/seattle_techtalk07)
+[Join us for Technical Talks in Seattle](https://services.google.com/events/seattle_techtalk07)

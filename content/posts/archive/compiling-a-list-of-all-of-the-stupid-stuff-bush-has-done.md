@@ -17,13 +17,13 @@ linter-yaml-title-alias: Compiling-a-list-of-all-of-the-stupid-stuff-bush-has-do
 ---
 
 
-[AMERICAblog: Because a great nation deserves the truth](http://americablog.blogspot.com/2006/03/lets-create-list-of-every-idiotic.html "AMERICAblog: Because a great nation deserves the truth")  
+[AMERICAblog: Because a great nation deserves the truth](https://americablog.blogspot.com/2006/03/lets-create-list-of-every-idiotic.html "AMERICAblog: Because a great nation deserves the truth")  
   
 "Let's create a list of every idiotic thing George Bush has done in the past five years"  
   
 This is a great idea. I've wanted to at least put together a list of the biggest scandals.  
   
-Great timing for this kind of fun. On the heels of a new set of [(dis)approval rating results](http://people-press.org/reports/display.php3?ReportID=271) that show that Bush's popularity has fallen AGAIN, to its lowest level. So, I'll add his claim that he was given a "mandate" to the list of stupid shit he has said or done.  
+Great timing for this kind of fun. On the heels of a new set of [(dis)approval rating results](https://people-press.org/reports/display.php3?ReportID=271) that show that Bush's popularity has fallen AGAIN, to its lowest level. So, I'll add his claim that he was given a "mandate" to the list of stupid shit he has said or done.  
   
 
 >   

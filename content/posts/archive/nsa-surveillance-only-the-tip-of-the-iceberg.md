@@ -18,16 +18,16 @@ linter-yaml-title-alias: Nsa-surveillance-only-the-tip-of-the-iceberg
 ---
 
 
-A gaggle of links about the illegal NSA domestic spying program. More apropos in light of even more [spying by the Bush Administration](http://www.aclu.org/safefree/spying/25984prs20060623.html) -- this time on [international wire transfers](http://www.boston.com/news/nation/washington/articles/2006/06/25/search_of_banking_records_raises_privacy_concerns/)  
+A gaggle of links about the illegal NSA domestic spying program. More apropos in light of even more [spying by the Bush Administration](https://www.aclu.org/safefree/spying/25984prs20060623.html) -- this time on [international wire transfers](https://www.boston.com/news/nation/washington/articles/2006/06/25/search_of_banking_records_raises_privacy_concerns/)  
   
-[Think Progress: NSA Whistleblower To Expose More Unlawful Activity: ‘People…Are Going To Be Shocked’](http://thinkprogress.org/2006/05/12/more-unlawful-activity/ "Think Progress: NSA Whistleblower To Expose More Unlawful Activity: ‘People…Are Going To Be Shocked’")  
+[Think Progress: NSA Whistleblower To Expose More Unlawful Activity: ‘People…Are Going To Be Shocked’](https://thinkprogress.org/2006/05/12/more-unlawful-activity/ "Think Progress: NSA Whistleblower To Expose More Unlawful Activity: ‘People…Are Going To Be Shocked’")  
   
-[Media Matters - Myths and falsehoods on the NSA domestic call-tracking program](http://mediamatters.org/items/200605120018 "Media Matters - Myths and falsehoods on the NSA domestic call-tracking program")  
+[Media Matters - Myths and falsehoods on the NSA domestic call-tracking program](https://mediamatters.org/items/200605120018 "Media Matters - Myths and falsehoods on the NSA domestic call-tracking program")  
   
-[Illegal NSA Data Mining Highlights Need for Congressional Oversight](http://www.cdt.org/publications/policyposts/2006/8) CDT legal analysis (Center for Democracy and Technology) of the NSA spying program  
+[Illegal NSA Data Mining Highlights Need for Congressional Oversight](https://www.cdt.org/publications/policyposts/2006/8) CDT legal analysis (Center for Democracy and Technology) of the NSA spying program  
   
 And some analysis of how this kind of program is ineffective (My favorite description is that finding a needle in a haystack is not made easier by increasing the size of the haystack)  
   
-[Daily Kos: The NSA, the Database and YOU](http://www.dailykos.com/storyonly/2006/5/12/123644/354 "Daily Kos: The NSA, the Database and YOU")  
+[Daily Kos: The NSA, the Database and YOU](https://www.dailykos.com/storyonly/2006/5/12/123644/354 "Daily Kos: The NSA, the Database and YOU")  
   
-[Daily Kos: An Illusion of Privacy and Security](http://www.dailykos.com/storyonly/2006/5/12/10344/5885 "Daily Kos: An Illusion of Privacy and Security")
+[Daily Kos: An Illusion of Privacy and Security](https://www.dailykos.com/storyonly/2006/5/12/10344/5885 "Daily Kos: An Illusion of Privacy and Security")

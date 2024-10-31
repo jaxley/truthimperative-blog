@@ -15,7 +15,7 @@ linter-yaml-title-alias: Preoccupied-with-firewalls
 ---
 
 
-[Firewalls a dangerous distraction says expert](http://www.techworld.com/security/news/index.cfm?NewsID=3992)  
+[Firewalls a dangerous distraction says expert](https://www.techworld.com/security/news/index.cfm?NewsID=3992)  
   
 I don't know who Abe Singer is but he makes a great point that I have been touting for years. Look at your infosec program and count how many people you have dealing directly with firewalls. Now, count how many people you have dealing with application security audits, standards, reviews, etc. More than likely, you only need one hand to count the latter. That is why there is such a problem with insecure applications on the Internet. It starts with misunderstanding your threat model and continues with inadequate staffing and misplaced priorities  
   

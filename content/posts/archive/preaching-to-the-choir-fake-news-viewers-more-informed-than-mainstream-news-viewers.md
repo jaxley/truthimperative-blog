@@ -20,4 +20,4 @@ e.g.
 
 > “**Thirty percent** of Daily Show and **34 percent** of Colbert viewers **correctly identified Secretary of State Condoleezza Rice**, British Prime Minister Gordon Brown and **the majority party in the U.S. House of Representatives**”  
 
-[Think Progress » Colbert, Stewart viewers more well-informed than those watching O’Reilly, Dobbs.](http://thinkprogress.org/2008/08/18/stewart-colbert-oreilly-dobbs/)
+[Think Progress » Colbert, Stewart viewers more well-informed than those watching O’Reilly, Dobbs.](https://thinkprogress.org/2008/08/18/stewart-colbert-oreilly-dobbs/)

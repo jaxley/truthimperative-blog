@@ -15,4 +15,4 @@ Oh, how timely! Just a few days ago, a blog post about the limitations of ViewSt
 
 The article also suggests that a CSRF Guard for .Net is needed. Well, they are in luck because it is: [https://www.owasp.org/index.php/.Net\_CSRF\_Guard](https://www.owasp.org/index.php/.Net_CSRF_Guard)  
   
-[ViewStateUserKey Doesn’t Prevent Cross-Site Request Forgery - KeepItLocked.net](http://keepitlocked.net/archive/2008/05/29/viewstateuserkey-doesn-t-prevent-cross-site-request-forgery.aspx)
+[ViewStateUserKey Doesn’t Prevent Cross-Site Request Forgery - KeepItLocked.net](https://keepitlocked.net/archive/2008/05/29/viewstateuserkey-doesn-t-prevent-cross-site-request-forgery.aspx)

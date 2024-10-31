@@ -32,4 +32,4 @@ police and submitting to fingerprinting that demonstrated she was not the
 person in question, she was not cleared until weeks later -- after her local  
 Member of Parliament had intervened. \[Source: Prostitute mix-up shocks  
 teacher, by Ruth Berry, 06 March 2003; PGN-ed\]  
-http://www.stuff.co.nz/stuff/0,2106,2309649a7694,00.html
+https://www.stuff.co.nz/stuff/0,2106,2309649a7694,00.html

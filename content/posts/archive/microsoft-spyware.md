@@ -18,12 +18,12 @@ linter-yaml-title-alias: Microsoft-spyware
 ---
 
 
-tecChannel [reverse-engineered Windows Update](http://www.tecchannel.de/betriebssysteme/1126/index.html) to find that it can spy on other installed applications. It is unclear whether it actually _does_ spy though. Although an article at The Inquirer claims as much.  
+tecChannel [reverse-engineered Windows Update](https://www.tecchannel.de/betriebssysteme/1126/index.html) to find that it can spy on other installed applications. It is unclear whether it actually _does_ spy though. Although an article at The Inquirer claims as much.  
   
-They are offering a utility that you can run yourself to spy on the spyware. You have to pay 1.99 Euro for the full article and get the software included. A [summary](http://www.theinquirer.net/?article=7980) can be found for free though at The Inquirer.  
+They are offering a utility that you can run yourself to spy on the spyware. You have to pay 1.99 Euro for the full article and get the software included. A [summary](https://www.theinquirer.net/?article=7980) can be found for free though at The Inquirer.  
   
 "The information can pass on to Microsoft a list of all of the software installed on an individual's computer, including software manufactured by other manufacturers."  
   
-There is a slashdot [story](http://slashdot.org/article.pl?sid=03/02/26/1320231&mode=thread&tid=109&tid=158) as well.  
+There is a slashdot [story](https://slashdot.org/article.pl?sid=03/02/26/1320231&mode=thread&tid=109&tid=158) as well.  
   
-An [article update](http://www.tecchannel.de/betriebssysteme/1126/14.html) shows a dump of what a hardware configuration looks like being sent to Microsoft.
+An [article update](https://www.tecchannel.de/betriebssysteme/1126/14.html) shows a dump of what a hardware configuration looks like being sent to Microsoft.

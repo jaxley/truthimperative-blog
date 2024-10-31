@@ -16,4 +16,4 @@ linter-yaml-title-alias: More-notable-security-quotes
 
 Great list of quotes on another security blog to add to the periodic quotes I come across.  
   
-[Musings on Information Security :: Quotable security quotes](http://ravichar.blogharbor.com/blog/Quotablesecurityquotes)
+[Musings on Information Security :: Quotable security quotes](https://ravichar.blogharbor.com/blog/Quotablesecurityquotes)

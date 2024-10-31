@@ -14,11 +14,11 @@ linter-yaml-title-alias: Another-mccain-flip-flop
 ---
 
 
-[Crooks and Liars: St. McCain's look of desperation](http://www.crooksandliars.com/2006/11/01/st-mccains-look-of-desperation/ "Crooks and Liars: St. McCain’s look of desperation")  
+[Crooks and Liars: St. McCain's look of desperation](https://www.crooksandliars.com/2006/11/01/st-mccains-look-of-desperation/ "Crooks and Liars: St. McCain’s look of desperation")  
   
 McCain once had words of praise for Senator Kerry, but he played the repugnican party line during the election and trashed him for his botched joke--acting as if he really believed Kerry, a decorated veteran, was actually disparaging the troops and not Bush.  Politics is disgusting.  McCain should take what Olbermann said about Rove and Bush to heart:  
   
-[Crooks and Liars: Olbermann’s Special Comment : There is no line this President has not crossed — nor will not cross — to keep one political party, in power.](http://www.crooksandliars.com/2006/11/01/olbermanns-special-comment-there-is-no-line-this-president-has-not-crossed-nor-will-not-cross-to-keep-one-political-party-in-power/ "Crooks and Liars: Olbermann’s Special Comment : There is no line this President has not crossed — nor will not cross — to keep one political party, in power.")  
+[Crooks and Liars: Olbermann’s Special Comment : There is no line this President has not crossed — nor will not cross — to keep one political party, in power.](https://www.crooksandliars.com/2006/11/01/olbermanns-special-comment-there-is-no-line-this-president-has-not-crossed-nor-will-not-cross-to-keep-one-political-party-in-power/ "Crooks and Liars: Olbermann’s Special Comment : There is no line this President has not crossed — nor will not cross — to keep one political party, in power.")  
   
 
 > Mr. Bush and his minions responded \[to Kerry's gaffe\], by appearing to be too stupid to realize that they had been called stupid.

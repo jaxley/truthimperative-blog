@@ -18,4 +18,4 @@ linter-yaml-title-alias: Opml-sharing-site
 ---
 
 
-[Share Your OPML: Top 100 Feeds](http://share.opml.org/ "Share Your OPML: Top 100 Feeds")
+[Share Your OPML: Top 100 Feeds](https://share.opml.org/ "Share Your OPML: Top 100 Feeds")

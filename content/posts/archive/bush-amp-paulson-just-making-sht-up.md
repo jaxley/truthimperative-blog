@@ -18,7 +18,7 @@ linter-yaml-title-alias: Bush-amp-paulson-just-making-sht-up
 
 Hat tip to Chuck Schumer who asked a real question of Paulson earlier this week about why $700 billion, and why all the money now?  Why not $150 billion and come ask for more so we can see whether it is working?  
   
-[Think Progress » Treasury explains how it came up with $700 billion: We just wanted ‘a really large number.’](http://thinkprogress.org/2008/09/24/treasury-large-number/)  
+[Think Progress » Treasury explains how it came up with $700 billion: We just wanted ‘a really large number.’](https://thinkprogress.org/2008/09/24/treasury-large-number/)  
 
 > In fact, some of the most basic details, including the $700 billion figure Treasury would use to buy up bad debt, are fuzzy.  
 >   

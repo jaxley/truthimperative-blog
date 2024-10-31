@@ -17,7 +17,7 @@ linter-yaml-title-alias: Racial-profiling-for-terrorists
 
 On The McLaughlin Group yesterday, there was a lot of ridiculous sophistry regarding racial profiling as a valuable and necessary tradeoff between liberty and security.  
   
-Bruce Schneier has written many times on this subject. In [this piece](http://www.schneier.com/blog/archives/2005/07/profiling.html), there is a perfect quote about what is misguided about the position that racial profiling is not only necessary, but is actually effective, "Whenever you design a security system with two ways through -- an easy way and a hard way -- you invite the attacker to take the easy way. Profile for young Arab males, and you'll get terrorists that are old non-Arab females."  
+Bruce Schneier has written many times on this subject. In [this piece](https://www.schneier.com/blog/archives/2005/07/profiling.html), there is a perfect quote about what is misguided about the position that racial profiling is not only necessary, but is actually effective, "Whenever you design a security system with two ways through -- an easy way and a hard way -- you invite the attacker to take the easy way. Profile for young Arab males, and you'll get terrorists that are old non-Arab females."  
   
 "The enemy could easily get around it by recruiting people who don't look like the profile" -- Eleanor Clift, the only one who gets it.  
   

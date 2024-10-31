@@ -16,9 +16,9 @@ linter-yaml-title-alias: Evidence-based-government-succeeds-in-west-seattle-
 
 Wow.  I like actually seeing a decision based on hard data and seeing that there is some sanity (not just revenue lust) that goes into parking designations.  We need more governing like this.  
   
-[West Seattle Blog… » Bulletin: SDOT says no paid parking for The Junction](http://www.facebook.com/ext/share.php?sid=107107833346&h=gGpV5&u=zAcal&ref=nf)  
+[West Seattle Blog… » Bulletin: SDOT says no paid parking for The Junction](https://www.facebook.com/ext/share.php?sid=107107833346&h=gGpV5&u=zAcal&ref=nf)  
 
   
   
 
-<!-- ![](http://img.zemanta.com/pixy.gif?x-id=5a713fbd-fe55-8732-8345-ab017304a042) -->
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=5a713fbd-fe55-8732-8345-ab017304a042) -->

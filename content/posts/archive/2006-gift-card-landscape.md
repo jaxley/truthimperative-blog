@@ -16,7 +16,7 @@ Good news about gift cards.  I was just thinking the other day about these prac
   
 And a hint for the upcoming holiday:  Gift cards make great gifts...  
   
-[2006 Gift Card Study (Page 1 of 4)](http://www.bankrate.com/brm/news/cc/20061120_gift_card_study_a1.asp)  
+[2006 Gift Card Study (Page 1 of 4)](https://www.bankrate.com/brm/news/cc/20061120_gift_card_study_a1.asp)  
 
 > If you want a gift card you can use anywhere, you'll pay for the privilege, while gift cards from individual retailers are less costly and sprouting more options.  
 >   

@@ -18,7 +18,7 @@ linter-yaml-title-alias: Asinine-terrorist-detection-at-western-union
 ---
 
 
-[Western Union blocks Arab cash deliveries - Yahoo! News](http://news.yahoo.com/s/ap/20060706/ap_on_bi_ge/emirates_muslim_money "Western Union blocks Arab cash deliveries - Yahoo! News")  
+[Western Union blocks Arab cash deliveries - Yahoo! News](https://news.yahoo.com/s/ap/20060706/ap_on_bi_ge/emirates_muslim_money "Western Union blocks Arab cash deliveries - Yahoo! News")  
   
 
 >   
@@ -29,4 +29,4 @@ linter-yaml-title-alias: Asinine-terrorist-detection-at-western-union
 
   
   
-Hard to believe it could be possible, but this is more stupid than the [TSA's Secure Flight](http://www.schneier.com/blog/archives/2005/07/secure_flight.html) program (also a miserable failure).
+Hard to believe it could be possible, but this is more stupid than the [TSA's Secure Flight](https://www.schneier.com/blog/archives/2005/07/secure_flight.html) program (also a miserable failure).
