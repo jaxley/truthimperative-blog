@@ -29,7 +29,7 @@ const { JSDOM } = require('jsdom');
 const sharp = require('sharp');
 const { copyFileSync, existsSync, mkdirSync, readFileSync } = require('fs');
 const { MD5 } = require('crypto-js');
-const { extname, join } = require('path');
+const { extname, join, parse } = require('path');
 
 const widths = [1024, 820, 640, 320];
 
@@ -114,20 +114,32 @@ async function setSrcset(img, src, hash, format, metadataWidth, pathPrefix) {
   );
 }
 
+function canProcessImage(imagePath, pathPrefix) {
+  const skipFileExt = ['.svg']
+  let skipProcessing =
+    /^(https?:\/\/|\/\/)/i.test(imagePath);
+
+  if (!skipProcessing) {
+    const parsed = parse(imagePath);
+
+    skipProcessing = skipFileExt.includes(parsed.ext) 
+      || parsed.dir.indexOf(pathPrefix) <= 0;
+  }
+
+  return !skipProcessing;
+}
+
 const processImage = async (el, pathPrefix) => {
-  const filename =
-    pathPrefix.length > 1
-      ? `/${el.getAttribute('src').split(pathPrefix)[1]}`
-      : el.getAttribute('src');
+  const imgSrc = el.getAttribute('src');
 
-  const skipProcessing =
-    !filename ||
-    /^(https?:\/\/|\/\/)/i.test(filename) ||
-    extname(filename.toLowerCase()) === '.svg';
-
-  if (skipProcessing) {
+  if (!canProcessImage(imgSrc, pathPrefix)) {
     return;
   }
+
+  const filename =
+    pathPrefix.length > 1
+      ? `/${imgSrc.split(pathPrefix)[1]}`
+      : imgSrc;
 
   const file = join(assetsDir, filename);
 
