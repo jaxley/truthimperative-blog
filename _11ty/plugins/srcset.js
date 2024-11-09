@@ -51,7 +51,7 @@ async function srcset(filename, hash, format, metadataWidth, pathPrefix) {
   );
 
   const normalizedName = (name) =>
-    pathPrefix.length > 1 ? join(pathPrefix, name) : name;
+    pathPrefix.length > 1 ? join(`/${pathPrefix}`, name) : name;
 
   return names.map((n, i) => normalizedName(`${n} ${widths[i]}w`)).join(', ');
 }
@@ -141,7 +141,8 @@ const processImage = async (el, pathPrefix) => {
       ? `/${imgSrc.split(pathPrefix)[1]}`
       : imgSrc;
 
-  const file = join(assetsDir, filename);
+  const file = 
+  join(assetsDir, filename);
 
   // Generate file hash
   const hash = MD5(readFileSync(file).toString());
@@ -159,7 +160,9 @@ const processImage = async (el, pathPrefix) => {
   const webp = doc.createElement('source');
   const jpeg = doc.createElement('source');
 
-  const srcName = pathPrefix.length > 1 ? join(pathPrefix, filename) : filename;
+  const srcName = pathPrefix.length > 1 ? join(`/${pathPrefix}`, filename) : filename;
+
+  console.log(`srcName: ${srcName}`)
 
   await setSrcset(webp, srcName, hash, 'webp', metadata.width, pathPrefix);
   webp.setAttribute('type', 'image/webp');
