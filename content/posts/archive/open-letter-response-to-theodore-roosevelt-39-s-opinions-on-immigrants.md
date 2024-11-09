@@ -9,7 +9,7 @@ date: 2007-12-27T06:18:00.000-08:00
 published: true
 url: /2007/12/open-letter-response-to-theodore.html
 
----.html
+
 ---
 
 

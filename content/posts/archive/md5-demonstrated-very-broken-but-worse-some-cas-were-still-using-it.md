@@ -9,7 +9,7 @@ date: 2008-12-30T16:15:00.000-08:00
 published: true
 url: /2008/12/md5-demonstrated-very-broken-but-worse.html
 
----.html
+
 ---
 
 

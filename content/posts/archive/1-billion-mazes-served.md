@@ -10,10 +10,7 @@ date: 2007-03-10T15:37:00.000-08:00
 published: true
 url: /2007/03/1-billion-mazes-served.html
 
----.html
 ---
-
-
 [Exactly One Billion Mazes to Solve](https://www.onebillionmazes.com/?t=919990)  
 
 > This site contains one billion mazes in high-quality printable PDF  

@@ -10,7 +10,7 @@ date: 2006-11-22T15:51:00.000-08:00
 published: true
 url: /2006/11/scans-from-1962-fallout-shelter-handbook.html
 
----.html
+
 ---
 
 

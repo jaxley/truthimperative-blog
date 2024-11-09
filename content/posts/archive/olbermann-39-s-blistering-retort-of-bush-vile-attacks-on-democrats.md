@@ -10,7 +10,7 @@ date: 2006-10-07T17:31:00.000-07:00
 published: true
 url: /2006/10/olbermann-blistering-retort-of-bush.html
 
----.html
+
 ---
 
 

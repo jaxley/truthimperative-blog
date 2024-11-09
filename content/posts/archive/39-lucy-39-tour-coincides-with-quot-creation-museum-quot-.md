@@ -9,7 +9,7 @@ date: 2006-10-30T11:01:00.000-08:00
 published: true
 url: /2006/10/tour-coincides-with-museum.html
 
----.html
+
 ---
 # 39-lucy-39-tour-coincides-with-quot-creation-museum-quot-
 

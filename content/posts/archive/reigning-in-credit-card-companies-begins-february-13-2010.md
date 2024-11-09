@@ -9,7 +9,7 @@ date: 2009-12-23T15:25:00.000-08:00
 published: true
 url: /2009/12/reigning-in-credit-card-companies.html
 
----.html
+
 ---
 
 

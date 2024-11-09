@@ -9,7 +9,7 @@ date: 2005-10-07T09:49:00.000-07:00
 published: true
 url: /2005/10/is-o-really-this-much-of-dumbass.html
 
----.html
+
 ---
 
 

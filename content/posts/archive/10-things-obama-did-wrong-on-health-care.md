@@ -9,7 +9,7 @@ date: 2009-08-08T16:46:00.000-07:00
 published: true
 url: /2009/08/10-things-obama-did-wrong-on-health-care.html
 
----.html
+
 ---
 
 

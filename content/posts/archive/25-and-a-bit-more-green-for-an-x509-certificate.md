@@ -10,7 +10,7 @@ date: 2005-08-19T12:36:00.000-07:00
 published: true
 url: /2005/08/25-and-bit-more-green-for-x509.html
 
----.html
+
 ---
 
 
