@@ -2,9 +2,11 @@
 title: Wrapped Web Apps on Mobile Need Extra Security Diligence
 date: 2014-07-29T07:56:00.001-07:00
 published: false
-url: 
+url:
 created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:21-07:00
+tags:
+  - post
 ---
 
 I've heard developers and others assume that if you have an HTML5 web application and decide to "wrap" it to create an installable binary application you can deploy to your mobile devices that you don't really have to worry about mobile security -- just secure it as a normal web application.  

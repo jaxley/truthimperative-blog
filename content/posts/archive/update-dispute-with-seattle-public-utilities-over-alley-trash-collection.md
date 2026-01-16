@@ -2,9 +2,11 @@
 title: "Update: Dispute with Seattle Public Utilities over alley trash collection"
 date: 2013-06-23T07:51:00.000-07:00
 published: false
-url: 
+url:
 created: 2024-10-06 21:06:25-07:00
 updated: 2024-10-10 10:49:21-07:00
+tags:
+  - post
 ---
 
 After importing, I did  not see a follow-up with the resolution got posted for [Dispute with Seattle Public Utilities over alley trash collection](https://truthimperative.axley.net/2010/05/dispute-with-seattle-public-utilities.html).  I swear I wrote one, but will write one for posterity.  
