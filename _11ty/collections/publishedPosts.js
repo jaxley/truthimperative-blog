@@ -1,5 +1,5 @@
 const moduleName = require('../helpers/moduleName');
-const { POST_COLLECTION_TAG_NAME } = require('../constants');
+const { POST_COLLECTION_TAG_NAME, IS_PRODUCTION } = require('../constants');
 
 module.exports = {
   name: moduleName(__filename),
@@ -7,5 +7,10 @@ module.exports = {
     collectionApi
       .getFilteredByTag(POST_COLLECTION_TAG_NAME)
       .reverse()
-      .filter((item) => item.data.published),
+      .filter((item) => {
+        if (IS_PRODUCTION) {
+          return item.data.published;
+        } 
+          return true; // show all when developing content
+      }),
 };
