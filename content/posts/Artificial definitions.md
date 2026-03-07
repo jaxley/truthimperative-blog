@@ -9,7 +9,7 @@ tags:
   - precision
   - Rants
 date: 2026-03-06 09:52:19-08:00
-published: false
+published: true
 url:
 hasAsides: false
 ---
