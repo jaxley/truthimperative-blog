@@ -14,74 +14,74 @@ linter-yaml-title-alias: Open-letter-response-to-chain-email-regarding-anti-musl
 ---
 
 
-An earlier response.  
-  
+An earlier response.
+
 
 * * *
 
-  
 
-Oh, brother.  There is nothing wrong with this country except that we  
-need a do-something congress and to way 468 days for a new president.  
-We live in a pluralistic society.  We do NOT live in a Christian  
-nation, although there are those in the American Taliban who would love  
-a theocracy as much as the Islamic extremists.  
-  
-There are millions of MUSLIMS who are also AMERICANS.  The two are not  
-mutually-exclusive.  
-  
-The atrocities described below were the result of EXTREMISM; the acts  
-are generally known to be incompatible with traditional ISLAM teachings  
-so they are not condoned by most MUSLIMS--only a radical extreme  
-group.  And let us not ignore how the below comes off as CHRISTIAN  
-EXTREMISM EQUALLY AS ABHORRENT AS MUSLIM EXTREMISM (death to the  
-infidels and all that.  The below reads as if it could have simply said  
-"death to the muslims").  
-  
-The swath below uses anecdotes to try to make it seem as if MUSLIMS are  
-somehow not worthy of any dignity or respect.  A similar list could be  
-written about CHRISTIANS, but that doesn't mean that we shouldn't have  
-Christmas stamps, does it?  For example:  
-  
-The Christian Crusades from 1095-1272 resulted in the deaths of 1  
-million people  
-  
-The Spanish inquisition from 16th-18th century resulted in the deaths  
-of 350,000 people.  Many were also tortured by some of the most hideous  
-methods ever devised and carried out by the clergy.  
-  
-The Witch Hunts from the 15th-17th century resulted in the deaths of  
-about 100,000 people  
-  
-The Irish Republican Army (IRA) bombed and killed many in the disputes  
-between Protestants and Catholics.  
-  
-Abortion clinics have been bombed and doctors shot dead by religious  
-extremists.  
-  
-...all in the name of religion.  And this email wants to keep the  
-Crusades going I guess.  
-  
-Or, maybe we can look inward before we "cast the first stone" at those  
-of other faiths and ethnicities  
-  
-Remember the AMERICAN bombing of Oklahoma City?  
-Remember the AMERICAN UNABOMBER attacks?  
-Remember the AMERICAN and CHRISTIAN Olympic Park Bombings?  
-Remember the AMERICAN KKK lynchings and other domestic terrorist  
-attacks?  
-  
-This kind of us vs. them mentality and religious intolerance,  
-xenophobia, hatred, and ignorance is exactly what drives the extremists  
-all religions.  I'll bet there's a version of this substituting  
-CHRISTIAN below circulating around Al-Qaeda training camps.  
-  
-I ask:  when can we all at least act like Christians and "love thy  
-neighbor"?   
-  
-\-Jason  
-  
-Neil wrote:  
+
+Oh, brother.  There is nothing wrong with this country except that we
+need a do-something congress and to way 468 days for a new president.
+We live in a pluralistic society.  We do NOT live in a Christian
+nation, although there are those in the American Taliban who would love
+a theocracy as much as the Islamic extremists.
+
+There are millions of MUSLIMS who are also AMERICANS.  The two are not
+mutually-exclusive.
+
+The atrocities described below were the result of EXTREMISM; the acts
+are generally known to be incompatible with traditional ISLAM teachings
+so they are not condoned by most MUSLIMS--only a radical extreme
+group.  And let us not ignore how the below comes off as CHRISTIAN
+EXTREMISM EQUALLY AS ABHORRENT AS MUSLIM EXTREMISM (death to the
+infidels and all that.  The below reads as if it could have simply said
+"death to the muslims").
+
+The swath below uses anecdotes to try to make it seem as if MUSLIMS are
+somehow not worthy of any dignity or respect.  A similar list could be
+written about CHRISTIANS, but that doesn't mean that we shouldn't have
+Christmas stamps, does it?  For example:
+
+The Christian Crusades from 1095-1272 resulted in the deaths of 1
+million people
+
+The Spanish inquisition from 16th-18th century resulted in the deaths
+of 350,000 people.  Many were also tortured by some of the most hideous
+methods ever devised and carried out by the clergy.
+
+The Witch Hunts from the 15th-17th century resulted in the deaths of
+about 100,000 people
+
+The Irish Republican Army (IRA) bombed and killed many in the disputes
+between Protestants and Catholics.
+
+Abortion clinics have been bombed and doctors shot dead by religious
+extremists.
+
+...all in the name of religion.  And this email wants to keep the
+Crusades going I guess.
+
+Or, maybe we can look inward before we "cast the first stone" at those
+of other faiths and ethnicities
+
+Remember the AMERICAN bombing of Oklahoma City?
+Remember the AMERICAN UNABOMBER attacks?
+Remember the AMERICAN and CHRISTIAN Olympic Park Bombings?
+Remember the AMERICAN KKK lynchings and other domestic terrorist
+attacks?
+
+This kind of us vs. them mentality and religious intolerance,
+xenophobia, hatred, and ignorance is exactly what drives the extremists
+all religions.  I'll bet there's a version of this substituting
+CHRISTIAN below circulating around Al-Qaeda training camps.
+
+I ask:  when can we all at least act like Christians and "love thy
+neighbor"? 
+
+\-Jason
+
+Neil wrote:
 
 ```
 >   

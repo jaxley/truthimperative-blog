@@ -12,8 +12,8 @@ url: /2006/03/3d-panoramas-from-around-world.html
 ---
 
 
-[Arounder - Travel and Lifestyle in 360-degree Quicktime VR - Virtual Reality Full Screen panoramas: lugano, milan, milano, barcelona, monte carlo, roma, rome, zermatt, parma, koeln, cologne, zyprus, firenze, florence, pisa:](https://www.arounder.com "Arounder - Travel and Lifestyle in 360-degree Quicktime VR - Virtual Reality Full Screen panoramas: lugano, milan, milano, barcelona, monte carlo, roma, rome, zermatt, parma, koeln, cologne, zyprus, firenze, florence, pisa:")  
-  
-Wow. Tour cities before you go there. Might come in handy for planning the upcoming honeymoon...  
-  
+[Arounder - Travel and Lifestyle in 360-degree Quicktime VR - Virtual Reality Full Screen panoramas: lugano, milan, milano, barcelona, monte carlo, roma, rome, zermatt, parma, koeln, cologne, zyprus, firenze, florence, pisa:](https://www.arounder.com "Arounder - Travel and Lifestyle in 360-degree Quicktime VR - Virtual Reality Full Screen panoramas: lugano, milan, milano, barcelona, monte carlo, roma, rome, zermatt, parma, koeln, cologne, zyprus, firenze, florence, pisa:")
+
+Wow. Tour cities before you go there. Might come in handy for planning the upcoming honeymoon...
+
 I want to be able to make these with my digicam!

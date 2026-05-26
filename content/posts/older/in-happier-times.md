@@ -17,6 +17,6 @@ linter-yaml-title-alias: In-happier-times
 ---
 
 
-This is hilarious. It must be making its rounds on the Internet today. Thought it would bring a bit of levity to the current world situation.  
-  
+This is hilarious. It must be making its rounds on the Internet today. Thought it would bring a bit of levity to the current world situation.
+
 [![](in_happier_times-thumb.jpg)<details></details>

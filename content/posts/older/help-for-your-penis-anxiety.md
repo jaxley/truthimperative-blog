@@ -15,12 +15,12 @@ linter-yaml-title-alias: Help-for-your-penis-anxiety
 ---
 
 
-[Entrez PubMed: Treatment of men complaining of short penis.](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15922413&query_hl=1 "Entrez PubMed:  Treatment of men complaining of short penis.")  
-  
+[Entrez PubMed: Treatment of men complaining of short penis.](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15922413&query_hl=1 "Entrez PubMed:  Treatment of men complaining of short penis.")
 
->   
-> Men complaining of short penis could be treated using basic principles of sex education with objective methods of penile size evaluation. This combination can correct any previous sexual misconceptions...  
 
-  
-  
+>
+> Men complaining of short penis could be treated using basic principles of sex education with objective methods of penile size evaluation. This combination can correct any previous sexual misconceptions...
+
+
+
 I say they save their money and just call [Loveline](https://www.kroq.com/loveline/) for some ridicule-therapy.

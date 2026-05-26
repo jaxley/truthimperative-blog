@@ -15,8 +15,8 @@ linter-yaml-title-alias: Fake-journalism-trumps-quot-real-quot-journalists-again
 ---
 
 
-[Boing Boing: Colbert White House video on DVD at CSPAN](https://www.boingboing.net/2006/05/06/colbert_white_house_.html "Boing Boing: Colbert White House video on DVD at CSPAN")  
-  
-This was the most scathing satirical commentary on the lapdog media and the president himself -- and right in front of both subjects!  
-  
+[Boing Boing: Colbert White House video on DVD at CSPAN](https://www.boingboing.net/2006/05/06/colbert_white_house_.html "Boing Boing: Colbert White House video on DVD at CSPAN")
+
+This was the most scathing satirical commentary on the lapdog media and the president himself -- and right in front of both subjects!
+
 If you have not seen this, it is worth it. It's about an hour into the correspondent's dinner. I downloaded the whole show via bittorrent. I would be willing to reseed the 300+ meg show, or follow the links and you can get the segment with just Colbert's piece from many sources.

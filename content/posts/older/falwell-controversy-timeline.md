@@ -14,8 +14,8 @@ linter-yaml-title-alias: Falwell-controversy-timeline
 ---
 
 
-Ahh.  Wonder who will take his place to continue the divisive self-righteous condemnations?  What will we all do...  
-  
-There is a short timeline of many of the controversial public incidents with Falwell at The Carpetbagger Report.  
-  
+Ahh.  Wonder who will take his place to continue the divisive self-righteous condemnations?  What will we all do...
+
+There is a short timeline of many of the controversial public incidents with Falwell at The Carpetbagger Report.
+
 [The Carpetbagger Report » Blog Archive » Jerry Falwell dies at age 73](https://www.thecarpetbaggerreport.com/archives/10806.html)

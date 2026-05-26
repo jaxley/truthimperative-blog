@@ -15,8 +15,8 @@ linter-yaml-title-alias: More-php-web-application-security-tips
 ---
 
 
-[Hacks From Pax: PHP Web Application Security - The Community's Center for Security](https://www.linuxsecurity.com/content/view/120043/ "Hacks From Pax: PHP Web Application Security - The Community's Center for Security")  
-  
+[Hacks From Pax: PHP Web Application Security - The Community's Center for Security](https://www.linuxsecurity.com/content/view/120043/ "Hacks From Pax: PHP Web Application Security - The Community's Center for Security")
 
->   
+
+>
 > Today on Hacks From Pax we'll be discussing PHP web application security. PHP is a great language for rapidly developing web applications, and is very friendly to beginning programmers, but some of its design can make it difficult to write web apps that are properly secure. We'll discuss some of the main security "gotchas" when developing PHP web applications, from proper user input sanitization to avoiding SQL injection vulnerabilities.

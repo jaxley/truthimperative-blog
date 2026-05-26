@@ -14,7 +14,7 @@ linter-yaml-title-alias: Palm-sized-linux-computers
 ---
 
 
-Very cool, and reasonably-priced, tiny linux computers.  Even with bluetooth!  
-  
-  
+Very cool, and reasonably-priced, tiny linux computers.  Even with bluetooth!
+
+
 [gumstix - dream, design, deliver](https://gumstix.com/waysmalls.html)

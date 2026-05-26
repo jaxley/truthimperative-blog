@@ -14,6 +14,6 @@ linter-yaml-title-alias: Global-warming-deniers-rebuttal
 ---
 
 
-This is an excellent post to the SGU forum you can hand to any global warming denier.  
-  
+This is an excellent post to the SGU forum you can hand to any global warming denier.
+
 [The Skeptics' Guide to the Universe Forum :: View topic - Global Warming &amp; CO2 cause or effect?](https://skepchick.org/skepticsguide/viewtopic.php?p=44305#44305)

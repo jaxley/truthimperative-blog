@@ -14,6 +14,6 @@ linter-yaml-title-alias: Dangers-of-publishing-too-much-information-about-you-on
 ---
 
 
-I am often surprised at how much information bloggers put about their daily activities online. I myself prefer to publish information about what I've done \_after\_ I get back to avoid blabbing to the world when I will be gone. And, I don't have my calendar publically-available either. Do you? How much do you leak out about yourself online?  
-  
+I am often surprised at how much information bloggers put about their daily activities online. I myself prefer to publish information about what I've done \_after\_ I get back to avoid blabbing to the world when I will be gone. And, I don't have my calendar publically-available either. Do you? How much do you leak out about yourself online?
+
 [Death by Google Calendar: How I Identified you to rob you](https://www.dumblittleman.com/2006/09/how-to-get-robbed-killed-or-stalked-by.html)

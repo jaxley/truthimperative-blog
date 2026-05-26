@@ -14,10 +14,10 @@ linter-yaml-title-alias: Gop-rebirth-focus-on-new-fundamentals-instead-of-fundam
 ---
 
 
-We can only hope.  You can't keep campaigning on social issues but falling down when in office on the other issues that should be more important (the economy, the war, veterans benefits, etc.)  
-  
-[Think Progress » Ensign: GOP shouldn’t focus on abortion or gay rights.](https://thinkprogress.org/2008/11/05/ensign-gay-rights-abortion/)  
+We can only hope.  You can't keep campaigning on social issues but falling down when in office on the other issues that should be more important (the economy, the war, veterans benefits, etc.)
 
-> Although Ensign was not ready to call for a break from socially conservative ideologies, he said issues such as abortion or gay rights should not be at the core of the party.  
->   
+[Think Progress » Ensign: GOP shouldn’t focus on abortion or gay rights.](https://thinkprogress.org/2008/11/05/ensign-gay-rights-abortion/)
+
+> Although Ensign was not ready to call for a break from socially conservative ideologies, he said issues such as abortion or gay rights should not be at the core of the party.
+>
 > “I think we lost our way on our fundamentals” in recent years, Ensign said, adding that “those are the issue that we can disagree on as a party.”

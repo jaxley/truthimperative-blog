@@ -16,12 +16,12 @@ linter-yaml-title-alias: Favorite-words-that-probably-arent-words
 ---
 
 
-[Sheeple](https://www.google.com/url?sa=t&ct=res&cd=10&url=http%3A//en.wikipedia.org/wiki/Sheeple&ei=2MEGQ8iaCYa2Yby83I4K)  
-  
-[Irritainment](https://archives.tcm.ie/businesspost/2005/02/20/story2488.asp)  
-  
-[Adminisphere](https://www.unwords.com/unword/adminisphere.html)  
-  
-To go along with other [new entries](https://news.bbc.co.uk/1/hi/uk/4136108.stm) in the Oxford English Dictionary  
-  
+[Sheeple](https://www.google.com/url?sa=t&ct=res&cd=10&url=http%3A//en.wikipedia.org/wiki/Sheeple&ei=2MEGQ8iaCYa2Yby83I4K)
+
+[Irritainment](https://archives.tcm.ie/businesspost/2005/02/20/story2488.asp)
+
+[Adminisphere](https://www.unwords.com/unword/adminisphere.html)
+
+To go along with other [new entries](https://news.bbc.co.uk/1/hi/uk/4136108.stm) in the Oxford English Dictionary
+
 You can have lots of fun at [Unwords](https://www.unwords.com/)

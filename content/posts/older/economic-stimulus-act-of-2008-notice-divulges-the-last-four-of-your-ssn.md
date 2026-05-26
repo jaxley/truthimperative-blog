@@ -11,6 +11,6 @@ url: /2008/05/economic-stimulus-act-of-2008-notice.html
 ---
 
 
-I just got my second notice about my pending economic stimulus act rebate and saw to my dismay that it divulges the last 4 of my SSN. They mask out all the least-secret parts but leave the last 4 digits. Lame! Look for this format on the right-hand-side of the letter inside the very conspicuous envelope: XXX-XX-1234  
-  
+I just got my second notice about my pending economic stimulus act rebate and saw to my dismay that it divulges the last 4 of my SSN. They mask out all the least-secret parts but leave the last 4 digits. Lame! Look for this format on the right-hand-side of the letter inside the very conspicuous envelope: XXX-XX-1234
+
 So, be sure to shred these notices!

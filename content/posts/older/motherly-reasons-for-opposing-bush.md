@@ -17,6 +17,6 @@ linter-yaml-title-alias: Motherly-reasons-for-opposing-bush
 ---
 
 
-Yes, it makes me want to swear too.  
-  
+Yes, it makes me want to swear too.
+
 ["Seriously" 30-second ad](https://www.n3t.net/humor/Seriously.mpg)

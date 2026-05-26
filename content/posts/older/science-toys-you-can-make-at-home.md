@@ -17,14 +17,14 @@ linter-yaml-title-alias: Science-toys-you-can-make-at-home
 ---
 
 
-[Science Toys](https://www.scitoys.com/ "Science Toys")  
-  
+[Science Toys](https://www.scitoys.com/ "Science Toys")
 
->   
-> Make toys at home with common household materials, often in only a few minutes, that demonstrate fascinating scientific principles.  
 
-  
-  
-Hours and hours of fun just \_reading\_ about what you can build.  
-  
+>
+> Make toys at home with common household materials, often in only a few minutes, that demonstrate fascinating scientific principles.
+
+
+
+Hours and hours of fun just \_reading\_ about what you can build.
+
 I've built a couple of the things on the site before. Will have to dig up some of my electronics stuff from the basement!

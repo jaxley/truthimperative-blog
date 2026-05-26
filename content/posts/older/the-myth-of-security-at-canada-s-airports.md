@@ -12,24 +12,24 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-Senate Committee on National Security and Defense in Canada recently released a report on the new airport security measures.  
-  
-Entitled, "The Myth of Security at Canada�s Airports"  
-  
+Senate Committee on National Security and Defense in Canada recently released a report on the new airport security measures.
 
->   
-> "...measures have reassured many travellers that security has been tightened at Canadian airports since the tragic events of September 11, 2001. The problem is that there has been little or no improvement to huge security gaps that persist behind the scenes in the Canadian travel industry. "  
+Entitled, "The Myth of Security at Canada�s Airports"
 
-  
-  
-There is also a full-disclosure debate arising over whistle-blowers who may point out that money or effort is being misdirected:  
-  
 
->   
-> "Our basic premise: You can be sure that ships really will sink if they have a lot holes in them. And those holes aren�t likely to get patched unless the public applies pressure to get the job done. They certainly aren�t patched yet. "  
+>
+> "...measures have reassured many travellers that security has been tightened at Canadian airports since the tragic events of September 11, 2001. The problem is that there has been little or no improvement to huge security gaps that persist behind the scenes in the Canadian travel industry. "
 
-  
-  
-Security measures should be able to withstand scrutiny.  
-  
+
+
+There is also a full-disclosure debate arising over whistle-blowers who may point out that money or effort is being misdirected:
+
+
+>
+> "Our basic premise: You can be sure that ships really will sink if they have a lot holes in them. And those holes aren�t likely to get patched unless the public applies pressure to get the job done. They certainly aren�t patched yet. "
+
+
+
+Security measures should be able to withstand scrutiny.
+
 [Fifth Report: The Myth of Security at Canada�s Airports](https://www.parl.gc.ca/37/2/parlbus/commbus/senate/com-e/defe-e/rep-e/rep05jan03-e.htm "Fifth Report:  The Myth of Security at Canada�s Airports")

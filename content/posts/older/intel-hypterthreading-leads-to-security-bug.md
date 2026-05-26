@@ -17,8 +17,8 @@ linter-yaml-title-alias: Intel-hypterthreading-leads-to-security-bug
 ---
 
 
-[Hyper-Threading considered harmful](https://www.daemonology.net/hyperthreading-considered-harmful/ "Hyper-Threading considered harmful")  
-  
-This is an interesting case where a hardware flaw can be used to subvert software security.  
-  
+[Hyper-Threading considered harmful](https://www.daemonology.net/hyperthreading-considered-harmful/ "Hyper-Threading considered harmful")
+
+This is an interesting case where a hardware flaw can be used to subvert software security.
+
 I find it fun to ask vendors who create their own OS and processors for appliances how they ensure things such as memory page protection. I get a lot of blank stares. They often focus entirely on the macro-level security in their software and have spent little to no time addressing the basic hardware and OS-level security issues that are taken for granted by software authors.

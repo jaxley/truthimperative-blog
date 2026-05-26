@@ -14,11 +14,11 @@ linter-yaml-title-alias: Nutritiondata-know-what-you-eat
 ---
 
 
-Excellent way to get data on just about anything and good graphs to visualize the balance of nutrients to fat.  
-  
-[Nutrition Facts and Analysis for Seeds, flaxseed](https://www.nutritiondata.com/facts/nut-and-seed-products/3163/2)  
+Excellent way to get data on just about anything and good graphs to visualize the balance of nutrients to fat.
 
-  
-  
+[Nutrition Facts and Analysis for Seeds, flaxseed](https://www.nutritiondata.com/facts/nut-and-seed-products/3163/2)
+
+
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=ee8a3037-46c9-898f-8130-35cc6b071f43) -->

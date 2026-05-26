@@ -16,12 +16,12 @@ linter-yaml-title-alias: Diebold-a-danger-to-america
 ---
 
 
-[The Open Voting Foundation](https://openvotingfoundation.org/ "The Open Voting Foundation")  
-  
+[The Open Voting Foundation](https://openvotingfoundation.org/ "The Open Voting Foundation")
 
->   
-> “This may be the worst security flaw we have seen in touch screen voting machines,” says Open Voting Foundation president, Alan Dechert. Upon examining the inner workings of one of the most popular paperless touch screen voting machines used in public elections in the United States, it has been determined that with the flip of a single switch inside, the machine can behave in a completely different manner compared to the tested and certified version.  
 
-  
-  
+>
+> “This may be the worst security flaw we have seen in touch screen voting machines,” says Open Voting Foundation president, Alan Dechert. Upon examining the inner workings of one of the most popular paperless touch screen voting machines used in public elections in the United States, it has been determined that with the flip of a single switch inside, the machine can behave in a completely different manner compared to the tested and certified version.
+
+
+
 Makes you wonder how secure those ATMs made by Diebold are ([USBank](https://www.usbank.com) uses them I know).

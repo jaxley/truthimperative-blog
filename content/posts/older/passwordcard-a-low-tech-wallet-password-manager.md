@@ -14,8 +14,8 @@ linter-yaml-title-alias: Passwordcard-a-low-tech-wallet-password-manager
 ---
 
 
-Visit this site and it will automatically generate a card with symbols for columns and colors for rows with randomly-generated digits on it.  You can then use this card to generate very strong passwords that you don't have to remember.  And no bad guy can guess them and even if they get a copy of your card, they won't know which subset of the random characters are your password so it provides protection against a physical attack on your wallet.  
-  
-It's an alternative to writing your passwords down directly and keeping them in your wallet (which is actually not a bad thing since it allows you to have varying passwords with better quality).  
-  
+Visit this site and it will automatically generate a card with symbols for columns and colors for rows with randomly-generated digits on it.  You can then use this card to generate very strong passwords that you don't have to remember.  And no bad guy can guess them and even if they get a copy of your card, they won't know which subset of the random characters are your password so it provides protection against a physical attack on your wallet.
+
+It's an alternative to writing your passwords down directly and keeping them in your wallet (which is actually not a bad thing since it allows you to have varying passwords with better quality).
+
 [Your PasswordCard](https://passwordcard.org/)

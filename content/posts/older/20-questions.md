@@ -14,10 +14,10 @@ url: /2005/09/20-questions.html
 ---
 
 
-[20 questions: AI style](https://www.20q.net/)  
-  
-This is pretty freaky that a computer can guess what you are thinking...  
-  
+[20 questions: AI style](https://www.20q.net/)
 
->   
+This is pretty freaky that a computer can guess what you are thinking...
+
+
+>
 > 20Q.net is an experiment in artificial intelligence. The program is very simple but its behavior is complex. Everything that it knows and all questions that it asks were entered by people playing this game. 20Q.net is a learning system; the more it is played, the smarter it gets.

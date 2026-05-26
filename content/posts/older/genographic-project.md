@@ -15,9 +15,9 @@ linter-yaml-title-alias: Genographic-project
 ---
 
 
-https://www3.nationalgeographic.com/genographic/index.html  
-  
-and to participate go here -- they send you a DNA swab kit that you  
-mail back to them.  
-  
+https://www3.nationalgeographic.com/genographic/index.html
+
+and to participate go here -- they send you a DNA swab kit that you
+mail back to them.
+
 https://www3.nationalgeographic.com/genographic/participate.html

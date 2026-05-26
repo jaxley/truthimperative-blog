@@ -7,9 +7,9 @@ created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 10:49:42-07:00
 ---
 
-Just suffered through some lame apache module syntax changes on Ubuntu after upgrading to 7.0.4.  This is why I don't skip major versions...  
-  
-Here is my functioning template on Ubuntu 7.04 Feisty:  
+Just suffered through some lame apache module syntax changes on Ubuntu after upgrading to 7.0.4.  This is why I don't skip major versions...
+
+Here is my functioning template on Ubuntu 7.04 Feisty:
 ```
   
 AuthBasicProvider ldap  

@@ -16,8 +16,8 @@ linter-yaml-title-alias: Dhs-hires-more-people-with-head-in-clouds
 ---
 
 
-This is rich.  Just what the DHS needs, more people not grounded in reality.  
-  
-[Schneier on Security: DHS Uses Actual Science-Fiction Writers to Help Develop Movie-Plot Threats](https://www.schneier.com/blog/archives/2007/06/dhs_uses_actual.html)  
-  
+This is rich.  Just what the DHS needs, more people not grounded in reality.
+
+[Schneier on Security: DHS Uses Actual Science-Fiction Writers to Help Develop Movie-Plot Threats](https://www.schneier.com/blog/archives/2007/06/dhs_uses_actual.html)
+
 Which is all the more rich since [DHS is not focused on terrorism](https://www.schneier.com/blog/archives/2007/05/department_of_h.html).  More and more I'm with Ron Paul when he said that the DHS should be abolished.

@@ -17,8 +17,8 @@ linter-yaml-title-alias: Google-removes-quot-illegal-quot-site-from-its-index-on
 ---
 
 
-Seth Finkelstein has details on a troubling case about someone in Chester county in the UK complaining to google about a site run by someone calling themselves "Chester the Molester" as an illegal paedophile site that they found by searching for "Chester Guide" on google. The site, in fact, was not illegal at all but a list of "sick humor" that included a link to a humor article entitled, "Chester's guide to: picking up little girls".  
-  
-So, all it takes is for someone to make a complaint, for google to not really research it, and you can get someone's site removed from google's cache.  
-  
+Seth Finkelstein has details on a troubling case about someone in Chester county in the UK complaining to google about a site run by someone calling themselves "Chester the Molester" as an illegal paedophile site that they found by searching for "Chester Guide" on google. The site, in fact, was not illegal at all but a list of "sick humor" that included a link to a humor article entitled, "Chester's guide to: picking up little girls".
+
+So, all it takes is for someone to make a complaint, for google to not really research it, and you can get someone's site removed from google's cache.
+
 [\[IP\] Google removal - Chester's Guide to Molesting Google](https://www.interesting-people.org/archives/interesting-people/200302/msg00211.html "[IP] Google removal - Chester's Guide to Molesting Google")

@@ -18,14 +18,14 @@ linter-yaml-title-alias: Congress-may-curtail-some-patriot-act-powers
 ---
 
 
-[Congress May Curb Some Patriot Act Powers - Yahoo! News](https://news.yahoo.com/s/ap/20051109/ap_on_go_co/patriot_act "Congress May Curb Some Patriot Act Powers - Yahoo! News")  
-  
-Now that congress has apparently taken the time to read the PATRIOT Act, they are more likely to do the right thing before voting for it a second time:  
-  
+[Congress May Curb Some Patriot Act Powers - Yahoo! News](https://news.yahoo.com/s/ap/20051109/ap_on_go_co/patriot_act "Congress May Curb Some Patriot Act Powers - Yahoo! News")
 
->   
-> WASHINGTON - Congress is moving to curb some of the police powers it gave the Bush administration after the Sept. 11 terrorist attacks, including imposing new restrictions on the  
-> FBI's access to private phone and financial records.  
-> ADVERTISEMENT  
->   
+Now that congress has apparently taken the time to read the PATRIOT Act, they are more likely to do the right thing before voting for it a second time:
+
+
+>
+> WASHINGTON - Congress is moving to curb some of the police powers it gave the Bush administration after the Sept. 11 terrorist attacks, including imposing new restrictions on the
+> FBI's access to private phone and financial records.
+> ADVERTISEMENT
+>
 > A budding House-Senate deal on the expiring USA Patriot Act includes new limits on federal law enforcement powers and rejects the Bush administration's request to grant the FBI authority to get administrative subpoenas for wiretaps and other covert devices without a judge's approval.

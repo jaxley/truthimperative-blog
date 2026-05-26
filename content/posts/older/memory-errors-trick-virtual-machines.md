@@ -15,8 +15,8 @@ linter-yaml-title-alias: Memory-errors-trick-virtual-machines
 ---
 
 
-Interesting paper on how to use memory errors to attack a virtual  
-computer. The attack exploits the fact that a "time of compilation"  
-check is not necessarily valid at "time of use."  
-  
+Interesting paper on how to use memory errors to attack a virtual
+computer. The attack exploits the fact that a "time of compilation"
+check is not necessarily valid at "time of use."
+
 This happens to be the theory behind the Java ByteCode verifier. I just heard Whit Diffie talk yesterday at SecureWorld Expo about how the run-time check of the bytecode is intended to validate that proper array bounds checking is going to be done, for example.

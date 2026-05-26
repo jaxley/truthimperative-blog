@@ -17,38 +17,38 @@ linter-yaml-title-alias: Debunking-biometric-assumptions
 ---
 
 
-[Chris Hill's biometrics thesis:](https://chris.fornax.net/biometrics.html)  
-  
-This is a very interesting development. It challenges a key assumption that people have made about biometrics:  
-  
+[Chris Hill's biometrics thesis:](https://chris.fornax.net/biometrics.html)
 
-> "that stored biometrics pose no threat to their owner (if they are stolen by another party), because it is not possible to recreate the original biometric from the stored data."  
+This is a very interesting development. It challenges a key assumption that people have made about biometrics:
 
-  
-  
-So, attackers can potentially bypass biometric systems in a couple of ways if they can compromise digital representations of biometric data (from storage or by sniffing, e.g. USB sniffer or keyboard sniffer): They can recreate new physical biometrics that will have properties indistinguishable from the original.  
-  
 
->   
-> "I demonstrated that it is possible to recreate a biometric artefact that is equivalent to the original biometric provided to the system. This means that while a third party will not be able to generate the original biometric, they will be able to generate something that is indistinguishable from it, as far as the biometric software is concerned."  
+> "that stored biometrics pose no threat to their owner (if they are stolen by another party), because it is not possible to recreate the original biometric from the stored data."
 
-  
-  
-Adam Shostack also had some additional comments on this today, pointing out the privacy implications of such a breach:  
-  
 
->   
-> The answer is you can reconstruct fingerprints from common systems.  
->   
-> Daniel David Walker referred me to some work by Andy Adler, who pointed  
-> out Ross, Shah and Jain, "Towards Reconstructing Fingerprints from  
-> Minutiae Points."\[1\]  
->   
-> \[1\] [https://www.csee.wvu.edu/~ross/pubs/RossReconstruct\_SPIE05.pdf](https://www.csee.wvu.edu/~ross/pubs/RossReconstruct_SPIE05.pdf)  
->   
-> Some additional tidbits are on my blog at  
-> [https://www.emergentchaos.com/archives/001443.html](https://www.emergentchaos.com/archives/001443.html)  
 
-  
-  
+So, attackers can potentially bypass biometric systems in a couple of ways if they can compromise digital representations of biometric data (from storage or by sniffing, e.g. USB sniffer or keyboard sniffer): They can recreate new physical biometrics that will have properties indistinguishable from the original.
+
+
+>
+> "I demonstrated that it is possible to recreate a biometric artefact that is equivalent to the original biometric provided to the system. This means that while a third party will not be able to generate the original biometric, they will be able to generate something that is indistinguishable from it, as far as the biometric software is concerned."
+
+
+
+Adam Shostack also had some additional comments on this today, pointing out the privacy implications of such a breach:
+
+
+>
+> The answer is you can reconstruct fingerprints from common systems.
+>
+> Daniel David Walker referred me to some work by Andy Adler, who pointed
+> out Ross, Shah and Jain, "Towards Reconstructing Fingerprints from
+> Minutiae Points."\[1\]
+>
+> \[1\] [https://www.csee.wvu.edu/~ross/pubs/RossReconstruct\_SPIE05.pdf](https://www.csee.wvu.edu/~ross/pubs/RossReconstruct_SPIE05.pdf)
+>
+> Some additional tidbits are on my blog at
+> [https://www.emergentchaos.com/archives/001443.html](https://www.emergentchaos.com/archives/001443.html)
+
+
+
 Imagine lost biometric passports allowing the creation of counterfeit passports with "real" biometric data on them. And further imagine trying to prove that it wasn't you who bombed that plane in Lebanon. "But we logged you going through security...and biometrics are \_unique\_ and \_unforgeable\_". \*Shiver\*

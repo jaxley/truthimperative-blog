@@ -14,6 +14,6 @@ linter-yaml-title-alias: Excellent-infographic-on-health-care-reform-implementat
 ---
 
 
-If only the government or the media reporting on this could be this clear...  
-  
+If only the government or the media reporting on this could be this clear...
+
 [Health Care Reform Infographic – Changes Coming!](https://manvsdebt.com/health-care-reform-changes-coming/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ManVsDebt+%28Man+Vs.+Debt%29&utm_content=Google+Reader)

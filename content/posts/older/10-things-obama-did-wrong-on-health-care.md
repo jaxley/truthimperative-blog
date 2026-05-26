@@ -13,11 +13,11 @@ url: /2009/08/10-things-obama-did-wrong-on-health-care.html
 ---
 
 
-Pretty much sums up my impressions, although I've been out of the loop while on vacation.  
-  
-[Ten Things Obama Did Wrong on Health-Care Reform | Crooks and Liars](https://crooksandliars.com/susie-madrak/ten-things-obama-did-wrong-healthcare)  
+Pretty much sums up my impressions, although I've been out of the loop while on vacation.
 
-  
-  
+[Ten Things Obama Did Wrong on Health-Care Reform | Crooks and Liars](https://crooksandliars.com/susie-madrak/ten-things-obama-did-wrong-healthcare)
+
+
+
 
 <!-- <!-- ![](https://img.zemanta.com/pixy.gif?x-id=9b0d63c3-5129-858d-9635-54c0cb52a474) --> -->

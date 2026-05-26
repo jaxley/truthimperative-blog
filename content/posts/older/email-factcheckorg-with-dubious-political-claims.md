@@ -14,9 +14,9 @@ linter-yaml-title-alias: Email-factcheckorg-with-dubious-political-claims
 ---
 
 
-Very timely after my Obama open letter...  
+Very timely after my Obama open letter...
 
->   
+>
 > ```
 >  Dear Subscriber:
 > 

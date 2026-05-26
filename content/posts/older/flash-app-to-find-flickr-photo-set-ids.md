@@ -14,11 +14,11 @@ linter-yaml-title-alias: Flash-app-to-find-flickr-photo-set-ids
 ---
 
 
-Very cool and handy.  I use it for drupal's Flickr plugin.  
-  
-[idFindr - Find your Flickr userids, groupids, photosetids](https://www.mentalaxis.com/idfindr/)  
+Very cool and handy.  I use it for drupal's Flickr plugin.
 
-  
-  
+[idFindr - Find your Flickr userids, groupids, photosetids](https://www.mentalaxis.com/idfindr/)
+
+
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=6a92f7d1-a801-8782-ac7c-5a4d93cbce31) -->

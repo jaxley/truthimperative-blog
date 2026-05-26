@@ -17,10 +17,10 @@ linter-yaml-title-alias: Another-ill-conceived-set-of-tax-refunds
 ---
 
 
-1\. Companies fraudulently overstate earnings  
-2\. Companies pay tax on those fake earnings  
-3\. Companies get caught, restate earnings  
-4\. Companies want refunds of taxes paid on those earnings  
-5\. Unbelievably, they get the refunds!  
-  
+1\. Companies fraudulently overstate earnings
+2\. Companies pay tax on those fake earnings
+3\. Companies get caught, restate earnings
+4\. Companies want refunds of taxes paid on those earnings
+5\. Unbelievably, they get the refunds!
+
 [Firms Want Refunds Of Tax on Fake Profit (TechNews.com)](https://www.washingtonpost.com/wp-dyn/articles/A7656-2003May2.html "Firms Want Refunds Of Tax on Fake Profit (TechNews.com)")

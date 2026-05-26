@@ -27,12 +27,12 @@ draft: true
 - What is an authorization model?
 	- Layperson's understanding of common models - mostly Discretionary Access Control
 		- OAuth / OIDC
-		- Access Control List 
+		- Access Control List
 		- RBAC
 		- ABAC
 		- TBAC
 	- Mandatory Access Control
-		- 
+		-
 - AuthN vs. AuthZ and why this matters
 	- Why identity matters - OIDC vs. OAuth?
 - Common Problems

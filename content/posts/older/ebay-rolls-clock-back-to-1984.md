@@ -17,9 +17,9 @@ linter-yaml-title-alias: Ebay-rolls-clock-back-to-1984
 ---
 
 
-"Big Brother is watching you - and documenting  
-eBay, ever anxious to up profits, bends over backward to provide data to law enforcement officials"  
-  
-Buyer (and seller) beware...  
-  
+"Big Brother is watching you - and documenting
+eBay, ever anxious to up profits, bends over backward to provide data to law enforcement officials"
+
+Buyer (and seller) beware...
+
 [Ha'aretz - Article](https://www.haaretzdaily.com/hasen/pages/ShArt.jhtml?itemNo=264863&contrassID=2&subContrassID=5&sbSubContrassID=0&listSrc=Y "Ha'aretz - Article")

@@ -16,19 +16,19 @@ linter-yaml-title-alias: Another-bush-administration-inconsistency-dubai-but-no-
 ---
 
 
-Well, at least they're committed to national security consistent conservative... I give up.  
-  
+Well, at least they're committed to national security consistent conservative... I give up.
 
->   
-> "The same Bush administration review panel that approved a ports deal  
-> involving the United Arab Emirates has notified a leading Israeli  
-> software company that it faces a rare, full-blown investigation over its  
-> plans to buy a smaller rival.  
->   
-> The objections by the FBI and Pentagon were partly over specialized  
-> intrusion detection software known as "Snort," which guards some  
-> classified U.S. military and intelligence computers."  
 
-  
-  
+>
+> "The same Bush administration review panel that approved a ports deal
+> involving the United Arab Emirates has notified a leading Israeli
+> software company that it faces a rare, full-blown investigation over its
+> plans to buy a smaller rival.
+>
+> The objections by the FBI and Pentagon were partly over specialized
+> intrusion detection software known as "Snort," which guards some
+> classified U.S. military and intelligence computers."
+
+
+
 [https://redmondmag.com/news/article.asp?editorialsid=7219](https://redmondmag.com/news/article.asp?editorialsid=7219)

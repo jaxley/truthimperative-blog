@@ -17,10 +17,10 @@ linter-yaml-title-alias: Doj-staffers-trumped-by-political-arm
 ---
 
 
-[Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks](https://www.dailykos.com/storyonly/2005/12/2/02015/1177 "Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks")  
-  
-More ugliness from the repugnicans made public.  
-  
+[Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks](https://www.dailykos.com/storyonly/2005/12/2/02015/1177 "Daily Kos: Justice Determined DeLay Redistricting Illegal, Overruled By Political Hacks")
 
->   
+More ugliness from the repugnicans made public.
+
+
+>
 > Justice Department lawyers concluded that the landmark Texas congressional redistricting plan spearheaded by Rep. Tom DeLay (R) violated the Voting Rights Act, according to a previously undisclosed memo obtained by The Washington Post. But senior officials overruled them and approved the plan.

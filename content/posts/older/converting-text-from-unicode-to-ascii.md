@@ -15,16 +15,16 @@ linter-yaml-title-alias: Converting-text-from-unicode-to-ascii
 ---
 
 
-Just had to convert some text files from Unicode to ASCII and used Vim to do it:  
-  
-Open each file and notice that vim says \[converted\] at the bottom, indicating that it has transparently opened the unicode file to let you edit that file.  
-  
-On each file, change the file encoding setting to latin1 (basic ASCII):  
-  
-  
-  
-Then save the file and it will be converted:  
-  
-  
-  
+Just had to convert some text files from Unicode to ASCII and used Vim to do it:
+
+Open each file and notice that vim says \[converted\] at the bottom, indicating that it has transparently opened the unicode file to let you edit that file.
+
+On each file, change the file encoding setting to latin1 (basic ASCII):
+
+
+
+Then save the file and it will be converted:
+
+
+
 FYI, The vim docs note that changing the "encoding" setting does not affect existing text so that won't work.

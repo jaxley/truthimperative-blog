@@ -13,8 +13,8 @@ url: /2010/06/at-leaks-email-addresses-of-114000-ipad.html
 ---
 
 
-I think it is disingenuous of this article to have "Apple" in the title.  It was an AT&T server with a stupid application that used AJAX calls to obtain email addresses by ICC ID.  And since the ICC IDs are apparently sequential, the group was able to iterate through thousands of them to obtain the information.  
-  
-Then AT&T decides to claim as well that the researchers who discovered the flaw did not contact them.  It sounds like AT&T is lying.  
-  
+I think it is disingenuous of this article to have "Apple" in the title.  It was an AT&T server with a stupid application that used AJAX calls to obtain email addresses by ICC ID.  And since the ICC IDs are apparently sequential, the group was able to iterate through thousands of them to obtain the information.
+
+Then AT&T decides to claim as well that the researchers who discovered the flaw did not contact them.  It sounds like AT&T is lying.
+
 [Apple's Worst Security Breach: 114,000 iPad Owners Exposed](https://gawker.com/5559346/apples-worst-security-breach-114000-ipad-owners-exposed)

@@ -16,31 +16,31 @@ linter-yaml-title-alias: Computer-failure-causes-closure-of-seattle-downtown-tra
 ---
 
 
-This one boggles the mind.  I had to send it for publication in Risks.   
-  
-[The Risks Digest Volume 24: Issue 93](https://catless.ncl.ac.uk/Risks/24.93.html#subj1)  
+This one boggles the mind.  I had to send it for publication in Risks. 
+
+[The Risks Digest Volume 24: Issue 93](https://catless.ncl.ac.uk/Risks/24.93.html#subj1)
 
 > Computer Failure Causes Closure of Seattle Downtown Transit Tunnel
 
-The tunnel was opened, and then closed again the next day due to continued problems:  
-  
-[Bus tunnel closure continues](https://seattlepi.nwsource.com/transportation/344159_tunnel20.html)  
+The tunnel was opened, and then closed again the next day due to continued problems:
 
-> Technicians  
-> from Sound Transit, Metro and General Electric Transportation, which  
-> was contracted to install the electrical and computer systems, were  
-> trying Wednesday evening to figure out what caused a connection between  
-> the tunnel and the control center to fail Monday, work Tuesday, and  
-> then fail again.  
->   
-> The tunnel's electrical systems, which control the lights and  
-> ventilation, are working, Sound Transit spokesman Bruce Gray said. But  
-> the disruption prevented Metro's control center from remotely running  
-> the systems. For safety, Sound Transit and Metro decided to keep the  
+[Bus tunnel closure continues](https://seattlepi.nwsource.com/transportation/344159_tunnel20.html)
+
+> Technicians
+> from Sound Transit, Metro and General Electric Transportation, which
+> was contracted to install the electrical and computer systems, were
+> trying Wednesday evening to figure out what caused a connection between
+> the tunnel and the control center to fail Monday, work Tuesday, and
+> then fail again.
+>
+> The tunnel's electrical systems, which control the lights and
+> ventilation, are working, Sound Transit spokesman Bruce Gray said. But
+> the disruption prevented Metro's control center from remotely running
+> the systems. For safety, Sound Transit and Metro decided to keep the
 > tunnel closed.
 
-It is supposedly open again:  
-  
-[RPIN - View News Release](https://www.rpin.org/rpinweb/ViewPosting.aspx?PostingID=942)  
+It is supposedly open again:
+
+[RPIN - View News Release](https://www.rpin.org/rpinweb/ViewPosting.aspx?PostingID=942)
 **        Downtown Seattle Transit Tunnel open Thursday morning (Dec 27th)**[  
 ](https://seattlepi.nwsource.com/transportation/344159_tunnel20.html)

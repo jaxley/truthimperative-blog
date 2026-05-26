@@ -11,10 +11,10 @@ url: /2008/04/10-home-security-tips.html
 ---
 
 
-A pretty good list to keep in mind for securing your house.  
-  
-I would also avoid keeping curtains open with a direct view into what kind of expensive stuff you have waiting inside. I've seen many a house these days with nice LCD or plasma TVs in the living room visible from the front door...  
-  
-One of the best home security tips is to get to know your neighbors so you can watch out for each other.  
-  
+A pretty good list to keep in mind for securing your house.
+
+I would also avoid keeping curtains open with a direct view into what kind of expensive stuff you have waiting inside. I've seen many a house these days with nice LCD or plasma TVs in the living room visible from the front door...
+
+One of the best home security tips is to get to know your neighbors so you can watch out for each other.
+
 [10 Quick Security Tips @ Burglary Prevention Council](https://www.burglaryprevention.org/10%20Quick%20Security%20Tips.aspx)

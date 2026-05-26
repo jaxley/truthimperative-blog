@@ -14,10 +14,10 @@ linter-yaml-title-alias: Batch-transcoding-flv-audio-to-oggvorbis-using-vlc
 ---
 
 
-Here's a handy bash script that I use to quickly batch transcode flash audio-only files into ogg/vorbis for playing on my Cowon D2:  
-  
+Here's a handy bash script that I use to quickly batch transcode flash audio-only files into ogg/vorbis for playing on my Cowon D2:
 
-> for file in \*.flv;  
-> do  
-> /cygdrive/c/Program\\ Files/VideoLAN/VLC/vlc.exe -vvv $file --sout="#transcode{acodec=vorb,ab=192,channels=2}:standard{mux=ogg,dst=$file.ogg}" vlc:quit;  
+
+> for file in \*.flv;
+> do
+> /cygdrive/c/Program\\ Files/VideoLAN/VLC/vlc.exe -vvv $file --sout="#transcode{acodec=vorb,ab=192,channels=2}:standard{mux=ogg,dst=$file.ogg}" vlc:quit;
 > done

@@ -14,6 +14,6 @@ linter-yaml-title-alias: Bush-is-overtly-pro-torture
 ---
 
 
-What an ignorant, evil, imbecile bastard.  
-  
+What an ignorant, evil, imbecile bastard.
+
 [Crooks and Liars » Bush Vetos Anti-Torture Bill, Says Torture One Of “The Most Important Tools In The War On Terror”](https://www.crooksandliars.com/2008/03/08/bush-vetos-anti-torture-bill-says-torture-one-of-the-most-important-tool-in-the-war-on-terror/)

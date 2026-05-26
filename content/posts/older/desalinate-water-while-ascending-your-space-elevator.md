@@ -17,8 +17,8 @@ linter-yaml-title-alias: Desalinate-water-while-ascending-your-space-elevator
 ---
 
 
-[Technology Review: Cheap Drinking Water from the Ocean](https://www.technologyreview.com/read_article.aspx?id=16977&ch=nanotech "Technology Review: Cheap Drinking Water from the Ocean")  
-  
+[Technology Review: Cheap Drinking Water from the Ocean](https://www.technologyreview.com/read_article.aspx?id=16977&ch=nanotech "Technology Review: Cheap Drinking Water from the Ocean")
 
->   
+
+>
 > A water desalination system using carbon nanotube-based membranes could significantly reduce the cost of purifying water from the ocean. The technology could potentially provide a solution to water shortages both in the United States, where populations are expected to soar in areas with few freshwater sources, and worldwide, where a lack of clean water is a major cause of disease.

@@ -15,8 +15,8 @@ linter-yaml-title-alias: Catching-up
 ---
 
 
-I've been so busy with work and other things that I have amassed a large queue of articles and little nuggets over the past few months. You'll probably see some old news come through that I still wanted to share or comment on.  
-  
-Cheers,  
-  
+I've been so busy with work and other things that I have amassed a large queue of articles and little nuggets over the past few months. You'll probably see some old news come through that I still wanted to share or comment on.
+
+Cheers,
+
 \-core24

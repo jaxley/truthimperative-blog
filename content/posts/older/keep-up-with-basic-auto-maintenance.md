@@ -16,8 +16,8 @@ linter-yaml-title-alias: Keep-up-with-basic-auto-maintenance
 ---
 
 
-This compiles a few sets of auto maintenance tips that everyone should know about, not only for fuel economy, but to prolong the life of your vehicle.  
-  
-I actually look forward to when the car will be smart enough and have a nice enough LCD display where it could tell you when your maintenance was due since it knows your mileage and driving habits.  Enough with the dumb blinky light patterns or general "service engine soon" lights.  There is a computer in the car -- it's time to catch the display up with the technology so people can actually use it.  
-  
+This compiles a few sets of auto maintenance tips that everyone should know about, not only for fuel economy, but to prolong the life of your vehicle.
+
+I actually look forward to when the car will be smart enough and have a nice enough LCD display where it could tell you when your maintenance was due since it knows your mileage and driving habits.  Enough with the dumb blinky light patterns or general "service engine soon" lights.  There is a computer in the car -- it's time to catch the display up with the technology so people can actually use it.
+
 [Driving Less? Don't forget you still need some basic maintenance - AutoblogGreen](https://www.autobloggreen.com/2008/10/18/driving-less-dont-forget-you-still-need-some-basic-maintenance/)

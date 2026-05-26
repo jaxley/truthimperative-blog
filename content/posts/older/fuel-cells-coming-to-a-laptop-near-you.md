@@ -15,6 +15,6 @@ linter-yaml-title-alias: Fuel-cells-coming-to-a-laptop-near-you
 ---
 
 
-Cool!  
-  
+Cool!
+
 [InfoWorld:�Toshiba prototypes methanol fuel cell for laptops:�March 05, 2003:�By�Gillian Law:�End-user Hardware](https://www.infoworld.com/article/03/03/05/HNfuelcell_1.html "InfoWorld:�Toshiba prototypes methanol fuel cell for laptops:�March 05, 2003:�By�Gillian Law:�End-user Hardware")

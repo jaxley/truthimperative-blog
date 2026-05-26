@@ -15,8 +15,8 @@ linter-yaml-title-alias: Everything-you-wanted-to-know-and-more-on-teleportation
 ---
 
 
-[Teleportation -- Facts, Info, and Encyclopedia article](https://www.absoluteastronomy.com/encyclopedia/t/te/teleportation.htm "Teleportation -- Facts, Info, and Encyclopedia article")  
-  
+[Teleportation -- Facts, Info, and Encyclopedia article](https://www.absoluteastronomy.com/encyclopedia/t/te/teleportation.htm "Teleportation -- Facts, Info, and Encyclopedia article")
 
->   
+
+>
 > Teleportation, or teletransportation, is the process of moving objects (or more likely with present techniques, (A particle that is less complex than an atom; regarded as constituents of all matter) elementary particles) from one place to another by encoding information about the object, transmitting the information to another place, such as on a (A communication system based on broadcasting electromagnetic waves) radio signal, and creating a copy of the original object in the new location. The notion of teleportation was first conceived in the course of the Golden Age of (Click link for more info and facts about 20th century) 20th century (Literary fantasy involving the imagined impact of science on society) science fiction (Creative writing of recognized artistic value) literature by authors who considered necessary a form of on-the-spot intangible conveyance tools to hold up the narratives of their tales.

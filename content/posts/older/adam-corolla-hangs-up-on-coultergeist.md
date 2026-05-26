@@ -15,8 +15,8 @@ linter-yaml-title-alias: Adam-corolla-hangs-up-on-coultergeist
 ---
 
 
-[Jesus' General: Insulting Mr. Coulter](https://patriotboy.blogspot.com/2006_07_09_patriotboy_archive.html#115242151294619949 "Jesus' General:  Insulting Mr. Coulter")  
-  
-This is hilarious. Adam Corolla is a god.  
-  
+[Jesus' General: Insulting Mr. Coulter](https://patriotboy.blogspot.com/2006_07_09_patriotboy_archive.html#115242151294619949 "Jesus' General:  Insulting Mr. Coulter")
+
+This is hilarious. Adam Corolla is a god.
+
 And I particularly love the graphic of the Psycho Sally stabbing doll to represent Coultergeist.

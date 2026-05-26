@@ -15,14 +15,14 @@ linter-yaml-title-alias: Fox-not-quot-fair-amp-balanced-quot-in-first-amendment-
 ---
 
 
-This is such a great line.  
-  
-[In Courtroom, Laughter at Fox and a Victory for Al Franken](https://www.nytimes.com/2003/08/23/nyregion/23FRAN.html "In Courtroom, Laughter at Fox and a Victory for Al Franken")  
-  
+This is such a great line.
 
->   
-> Judge Chin said the case was an easy one, and chided Fox for bringing its complaint to court. The judge said, "Of course, it is ironic that a media company that should be fighting for the First Amendment is trying to undermine it."  
+[In Courtroom, Laughter at Fox and a Victory for Al Franken](https://www.nytimes.com/2003/08/23/nyregion/23FRAN.html "In Courtroom, Laughter at Fox and a Victory for Al Franken")
 
-  
-  
+
+>
+> Judge Chin said the case was an easy one, and chided Fox for bringing its complaint to court. The judge said, "Of course, it is ironic that a media company that should be fighting for the First Amendment is trying to undermine it."
+
+
+
 You can buy the book here:

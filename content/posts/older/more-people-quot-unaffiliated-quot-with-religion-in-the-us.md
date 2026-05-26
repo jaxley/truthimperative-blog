@@ -14,8 +14,8 @@ linter-yaml-title-alias: More-people-quot-unaffiliated-quot-with-religion-in-the
 ---
 
 
-A completely unscientific mashup of survey data from a couple different surveys for comparison.  
-  
+A completely unscientific mashup of survey data from a couple different surveys for comparison.
+
 
 &nbsp;
 
@@ -41,14 +41,14 @@ Follow no organized religion
 
 16.1%
 
-  
-4.7% believe in "other faiths". That means that 20.8% of Americans (about 47 million Americans) have either no faith or a non-Christian faith.  
-  
-In 2001, Washington State had 25% in the "unaffiliated" with religion category. Surprisingly, our state is much less religious. Funny how many freaking churches there are everywhere though.  
-  
-4% of the 16.1% say they are atheist or agnostic. So, I'm definitely in the minority. But the overall "unaffiliated" minority is still growing. And, it seems to be growing more among the next generation, which is a good sign "one-in-four \[18-29\] say they are not currently affiliated with a particular religion."  
-  
-Survey data from 35000 Americans:  
-[https://pewforum.org/news/rss.php?NewsID=15041](https://pewforum.org/news/rss.php?NewsID=15041)  
-[https://www.biblicalrecorder.org/content/news/2008/02\_25\_2008/ne25022008study.shtml](https://www.biblicalrecorder.org/content/news/2008/02_25_2008/ne25022008study.shtml) (this link has images of the full survey results)  
+
+4.7% believe in "other faiths". That means that 20.8% of Americans (about 47 million Americans) have either no faith or a non-Christian faith.
+
+In 2001, Washington State had 25% in the "unaffiliated" with religion category. Surprisingly, our state is much less religious. Funny how many freaking churches there are everywhere though.
+
+4% of the 16.1% say they are atheist or agnostic. So, I'm definitely in the minority. But the overall "unaffiliated" minority is still growing. And, it seems to be growing more among the next generation, which is a good sign "one-in-four \[18-29\] say they are not currently affiliated with a particular religion."
+
+Survey data from 35000 Americans:
+[https://pewforum.org/news/rss.php?NewsID=15041](https://pewforum.org/news/rss.php?NewsID=15041)
+[https://www.biblicalrecorder.org/content/news/2008/02\_25\_2008/ne25022008study.shtml](https://www.biblicalrecorder.org/content/news/2008/02_25_2008/ne25022008study.shtml) (this link has images of the full survey results)
 [https://www.religioustolerance.org/chr\_prac2.htm](https://www.religioustolerance.org/chr_prac2.htm)

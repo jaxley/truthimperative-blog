@@ -15,6 +15,6 @@ linter-yaml-title-alias: How-to-break-a-common-master-combination-lock
 ---
 
 
-Here's a description of how to open a common Master brand lock in about 10 minutes.  The design makes the 40^3 possible combinations collapse to 121.  It's a physical metaphor for bad cryptography and reliance on obscurity.  
-  
+Here's a description of how to open a common Master brand lock in about 10 minutes.  The design makes the 40^3 possible combinations collapse to 121.  It's a physical metaphor for bad cryptography and reliance on obscurity.
+
 I happen to have a lock that I forgot the combo to that this will definitely come in handy for...if I can only find the lock...

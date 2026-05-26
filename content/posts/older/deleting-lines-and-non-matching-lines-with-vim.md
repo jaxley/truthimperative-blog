@@ -14,11 +14,11 @@ linter-yaml-title-alias: Deleting-lines-and-non-matching-lines-with-vim
 ---
 
 
-I'm always forgetting how to do this but here's how to delete matching lines:  
+I'm always forgetting how to do this but here's how to delete matching lines:
 
 > :g/.\*foo.\*/d
 
-And the more difficult thing to do that vim makes easy is deleting non-matching lines.  All you do is negate the pattern:  
+And the more difficult thing to do that vim makes easy is deleting non-matching lines.  All you do is negate the pattern:
 
 > :g!/.\*foo.\*/d
 

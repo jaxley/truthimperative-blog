@@ -18,8 +18,8 @@ linter-yaml-title-alias: Birth-canal-drive
 ---
 
 
-[the cool hunter - DRIVE THROUGH LUBRICATION AD](https://www.thecoolhunter.net/ads/DRIVE-THROUGH/ "the cool hunter - DRIVE THROUGH LUBRICATION AD")  
-  
+[the cool hunter - DRIVE THROUGH LUBRICATION AD](https://www.thecoolhunter.net/ads/DRIVE-THROUGH/ "the cool hunter - DRIVE THROUGH LUBRICATION AD")
+
 <!-- ![](foot.jpg) -->
-  
+
 We need more creativity like this in the world.

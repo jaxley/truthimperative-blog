@@ -14,8 +14,8 @@ linter-yaml-title-alias: Marijuana-arrests-at-all-time-quot-high-quot-
 ---
 
 
-"A pot-smoker is arrested every 38 seconds in America".  
-  
-God damn it's time to decriminalize this.  We have real police work that could be done instead of wasting police, jail, and court time on this crap.  I can only imagine what it was like during alcohol prohibition.  Sheesh.  
-  
+"A pot-smoker is arrested every 38 seconds in America".
+
+God damn it's time to decriminalize this.  We have real police work that could be done instead of wasting police, jail, and court time on this crap.  I can only imagine what it was like during alcohol prohibition.  Sheesh.
+
 [Marijuana Arrests at All-Time High - TalkLeft: The Politics Of Crime](https://www.talkleft.com/story/2007/9/24/153752/631)

@@ -18,15 +18,15 @@ linter-yaml-title-alias: Asinine-terrorist-detection-at-western-union
 ---
 
 
-[Western Union blocks Arab cash deliveries - Yahoo! News](https://news.yahoo.com/s/ap/20060706/ap_on_bi_ge/emirates_muslim_money "Western Union blocks Arab cash deliveries - Yahoo! News")  
-  
+[Western Union blocks Arab cash deliveries - Yahoo! News](https://news.yahoo.com/s/ap/20060706/ap_on_bi_ge/emirates_muslim_money "Western Union blocks Arab cash deliveries - Yahoo! News")
 
->   
-> DUBAI, United Arab Emirates - Money transfer agencies have delayed or blocked thousands of cash deliveries on suspicion of terrorist connections simply because senders or recipients have names like Mohammed or Ahmed, company officials said.  
-> ADVERTISEMENT  
->   
-> In one example, an Indian driver here said Western Union prevented him from sending $120 to a friend at home last month because the recipient's name was Mohammed.  
 
-  
-  
+>
+> DUBAI, United Arab Emirates - Money transfer agencies have delayed or blocked thousands of cash deliveries on suspicion of terrorist connections simply because senders or recipients have names like Mohammed or Ahmed, company officials said.
+> ADVERTISEMENT
+>
+> In one example, an Indian driver here said Western Union prevented him from sending $120 to a friend at home last month because the recipient's name was Mohammed.
+
+
+
 Hard to believe it could be possible, but this is more stupid than the [TSA's Secure Flight](https://www.schneier.com/blog/archives/2005/07/secure_flight.html) program (also a miserable failure).

@@ -16,5 +16,5 @@ linter-yaml-title-alias: More-constitution-shredding-by-bush-administration
 ---
 
 
-  
+
 [Boing Boing: Bush legalizes martial law -- what Constitution?](https://www.boingboing.net/2006/10/29/bush_legalizes_marti.html)

@@ -15,8 +15,8 @@ linter-yaml-title-alias: Richard-forno-let-go-rants-about-symantec
 ---
 
 
-Richard Forno was let go by Symantec, coincidentally right after he had politely complained in a letter about the extremely inefficient payment procedures they brought with them to SecurityFocus.  
-  
-I really enjoyed his commentary so I hope to see him show up somewhere else soon!  
-  
+Richard Forno was let go by Symantec, coincidentally right after he had politely complained in a letter about the extremely inefficient payment procedures they brought with them to SecurityFocus.
+
+I really enjoyed his commentary so I hope to see him show up somewhere else soon!
+
 [symantec-bitch](https://www.infowarrior.org/symantec/symantec-lackingcommonsense.html "symantec-bitch")

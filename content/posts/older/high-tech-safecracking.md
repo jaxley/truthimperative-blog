@@ -17,6 +17,6 @@ linter-yaml-title-alias: High-tech-safecracking
 ---
 
 
-This link wasn't working at the time of posting, but it is interesting to see how you can use infrared to determine a combination from a recently-used keypad. There must be some equipment that would cost less than $5000 that could do this? I'll have to check the local spy shop.  
-  
+This link wasn't working at the time of posting, but it is interesting to see how you can use infrared to determine a combination from a recently-used keypad. There must be some equipment that would cost less than $5000 that could do this? I'll have to check the local spy shop.
+
 [https://lcamtuf.coredump.cx/tsafe/](https://lcamtuf.coredump.cx/tsafe/)

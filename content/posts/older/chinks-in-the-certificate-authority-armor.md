@@ -14,8 +14,8 @@ linter-yaml-title-alias: Chinks-in-the-certificate-authority-armor
 ---
 
 
-  
-  
+
+
 
 1.I had catalogued some high-profile CA mishaps:
 
@@ -43,7 +43,7 @@ k. A Comodo reseller (CertStar) granted Eddy Nigg a mozilla.com certificate, “
 
 l. Researchers were able to demonstrate forged Verisign RapidSSL certificates by exploiting MD5 collisions (2008), "Web browser flaw could put e-commerce security at risk - CNET." Last modified 04/22/2014 11:51:43. [https://www.cnet.com/news/web-browser-flaw-could-put-e-commerce-security-at-risk/](https://www.cnet.com/news/web-browser-flaw-could-put-e-commerce-security-at-risk/) (accessed 4/22/2014).
 
-m. Dutch CA KPN got hacked in 2011, “’Hacked server’ claims another certificate authority casualty” [https://www.zdnet.com/blog/london/hacked-server-claims-another-certificate-authority-casualty/596](https://www.zdnet.com/blog/london/hacked-server-claims-another-certificate-authority-casualty/596)  
+m. Dutch CA KPN got hacked in 2011, “’Hacked server’ claims another certificate authority casualty” [https://www.zdnet.com/blog/london/hacked-server-claims-another-certificate-authority-casualty/596](https://www.zdnet.com/blog/london/hacked-server-claims-another-certificate-authority-casualty/596)
 " Google Online Security Blog: Maintaining digital certificate security ." Last modified 08/28/2014 12:41:46. https://googleonlinesecurity.blogspot.com/2014/07/maintaining-digital-certificate-security.html (accessed 8/28/2014).  Indian CA issues unauthorized google and yahoo certificates.
 
 2. Information showing risks of trusted third party CA model uncovered (from EFF’s [defcon 18 presentation](https://www.eff.org/files/DefconSSLiverse.pdf)):

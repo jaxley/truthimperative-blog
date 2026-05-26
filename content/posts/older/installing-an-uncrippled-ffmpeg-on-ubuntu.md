@@ -15,24 +15,24 @@ linter-yaml-title-alias: Installing-an-uncrippled-ffmpeg-on-ubuntu
 ---
 
 
-I'm trying this right now on Edgy Eft:  
-  
-[po-ru.com: Fixing ffmpeg on Ubuntu](https://po-ru.com/diary/fixing-ffmpeg-on-ubuntu/)  
+I'm trying this right now on Edgy Eft:
 
-> It seems one can set DEB\_BUILD\_OPTIONS=risky to enable the missing codecs rather than editing debian/rules and building the package manually.  
->   
->   
->   
-> sudo apt-get build-dep ffmpeg  
->   
->   
->   
-> sudo apt-get install liblame-dev libfaad2-dev libfaac-dev libxvidcore4-dev checkinstall fakeroot  
->   
->   
->   
-> DEB\_BUILD\_OPTIONS=risky fakeroot apt-get source ffmpeg --compile  
->   
->   
->   
+[po-ru.com: Fixing ffmpeg on Ubuntu](https://po-ru.com/diary/fixing-ffmpeg-on-ubuntu/)
+
+> It seems one can set DEB\_BUILD\_OPTIONS=risky to enable the missing codecs rather than editing debian/rules and building the package manually.
+>
+>
+>
+> sudo apt-get build-dep ffmpeg
+>
+>
+>
+> sudo apt-get install liblame-dev libfaad2-dev libfaac-dev libxvidcore4-dev checkinstall fakeroot
+>
+>
+>
+> DEB\_BUILD\_OPTIONS=risky fakeroot apt-get source ffmpeg --compile
+>
+>
+>
 > sudo dpkg -i ffmpeg-blah.dpkg

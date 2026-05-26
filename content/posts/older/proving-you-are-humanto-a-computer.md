@@ -16,16 +16,16 @@ linter-yaml-title-alias: Proving-you-are-humanto-a-computer
 ---
 
 
-There have been some sites where I've suffered the same fate.  Do they want me to match case?  What the heck does the captcha say?  
-  
-From the NYTimes article a great quote:  
+There have been some sites where I've suffered the same fate.  Do they want me to match case?  What the heck does the captcha say?
 
-> “You can make a captcha absolutely undefeatable by computers, but at some point, you are turning this from a human reading test into an intelligence test and an acuity test,” said Michael Barrett, the chief information security officer at PayPal, a division of eBay. “We are clearly at the point where captchas have hit diminishing returns.”  
+From the NYTimes article a great quote:
 
-[Talking Points Memo: by Joshua Micah Marshall June 11, 2007 10:54 PM](https://www.talkingpointsmemo.com/archives/014583.php)  
+> “You can make a captcha absolutely undefeatable by computers, but at some point, you are turning this from a human reading test into an intelligence test and an acuity test,” said Michael Barrett, the chief information security officer at PayPal, a division of eBay. “We are clearly at the point where captchas have hit diminishing returns.”
 
-> Of late, I've had several captcha fill-ins I was asked to type in where I actually had a difficult time figuring out what the letters were. And I'm human. Really.  
+[Talking Points Memo: by Joshua Micah Marshall June 11, 2007 10:54 PM](https://www.talkingpointsmemo.com/archives/014583.php)
 
-To make matters worse, researchers (university ones, not independent hackers) are devising ever-clever ways of beating the tools.  
-  
+> Of late, I've had several captcha fill-ins I was asked to type in where I actually had a difficult time figuring out what the letters were. And I'm human. Really.
+
+To make matters worse, researchers (university ones, not independent hackers) are devising ever-clever ways of beating the tools.
+
 It all depends on your threat model just how obscure you need your captchas to counter the threat but beware captcha's days are likely numbered.

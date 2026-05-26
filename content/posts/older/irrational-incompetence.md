@@ -15,12 +15,12 @@ linter-yaml-title-alias: Irrational-incompetence
 ---
 
 
-[White House has bigger credibility problem than CBS](https://www.post-gazette.com/pg/05012/440801.stm "White House has bigger credibility problem than CBS")  
-  
-"What happens when you base a big project on questionable information?  
-  
-Well, if you work for CBS News, you get a pink slip. If you work for George W. Bush, you get a promotion or a medal."  
-  
-Makes me sick.  
-  
+[White House has bigger credibility problem than CBS](https://www.post-gazette.com/pg/05012/440801.stm "White House has bigger credibility problem than CBS")
+
+"What happens when you base a big project on questionable information?
+
+Well, if you work for CBS News, you get a pink slip. If you work for George W. Bush, you get a promotion or a medal."
+
+Makes me sick.
+
 \-J

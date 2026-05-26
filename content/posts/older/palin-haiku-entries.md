@@ -14,32 +14,32 @@ linter-yaml-title-alias: Palin-haiku-entries
 ---
 
 
-I posted three, with a theme of trying to use her own words to answer the question.  
+I posted three, with a theme of trying to use her own words to answer the question.
 
-> Palin embodies  
-> "Politics as usual":  
+> Palin embodies
+> "Politics as usual":
 > Cash in while you can
 
-> Governing is hard.  
-> It's much easier to take  
+> Governing is hard.
+> It's much easier to take
 > "A quitter's way out"
 
-> "Let me tell you...I'm"  
-> "A maverick...nuc-u-lar"  
+> "Let me tell you...I'm"
+> "A maverick...nuc-u-lar"
 > "Hockey mom...you know"
 
-[Left Take:: $20.09 HAIKU contest: Why Sarah Palin is a jackass](https://leftake.com/diary/392/2009-haiku-contest-why-sarah-palin-is-a-jackass)  
+[Left Take:: $20.09 HAIKU contest: Why Sarah Palin is a jackass](https://leftake.com/diary/392/2009-haiku-contest-why-sarah-palin-is-a-jackass)
 
-> Let's try something new -- a "haiku" contest.  
->   
+> Let's try something new -- a "haiku" contest.
+>
 > $20.12 for the "best" haiku, spelling out why Sarah Palin is a jackass. Awarded at 5pm (eastern) Friday, August 14th.
 
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=9e8f961a-615e-86d1-af3d-9188c57b1f3e) -->

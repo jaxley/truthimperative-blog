@@ -16,6 +16,6 @@ linter-yaml-title-alias: Rick-santorum-blame-the-victims-of-clergy-sex-abuse
 ---
 
 
-[SANTORUM ALSO BLAMES THE VICTIMS OF CLERGY SEXUAL ABUSE - Santorum Exposed: The Blog](http%3A//santorumexposed.com/serendipity/archives/33-SANTORUM-ALSO-%2520BLAMES-THE-VICTIMS-OF-CLERGY-SEXUAL-ABUSE.html "SANTORUM ALSO BLAMES THE VICTIMS OF CLERGY SEXUAL ABUSE - Santorum Exposed:  The Blog")  
-  
+[SANTORUM ALSO BLAMES THE VICTIMS OF CLERGY SEXUAL ABUSE - Santorum Exposed: The Blog](http%3A//santorumexposed.com/serendipity/archives/33-SANTORUM-ALSO-%2520BLAMES-THE-VICTIMS-OF-CLERGY-SEXUAL-ABUSE.html "SANTORUM ALSO BLAMES THE VICTIMS OF CLERGY SEXUAL ABUSE - Santorum Exposed:  The Blog")
+
 This is an utterly disgusting rationalization.

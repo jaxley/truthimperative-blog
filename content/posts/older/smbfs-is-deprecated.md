@@ -7,9 +7,9 @@ created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 10:49:42-07:00
 ---
 
-Wow, I haven't been paying close enough attention.  Fortunately the problems with smbfs were bothersome enough for me to do some research and find that it is no longer maintained and that cifs is much more stable.  Most of the arguments are directly mappable between the two so migrating is a cinch.  
-  
-If you are getting any of these kinds of errors, especially after hitting the file share really hard -- even with reads -- then consider switching.  
+Wow, I haven't been paying close enough attention.  Fortunately the problems with smbfs were bothersome enough for me to do some research and find that it is no longer maintained and that cifs is much more stable.  Most of the arguments are directly mappable between the two so migrating is a cinch.
+
+If you are getting any of these kinds of errors, especially after hitting the file share really hard -- even with reads -- then consider switching.
 ```
   
 \[167285.988223\] smb\_lookup: find //.Trash-core failed, error=-5  

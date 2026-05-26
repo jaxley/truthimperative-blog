@@ -17,11 +17,11 @@ linter-yaml-title-alias: One-thing-i-agree-with-the-president-on
 ---
 
 
-The Daily Show pointed out that in a recent speech on the campaign trail, the president laid out this gem about the recent missing 380 tons of explosives in Iraq:  
-  
+The Daily Show pointed out that in a recent speech on the campaign trail, the president laid out this gem about the recent missing 380 tons of explosives in Iraq:
+
 
 > "The investigation is important and it's ongoing. And a political candidate who jumps to conclusions without knowing the facts, is not a person you want as your Commander-in-Chief."
 
-  
-  
+
+
 Indeed. At least I can agree with the president on this statement. It does not apply in this context, but there is this debacle going on in Iraq...

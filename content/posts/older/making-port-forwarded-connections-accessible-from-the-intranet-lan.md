@@ -15,18 +15,18 @@ linter-yaml-title-alias: Making-port-forwarded-connections-accessible-from-the-i
 ---
 
 
-\# Enabling many:one IP masquerading from the LAN to the Internet (i.e. out the $WAN interface)  
-iptables -t nat -A POSTROUTING -o $WAN -j MASQUERADE  
-  
-\# port forwarding $WAN\_IP:25 to $SMTP\_SVR\_IP:25  
-iptables -t nat -A POSTROUTING -d $WAN\_IP -p tcp --dport 25 -j DNAT --to $SMTP\_SVR\_IP  
-iptables -A FORWARD -i $WAN -p tcp --dport 25 -d $SMTP\_SVR\_IP -j ACCEPT  
-  
-\# Making this cruft work from the intranet  
-\# i.e. DESK\_IP -> WAN\_IP:25  
-  
-\# Bad rule:  
-iptables -t nat -A POSTROUTING -o $LAN -j SNAT --to-source $WAN\_IP  
-  
-\# Good rule:  
+\# Enabling many:one IP masquerading from the LAN to the Internet (i.e. out the $WAN interface)
+iptables -t nat -A POSTROUTING -o $WAN -j MASQUERADE
+
+\# port forwarding $WAN\_IP:25 to $SMTP\_SVR\_IP:25
+iptables -t nat -A POSTROUTING -d $WAN\_IP -p tcp --dport 25 -j DNAT --to $SMTP\_SVR\_IP
+iptables -A FORWARD -i $WAN -p tcp --dport 25 -d $SMTP\_SVR\_IP -j ACCEPT
+
+\# Making this cruft work from the intranet
+\# i.e. DESK\_IP -> WAN\_IP:25
+
+\# Bad rule:
+iptables -t nat -A POSTROUTING -o $LAN -j SNAT --to-source $WAN\_IP
+
+\# Good rule:
 iptables -t nat -A POSTROUTING -o $LAN -s 192.168.1.0/24 -j SNAT --to-source $WAN\_IP

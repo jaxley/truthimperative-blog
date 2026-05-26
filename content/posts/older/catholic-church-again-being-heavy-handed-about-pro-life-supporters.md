@@ -14,17 +14,17 @@ linter-yaml-title-alias: Catholic-church-again-being-heavy-handed-about-pro-life
 ---
 
 
-This is really stupid. To single out only certain members of the church? I agree with Steve,  
-  
+This is really stupid. To single out only certain members of the church? I agree with Steve,
 
-> "I think it’s a mistake to deny Communion to public officials who, in  
-> their official capacity as policy makers, stray from the church’s  
-> doctrines. But this is adding insult to injury — targeting Catholic  
+
+> "I think it’s a mistake to deny Communion to public officials who, in
+> their official capacity as policy makers, stray from the church’s
+> doctrines. But this is adding insult to injury — targeting Catholic
 > congregants based on their votes, rather than their beliefs and conduct.
-> 
+>
 > In other words, at least in the abstract, John Kerry should be blocked from receiving Communion _and_ Catholic voters who supported him should receive the same treatment."
 
-  
-And why just pro-life stances? Isn't the catholic doctrine that we are all sinners? In fact, you say before communion "I am not worthy to receive you \[Jesus, via transubstantiation in the body & blood, aka bread & wine\] but only say the word and I shall be healed". You would think that this would be the \_last\_ thing they would want to deny to anyone. But I guess they have to keep up appearances...  
-  
+
+And why just pro-life stances? Isn't the catholic doctrine that we are all sinners? In fact, you say before communion "I am not worthy to receive you \[Jesus, via transubstantiation in the body & blood, aka bread & wine\] but only say the word and I shall be healed". You would think that this would be the \_last\_ thing they would want to deny to anyone. But I guess they have to keep up appearances...
+
 [Crooks and Liars » Communion need not be a political weapon](https://www.crooksandliars.com/2008/06/04/communion-need-not-be-a-political-weapon/)

@@ -15,28 +15,28 @@ linter-yaml-title-alias: Analysis-of-the-educational-initiatives-outlined-in-the
 ---
 
 
-Rob Slade takes an in-depth look at what the National Cybersecurity Strategy is for security education and doesn't really find much. To summarize:  
-  
-"we \[the U.S. Gov't\] can't do it alone, so we're not going to do anything"  
-  
-"How will it happen?"  
-  
-"Focus or force?"  
-  
-"Security awareness cannot be promoted by establishing contests where nobody will compete."  
-  
-"Again, this proposal sounds good, but, without details to back it up, I doubt that there will be any impact any time soon"  
-  
-"Subject to budget considerations. No further comment needed."  
-  
-"What incentive do those companies have to do so? "  
-  
-"How about funding?"  
-  
-"OK, the government doesn't want to help or fund certification, but wants to dictate what the certification is for."  
-  
-"I imagine AV and firewall vendors will be delighted that the government will be advertising for them"  
-  
-The document seems to say a lot but does not seem as if it will actually _**do**_ anything.  
-  
+Rob Slade takes an in-depth look at what the National Cybersecurity Strategy is for security education and doesn't really find much. To summarize:
+
+"we \[the U.S. Gov't\] can't do it alone, so we're not going to do anything"
+
+"How will it happen?"
+
+"Focus or force?"
+
+"Security awareness cannot be promoted by establishing contests where nobody will compete."
+
+"Again, this proposal sounds good, but, without details to back it up, I doubt that there will be any impact any time soon"
+
+"Subject to budget considerations. No further comment needed."
+
+"What incentive do those companies have to do so? "
+
+"How about funding?"
+
+"OK, the government doesn't want to help or fund certification, but wants to dictate what the certification is for."
+
+"I imagine AV and firewall vendors will be delighted that the government will be advertising for them"
+
+The document seems to say a lot but does not seem as if it will actually _**do**_ anything.
+
 Read the full analysis in [Risks 22.63, article 1](https://catless.ncl.ac.uk/Risks/22.63.html#subj1)

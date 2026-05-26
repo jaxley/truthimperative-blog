@@ -15,10 +15,10 @@ linter-yaml-title-alias: Restrictions-placed-on-fbi-cellular-tracking
 ---
 
 
-[FBI Dealt Setback on Cellular Surveillance](https://www.washingtonpost.com/wp-dyn/content/article/2005/10/27/AR2005102702109.html "FBI Dealt Setback on Cellular Surveillance")  
-  
-Finally some restraint on use of the PATRIOT act powers. Especially in light of recent FOIA documents that [EPIC found](https://www.epic.org/privacy/terrorism/usapatriot/) that show abuses by law enforcement.  
-  
+[FBI Dealt Setback on Cellular Surveillance](https://www.washingtonpost.com/wp-dyn/content/article/2005/10/27/AR2005102702109.html "FBI Dealt Setback on Cellular Surveillance")
 
->   
+Finally some restraint on use of the PATRIOT act powers. Especially in light of recent FOIA documents that [EPIC found](https://www.epic.org/privacy/terrorism/usapatriot/) that show abuses by law enforcement.
+
+
+>
 > The FBI may not track the locations of cell phone users without showing evidence that a crime occurred or is in progress, two federal judges ruled, saying that to do so would violate long-established privacy protections.

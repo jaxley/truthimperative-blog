@@ -15,16 +15,16 @@ linter-yaml-title-alias: Quality-time-wasting-sites
 ---
 
 
-Just in case you're looking for hours and hours of quality entertainment, here are several sites with similar kinds of videos and pictures that always deliver.  
-  
-\[https://www.ebaumsworld.com\]  
-  
-\[https://www.killsometime.com\]  
-  
-\[https://www.collegehumor.com\]  
-  
-\[https://www.ugoto.com\]  
-  
-\[https://www.gorillamask.net\]  
-  
+Just in case you're looking for hours and hours of quality entertainment, here are several sites with similar kinds of videos and pictures that always deliver.
+
+\[https://www.ebaumsworld.com\]
+
+\[https://www.killsometime.com\]
+
+\[https://www.collegehumor.com\]
+
+\[https://www.ugoto.com\]
+
+\[https://www.gorillamask.net\]
+
 \[https://www.hamncheez.com\]

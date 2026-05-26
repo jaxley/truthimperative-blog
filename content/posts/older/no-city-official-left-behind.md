@@ -15,12 +15,12 @@ linter-yaml-title-alias: No-city-official-left-behind
 ---
 
 
-[Local officials nearly fall for H2O hoax - Science - MSNBC.com](https://www.msnbc.msn.com/id/4534017/ "Local officials nearly fall for H2O hoax - Science - MSNBC.com")  
-  
-They should also make sure that their hand isn't larger than their face or they might have cancer.  
-  
+[Local officials nearly fall for H2O hoax - Science - MSNBC.com](https://www.msnbc.msn.com/id/4534017/ "Local officials nearly fall for H2O hoax - Science - MSNBC.com")
 
->   
-> ALISO VIEJO, Calif. - City officials were so concerned about the potentially dangerous properties of dihydrogen monoxide that they considered banning foam cups after they learned the chemical was used in their production.  
->   
+They should also make sure that their hand isn't larger than their face or they might have cancer.
+
+
+>
+> ALISO VIEJO, Calif. - City officials were so concerned about the potentially dangerous properties of dihydrogen monoxide that they considered banning foam cups after they learned the chemical was used in their production.
+>
 > Then they learned, to their chagrin, that dihydrogen monoxide — H2O for short — is the scientific term for water.

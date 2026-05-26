@@ -15,10 +15,10 @@ linter-yaml-title-alias: Appropriate-yet-unfortunate-commentary-on-the-times-we-
 ---
 
 
-[Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them](https://www.dailyhowler.com/dh042005.shtml "Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them")  
-  
-ERNSTEIN WATCHES THINGS FALL APART: Congratulations to Carl Bernstein, perhaps our frankest press bigfoot. On last evening’s Special Report, Jim Angle cited a recent speech by the Watergate worthy:  
-  
-ANGLE (4/19/05): Former Washington Post reporter Carl Bernstein, who helped break the Watergate story, says journalism nowadays is squandering the public's trust, insisting the, quote, "triumph of the idiot culture in news, particularly TV news, has weakened journalist drive for the truth."  
-  
+[Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them](https://www.dailyhowler.com/dh042005.shtml "Daily Howler: Coulter makes ''errors'' like other scribes breathe. But store-bought John Cloud couldn't find them")
+
+ERNSTEIN WATCHES THINGS FALL APART: Congratulations to Carl Bernstein, perhaps our frankest press bigfoot. On last evening’s Special Report, Jim Angle cited a recent speech by the Watergate worthy:
+
+ANGLE (4/19/05): Former Washington Post reporter Carl Bernstein, who helped break the Watergate story, says journalism nowadays is squandering the public's trust, insisting the, quote, "triumph of the idiot culture in news, particularly TV news, has weakened journalist drive for the truth."
+
 At a press convention in Kansas, Bernstein said, quote, "The consequences to a society that is misinformed and disinformed by the grotesque values of this idiot culture are truly perilous. For the first time in our history," he went on, "the weird, the stupid, the coarse, the sensational and the untrue are becoming our cultural norm, even our cultural ideal."

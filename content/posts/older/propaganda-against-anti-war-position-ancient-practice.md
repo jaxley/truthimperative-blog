@@ -15,10 +15,10 @@ linter-yaml-title-alias: Propaganda-against-anti-war-position-ancient-practice
 ---
 
 
-I may have to get this book:  
-  
-  
-  
-Details from 480BC about painting anti-war sentiment as "disloyalty".  
-  
+I may have to get this book:
+
+
+
+Details from 480BC about painting anti-war sentiment as "disloyalty".
+
 [\[IP\] anti-war == disloyalty](https://www.interesting-people.org/archives/interesting-people/200303/msg00231.html "[IP] anti-war == disloyalty")

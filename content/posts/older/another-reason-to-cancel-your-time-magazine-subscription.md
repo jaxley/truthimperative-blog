@@ -15,10 +15,10 @@ linter-yaml-title-alias: Another-reason-to-cancel-your-time-magazine-subscriptio
 ---
 
 
-First Ann Coulter on the cover of Time, now a so-called-news story on religion vs. science (which is a false dichotomy IMHO)  
-  
-"Welcome to Jesusland" Part Deux...  
-  
-[The United States of Almighty-God](https://whohastimeforthis.blogspot.com/2005/08/united-states-of-almighty-god.html)  
-  
+First Ann Coulter on the cover of Time, now a so-called-news story on religion vs. science (which is a false dichotomy IMHO)
+
+"Welcome to Jesusland" Part Deux...
+
+[The United States of Almighty-God](https://whohastimeforthis.blogspot.com/2005/08/united-states-of-almighty-god.html)
+
 Ugh.

@@ -15,14 +15,14 @@ linter-yaml-title-alias: Rip-spencer-garrett
 ---
 
 
-[komo news | Libertarian Congressional Candidate Dies In Skydiving Accident](https://www.komo4.com/stories/35650.htm "komo news | Libertarian Congressional Candidate Dies In Skydiving Accident")  
-  
-This was shocking news in a year that is shaping up to be at least as bizarre as last year for me.  
-  
-Spencer was one of the smartest people I have ever met, one of the best UNIX/network/tech/IT administrator gurus anywhere and a great friend to all. You will be missed.  
-  
-His ISP business [2alpha](https://www.2alpha.com) will hopefully continue on with his business partners still at the helm.  
-  
+[komo news | Libertarian Congressional Candidate Dies In Skydiving Accident](https://www.komo4.com/stories/35650.htm "komo news | Libertarian Congressional Candidate Dies In Skydiving Accident")
 
->   
+This was shocking news in a year that is shaping up to be at least as bizarre as last year for me.
+
+Spencer was one of the smartest people I have ever met, one of the best UNIX/network/tech/IT administrator gurus anywhere and a great friend to all. You will be missed.
+
+His ISP business [2alpha](https://www.2alpha.com) will hopefully continue on with his business partners still at the helm.
+
+
+>
 > SNOHOMISH - Spencer Garrett, a Libertarian candidate for Congress last fall, has died in a skydiving accident outside this town northeast of Seattle.

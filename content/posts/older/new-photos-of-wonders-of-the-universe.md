@@ -17,14 +17,14 @@ linter-yaml-title-alias: New-photos-of-wonders-of-the-universe
 ---
 
 
-[Hubble & Spitzer Space Telescopes on Yahoo! News Photos](https://news.yahoo.com/photo/051109/480/la10311092330;_ylt=Ak.BWqKx3y_3CzUjVhumX7pxieAA;_ylu=X3oDMTA3bGk2OHYzBHNlYwN0bXA- "Hubble & Spitzer Space Telescopes on Yahoo! News Photos")  
-  
-Beautiful, wonderous, cool stuff.  
-  
+[Hubble & Spitzer Space Telescopes on Yahoo! News Photos](https://news.yahoo.com/photo/051109/480/la10311092330;_ylt=Ak.BWqKx3y_3CzUjVhumX7pxieAA;_ylu=X3oDMTA3bGk2OHYzBHNlYwN0bXA- "Hubble & Spitzer Space Telescopes on Yahoo! News Photos")
 
->   
-> This undated infrared image captured by NASA's Spitzer Space Telescope, released by NASA on Wednesday, Nov. 9, 2005, shows colossal pillars of cool gas and dust that provide scientists with an intimate look at the star-forming process. The image reflects a region in space known as W5, in the constellation Cassiopeia 7,000 light years away, which is dominated by a single massive star. (AP Photo/NASA, JPL, CalTech)  
+Beautiful, wonderous, cool stuff.
 
-  
-  
+
+>
+> This undated infrared image captured by NASA's Spitzer Space Telescope, released by NASA on Wednesday, Nov. 9, 2005, shows colossal pillars of cool gas and dust that provide scientists with an intimate look at the star-forming process. The image reflects a region in space known as W5, in the constellation Cassiopeia 7,000 light years away, which is dominated by a single massive star. (AP Photo/NASA, JPL, CalTech)
+
+
+
 <!-- ![](capt.la10311092330.stellar_youth_la103.jpg) -->

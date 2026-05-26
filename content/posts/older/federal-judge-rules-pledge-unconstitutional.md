@@ -15,12 +15,12 @@ linter-yaml-title-alias: Federal-judge-rules-pledge-unconstitutional
 ---
 
 
-[https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001](https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001)  
-  
+[https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001](https://www.npr.org/templates/story/story.php?storyId=4847626&ft=1&f=1001)
 
->   
-> U.S. District Judge Lawrence Karlton ruled that the pledge's reference to one nation "under God" violates school children's right to be "free from a coercive requirement to affirm God."  
 
-  
-  
+>
+> U.S. District Judge Lawrence Karlton ruled that the pledge's reference to one nation "under God" violates school children's right to be "free from a coercive requirement to affirm God."
+
+
+
 Just take the freaking words "under God" out of the pledge that weren't there to begin with and the problem goes away!

@@ -16,33 +16,33 @@ linter-yaml-title-alias: Open-letter-response-to-chain-email-supposedly-from-ben
 ---
 
 
-Here is another open letter installment. I have had several in the hopper recently...  
-  
-\-Jason  
+Here is another open letter installment. I have had several in the hopper recently...
+
+\-Jason
 
 * * *
 
-  
 
-I would be interested more in which of the specific points below people actually believe in.  I can't imagine you believe in all of them, but maybe you do.  I'd be interested in the rationale.  
-  
-I'll offer my point-by-point commentary below.  
-  
-BTW, Ben Stein is surprisingly kind of a nut-job.  He's got a new documentary coming out that is full of crackpot conspiracy theories about Intelligent Design (which is NOT science) is somehow being suppressed by the scientific establishment.  Intelligent Design is the new name for Creationism.  It is also the banner for those on the religious right who simply want to criticize evolution, one of the most well-tested and fundamental scientific theories of our time.  
-  
-I'll pose some very succinct questions here as well to hone in on what people who believe some or all of the below actually believe:  
 
-> 1\. How do you think our society would fare any differently from the other theocracies?  e.g. most people loved the Taliban in Afghanastan but their society suppressed other beliefs and oppressed women and others under the auspices.  
-> 2\. How do you think that our Government can guarantee religious freedom and tolerance for ALL beliefs if it is actively promoting the Christian beliefs and agenda?  How can you guarantee that competing beliefs will not be drowned out by the "tyranny of the majority"?  
-> 3\. There are over 20,000 Christian denominations in the United States.  Which one should be the foundation for a Christian American nation?  A bonus question:  which version of Christian salvation is correct:  a) All you have to do is Believe and you are saved. b) You have to be a good person and can be saved even if you don't believe?  Christian religions cannot even agree on such a basic dogmatic tenet!   
-> 4\. If another religion or belief system became the dominant religion in America, should we change and have our Government promote that religion?  e.g. Judaism or Mormonism or Islam or even atheism (although it is not a religion)?   
+I would be interested more in which of the specific points below people actually believe in.  I can't imagine you believe in all of them, but maybe you do.  I'd be interested in the rationale.
+
+I'll offer my point-by-point commentary below.
+
+BTW, Ben Stein is surprisingly kind of a nut-job.  He's got a new documentary coming out that is full of crackpot conspiracy theories about Intelligent Design (which is NOT science) is somehow being suppressed by the scientific establishment.  Intelligent Design is the new name for Creationism.  It is also the banner for those on the religious right who simply want to criticize evolution, one of the most well-tested and fundamental scientific theories of our time.
+
+I'll pose some very succinct questions here as well to hone in on what people who believe some or all of the below actually believe:
+
+> 1\. How do you think our society would fare any differently from the other theocracies?  e.g. most people loved the Taliban in Afghanastan but their society suppressed other beliefs and oppressed women and others under the auspices.
+> 2\. How do you think that our Government can guarantee religious freedom and tolerance for ALL beliefs if it is actively promoting the Christian beliefs and agenda?  How can you guarantee that competing beliefs will not be drowned out by the "tyranny of the majority"?
+> 3\. There are over 20,000 Christian denominations in the United States.  Which one should be the foundation for a Christian American nation?  A bonus question:  which version of Christian salvation is correct:  a) All you have to do is Believe and you are saved. b) You have to be a good person and can be saved even if you don't believe?  Christian religions cannot even agree on such a basic dogmatic tenet! 
+> 4\. If another religion or belief system became the dominant religion in America, should we change and have our Government promote that religion?  e.g. Judaism or Mormonism or Islam or even atheism (although it is not a religion)? 
 > 5\. What do you think about the author of this email (not necessarily who sent it -- the original author, and not Ben Stein) being dishonest and violating one of the 10 commandments by misattributing text below to Ben Stein that he never said in an attempt to get more people to believe it?  Is that Christian?
 
-But be sure to read the below before you answer these.   
-  
-\-Jason  
-  
-Vincent wrote:  
+But be sure to read the below before you answer these. 
+
+\-Jason
+
+Vincent wrote:
 
 ```
 >   

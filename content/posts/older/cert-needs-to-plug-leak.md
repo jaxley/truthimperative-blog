@@ -15,22 +15,22 @@ linter-yaml-title-alias: Cert-needs-to-plug-leak
 ---
 
 
-  
-2.  Confidential bug report gets sent to CERT.  
-    
-3.  CERT sends it out to their advanced ISA (Internet Security Alliance: pay for early warning) group (Jericho calls "a vulnerability cartel)  
-    
-4.  The bug report is leaked out to the public, perhaps by an ISA member who was either compromised (if so, they would need more than CERT to help them...) or purposefully leaked it out  
-    
 
-  
-  
-Jericho's comments on the ISN list were classic, especially:  
-  
-"> CERT representatives declined to say when the organization planned  
-\> to release official versions of the leaked advisories.  
-  
-Even with leaked draft copies, CERT still can't release anything  
-ontime. Go figure."  
-  
+2. Confidential bug report gets sent to CERT.
+
+3. CERT sends it out to their advanced ISA (Internet Security Alliance: pay for early warning) group (Jericho calls "a vulnerability cartel)
+
+4. The bug report is leaked out to the public, perhaps by an ISA member who was either compromised (if so, they would need more than CERT to help them...) or purposefully leaked it out
+
+
+
+
+Jericho's comments on the ISN list were classic, especially:
+
+"> CERT representatives declined to say when the organization planned
+\> to release official versions of the leaked advisories.
+
+Even with leaked draft copies, CERT still can't release anything
+ontime. Go figure."
+
 [Wired News: Leaked Bug Alerts Cause a Stir](https://www.wired.com/news/infostructure/0,1377,58106,00.html "Wired News: Leaked Bug Alerts Cause a Stir")

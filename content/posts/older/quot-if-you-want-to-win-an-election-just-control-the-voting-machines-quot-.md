@@ -19,13 +19,13 @@ linter-yaml-title-alias: Quot-if-you-want-to-win-an-election-just-control-the-vo
 ---
 
 
-A couple more sites working against all-electronic voting machines:  
-  
-[https://www.blackboxvoting.com/](https://www.blackboxvoting.com/)  
-[https://www.ecotalk.org/VotingSecurity.htm](https://www.ecotalk.org/VotingSecurity.htm)  
-  
-Also, an [article](https://www.commondreams.org/views03/0131-01.htm) discussing a situation that, if true, is truly egregious:  
-  
-The senator who won the election in Nebraska allegedly "was the head of, and continues to own part interest in, the company that owns the company that installed, programmed, and largely ran the voting machines that were used by most of the citizens of Nebraska."  
-  
+A couple more sites working against all-electronic voting machines:
+
+[https://www.blackboxvoting.com/](https://www.blackboxvoting.com/)
+[https://www.ecotalk.org/VotingSecurity.htm](https://www.ecotalk.org/VotingSecurity.htm)
+
+Also, an [article](https://www.commondreams.org/views03/0131-01.htm) discussing a situation that, if true, is truly egregious:
+
+The senator who won the election in Nebraska allegedly "was the head of, and continues to own part interest in, the company that owns the company that installed, programmed, and largely ran the voting machines that were used by most of the citizens of Nebraska."
+
 The bigger issue, in my opinion, is not whether the senator had rigged his election but the fact that we are entirely unable to verify whether this occurred or not. With a voter verifiable and recountable audit trail, we could.

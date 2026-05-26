@@ -15,16 +15,16 @@ linter-yaml-title-alias: Bush-then-vs-now
 ---
 
 
-[Then:](https://www.cbsnews.com/stories/2004/03/15/opinion/polls/main606465.shtml)  
-  
+[Then:](https://www.cbsnews.com/stories/2004/03/15/opinion/polls/main606465.shtml)
 
->   
-> A large majority of voters express confidence that Bush will protect the country from a terrorist attack if he is re-elected in November  
 
-  
-  
-[Now:](https://www.cbsnews.com/stories/2005/09/08/opinion/polls/main824591.shtml)  
-  
+>
+> A large majority of voters express confidence that Bush will protect the country from a terrorist attack if he is re-elected in November
 
->   
+
+
+[Now:](https://www.cbsnews.com/stories/2005/09/08/opinion/polls/main824591.shtml)
+
+
+>
 > the public now shows diminished confidence in his abilities to handle a crisis or provide leadership, as well as in the government's ability to protect the country.

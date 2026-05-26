@@ -14,10 +14,10 @@ linter-yaml-title-alias: Boy-sent-home-from-school-for-dressing-as-jesus-for-hal
 ---
 
 
-This is truly ridiculous.  The constitutional prohibitions against schools endorsing religion do not extend to what the students choose to do.  This is the wrong move from a first amendment standpoint.  So before the religulous get in a huff about how the government is trying to get religion out of our schools, etc., I agree with you that they should not have done this.  But, this was not an issue of state-sponsored-religion.  
-  
-I still want to dress as Jesus on the bus to work one of these years...  
-  
-![](/DSCN1049.JPG)  
-  
+This is truly ridiculous.  The constitutional prohibitions against schools endorsing religion do not extend to what the students choose to do.  This is the wrong move from a first amendment standpoint.  So before the religulous get in a huff about how the government is trying to get religion out of our schools, etc., I agree with you that they should not have done this.  But, this was not an issue of state-sponsored-religion.
+
+I still want to dress as Jesus on the bus to work one of these years...
+
+![](/DSCN1049.JPG)
+
 [wcbstv.com - Boy Sent Home From School For Dressing As Jesus](https://wcbstv.com/seenon/jesus.halloween.costume.2.853729.html)

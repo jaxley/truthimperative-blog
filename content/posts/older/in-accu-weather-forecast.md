@@ -18,6 +18,6 @@ linter-yaml-title-alias: In-accu-weather-forecast
 ---
 
 
-Hat tip to my friend Kris who discovered this. I captured it for posterity:  
-  
+Hat tip to my friend Kris who discovered this. I captured it for posterity:
+
 [In-Accu-Weather](archives/in-accu-weather.pdf)

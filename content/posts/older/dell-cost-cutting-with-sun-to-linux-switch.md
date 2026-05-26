@@ -15,8 +15,8 @@ linter-yaml-title-alias: Dell-cost-cutting-with-sun-to-linux-switch
 ---
 
 
-Wow. This may help spur other cost-conscious companies (perhaps my employer too) into making the switch.  
-  
-"Currently, our order management, customer transaction information, manufacturing flow, and software downloads (as a part of our build-to-order manufacturing process) all involve Sun-based Unix systems. But that's all being moved to Dell-based systems running Red Hat Linux and Oracle 9iRAC. So far, 14 Sun systems are gone and the plans are to complete the 'Sun setting' exercise this year."  
-  
+Wow. This may help spur other cost-conscious companies (perhaps my employer too) into making the switch.
+
+"Currently, our order management, customer transaction information, manufacturing flow, and software downloads (as a part of our build-to-order manufacturing process) all involve Sun-based Unix systems. But that's all being moved to Dell-based systems running Red Hat Linux and Oracle 9iRAC. So far, 14 Sun systems are gone and the plans are to complete the 'Sun setting' exercise this year."
+
 [Dell, Sun execs trade jabs over Unix viability](https://www.computeruser.com/news/03/03/01/news8.html)

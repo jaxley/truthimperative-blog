@@ -12,6 +12,6 @@ updated: 2024-10-10 10:49:43-07:00
 ---07:00
 ---
 
-This video is hilarious!  Probably not suitable for work if the audio is on.  
-  
+This video is hilarious!  Probably not suitable for work if the audio is on.
+
 [glumbert.com | Sexual Consent](https://www.glumbert.com/media/consent)

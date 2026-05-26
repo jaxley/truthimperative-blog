@@ -14,13 +14,13 @@ linter-yaml-title-alias: Church-and-state-just-snuggled-closer
 ---
 
 
-[Americans United for the Separation of Church and State](https://www.commondreams.org/news2006/0907-01.htm "Americans United for the Separation of Church and State")  
-  
+[Americans United for the Separation of Church and State](https://www.commondreams.org/news2006/0907-01.htm "Americans United for the Separation of Church and State")
 
->   
-> Americans United Condemns House Committee Passage Of Bill Cutting Off Attorneys' Fees In Church-State Cases  
-> Measure Is More Pandering To The Religious Right, Says AU's Lynn  
 
-  
-  
+>
+> Americans United Condemns House Committee Passage Of Bill Cutting Off Attorneys' Fees In Church-State Cases
+> Measure Is More Pandering To The Religious Right, Says AU's Lynn
+
+
+
 Democrats _have_ to take the house back in November.

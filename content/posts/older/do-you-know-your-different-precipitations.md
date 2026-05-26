@@ -14,16 +14,16 @@ linter-yaml-title-alias: Do-you-know-your-different-precipitations
 ---
 
 
-I think that right now it is sleeting in Seattle.  
+I think that right now it is sleeting in Seattle.
 
-*   Freezing Rain:  supercooled raindrops that freeze instantly when they hit the ground or other objects
-*   Hail:  snow and rain in the upper atmosphere mix due to updrafts and accumulate into large pellets that fall to earth when the updraft can't support their weight
-*   Sleet:  Partially-melted snow that freezes again on the way down and falls as visible pellets.
+* Freezing Rain:  supercooled raindrops that freeze instantly when they hit the ground or other objects
+* Hail:  snow and rain in the upper atmosphere mix due to updrafts and accumulate into large pellets that fall to earth when the updraft can't support their weight
+* Sleet:  Partially-melted snow that freezes again on the way down and falls as visible pellets.
 
-  
-[Precipitation: hail, rain, freezing rain, sleet and snow](https://ww2010.atmos.uiuc.edu/%28Gh%29/guides/mtr/cld/prcp/home.rxml)  
 
-  
-  
+[Precipitation: hail, rain, freezing rain, sleet and snow](https://ww2010.atmos.uiuc.edu/%28Gh%29/guides/mtr/cld/prcp/home.rxml)
+
+
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=bb7936df-08e5-4674-bc63-543731e95fdd) -->

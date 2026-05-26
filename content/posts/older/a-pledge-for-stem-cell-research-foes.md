@@ -15,10 +15,10 @@ linter-yaml-title-alias: A-pledge-for-stem-cell-research-foes
 ---
 
 
-[Pandagon: A compromise I can really stand behind](https://www.pandagon.net/archives/2005/05/a_compromise_i.html "Pandagon: A compromise I can really stand behind")  
-  
-This is a great idea. A lot of adult stem cell treatments may now or in the future benefit from embryonic stem cell research so these foes better hope they or their family members never get Leukemia...  
-  
-In-vitro fertilization generates hundreds of thousands of embryos that are simply stored or destroyed for no gain. It is ridiculous to not allow the use of these to further cures for diseases such as cancer and diabetes.  
-  
+[Pandagon: A compromise I can really stand behind](https://www.pandagon.net/archives/2005/05/a_compromise_i.html "Pandagon: A compromise I can really stand behind")
+
+This is a great idea. A lot of adult stem cell treatments may now or in the future benefit from embryonic stem cell research so these foes better hope they or their family members never get Leukemia...
+
+In-vitro fertilization generates hundreds of thousands of embryos that are simply stored or destroyed for no gain. It is ridiculous to not allow the use of these to further cures for diseases such as cancer and diabetes.
+
 The majority of the country cares about science and progress and healing.

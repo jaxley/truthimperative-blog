@@ -15,6 +15,6 @@ linter-yaml-title-alias: Anti-polygraph
 ---
 
 
-Here is a 176-page PDF paper on the fallacy of polygraph exams (a.k.a. "lie" detectors). I have not read up on this subject in some time but this looks to be a good read.  
-  
+Here is a 176-page PDF paper on the fallacy of polygraph exams (a.k.a. "lie" detectors). I have not read up on this subject in some time but this looks to be a good read.
+
 [Lie Behind the Lie Detector](https://www.nopolygraph.com/lie-behind-the-lie-detector.pdf "Lie Behind the Lie Detector")

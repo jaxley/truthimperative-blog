@@ -16,11 +16,11 @@ linter-yaml-title-alias: Michael-dell-calls-bs-on-companies-using-threat-of-war-
 ---
 
 
-[Marketplace 4-Mar-2003, interview with Michael Dell](https://marketplace.publicradio.org/shows/2003/03/04_mpp.html)  
-  
+[Marketplace 4-Mar-2003, interview with Michael Dell](https://marketplace.publicradio.org/shows/2003/03/04_mpp.html)
+
 
 > It's the current fashion for companies to blame the threat of war in Iraq for business being bad. But one company that's not using the war to explain its performance is Dell Computer. Marketplace host David Brancaccio talks with founder Michael Dell about how a company can succeed even in times of economic insecurity.
 
-  
-  
+
+
 Michael talks about companies who are blaming poor results on the Iraq situation, etc. He says "Sadaam ate my homework" is not a good excuse. There will always be uncertainty in world events. Companies need to learn to succeed when times are good, but also when times are bad. Very sage advice indeed.

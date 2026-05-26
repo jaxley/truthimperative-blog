@@ -15,6 +15,6 @@ linter-yaml-title-alias: Find-your-elected-officials-by-zip
 ---
 
 
-This is a great site that will show you who your legislators are by submitting your 9 digit zip + 4.  
-  
+This is a great site that will show you who your legislators are by submitting your 9 digit zip + 4.
+
 [Project Vote Smart](https://www.vote-smart.org/ "Project Vote Smart -")

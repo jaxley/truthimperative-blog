@@ -15,13 +15,13 @@ linter-yaml-title-alias: Openldapopenssl-stupidity
 ---
 
 
-Sorry for not keeping up. Been enjoying the summer too much!  
-  
-Anyhow, I thought that my experience in trying to get openLDAP 2.0.x working with TLS would be of interest to someone because the solution was so orthogonal it is unbelievable.  
-  
-I have working OpenLDAP servers with TLS on two other machines so was baffled when I tried /etc/rc.d/init.d/ldap start and got \[FAILED\] with a very similar configuration to the others. Permissions on the TLS files are very finicky so I tried tweaking those--but nothing was working. I tried strace on the slapd binary but that did not offer any clues. I was able to get it to work by running slapd in debug mode on the command line, but in that mode it was ignoring the -u ldap so was running as root. So that told me there was some sort of permissions problem. But where?  
-  
-Setting up syslog for openldap (not on by default, unfortunately) indicated these errors in the syslog logfile:  
+Sorry for not keeping up. Been enjoying the summer too much!
+
+Anyhow, I thought that my experience in trying to get openLDAP 2.0.x working with TLS would be of interest to someone because the solution was so orthogonal it is unbelievable.
+
+I have working OpenLDAP servers with TLS on two other machines so was baffled when I tried /etc/rc.d/init.d/ldap start and got \[FAILED\] with a very similar configuration to the others. Permissions on the TLS files are very finicky so I tried tweaking those--but nothing was working. I tried strace on the slapd binary but that did not offer any clues. I was able to get it to work by running slapd in debug mode on the command line, but in that mode it was ignoring the -u ldap so was running as root. So that told me there was some sort of permissions problem. But where?
+
+Setting up syslog for openldap (not on by default, unfortunately) indicated these errors in the syslog logfile:
 ```
   
 Aug 18 22:07:21 funhouse slapd\[29220\]: daemon: socket() failed errno=97 (Address family not supported by protocol)  
@@ -31,8 +31,8 @@ Aug 18 22:07:21 funhouse slapd\[29220\]: slapd stopped.
 Aug 18 22:07:21 funhouse slapd\[29220\]: connections\_destroy: nothing to destroy.  
 
 ```  
-Hmmm. Not too helpful. I googled on these messages and didn't find a thing that helped. I tried all kinds of permissions tweaking to no avail.  
-Adding SLAPD\_OPTIONS="-d 6" to /etc/sysconfig/ldap offered up these gems of wisdom:  
+Hmmm. Not too helpful. I googled on these messages and didn't find a thing that helped. I tried all kinds of permissions tweaking to no avail.
+Adding SLAPD\_OPTIONS="-d 6" to /etc/sysconfig/ldap offered up these gems of wisdom:
 ```
   
 TLS: could not load verify locations (file:\`/etc/openldap/ssl/cert/cacert.pem',dir:\`').  
@@ -48,15 +48,15 @@ connections\_destroy: nothing to destroy.
 \[FAILED\]  
 
 ```  
-WTF? So it **_looks_** like some permissions problem with /etc/openldap/ssl/cert/cacert.pem. But that file is world-readable. Does openLDAP think that it needs write perms to that file? Okay--wish granted. Nothing.  
-What finally turned me onto the final solution was the last line "X509\_load\_cert\_crl\_file..." The OpenSSL library is trying to find a CRL file. Why would it be having trouble (I don't have a CRL for my CA)? Poking around /usr/share/ssl I noticed that openssl.cnf is not world-readable. Well, I knew that. But most things that need it start as root and then drop privs and it hasn't been a problem. Let's just for the heck of it chmod 644 the file and try again.  
+WTF? So it **_looks_** like some permissions problem with /etc/openldap/ssl/cert/cacert.pem. But that file is world-readable. Does openLDAP think that it needs write perms to that file? Okay--wish granted. Nothing.
+What finally turned me onto the final solution was the last line "X509\_load\_cert\_crl\_file..." The OpenSSL library is trying to find a CRL file. Why would it be having trouble (I don't have a CRL for my CA)? Poking around /usr/share/ssl I noticed that openssl.cnf is not world-readable. Well, I knew that. But most things that need it start as root and then drop privs and it hasn't been a problem. Let's just for the heck of it chmod 644 the file and try again.
 ```
   
 \# /etc/rc.d/init.d/ldap start  
 Starting slapd:                                            \[  OK  \]  
 
 ```  
-You have **got** to be kidding me?!?! openssl.cnf must be readable by the ldap user! None of the log messages indicated this. You would think that there would be an fopen() call that would fail in trying to open this file... Well, there is. Looking at the strace output I find:  
+You have **got** to be kidding me?!?! openssl.cnf must be readable by the ldap user! None of the log messages indicated this. You would think that there would be an fopen() call that would fail in trying to open this file... Well, there is. Looking at the strace output I find:
 ```
   
 open("/usr/share/ssl/openssl.cnf", O\_RDONLY) = -1 EACCES (Permission denied)  

@@ -17,8 +17,8 @@ linter-yaml-title-alias: Scientists-re-invent-nature
 ---
 
 
-[BBC NEWS | Science/Nature | Butterfly wings work like LEDs](https://news.bbc.co.uk/2/hi/science/nature/4443854.stm "BBC NEWS | Science/Nature | Butterfly wings work like LEDs")  
-  
+[BBC NEWS | Science/Nature | Butterfly wings work like LEDs](https://news.bbc.co.uk/2/hi/science/nature/4443854.stm "BBC NEWS | Science/Nature | Butterfly wings work like LEDs")
 
->   
+
+>
 > When scientists developed an efficient device for emitting light, they hadn't realised butterflies have been using the same method for 30 million years.

@@ -14,11 +14,11 @@ linter-yaml-title-alias: How-to-use-google-to-find-breach-disclosures
 ---
 
 
-Adam Shostack provides some useful information on companies who have publicly disclosed data breaches and how to find more later on.  Gotta love the Internet.  
-  
-[Emergent Chaos: Breaches in SEC Reports](https://www.emergentchaos.com/archives/2007/05/breaches_in_sec_reports.html)  
+Adam Shostack provides some useful information on companies who have publicly disclosed data breaches and how to find more later on.  Gotta love the Internet.
 
-> this Google search against the edgar-online site  
-> works well:  
->   
+[Emergent Chaos: Breaches in SEC Reports](https://www.emergentchaos.com/archives/2007/05/breaches_in_sec_reports.html)
+
+> this Google search against the edgar-online site
+> works well:
+>
 > ("disclosure of personal information"|"security breach") ("10-K"|"10K"|"10-Q"|"10Q") site:edgar-online.com

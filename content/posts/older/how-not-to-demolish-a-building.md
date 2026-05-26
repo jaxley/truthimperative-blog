@@ -15,6 +15,6 @@ linter-yaml-title-alias: How-not-to-demolish-a-building
 ---
 
 
-Funny video of a real life demolition in Sioux Falls, SD that intended to cause the building to fall over but instead just shortened it by about a third.  
-  
+Funny video of a real life demolition in Sioux Falls, SD that intended to cause the building to fall over but instead just shortened it by about a third.
+
 [https://www.argusleader.com/assets/mov/DF13214123.MOV](https://www.argusleader.com/assets/mov/DF13214123.MOV)

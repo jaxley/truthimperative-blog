@@ -14,17 +14,17 @@ linter-yaml-title-alias: Free-west-seattle-wi-fi
 ---
 
 
-Finally got a secondary wi-fi setup at home for guests, iPhone users, and neighbors who need to borrow it.  Like Bruce Schneier, I just think it's the neighborly thing to do.  Until now, I couldn't allow it because my main wi-fi needs encryption to keep interlopers off my LAN.  But, the secondary wi-fi is in a DMZ so all that is accessible is the Internet.  
-  
-SSID:  hellohansenview  
-  
-Enjoy!  
-  
-\* Hansen View is the official name of my neighborhood.  
-  
-Curious if anyone else out there vends open wi-fi for the interloper?  
-  
-I've borrowed some neighbor's open linksys many a time to get info on the Internet when my DSL is down.  But these days, most are encrypted, which makes me sad.  
-  
+Finally got a secondary wi-fi setup at home for guests, iPhone users, and neighbors who need to borrow it.  Like Bruce Schneier, I just think it's the neighborly thing to do.  Until now, I couldn't allow it because my main wi-fi needs encryption to keep interlopers off my LAN.  But, the secondary wi-fi is in a DMZ so all that is accessible is the Internet.
+
+SSID:  hellohansenview
+
+Enjoy!
+
+\* Hansen View is the official name of my neighborhood.
+
+Curious if anyone else out there vends open wi-fi for the interloper?
+
+I've borrowed some neighbor's open linksys many a time to get info on the Internet when my DSL is down.  But these days, most are encrypted, which makes me sad.
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=d511461a-1ddb-8538-abbf-e87405ac734b) -->

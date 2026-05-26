@@ -17,17 +17,17 @@ linter-yaml-title-alias: Are-you-blocking-flash-cookies
 ---
 
 
-Spammers and people without regard for your privacy or your privacy preferences (blocking cookies means I don't want them in any form) are insidious.  
-  
-Unbeknownst to many people, Macromedia Flash player allows surreptitious cookies to be dropped on your computer that can be used to track you even if you block traditional browser cookies.  
-  
-Some information on eradicating them:  
-  
-Firefox extension for blocking flash cookies:  
-\[https://www.yardley.ca/objection/\]  
-  
-Macromedia info (opens up the hidden flash config tool in your browser that lets you view and expunge flash cookies):  
-\[https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager06.html\]  
-  
-EPIC Flash Cookie page:  
+Spammers and people without regard for your privacy or your privacy preferences (blocking cookies means I don't want them in any form) are insidious.
+
+Unbeknownst to many people, Macromedia Flash player allows surreptitious cookies to be dropped on your computer that can be used to track you even if you block traditional browser cookies.
+
+Some information on eradicating them:
+
+Firefox extension for blocking flash cookies:
+\[https://www.yardley.ca/objection/\]
+
+Macromedia info (opens up the hidden flash config tool in your browser that lets you view and expunge flash cookies):
+\[https://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager06.html\]
+
+EPIC Flash Cookie page:
 \[https://www.epic.org/privacy/cookies/flash.html\]

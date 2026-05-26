@@ -15,8 +15,8 @@ linter-yaml-title-alias: Back-in-the-saddle
 ---
 
 
-Well, this site has gone stagnant for almost a year now for reasons that I'd rather not go into.  
-  
-But that's not the important thing--it's back online, on superfast hardware now, and should get more regular updates.  
-  
+Well, this site has gone stagnant for almost a year now for reasons that I'd rather not go into.
+
+But that's not the important thing--it's back online, on superfast hardware now, and should get more regular updates.
+
 Hope you enjoy!

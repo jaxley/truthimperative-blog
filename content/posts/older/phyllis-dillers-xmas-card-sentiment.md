@@ -14,9 +14,9 @@ linter-yaml-title-alias: Phyllis-dillers-xmas-card-sentiment
 ---
 
 
-[The moral and aesthetic nightmare of Christmas. - By Christopher Hitchens - Slate Magazine](https://www.slate.com/id/2206713/)  
+[The moral and aesthetic nightmare of Christmas. - By Christopher Hitchens - Slate Magazine](https://www.slate.com/id/2206713/)
 
-> Money's scarce  
-> Times are hard  
-> Here's your f\*\*\*\*\*\*  
+> Money's scarce
+> Times are hard
+> Here's your f\*\*\*\*\*\*
 > Xmas card

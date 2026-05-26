@@ -13,8 +13,8 @@ created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 14:59:56-07:00
 ---
 
-[Boing Boing: Encrypted VOIP from PGP creator Zimmermann: Zfone](https://www.boingboing.net/2006/03/14/encrypted_voip_from_.html "Boing Boing: Encrypted VOIP from PGP creator Zimmermann: Zfone")  
-  
-Encrypted VOIP from PGP creator Zimmermann: Zfone  
-  
+[Boing Boing: Encrypted VOIP from PGP creator Zimmermann: Zfone](https://www.boingboing.net/2006/03/14/encrypted_voip_from_.html "Boing Boing: Encrypted VOIP from PGP creator Zimmermann: Zfone")
+
+Encrypted VOIP from PGP creator Zimmermann: Zfone
+
 Good reason to switch to VOIP instead of traditional phones to protect yourself from Big Brother Bush.

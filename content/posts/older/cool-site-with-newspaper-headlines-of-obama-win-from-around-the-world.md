@@ -14,6 +14,6 @@ linter-yaml-title-alias: Cool-site-with-newspaper-headlines-of-obama-win-from-ar
 ---
 
 
-VERY cool.  Especially for those who couldn't get their hands on a paper copy the day-after.  
-  
+VERY cool.  Especially for those who couldn't get their hands on a paper copy the day-after.
+
 [Newspaper headlines of Obama election win, Nov. 5 2008 - Boing Boing](https://www.boingboing.net/2008/11/08/newspaper-headlines.html)

@@ -17,6 +17,6 @@ linter-yaml-title-alias: Good-end-user-information-on-phishing-from-paypal
 ---
 
 
-[PayPal - Identity Protection Resources](https://www.paypal.com/cgi-bin/webscr?cmd=xpt/cps/general/Spoof-outside "PayPal - Identity Protection Resources")  
-  
+[PayPal - Identity Protection Resources](https://www.paypal.com/cgi-bin/webscr?cmd=xpt/cps/general/Spoof-outside "PayPal - Identity Protection Resources")
+
 It was a very good touch that PayPal even uses HTTPS (SSL) for their pages providing this security information so that end users can authenticate the pages originate from PayPal and get used to ensuring that their interactions with PayPal are SSL-secured.

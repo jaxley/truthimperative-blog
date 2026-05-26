@@ -15,12 +15,12 @@ linter-yaml-title-alias: Reverse-surveillance
 ---
 
 
-[Wired News: Surveillance Works Both Ways](https://www.wired.com/news/privacy/0,1848,67216,00.html?tw=wn_tophead_1 "Wired News: Surveillance Works Both Ways")  
-  
-At this year's Computers, Freedom and Privacy conference in Seattle, Steve Mann enlisted volunteers to film those who were filming them in local Seattle businesses. They got varied responses. I think this would be really useful in airports to monitor what the TSA does. But, I bet they would not be so happy about that.  
-  
+[Wired News: Surveillance Works Both Ways](https://www.wired.com/news/privacy/0,1848,67216,00.html?tw=wn_tophead_1 "Wired News: Surveillance Works Both Ways")
 
->   
-> "The totalitarian regime is the regime that would like to know everything about everyone but reveal nothing about itself"  
->   
+At this year's Computers, Freedom and Privacy conference in Seattle, Steve Mann enlisted volunteers to film those who were filming them in local Seattle businesses. They got varied responses. I think this would be really useful in airports to monitor what the TSA does. But, I bet they would not be so happy about that.
+
+
+>
+> "The totalitarian regime is the regime that would like to know everything about everyone but reveal nothing about itself"
+>
 > "What I argue is that if I'm going to be held accountable for my actions that I should be allowed to record ... my actions," Mann said. "Especially if somebody else is keeping a record of my actions."

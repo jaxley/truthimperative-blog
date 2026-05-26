@@ -14,13 +14,13 @@ linter-yaml-title-alias: Funniest-nonprofit
 ---
 
 
-They do sound like they are doing good work. But sounded like a joke at first mention. Don't miss the 2008 World Toilet Summit.  
-  
-[World Toilet Organization|WTO|Global Voice for Toilets & Sanitation](https://www.worldtoilet.org/)  
+They do sound like they are doing good work. But sounded like a joke at first mention. Don't miss the 2008 World Toilet Summit.
 
-> World Toilet Organization (WTO) is a global non- profit organization committed to improving toilet and sanitation conditions worldwide.  
+[World Toilet Organization|WTO|Global Voice for Toilets & Sanitation](https://www.worldtoilet.org/)
 
-  
-  
-And the funniest icon:  
-  
+> World Toilet Organization (WTO) is a global non- profit organization committed to improving toilet and sanitation conditions worldwide.
+
+
+
+And the funniest icon:
+

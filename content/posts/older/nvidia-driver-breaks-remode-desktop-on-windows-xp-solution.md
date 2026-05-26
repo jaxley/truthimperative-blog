@@ -14,19 +14,19 @@ linter-yaml-title-alias: Nvidia-driver-breaks-remode-desktop-on-windows-xp-solut
 ---
 
 
-Gotta love Google.  
-  
-I added this key, rebooted and now I'm back in business!  
-  
-[NVIDIA Forums -> WHQL 175.16 - remote desktop fails](https://forums.nvidia.com/index.php?showtopic=67147&st=60)  
+Gotta love Google.
 
-> This problem is not specific to any one graphics company. It can probably happen with printer drivers too.  
->   
-> The root of the problem is that the session image space is too small and it can't load any more drivers into it. The session image space is shared for the display driver drivers and printer drivers. rdpdd = remote desktop protocol display driver.  
->   
-> You can fix this bug by increasing the size of the session image space via a registry key. Add the following key:  
-> \[HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management\]  
->   
-> "SessionImageSize"=dword:00000020  
->   
+I added this key, rebooted and now I'm back in business!
+
+[NVIDIA Forums -> WHQL 175.16 - remote desktop fails](https://forums.nvidia.com/index.php?showtopic=67147&st=60)
+
+> This problem is not specific to any one graphics company. It can probably happen with printer drivers too.
+>
+> The root of the problem is that the session image space is too small and it can't load any more drivers into it. The session image space is shared for the display driver drivers and printer drivers. rdpdd = remote desktop protocol display driver.
+>
+> You can fix this bug by increasing the size of the session image space via a registry key. Add the following key:
+> \[HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management\]
+>
+> "SessionImageSize"=dword:00000020
+>
 > 0x20 == 32 MB works on my system anyway.

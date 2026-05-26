@@ -14,8 +14,8 @@ url: /2006/11/scans-from-1962-fallout-shelter-handbook.html
 ---
 
 
-[The Ward-O-Matic: Fallout Shelter Handbook 1962](https://wardomatic.blogspot.com/2006/11/fallout-shelter-handbook-1962.html "The Ward-O-Matic: Fallout Shelter Handbook 1962")  
-  
-I've been working on emergency preparedness for my neighborhood lately so this is very apropos.  
-  
+[The Ward-O-Matic: Fallout Shelter Handbook 1962](https://wardomatic.blogspot.com/2006/11/fallout-shelter-handbook-1962.html "The Ward-O-Matic: Fallout Shelter Handbook 1962")
+
+I've been working on emergency preparedness for my neighborhood lately so this is very apropos.
+
 BTW, I found a $79.99 Ready kit at Home Depot that is a pretty good deal for a 2-person 72 hour kit (what is recommended for personal preparedness at a minimum). Don't forget supplies for your pets too!

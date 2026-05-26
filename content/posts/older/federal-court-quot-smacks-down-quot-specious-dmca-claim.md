@@ -15,10 +15,10 @@ linter-yaml-title-alias: Federal-court-quot-smacks-down-quot-specious-dmca-claim
 ---
 
 
-[Fed. Circuit Smacks Down Bad DMCA Decision Re: Independent Repair Techs](https://www.corante.com/copyfight/archives/039297print.html)  
-  
-Great news for the public's rights over "copy" rights.  
-  
+[Fed. Circuit Smacks Down Bad DMCA Decision Re: Independent Repair Techs](https://www.corante.com/copyfight/archives/039297print.html)
 
->   
+Great news for the public's rights over "copy" rights.
+
+
+>
 > the DMCA must be read in the context of the Copyright Act, which balances the rights of the copyright owner against the public’s interest in having appropriate access to the work.

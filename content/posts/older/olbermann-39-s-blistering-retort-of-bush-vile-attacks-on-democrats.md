@@ -1,5 +1,5 @@
 ---
-title: Olbermann'S Blistering Retort Of Bush Vile Attacks On Democrats
+title: "Olbermann'S Blistering Retort Of Bush Vile Attacks On Democrats"
 source: 
 created: 2024-10-06 21:27:13-07:00
 updated: 2024-10-10 12:07:23-07:00

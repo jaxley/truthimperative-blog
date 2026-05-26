@@ -15,8 +15,8 @@ linter-yaml-title-alias: Call-your-phone-company
 ---
 
 
-[Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!](https://www.dailykos.com/story/2006/5/11/91046/7966 "Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!")  
-  
-I called Verizon Wireless and they said that it was not them, but the parent Verizon, which is the subject and that VZW does not divulge this information (known in the biz as CPNI).  
-  
+[Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!](https://www.dailykos.com/story/2006/5/11/91046/7966 "Daily Kos: ACTION ALERT: Tell ATT, Verizon, Cingular, SBC NO NSA SPYING!")
+
+I called Verizon Wireless and they said that it was not them, but the parent Verizon, which is the subject and that VZW does not divulge this information (known in the biz as CPNI).
+
 I urge you also to call your phone company if they, like Qwest, did \_not\_ provide your information and thank them. I also did that for Qwest.

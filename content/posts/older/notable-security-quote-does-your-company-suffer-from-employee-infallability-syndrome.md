@@ -16,6 +16,6 @@ linter-yaml-title-alias: Notable-security-quote-does-your-company-suffer-from-em
 ---
 
 
-> I will say that any government (or other) program which assumes the honesty of employees and contractors is fundamentally flawed, and any associated risk analysis is either incompetent, or in failing to identify risk to travellers, seriously incomplete.  
->   
+> I will say that any government (or other) program which assumes the honesty of employees and contractors is fundamentally flawed, and any associated risk analysis is either incompetent, or in failing to identify risk to travellers, seriously incomplete.
+>
 > \-- Ian Farquhar on the Cryptography mailing list 2/27/2007

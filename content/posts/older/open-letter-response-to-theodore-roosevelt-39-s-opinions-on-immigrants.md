@@ -1,5 +1,5 @@
 ---
-title: Open Letter Response To Theodore Roosevelt'S Opinions On Immigrants
+title: "Open Letter Response To Theodore Roosevelt'S Opinions On Immigrants"
 source: 
 created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 12:07:23-07:00
@@ -13,26 +13,26 @@ url: /2007/12/open-letter-response-to-theodore.html
 ---
 
 
-Another installment.  A light response; was getting warmed up.  I'm interested in rational discourse instead of everyone assuming that everyone believes in what they do; maybe get people to think critically about their own opinions a bit more.  
-  
+Another installment.  A light response; was getting warmed up.  I'm interested in rational discourse instead of everyone assuming that everyone believes in what they do; maybe get people to think critically about their own opinions a bit more.
+
 
 * * *
 
-  
 
-This makes me curious about a couple of questions of the recipients:  
 
-> 1\. Which specific points that the president made below do you agree with?  
-> 2\. Do you think that the fact that a former president said this makes it more compelling?  If so, how do you reconcile this with the founding fathers who were slaveowners or believed that women shouldn't be allowed to vote, etc.?  
+This makes me curious about a couple of questions of the recipients:
+
+> 1\. Which specific points that the president made below do you agree with?
+> 2\. Do you think that the fact that a former president said this makes it more compelling?  If so, how do you reconcile this with the founding fathers who were slaveowners or believed that women shouldn't be allowed to vote, etc.?
 > 3\. How do you reconcile the president's statements below, "the person's becoming in every facet an American, and nothing but an American" and "Any man who says he is an American, but something else also \[i.e. Polish, Irish, etc.\], isn't an American at all.  We have room for but one flag, the American flag" with pride of origin that we as Pollocks might want to celebrate?  Or is there a disconnect where it's okay for us but not for others?  Where do you draw the line and why?
 
-I thought it would be more interesting and enlightening if maybe we can get a dialogue started than simply passing these kinds of emails around without knowing just where people stand on these things.  Especially if the intent of these emails is to try and change people's minds; the emails serve only to preach to the choir who already buy into the sentiments unless there is something else compelling about them.  
-  
-Cheers and Happy Holidays!  
-  
-\-Jason  
-  
-  redacted@example.com wrote:  
+I thought it would be more interesting and enlightening if maybe we can get a dialogue started than simply passing these kinds of emails around without knowing just where people stand on these things.  Especially if the intent of these emails is to try and change people's minds; the emails serve only to preach to the choir who already buy into the sentiments unless there is something else compelling about them.
+
+Cheers and Happy Holidays!
+
+\-Jason
+
+  redacted@example.com wrote:
 
 ```
 >   

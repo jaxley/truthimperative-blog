@@ -14,8 +14,8 @@ linter-yaml-title-alias: Infographic-on-efficacy-of-popular-supplements
 ---
 
 
-The really cool thing is that the whole graphic is backed by a google doc spreadsheet that is chock full with explicit references to back up the claims.  My wife of course asked where they got the data -- and you can actually check it out (you don't have to take their word for it).  This is a graphical representation of the "Alternative" medicine trash heap I blogged about previously.  
-  
-I think that skeptics need to do more and more of these things to consolidate the current state of affairs for all kinds of scientific questions that are muddied by woo proponents.  
-  
+The really cool thing is that the whole graphic is backed by a google doc spreadsheet that is chock full with explicit references to back up the claims.  My wife of course asked where they got the data -- and you can actually check it out (you don't have to take their word for it).  This is a graphical representation of the "Alternative" medicine trash heap I blogged about previously.
+
+I think that skeptics need to do more and more of these things to consolidate the current state of affairs for all kinds of scientific questions that are muddied by woo proponents.
+
 [Snake Oil? The scientific evidence for health supplements](https://www.informationisbeautiful.net/play/snake-oil-supplements/)

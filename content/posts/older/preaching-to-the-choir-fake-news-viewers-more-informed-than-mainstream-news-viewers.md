@@ -14,10 +14,10 @@ linter-yaml-title-alias: Preaching-to-the-choir-fake-news-viewers-more-informed-
 ---
 
 
-A recent Pew research study shows that viewers of The Daily Show and The Colbert Report are more informed about current events than "average consumers of NBC, ABC, Fox News, CNN, C-SPAN and daily newspapers." Pathetic.  
-  
-e.g.  
+A recent Pew research study shows that viewers of The Daily Show and The Colbert Report are more informed about current events than "average consumers of NBC, ABC, Fox News, CNN, C-SPAN and daily newspapers." Pathetic.
 
-> “**Thirty percent** of Daily Show and **34 percent** of Colbert viewers **correctly identified Secretary of State Condoleezza Rice**, British Prime Minister Gordon Brown and **the majority party in the U.S. House of Representatives**”  
+e.g.
+
+> “**Thirty percent** of Daily Show and **34 percent** of Colbert viewers **correctly identified Secretary of State Condoleezza Rice**, British Prime Minister Gordon Brown and **the majority party in the U.S. House of Representatives**”
 
 [Think Progress » Colbert, Stewart viewers more well-informed than those watching O’Reilly, Dobbs.](https://thinkprogress.org/2008/08/18/stewart-colbert-oreilly-dobbs/)

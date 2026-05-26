@@ -15,25 +15,25 @@ linter-yaml-title-alias: Reckless-administration-may-reap-disastrous-consequence
 ---
 
 
-Senator Robert Byrd made this excellent speech on the negative consequences of the Bush Administrations actions and policies.  
-  
-Some gems:  
-  
+Senator Robert Byrd made this excellent speech on the negative consequences of the Bush Administrations actions and policies.
 
-> "To contemplate war is to think about the most horrible of human experiences. On this February day, as this nation stands at the brink of battle, every American on some level must be contemplating the horrors of war.  
->   
+Some gems:
+
+
+> "To contemplate war is to think about the most horrible of human experiences. On this February day, as this nation stands at the brink of battle, every American on some level must be contemplating the horrors of war.
+>
 > Yet, this Chamber is, for the most part, silent -- ominously, dreadfully silent. There is no debate, no discussion, no attempt to lay out for the nation the pros and cons of this particular war. There is nothing. "
 
-  
-  
+
+
 
 > "This Administration, now in power for a little over two years, must be judged on its record. I believe that that record is dismal."
 
-  
-  
+
+
 
 > "Calling heads of state pygmies, labeling whole countries as evil, denigrating powerful European allies as irrelevant -- these types of crude insensitivities can do our great nation no good. "
 
-  
-  
+
+
 [https://www.commondreams.org/views03/0212-07.htm](https://www.commondreams.org/views03/0212-07.htm)

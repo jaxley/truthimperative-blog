@@ -41,7 +41,7 @@ Translation: "We managed to have a 100% outage of this service for 100% of AWS c
 
 Amazon writing is *very precise* The adjective "big" above that modifies "impact" would be flagged as a "weasel word"[^4] in a document review because it is vague. Vague writing does not communicate valuable information to the reader. Time is valuable, so writing that communicates zero information is a waste of the reader's time. What is the definition of "big"? From whose perspective? Perhaps Amazon didn't lose any customers based on this issue so the writer means that the impact *to Amazon* was negligible or zero? Notice how the context can completely change how a reader should interpret the outage? If the writer is addressing impact to *AWS customers*, then saying there wasn't a big impact is at best, making a value judgment on behalf of its customers and at worst, is gaslighting[^5] their customers.
 
-The Amazon response also attempts to rebut the article that there were two AI-related "events". 
+The Amazon response also attempts to rebut the article that there were two AI-related "events".
 
 > The Financial Times' claim that a second event impacted AWS is entirely false [^2]
 
@@ -72,11 +72,11 @@ How did they fix "user error"? Did they change the user (fire them)? Or did they
 
 > For more than two decades, Amazon has achieved high operational excellence with our Correction of Error (COE) process... [^2]
 
-I'll bite my tongue on the additional weasel words "high operational excellence"....  I want to talk about the reference here to the COE process. Nowhere in the narrative did they say "we conducted a COE" to arrive at the list of safeguards. The reference to it here could be tactic to get the reader to conclude that they conducted a COE.
+I'll bite my tongue on the additional weasel words "high operational excellence".... I want to talk about the reference here to the COE process. Nowhere in the narrative did they say "we conducted a COE" to arrive at the list of safeguards. The reference to it here could be tactic to get the reader to conclude that they conducted a COE.
 
 Not every problem gets investigated via a COE. Issues get reviewed weekly and a narrative may be written that describes the cause and action items for senior leadership. Many don't get a narrative and are just tracked to ensure action items get closed. Sometimes, a COE is recommended as an action item to dig deeper into the problem than you can expect to do at a moment's notice (I've recommended these several times). COEs don't necessarily follow a non-linear, systems-thinking approach. It's completely dependent on who is conducting the deep-dive. The typical procedures recommend using the "5 whys" and talk about "root" cause so they tend to be biased toward linear thinking analyses. Because of this, they don't always go deep enough to identify the right problems to solve past the surface issues.
 
-This recent article [Why I don’t like “Correction of Error” – Surfing Complexity](https://surfingcomplexity.blog/2025/12/20/why-i-dont-like-correction-of-error/) echoes my thoughts on the problems with the name of this process that Amazon uses. 
+This recent article [Why I don’t like “Correction of Error” – Surfing Complexity](https://surfingcomplexity.blog/2025/12/20/why-i-dont-like-correction-of-error/) echoes my thoughts on the problems with the name of this process that Amazon uses.
 
 Note: Surprisingly, they use the word "incident" in the blog post. This was typically a verboten word for public statements about security.
 

@@ -16,12 +16,12 @@ linter-yaml-title-alias: Bushit-stem-cell-veto
 ---
 
 
-[Scott Rosenberg's Links & Comment](https://blogs.salon.com/0000014/2006/07/19.html#a1068 "Scott Rosenberg's Links & Comment")  
-  
+[Scott Rosenberg's Links & Comment](https://blogs.salon.com/0000014/2006/07/19.html#a1068 "Scott Rosenberg's Links & Comment")
 
->   
+
+>
 > Here is why Bush's position is a joke: _Thousands and thousands of embryos are destroyed every year in fertility clinics._ They are created in petri dishes as part of fertility treatments like IVF; then they are discarded.
 
-  
-  
+
+
 Exactly. It's half-assed ridiculous pandering to anti-science, life-regardless-of-the-quality-of-life religious zealots.

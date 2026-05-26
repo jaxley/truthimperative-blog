@@ -14,13 +14,13 @@ linter-yaml-title-alias: Daily-nasal-irrigation-may-encourage-sinus-infections
 ---
 
 
-A brand new study out shows that using sinus rinsing as a prophylactic may actually have the opposite effect of **_increasing_** your rate of sinus infections.  Significantly.  As much as 50-60+ % more sinus infections.   
-  
-They did not test efficacy of using sinus irrigation when you actually have a cold or sinus infection so until hard data is out there, it may still be okay.   
-  
-[Long-Term Neti Pot Use May Backfire](https://www.webmd.com/allergies/news/20091109/long-term-neti-pot-use-may-backfire?src=RSS_PUBLIC)  
+A brand new study out shows that using sinus rinsing as a prophylactic may actually have the opposite effect of **_increasing_** your rate of sinus infections.  Significantly.  As much as 50-60+ % more sinus infections. 
 
-  
-  
+They did not test efficacy of using sinus irrigation when you actually have a cold or sinus infection so until hard data is out there, it may still be okay. 
 
-<!-- <!-- ![](https://img.zemanta.com/pixy.gif?x-id=27f12a53-ba49-83f1-8f4c-ae58ca1536e6) --> -->
+[Long-Term Neti Pot Use May Backfire](https://www.webmd.com/allergies/news/20091109/long-term-neti-pot-use-may-backfire?src=RSS_PUBLIC)
+
+
+
+
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=27f12a53-ba49-83f1-8f4c-ae58ca1536e6) -->

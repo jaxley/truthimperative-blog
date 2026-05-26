@@ -18,8 +18,8 @@ linter-yaml-title-alias: Big-brother-is-all-around-you
 ---
 
 
-ABCNews is reporting that several police agencies are under fire for domestic spying. Those of you who think that the government can have all the power it thinks it wants without checks and balances should take heed that this certainly breeds abuses. Read this article. See the trend toward more domestic spying. Be afraid.  
-  
-I hope that Seattle maintains their current ban on this practice.  
-  
+ABCNews is reporting that several police agencies are under fire for domestic spying. Those of you who think that the government can have all the power it thinks it wants without checks and balances should take heed that this certainly breeds abuses. Read this article. See the trend toward more domestic spying. Be afraid.
+
+I hope that Seattle maintains their current ban on this practice.
+
 [ABCNEWS.com : Is Police Spying Back in Fashion?](https://abcnews.go.com/sections/us/DailyNews/police_spying030102.html "ABCNEWS.com : Is Police Spying Back in Fashion?")

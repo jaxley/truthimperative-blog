@@ -14,8 +14,8 @@ linter-yaml-title-alias: Aclu-fisa-fact-check
 ---
 
 
-Good to check out what kind of wool the Bush administration is trying to pull over your eyes on FISA.&nbsp; And the weanie democrats in the House seem to be following in the (lack of lead) of the Senate democrats and seem likely to give the telecoms retroactive immunity **_\_even though nobody (not even the senators voting) knows what exactly they have done or for how long or under what circumstances\__**  
-  
-You'd think they would want to find out what they are granting immunity for first, right?  
-  
+Good to check out what kind of wool the Bush administration is trying to pull over your eyes on FISA.&nbsp; And the weanie democrats in the House seem to be following in the (lack of lead) of the Senate democrats and seem likely to give the telecoms retroactive immunity **_\_even though nobody (not even the senators voting) knows what exactly they have done or for how long or under what circumstances\__**
+
+You'd think they would want to find out what they are granting immunity for first, right?
+
 [American Civil Liberties Union : FISA Fact Check: Setting the Record Straight on the White House](https://www.aclu.org/safefree/general/34258prs20080229.html)

@@ -15,8 +15,8 @@ linter-yaml-title-alias: Drm-threat-analysis-shows-futility-in-drm-mechanisms
 ---
 
 
-This analysis shows how DRM solutions are ineffective because they \[attempt to\] address the wrong threat model.  
-  
-"Many DRM advocates make the classic mistake of refusing to choose a threat model. When they complain about the problem, they seem to be using the Napsterization model -- they talk about one infringing copy propagating across the world. But when they propose solutions they seem to be solving the casual-copying problem, asking only that the technology keep the majority of customers from ripping content. So naturally the systems they are building don�t solve the problem they complain about."  
-  
+This analysis shows how DRM solutions are ineffective because they \[attempt to\] address the wrong threat model.
+
+"Many DRM advocates make the classic mistake of refusing to choose a threat model. When they complain about the problem, they seem to be using the Napsterization model -- they talk about one infringing copy propagating across the world. But when they propose solutions they seem to be solving the casual-copying problem, asking only that the technology keep the majority of customers from ripping content. So naturally the systems they are building don�t solve the problem they complain about."
+
 [Freedom To Tinker: DRM, and the First Rule of Security Analysis](https://www.freedom-to-tinker.com/archives/000317.html "Freedom To Tinker: DRM, and the First Rule of Security Analysis")

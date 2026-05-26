@@ -17,8 +17,8 @@ linter-yaml-title-alias: Diebold-voting-systems-hacked-again
 ---
 
 
-[The BRAD BLOG : HACKED: VIRUS IMPLANTED, SPREAD ON DIEBOLD TOUCH-SCREEN VOTING MACHINE!](https://www.bradblog.com/?p=3467 "The BRAD BLOG : HACKED: VIRUS IMPLANTED, SPREAD ON DIEBOLD TOUCH-SCREEN VOTING MACHINE!")  
-  
-Researchers at Princeton, including Ed Felton, have been able to implant malicious code on Diebold touch screen voting machines that was demonstrated to be able to flip election results. They have a video of them doing this as well.  
-  
+[The BRAD BLOG : HACKED: VIRUS IMPLANTED, SPREAD ON DIEBOLD TOUCH-SCREEN VOTING MACHINE!](https://www.bradblog.com/?p=3467 "The BRAD BLOG : HACKED: VIRUS IMPLANTED, SPREAD ON DIEBOLD TOUCH-SCREEN VOTING MACHINE!")
+
+Researchers at Princeton, including Ed Felton, have been able to implant malicious code on Diebold touch screen voting machines that was demonstrated to be able to flip election results. They have a video of them doing this as well.
+
 The company response is typically clueless (as is their security). I wonder if the nice Diebold ATMs in use at banks such as USBank are anywhere near as vulnerable?

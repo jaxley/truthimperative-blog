@@ -15,8 +15,8 @@ linter-yaml-title-alias: Museum-of-unworkable-devices
 ---
 
 
-" This museum is a celebration of fascinating devices that don't work. It houses diverse examples of the perverse genius of inventors who refused to let their thinking be intimidated by the laws of nature, remaining optimistic in the face of repeated failures."  
-  
-A truly fascinating site.  
-  
+" This museum is a celebration of fascinating devices that don't work. It houses diverse examples of the perverse genius of inventors who refused to let their thinking be intimidated by the laws of nature, remaining optimistic in the face of repeated failures."
+
+A truly fascinating site.
+
 [The Museum of Unworkable Devices](https://www.lhup.edu/~dsimanek/museum/unwork.htm "The Museum of Unworkable Devices")

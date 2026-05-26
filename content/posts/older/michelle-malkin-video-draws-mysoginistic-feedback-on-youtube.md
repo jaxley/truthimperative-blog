@@ -14,8 +14,8 @@ linter-yaml-title-alias: Michelle-malkin-video-draws-mysoginistic-feedback-on-yo
 ---
 
 
-I am really getting tired of seeing the male response to crap like this stupid video that Michelle Malkin created involve sexual domination rhetoric against women. It debases the speaker and taints the debate and opponents of Malkin by proxy.  
-  
-Unbelievable. I think the responses to the video are far, far, far worse than the video.  
-  
+I am really getting tired of seeing the male response to crap like this stupid video that Michelle Malkin created involve sexual domination rhetoric against women. It debases the speaker and taints the debate and opponents of Malkin by proxy.
+
+Unbelievable. I think the responses to the video are far, far, far worse than the video.
+
 [YouTube - VENT The Defeatocrats' Cheer](https://www.youtube.com/watch?v=tt_YcQlYxyY&eurl=https://tbogg.firedoglake.com/2008/05/16/too-crazy-for-fox-too-crazy-for-mccain/)

@@ -15,10 +15,10 @@ linter-yaml-title-alias: Family-guy-dvd-video-clips
 ---
 
 
-[Family Guy - Clips from DVD-movie](http%3A//www.tvshowsondvd.com/newsitem.cfm%3FNewsID%3D4190 "Family%20Guy%20-%20Clips%20from%20DVD-movie")  
-  
-Ohhhhh Riiiight.  
-  
+[Family Guy - Clips from DVD-movie](http%3A//www.tvshowsondvd.com/newsitem.cfm%3FNewsID%3D4190 "Family%20Guy%20-%20Clips%20from%20DVD-movie")
 
->   
+Ohhhhh Riiiight.
+
+
+>
 > Here are some fun clips from Stewie Griffin: The Untold Story which comes out today!

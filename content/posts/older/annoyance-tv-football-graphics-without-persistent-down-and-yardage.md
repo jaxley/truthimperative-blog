@@ -14,8 +14,8 @@ linter-yaml-title-alias: Annoyance-tv-football-graphics-without-persistent-down-
 ---
 
 
-I can't believe that I would be the only one to notice this, but I find it so annoying that it seems universal across College and NFL football coverage and universal on every network I've seen that the statistics that are persistent on the screen throughout the game only consist of:  
-  
-Network, current score (plus possession), time remaining, period, (blank space for down and yards) and other scores.  
-  
+I can't believe that I would be the only one to notice this, but I find it so annoying that it seems universal across College and NFL football coverage and universal on every network I've seen that the statistics that are persistent on the screen throughout the game only consist of:
+
+Network, current score (plus possession), time remaining, period, (blank space for down and yards) and other scores.
+
 I find the most interesting information at any given moment though is what the Down and Yards to go are.  Why are they not always listed?  They are only displayed \_when they change\_, and then they are hidden.  Why, oh why?  What reason could there be for not showing this during the play?

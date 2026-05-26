@@ -14,11 +14,11 @@ linter-yaml-title-alias: Colorpulse-carl-sagan-ft-stephen-hawking-quot-a-gloriou
 ---
 
 
-This was played at the end of Reasonable Doubts podcast e55 and I loved it.  Had to find the high-fidelity version.  I think I might have my new ringtone...every call will be awe-inspiring.  
-  
-Very cool trance mix with wonderful clips from Sagan and Hawking masterfully woven in.  
-  
-[Symphony of Science](https://www.symphonyofscience.com/l)  
-  
+This was played at the end of Reasonable Doubts podcast e55 and I loved it.  Had to find the high-fidelity version.  I think I might have my new ringtone...every call will be awe-inspiring.
 
-<!-- <!-- ![](https://img.zemanta.com/pixy.gif?x-id=b801bd79-891f-8442-903e-59298d794c29) --> -->
+Very cool trance mix with wonderful clips from Sagan and Hawking masterfully woven in.
+
+[Symphony of Science](https://www.symphonyofscience.com/l)
+
+
+<!-- ![](https://img.zemanta.com/pixy.gif?x-id=b801bd79-891f-8442-903e-59298d794c29) -->

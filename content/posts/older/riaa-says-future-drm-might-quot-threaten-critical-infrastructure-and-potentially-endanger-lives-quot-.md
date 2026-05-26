@@ -16,8 +16,8 @@ linter-yaml-title-alias: Riaa-says-future-drm-might-quot-threaten-critical-infra
 ---
 
 
-[Freedom to Tinker � Blog Archive � RIAA Says Future DRM Might “Threaten Critical Infrastructure and Potentially Endanger Lives”](https://www.freedom-to-tinker.com/?p=984 "Freedom to Tinker � Blog Archive � RIAA Says Future DRM Might “Threaten Critical Infrastructure and Potentially Endanger Lives”")  
-  
-Yet another reason DRM sucks. But unbelievably, the "BSA, RIAA, MPAA, and friends" actually are objecting to DRM exemptions for critical systems!  
-  
+[Freedom to Tinker � Blog Archive � RIAA Says Future DRM Might “Threaten Critical Infrastructure and Potentially Endanger Lives”](https://www.freedom-to-tinker.com/?p=984 "Freedom to Tinker � Blog Archive � RIAA Says Future DRM Might “Threaten Critical Infrastructure and Potentially Endanger Lives”")
+
+Yet another reason DRM sucks. But unbelievably, the "BSA, RIAA, MPAA, and friends" actually are objecting to DRM exemptions for critical systems!
+
 I was also reading recently about how much extra processor and battery life is sucked up when playing DRM files that have to constantly be checking for a valid license and other cruft.

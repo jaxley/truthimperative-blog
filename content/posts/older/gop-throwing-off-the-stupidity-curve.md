@@ -14,10 +14,10 @@ linter-yaml-title-alias: Gop-throwing-off-the-stupidity-curve
 ---
 
 
-The majority of the 68% of Republicans who believe the genesis story (higher than the 53% of all Americans) literally must include that 36% of Americans who also still stand behind the president...   
-  
-And these beliefs have a special protection under the law because???  
-  
-[Crooks and Liars » Evolution confusion a partisan problem](https://www.crooksandliars.com/2007/06/11/evolution-confusion-a-partisan-problem/)  
+The majority of the 68% of Republicans who believe the genesis story (higher than the 53% of all Americans) literally must include that 36% of Americans who also still stand behind the president... 
+
+And these beliefs have a special protection under the law because???
+
+[Crooks and Liars » Evolution confusion a partisan problem](https://www.crooksandliars.com/2007/06/11/evolution-confusion-a-partisan-problem/)
 
 > The problem isn’t just that Americans in general are confused, but rather that the GOP is throwing off the curve.

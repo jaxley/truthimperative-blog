@@ -17,7 +17,7 @@ linter-yaml-title-alias: Bathroom-mania
 
 
 <!-- ![](pattern1.jpg) -->
-  
-I don't know about you, but I'd have a difficult time going #1 into one of these. Too reminiscient of Rolling Stones / Mick Jagger...  
-  
+
+I don't know about you, but I'd have a difficult time going #1 into one of these. Too reminiscient of Rolling Stones / Mick Jagger...
+
 BTW, I had to rewrite to avoid at least four thematic unintentional puns. I guess Freud's theories may still be alive and well after all.

@@ -14,6 +14,6 @@ linter-yaml-title-alias: Font-preview-application-in-flash
 ---
 
 
-This is a very very cool site that allows searching by font names and even allows you to see a specific unicode font rendered in a variety of fonts local to your computer.  
-  
+This is a very very cool site that allows searching by font names and even allows you to see a specific unicode font rendered in a variety of fonts local to your computer.
+
 https://www.fileformat.info/info/unicode/font/fontlist.htm?text=%E2%86%91+-+UPWARDS+ARROW+(U%2B2191)

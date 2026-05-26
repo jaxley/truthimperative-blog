@@ -16,43 +16,43 @@ linter-yaml-title-alias: Open-letter-response-to-chain-email-about-senators-supp
 ---
 
 
-I have thought for a while about publically posting my responses to these kinds of emails that come my way and are often filled with lots of misinformation, vitriol, and seriously lacking in facts or any sense of a cogent argument or position.  
-  
-Occasionally, one comes along that I just can't sit by and let idly fly by.  They are usually forwarded along without any additional comments and the presumption is I guess that the one forwarding believes the general sentiments.  But I think it's more interesting to know which parts people believe in or not, and why.  Certainly they tend to pack in a lot of crap in one email that I find it hard to believe everyone believes everything about them.  
-  
-Also, when I go look up information about these to fact-check them, I often find credulous people posting them (from the "me too" crowd) and nobody other than snopes and some other sites seem to come back with any commentary or dissection.   
-  
-So, here is the first in a series of open letter responses to these emails that I have already forwarded back to the few family/friends who have been subjected to these already.  Enjoy.  Oh, and if you came here from Google, welcome.  
-  
-\-Jason  
-  
+I have thought for a while about publically posting my responses to these kinds of emails that come my way and are often filled with lots of misinformation, vitriol, and seriously lacking in facts or any sense of a cogent argument or position.
+
+Occasionally, one comes along that I just can't sit by and let idly fly by.  They are usually forwarded along without any additional comments and the presumption is I guess that the one forwarding believes the general sentiments.  But I think it's more interesting to know which parts people believe in or not, and why.  Certainly they tend to pack in a lot of crap in one email that I find it hard to believe everyone believes everything about them.
+
+Also, when I go look up information about these to fact-check them, I often find credulous people posting them (from the "me too" crowd) and nobody other than snopes and some other sites seem to come back with any commentary or dissection. 
+
+So, here is the first in a series of open letter responses to these emails that I have already forwarded back to the few family/friends who have been subjected to these already.  Enjoy.  Oh, and if you came here from Google, welcome.
+
+\-Jason
+
 
 * * *
 
-  
-  
-I would love to actually hear which parts of the below email people actually believe in.  I'll try to summarize them into yes/no questions for easy replying to see where people stand:  
 
-> 1\. English should be the official language of the United States (yes/no)?  
-> 2\. Those in our country whether citizens or not who don't know how to speak English should be put on boats and (fill in your banishment ideas here:  \_\_\_\_\_\_\_) (yes/no)?  
-> 3\. Only "illegal aliens" do not speak English.  The "legal ones" are fine whether they speak English or not (yes/no)?  
-> 4\. You agree with these sentiments and punishments from below for voting against a piece of legislation:  "Your vote reflects betrayal, political surrender, violates your pledge of allegiance, dishonors historical principle, rejects patriotism, borders on traitorous action and, in my opinion, makes you unfit to serve as a United States Senator... impeachment, recall, or other appropriate action is warranted. " (yes/no)?  
-> 5\. Anyone who has a disagreement with \_your\_ political opinion is "unfit to serve" and is not "patriotic" or "traitorous" (yes/no)?  
+
+I would love to actually hear which parts of the below email people actually believe in.  I'll try to summarize them into yes/no questions for easy replying to see where people stand:
+
+> 1\. English should be the official language of the United States (yes/no)?
+> 2\. Those in our country whether citizens or not who don't know how to speak English should be put on boats and (fill in your banishment ideas here:  \_\_\_\_\_\_\_) (yes/no)?
+> 3\. Only "illegal aliens" do not speak English.  The "legal ones" are fine whether they speak English or not (yes/no)?
+> 4\. You agree with these sentiments and punishments from below for voting against a piece of legislation:  "Your vote reflects betrayal, political surrender, violates your pledge of allegiance, dishonors historical principle, rejects patriotism, borders on traitorous action and, in my opinion, makes you unfit to serve as a United States Senator... impeachment, recall, or other appropriate action is warranted. " (yes/no)?
+> 5\. Anyone who has a disagreement with \_your\_ political opinion is "unfit to serve" and is not "patriotic" or "traitorous" (yes/no)?
 > 6\. You agree with the implied sentiments and suggested punishments for casting a vote from below, "willfully take actions during wartime that damage morale, and undermine the military are saboteurs and should be arrested, exiled or hanged." (yes/no)?
 
-By the way, the text below is a retread from a year prior it seems:  [https://www.snopes.com/politics/immigration/englishvote.asp](https://www.snopes.com/politics/immigration/englishvote.asp)  And it is not even correct in stating that it was voting against "English as the official language".  It had to do with whether the government would provide access to services in languages other than English.  [https://www.truthorfiction.com/rumors/e/english-official.htm](https://www.truthorfiction.com/rumors/e/english-official.htm)  
-  
-Some extra credit questions:  
+By the way, the text below is a retread from a year prior it seems:  [https://www.snopes.com/politics/immigration/englishvote.asp](https://www.snopes.com/politics/immigration/englishvote.asp)  And it is not even correct in stating that it was voting against "English as the official language".  It had to do with whether the government would provide access to services in languages other than English.  [https://www.truthorfiction.com/rumors/e/english-official.htm](https://www.truthorfiction.com/rumors/e/english-official.htm)
 
-> 1\. What is the worst fear that you have if English is not declared the official US language?  
-> 2\. What would change (or would you hope would change) if we were to have English as the official US language?  
+Some extra credit questions:
+
+> 1\. What is the worst fear that you have if English is not declared the official US language?
+> 2\. What would change (or would you hope would change) if we were to have English as the official US language?
 > 3\. If you agree about those who don't vote on a language bill as being "unpatriotic", etc., then what is your basis/rationale for believing this?  i.e. what about the vote or belief is unpatriotic (where patriotism means:  " Love of and devotion to one's country.") or worse "traitorous"? 
 
-Cheers,  
-  
-\-Jason  
-  
-Neil wrote:  
+Cheers,
+
+\-Jason
+
+Neil wrote:
 
 ```
 >   

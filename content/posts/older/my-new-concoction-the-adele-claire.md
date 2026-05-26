@@ -14,14 +14,14 @@ linter-yaml-title-alias: My-new-concoction-the-adele-claire
 ---
 
 
-You loved her as a baby...Now, from the makers of the Adele Claire baby, comes a refreshing summer drink.  
-  
-Our master mixologist (me) has been hard at work devising a drink worthy of the name Adele Claire and now it has arrived!  
+You loved her as a baby...Now, from the makers of the Adele Claire baby, comes a refreshing summer drink.
 
-*   2 oz Gin (preferably an aromatic such as Tangueray 10 or Bombay Sapphire)
-*   2 oz Pineapple juice
-*   1/2 oz fresh lemon juice
-*   1/2 oz simple syrup
-*   3 fresh sage leaves
+Our master mixologist (me) has been hard at work devising a drink worthy of the name Adele Claire and now it has arrived!
+
+* 2 oz Gin (preferably an aromatic such as Tangueray 10 or Bombay Sapphire)
+* 2 oz Pineapple juice
+* 1/2 oz fresh lemon juice
+* 1/2 oz simple syrup
+* 3 fresh sage leaves
 
 Combine all in a cocktail shaker with plenty of ice.  Strain into a martini glass and be sure to grab the sage (floats to the top of the shaker) for garnish and extra flavor in each glass.

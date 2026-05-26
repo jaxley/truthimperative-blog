@@ -16,8 +16,8 @@ linter-yaml-title-alias: Quot-deep-thoughts-quot-on-topics-of-the-day
 ---
 
 
-[Daily Kos: Cheers and Jeers: Rum and Coke FRIDAY!](https://www.dailykos.com/storyonly/2005/11/11/93524/305 "Daily Kos: Cheers and Jeers: Rum and Coke FRIDAY!")  
-  
+[Daily Kos: Cheers and Jeers: Rum and Coke FRIDAY!](https://www.dailykos.com/storyonly/2005/11/11/93524/305 "Daily Kos: Cheers and Jeers: Rum and Coke FRIDAY!")
 
->   
+
+>
 > Last weekend we picked up three of Jack Handy's Deep Thoughts books. While he avoids the political (after all, the thoughts are deep), we found some striking parallels to certain people and issues of the day...

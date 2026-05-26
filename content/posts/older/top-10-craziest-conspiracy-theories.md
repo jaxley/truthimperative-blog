@@ -7,7 +7,7 @@ created: 2024-10-06 21:06:26-07:00
 updated: 2024-10-10 10:49:42-07:00
 ---
 
-Hard to believe that people believe this stuff.  But in a country where 61% of people believe the story of Noah's Ark literally, I can believe it I guess.  
-  
+Hard to believe that people believe this stuff.  But in a country where 61% of people believe the story of Noah's Ark literally, I can believe it I guess.
+
 [Hakspace.net - Top 10 Wackiest Conspiracy Theories  
 ](https://www.hakspace.net/blog/105/Top_10_Wackiest_Conspiracy_Theories/)

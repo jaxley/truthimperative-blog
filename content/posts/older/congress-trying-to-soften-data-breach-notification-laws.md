@@ -15,8 +15,8 @@ linter-yaml-title-alias: Congress-trying-to-soften-data-breach-notification-laws
 ---
 
 
-[https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:](https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:)  
-  
-Call your representatives now to get them to oppose this legislation. This is the bill that passed out of committee and would seriously weaken the gains that have been made over the past few years in data breach notification, as well as preventing people from preemptively "freezing" their credit file from being used to open new accounts--something that itself could curb much of the ID theft problems (and perhaps some consumer credit problems...)  
-  
+[https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:](https://thomas.loc.gov/cgi-bin/query/z?c109:H.R.3997:)
+
+Call your representatives now to get them to oppose this legislation. This is the bill that passed out of committee and would seriously weaken the gains that have been made over the past few years in data breach notification, as well as preventing people from preemptively "freezing" their credit file from being used to open new accounts--something that itself could curb much of the ID theft problems (and perhaps some consumer credit problems...)
+
 It is such BS that Republicans are all about state's rights...except in this case...and that case...and this other case... Hypocrites!

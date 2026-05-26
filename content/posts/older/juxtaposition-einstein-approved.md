@@ -17,8 +17,8 @@ linter-yaml-title-alias: Juxtaposition-einstein-approved
 ---
 
 
-This is so cool.  
-  
-[Einstein's task list generator](https://www.hetemeel.com/einsteinform.php "Einstein's Task List")  
-  
+This is so cool.
+
+[Einstein's task list generator](https://www.hetemeel.com/einsteinform.php "Einstein's Task List")
+
 <!-- ![](einsteinshow.php.jpg) -->

@@ -17,16 +17,16 @@ linter-yaml-title-alias: Fewest-number-of-coins-to-make-any-exact-change
 ---
 
 
-[Boing Boing: Exact change wallet card](https://www.boingboing.net/2006/06/20/exact_change_wallet_.html "Boing Boing: Exact change wallet card")  
-  
-The answer is very cool (only 10 coins):  
-  
+[Boing Boing: Exact change wallet card](https://www.boingboing.net/2006/06/20/exact_change_wallet_.html "Boing Boing: Exact change wallet card")
 
-  
-*   3 Quarters  
-    
-*   1 dime  
-    
-*   2 nickels  
-    
-*   4 pennies
+The answer is very cool (only 10 coins):
+
+
+
+* 3 Quarters
+
+* 1 dime
+
+* 2 nickels
+
+* 4 pennies

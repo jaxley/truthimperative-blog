@@ -15,11 +15,11 @@ linter-yaml-title-alias: Horrible-precedent-guantanamo-detainees-have-no-us-lega
 ---
 
 
-[\[IP\] Stuart Taylor's column today --"Falsely Accused 'Enemies' Deserve Due Process](https://www.interesting-people.org/archives/interesting-people/200303/msg00252.html "[IP] Stuart Taylor's column today --")  
-  
-Couldn't say it better myself. And regarding those lists of "known or suspected terrorists", Bruce Schneier said it best, "there is an incentive for law enforcement to put people on this list, but no incentive for them to take people off. So the harrassment continues."  
-  
-"It ought to be unnecessary to say this, but even \*correctly\* accused  
-enemies of the state deserve due process -- not least because due  
-process is the best way of determining whether they were, in fact,  
+[\[IP\] Stuart Taylor's column today --"Falsely Accused 'Enemies' Deserve Due Process](https://www.interesting-people.org/archives/interesting-people/200303/msg00252.html "[IP] Stuart Taylor's column today --")
+
+Couldn't say it better myself. And regarding those lists of "known or suspected terrorists", Bruce Schneier said it best, "there is an incentive for law enforcement to put people on this list, but no incentive for them to take people off. So the harrassment continues."
+
+"It ought to be unnecessary to say this, but even \*correctly\* accused
+enemies of the state deserve due process -- not least because due
+process is the best way of determining whether they were, in fact,
 correctly accused."

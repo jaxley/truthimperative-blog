@@ -15,23 +15,23 @@ linter-yaml-title-alias: Non-english-internet-domain-names-likely-delayed-due-to
 ---
 
 
-[Non-English Domain Names Likely Delayed - Yahoo! News](https://news.yahoo.com/news?tmpl=story&u=/ap/20050715/ap_on_hi_te/internet_languages "Non-English Domain Names Likely Delayed - Yahoo! News")  
-  
-Social engineering attacks using similar characters to trick users are called [homograph, or semantic attacks](https://en.wikipedia.org/wiki/Homograph_spoofing_attack) Also see this article on [IDN Homograph Attacks](https://en.wikipedia.org/wiki/IDN_homograph_attack).  
-  
+[Non-English Domain Names Likely Delayed - Yahoo! News](https://news.yahoo.com/news?tmpl=story&u=/ap/20050715/ap_on_hi_te/internet_languages "Non-English Domain Names Likely Delayed - Yahoo! News")
 
->   
-> Concerns about "phishing" e-mail scams will likely delay the expansion of domain names beyond non-English characters, the chairman of the Internet's key oversight agency said Friday.  
->   
-> Vint Cerf, head of the Internet Corporation for Assigned Names and Numbers, would not speculate on when such characters might appear but said Internet engineers must now spend time "trying to winnow down, frankly, the number of character (sets) that are allowed to be registered."  
+Social engineering attacks using similar characters to trick users are called [homograph, or semantic attacks](https://en.wikipedia.org/wiki/Homograph_spoofing_attack) Also see this article on [IDN Homograph Attacks](https://en.wikipedia.org/wiki/IDN_homograph_attack).
 
-  
-  
 
->   
-> "In some of the early tests, ... it became clear we had opened up the opportunity for registering very misleading names," Cerf said in a conference call wrapping up  
-> ICANN's meetings this week in Luxembourg. "This kind of potential confusion leads to parties going to what they think are valid Web sites."  
+>
+> Concerns about "phishing" e-mail scams will likely delay the expansion of domain names beyond non-English characters, the chairman of the Internet's key oversight agency said Friday.
+>
+> Vint Cerf, head of the Internet Corporation for Assigned Names and Numbers, would not speculate on when such characters might appear but said Internet engineers must now spend time "trying to winnow down, frankly, the number of character (sets) that are allowed to be registered."
 
-  
-  
+
+
+
+>
+> "In some of the early tests, ... it became clear we had opened up the opportunity for registering very misleading names," Cerf said in a conference call wrapping up
+> ICANN's meetings this week in Luxembourg. "This kind of potential confusion leads to parties going to what they think are valid Web sites."
+
+
+
 Back in February of this year, the ICANN announced a [request for Public Comment](https://www.icann.org/announcements/announcement-23feb05.htm) on issues with the proposed Internationalized Domain Name (IDN) standard and recognized homograph attacks as a likely attack vector.

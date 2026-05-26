@@ -17,12 +17,12 @@ linter-yaml-title-alias: Aba-taking-a-stand-against-bush-administration
 ---
 
 
-A Feb 10 American Bar Association resolution "urges Congress to ensure, through appropriate legislation, regular and timely oversight, and expanded  
-reporting requirements, that the FISA is used only when the government  
-has a significant foreign intelligence purpose -- as required by the  
-USA PATRIOT Act -- and not to circumvent the stricter Fourth Amendment  
-warrant requirements applicable to ordinary searches and surveillances. "  
-  
-The ABA also lambasted the Bush Administration for denying so-called "enemy combatants" the right to meet with counsel. The vote was overwhelming, but not unanimous. About 70 or so ABA members voted against this measure.  
-  
+A Feb 10 American Bar Association resolution "urges Congress to ensure, through appropriate legislation, regular and timely oversight, and expanded
+reporting requirements, that the FISA is used only when the government
+has a significant foreign intelligence purpose -- as required by the
+USA PATRIOT Act -- and not to circumvent the stricter Fourth Amendment
+warrant requirements applicable to ordinary searches and surveillances. "
+
+The ABA also lambasted the Bush Administration for denying so-called "enemy combatants" the right to meet with counsel. The vote was overwhelming, but not unanimous. About 70 or so ABA members voted against this measure.
+
 Excerpt from EPIC Alert 10.03.

@@ -14,8 +14,8 @@ linter-yaml-title-alias: Open-note-to-obama-on-the-fisa-immunity-provisions
 ---
 
 
-In response to a moveon.org phone campaign, this is the message that I communicated to Obama's campaign staff.  
-  
-"The FISA bill is something that I am very concerned about. I know that Barack has said that he is not fond of the immunity provisions in the FISA bill. I wanted to call to encourage Barack to take a stand unlike many of the other Democrats who have voted for this bill in the past and also take a stand for the rule of law. We know this is something that the current administration cannot be counted on to do and we are looking for Obama to change that."  
-  
+In response to a moveon.org phone campaign, this is the message that I communicated to Obama's campaign staff.
+
+"The FISA bill is something that I am very concerned about. I know that Barack has said that he is not fond of the immunity provisions in the FISA bill. I wanted to call to encourage Barack to take a stand unlike many of the other Democrats who have voted for this bill in the past and also take a stand for the rule of law. We know this is something that the current administration cannot be counted on to do and we are looking for Obama to change that."
+
 You can also join in and communicate your desires via his own website: [https://my.barackobama.com/page/group/SenatorObama-PleaseVoteAgainstFISA](https://my.barackobama.com/page/group/SenatorObama-PleaseVoteAgainstFISA)

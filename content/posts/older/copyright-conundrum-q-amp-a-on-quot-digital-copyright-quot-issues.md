@@ -15,6 +15,6 @@ linter-yaml-title-alias: Copyright-conundrum-q-amp-a-on-quot-digital-copyright-q
 ---
 
 
-Good stuff to refer to from Lawrence Lessig.  
-  
+Good stuff to refer to from Lawrence Lessig.
+
 [Online NewsHour: Forum -- Copyright Conundrum](https://www.pbs.org/newshour/forum/june03/copyright2.html "Online NewsHour: Forum -- Copyright Conundrum")

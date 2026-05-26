@@ -14,6 +14,6 @@ linter-yaml-title-alias: Bank-implode-o-meter-death-watch-for-financial-institut
 ---
 
 
-If I only had known about this site in the days before the FDIC/OTS seizure...  Great stuff.  
-  
+If I only had known about this site in the days before the FDIC/OTS seizure...  Great stuff.
+
 [The Bank Implode-O-Meter - Your play-by-play for the end game of modern banking.](https://bankimplode.com/)

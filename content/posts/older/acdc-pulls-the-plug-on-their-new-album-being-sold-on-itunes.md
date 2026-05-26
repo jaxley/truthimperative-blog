@@ -14,14 +14,14 @@ linter-yaml-title-alias: Acdc-pulls-the-plug-on-their-new-album-being-sold-on-it
 ---
 
 
-Well, after talking with many kids who rarely buy albums, I can see their point.  But eventually they will come to an end.  AC/DC is delaying the inevitable.  
-  
-[AC/DC refuses to sell album through iTunes | NEWS.com.au](https://www.news.com.au/technology/story/0,25642,24493704-5014239,00.html)  
+Well, after talking with many kids who rarely buy albums, I can see their point.  But eventually they will come to an end.  AC/DC is delaying the inevitable.
 
-> FOR those about to rock, AC/DC salutes you — unless, that is, you want to buy the heavy metal group's newest album Black Ice on iTunes.  
->   
-> "Maybe I'm just being old-fashioned, but this iTunes, God bless 'em, it's going to kill music if they're not careful," said lead singer Brian Johnson, 61.  
->   
-> AC/DC, formed by brothers Angus and Malcolm Young in 1973, is among only a handful of bands to refuse to put their music on the popular download service.  
->   
+[AC/DC refuses to sell album through iTunes | NEWS.com.au](https://www.news.com.au/technology/story/0,25642,24493704-5014239,00.html)
+
+> FOR those about to rock, AC/DC salutes you — unless, that is, you want to buy the heavy metal group's newest album Black Ice on iTunes.
+>
+> "Maybe I'm just being old-fashioned, but this iTunes, God bless 'em, it's going to kill music if they're not careful," said lead singer Brian Johnson, 61.
+>
+> AC/DC, formed by brothers Angus and Malcolm Young in 1973, is among only a handful of bands to refuse to put their music on the popular download service.
+>
 > Johnson said the decision was a bid to protect the album format from the internet's emphasis on buying and selling single tracks.

@@ -14,12 +14,12 @@ linter-yaml-title-alias: Redaction-cat-is-out-of-the-bag-for-wells-fargo
 ---
 
 
-From Risks Digest 24.82  
-  
-This is just like when Starbucks used to redact all but the last 5 digits of your credit card number on receipts. So anyone with a Starbucks receipt + any other receipt could piece together the whole card number. D'oh!  
-  
-From the juxtaposition wayback machine:  [https://juxtaposition.axley.net/archives/2006/06/visa\_prohibits.html](https://juxtaposition.axley.net/archives/2006/06/visa_prohibits.html)  
-  
+From Risks Digest 24.82
+
+This is just like when Starbucks used to redact all but the last 5 digits of your credit card number on receipts. So anyone with a Starbucks receipt + any other receipt could piece together the whole card number. D'oh!
+
+From the juxtaposition wayback machine:  [https://juxtaposition.axley.net/archives/2006/06/visa\_prohibits.html](https://juxtaposition.axley.net/archives/2006/06/visa_prohibits.html)
+
 ```
 
 

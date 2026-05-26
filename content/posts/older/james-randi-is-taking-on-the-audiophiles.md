@@ -14,10 +14,10 @@ linter-yaml-title-alias: James-randi-is-taking-on-the-audiophiles
 ---
 
 
-This is hilarious.  I feel sorry for people who either really have such extraordinary hearing that they can't use ordinary $19.99 cables in their home theater setup, or have deluded themselves into thinking that they can really tell the difference.  
-  
-James Randi shows how ridiculous it is to spend $860 a foot for cables.  
-  
-[James Randi Calls Out Audiophile: I'm Sure the Crickets Will Sound Fantastic - Boing Boing Gadgets](https://gadgets.boingboing.net/2007/10/01/james-randi-calls-ou.html)  
-  
+This is hilarious.  I feel sorry for people who either really have such extraordinary hearing that they can't use ordinary $19.99 cables in their home theater setup, or have deluded themselves into thinking that they can really tell the difference.
+
+James Randi shows how ridiculous it is to spend $860 a foot for cables.
+
+[James Randi Calls Out Audiophile: I'm Sure the Crickets Will Sound Fantastic - Boing Boing Gadgets](https://gadgets.boingboing.net/2007/10/01/james-randi-calls-ou.html)
+
 [James Randi’s Swift - October 5, 2007](https://www.randi.org/jr/2007-10/100507web.html#i9)

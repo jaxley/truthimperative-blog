@@ -15,14 +15,14 @@ linter-yaml-title-alias: Idaho-weatherman-quits-to-pursue-bizarre-katrina-quot-t
 ---
 
 
-You can't make up better sh\*t than this. Unbelievable.  
-  
-Unfortunately, a ["theory"](https://en.wikipedia.org/wiki/Theory) must be "either originating from observable facts or supported by them."  
-  
+You can't make up better sh\*t than this. Unbelievable.
 
->   
-> Idaho weatherman quits, says he wants to pursue hurricane theory  
->   
-> THE ASSOCIATED PRESS  
->   
+Unfortunately, a ["theory"](https://en.wikipedia.org/wiki/Theory) must be "either originating from observable facts or supported by them."
+
+
+>
+> Idaho weatherman quits, says he wants to pursue hurricane theory
+>
+> THE ASSOCIATED PRESS
+>
 > IDAHO FALLS, Idaho -- A Pocatello weatherman who gained attention for an unusual theory that Hurricane Katrina was caused by the Japanese mafia using a Russian electromagnetic generator has quit the television station.

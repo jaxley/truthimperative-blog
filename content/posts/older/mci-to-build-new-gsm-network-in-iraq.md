@@ -15,10 +15,10 @@ linter-yaml-title-alias: Mci-to-build-new-gsm-network-in-iraq
 ---
 
 
-MCI gets $500 million to build a new GSM network in Iraq. There are a couple of interesting aspects to this:  
-  
-a. The sensible GSM network was chosen amid staunch lobbying by Qualcomm junkies to build an "American" CDMA network. Hooray!  
-  
-b. MCI is not a wireless telephone company. Why are they getting to build a wireless network from scratch instead of other wireless carriers? They were actually a reseller of AT&T Wireless before their accounting scandals.  
-  
+MCI gets $500 million to build a new GSM network in Iraq. There are a couple of interesting aspects to this:
+
+a. The sensible GSM network was chosen amid staunch lobbying by Qualcomm junkies to build an "American" CDMA network. Hooray!
+
+b. MCI is not a wireless telephone company. Why are they getting to build a wireless network from scratch instead of other wireless carriers? They were actually a reseller of AT&T Wireless before their accounting scandals.
+
 [The Register: MCI wins Iraq gig, shovels $500m to shareholders](https://www.theregister.co.uk/content/59/30769.html "The Register")

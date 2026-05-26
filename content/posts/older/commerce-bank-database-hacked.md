@@ -14,10 +14,10 @@ linter-yaml-title-alias: Commerce-bank-database-hacked
 ---
 
 
-Another article said that they thwarted the attack by "shut\[ting\] it (the database) down".  
-  
-I wonder how they were able to have such poor security that someone could compromise their database yet they could respond in seconds to limit the unauthorized access to 20 out of 3000 records.  Something doesn't seem to add up to me, unless perhaps they detected a breach and were monitoring what the attackers were doing and only when they got into the database did they pull the plug on them.  
-  
-[Commerce Bank Thwarts a Major Database Hack](https://computerworld.com/action/article.do?command=viewArticleBasic&taxonomyName=security&articleId=305311&taxonomyId=17&intsrc=kc_top)  
+Another article said that they thwarted the attack by "shut\[ting\] it (the database) down".
+
+I wonder how they were able to have such poor security that someone could compromise their database yet they could respond in seconds to limit the unauthorized access to 20 out of 3000 records.  Something doesn't seem to add up to me, unless perhaps they detected a breach and were monitoring what the attackers were doing and only when they got into the database did they pull the plug on them.
+
+[Commerce Bank Thwarts a Major Database Hack](https://computerworld.com/action/article.do?command=viewArticleBasic&taxonomyName=security&articleId=305311&taxonomyId=17&intsrc=kc_top)
 
 > Commerce Bank NA, which operates in Missouri, Kansas, Illinois, Oklahoma and Colorado, last week said a hacker had breached a database with about 3,000 customer records and accessed 20 of them.

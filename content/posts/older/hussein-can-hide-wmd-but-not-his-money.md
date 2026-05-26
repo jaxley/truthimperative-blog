@@ -15,10 +15,10 @@ linter-yaml-title-alias: Hussein-can-hide-wmd-but-not-his-money
 ---
 
 
-William Raspberry from the Washington post asks a great question:  
-  
-"Why would Hussein, facing annihilation, take the bother to hide his chemical and biological weapons so carefully that we still haven't found them, while leaving his millions of American dollars right where we could find them?"  
-  
-If WMD are there for defense purposes, they have to be readily-available to provide a benefit to the holder. Accounts indicate thousands of tons of WMD and production capabilities should be all over the place but -- nothing. However, we find his stash of cash fairly easily.  
-  
+William Raspberry from the Washington post asks a great question:
+
+"Why would Hussein, facing annihilation, take the bother to hide his chemical and biological weapons so carefully that we still haven't found them, while leaving his millions of American dollars right where we could find them?"
+
+If WMD are there for defense purposes, they have to be readily-available to provide a benefit to the holder. Accounts indicate thousands of tons of WMD and production capabilities should be all over the place but -- nothing. However, we find his stash of cash fairly easily.
+
 [\>https://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html](https://www.washingtonpost.com/wp-dyn/articles/A39211-2003May25.html)

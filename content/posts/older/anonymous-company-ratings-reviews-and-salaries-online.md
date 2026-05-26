@@ -14,6 +14,6 @@ linter-yaml-title-alias: Anonymous-company-ratings-reviews-and-salaries-online
 ---
 
 
-Wow, what a cool site. They even have ratings of CEOs but this can be an invaluable site when negotiating salary for a job, or deciding which field you want to get into.  
-  
+Wow, what a cool site. They even have ratings of CEOs but this can be an invaluable site when negotiating salary for a job, or deciding which field you want to get into.
+
 [Glassdoor.com - Company Ratings, Reviews, and Salaries.](https://www.glassdoor.com/member/home.htm)

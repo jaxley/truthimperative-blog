@@ -15,14 +15,14 @@ linter-yaml-title-alias: Pigeons-follow-roads-to-navigate
 ---
 
 
-[Telegraph | News](https://portal.telegraph.co.uk/news/main.jhtml?xml=/news/2004/02/05/npige05.xml "Telegraph | News")  
-  
+[Telegraph | News](https://portal.telegraph.co.uk/news/main.jhtml?xml=/news/2004/02/05/npige05.xml "Telegraph | News")
 
->   
-> How do homing pigeons navigate? They follow roads  
-> By Caroline Davies  
-> (Filed: 05/02/2004)  
->   
-> Researchers have cracked the puzzle of how pigeons find their way home: they just follow the main roads.  
->   
+
+>
+> How do homing pigeons navigate? They follow roads
+> By Caroline Davies
+> (Filed: 05/02/2004)
+>
+> Researchers have cracked the puzzle of how pigeons find their way home: they just follow the main roads.
+>
 > Zoologists now believe the phrase "as the crow flies" no longer means the shortest most direct route between two points. They say it is likely that crows and other diurnal birds also choose AA-suggested routes, even though it makes their journeys longer.

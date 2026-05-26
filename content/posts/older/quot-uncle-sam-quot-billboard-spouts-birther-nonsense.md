@@ -16,16 +16,16 @@ linter-yaml-title-alias: Quot-uncle-sam-quot-billboard-spouts-birther-nonsense
 ---
 
 
-I noticed on my way back from California today that the right-wing "Uncle Sam" billboard had a birther conspiracy theorist saying on it.  I was driving and my wife was asleep, else I would have gotten a photo.  The caption read:  
+I noticed on my way back from California today that the right-wing "Uncle Sam" billboard had a birther conspiracy theorist saying on it.  I was driving and my wife was asleep, else I would have gotten a photo.  The caption read:
 
-> "Where's the birth certificate?"  
+> "Where's the birth certificate?"
 
-Ugh.  Idiots.  
-  
-[Map - Right-Wing Uncle Sam Billboard, Chehalis, WA](https://www.roadsideamerica.com/map/6002)  
+Ugh.  Idiots.
 
-  
-  
-  
+[Map - Right-Wing Uncle Sam Billboard, Chehalis, WA](https://www.roadsideamerica.com/map/6002)
+
+
+
+
 
 <!-- ![](https://img.zemanta.com/pixy.gif?x-id=3d8309fa-5329-8760-813d-9e16a121687f) -->

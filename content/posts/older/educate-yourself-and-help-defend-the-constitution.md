@@ -18,14 +18,14 @@ linter-yaml-title-alias: Educate-yourself-and-help-defend-the-constitution
 ---
 
 
-[Atheist Ethicist: Defending the Constitution](https://atheistethicist.blogspot.com/2006/09/defending-constitution.html "Atheist Ethicist: Defending the Constitution")  
-  
+[Atheist Ethicist: Defending the Constitution](https://atheistethicist.blogspot.com/2006/09/defending-constitution.html "Atheist Ethicist: Defending the Constitution")
 
->   
-> take some time, come up with a couple of sharp arguments, and spread those arguments among the people. We can complain about how well or how poorly legislators defend the Constitution. However, ultimately, it is our job to defend the Constitution, and this is one of the greatest assaults the Constitution has ever been subjected to.  
->   
-> Do you care enough to help defend it?  
 
-  
-  
+>
+> take some time, come up with a couple of sharp arguments, and spread those arguments among the people. We can complain about how well or how poorly legislators defend the Constitution. However, ultimately, it is our job to defend the Constitution, and this is one of the greatest assaults the Constitution has ever been subjected to.
+>
+> Do you care enough to help defend it?
+
+
+
 It sickens me to hear people like Pat Robertson on McLaughlin group making these claims as if we know that the captured people are 100% guilty. We often don't really know that, as evidenced by the many, many people we have captured, held, then let go free. We are considered innocent until proven guilty in this country to protect the innocent -- and that is you and me -- from unfounded abuse. Give that up and you or your family could be next. All it would take is for one of those in custody we are "coercively interrogating" (read: Jack Bauer tactics) to name you or your family. Then you could be sitting right next to them.

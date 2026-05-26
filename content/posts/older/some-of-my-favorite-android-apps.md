@@ -9,7 +9,7 @@ tags:
   - post
 ---
 
-I've been meaning to share some of my favorite Android apps I use  
+I've been meaning to share some of my favorite Android apps I use
 
 [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en)
 ------------------------------------------------------------------------------------------
@@ -41,10 +41,10 @@ One of the first apps I purchased, this is a solid podcast app.  Has configurab
 
 It's pretty and gives you tons of weather detail and weather alerts for one or more locations.
 
-  
+
 
 Juice Defender
 
-  
+
 
 I dislike having to use an app like Juice Defender, but I work and live in environments where I get terrible mobile network signal.  My phone wastes tons of battery trying to constantly search for 3G/4G.  So, when I'm at home and

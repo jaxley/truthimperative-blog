@@ -15,8 +15,8 @@ linter-yaml-title-alias: Anonymity-bibliography
 ---
 
 
-If you are interested in research into the field of anonymity, check this site out.  
-  
-The "goal is to set up something we can point at for people new to the field \[anonymity\] (and most of us are still new to the field, it seems), so they know which papers to look at to get up to speed. The ones I particularly recommend have boxes around them."  
-  
+If you are interested in research into the field of anonymity, check this site out.
+
+The "goal is to set up something we can point at for people new to the field \[anonymity\] (and most of us are still new to the field, it seems), so they know which papers to look at to get up to speed. The ones I particularly recommend have boxes around them."
+
 [Anonymity Bibliography](https://freehaven.net/anonbib/date.html "Anonymity Bibliography")

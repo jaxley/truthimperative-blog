@@ -15,8 +15,8 @@ linter-yaml-title-alias: Juxtaposition-rockets-to-top-of-google-results
 ---
 
 
-Juxtaposition has rocketed to the top of the Google search results for the word 'juxtaposition'! Strange, given that Juxtaposition is nary a few months old.  
-  
-Sadly, a link search (for link:juxtaposition.axley.net) returns no hits though.  
-  
+Juxtaposition has rocketed to the top of the Google search results for the word 'juxtaposition'! Strange, given that Juxtaposition is nary a few months old.
+
+Sadly, a link search (for link:juxtaposition.axley.net) returns no hits though.
+
 [https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search](https://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=juxtaposition&btnG=Google+Search)

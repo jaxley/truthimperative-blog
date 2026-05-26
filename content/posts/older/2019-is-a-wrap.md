@@ -11,6 +11,6 @@ url:
 ---
 
 
-It has now been an amazing _**10 months**_ since we began re-integrating into "normal" American life after our whirlwind yearlong sabbatical.  We have been enjoying all year the photo reminders of where we were a year ago.  It still feels like a glorious dream.   
-  
+It has now been an amazing _**10 months**_ since we began re-integrating into "normal" American life after our whirlwind yearlong sabbatical.  We have been enjoying all year the photo reminders of where we were a year ago.  It still feels like a glorious dream. 
+
 A common question we get asked is "what was it like coming back home?"  For me, it was a bit of culture shock as I had to return to work right away to get my healthcare benefits going and maintain my tenure at Expedia.  Waking up to an alarm clock rather than my body alarm made me realize how important good sleep is.  Fortunately, our last stop was in Australia so that eased the sticker shock of the high cost of living in the US.
