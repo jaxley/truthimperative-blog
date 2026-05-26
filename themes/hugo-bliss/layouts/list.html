@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+{{/* Page title for section / taxonomy pages */}}
+{{ if not .IsHome }}
+  <h1 class="page-title">{{ .Title }}</h1>
+{{ end }}
+
+{{/* Post list */}}
+<ul class="post-list">
+  {{ range .Paginator.Pages }}
+    <li class="post-list__item">
+      <div class="post-list__card">
+        <a class="post-list__link" href="{{ .RelPermalink }}">
+          <h2 class="post-list__title">{{ .Title }}</h2>
+        </a>
+
+        {{ partial "post-meta.html" . }}
+
+        {{ with .Summary }}
+          <p class="post-list__excerpt">{{ . | plainify | truncate 200 }}</p>
+        {{ end }}
+      </div>
+    </li>
+  {{ end }}
+</ul>
+
+{{/* Pagination */}}
+{{ $paginator := .Paginator }}
+{{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination" aria-label="Pagination">
+    {{ if $paginator.HasPrev }}
+      <a class="pagination__link" href="{{ $paginator.Prev.URL }}">&larr; Newer articles</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+
+    <span class="pagination__info">
+      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+    </span>
+
+    {{ if $paginator.HasNext }}
+      <a class="pagination__link" href="{{ $paginator.Next.URL }}">Older articles &rarr;</a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </nav>
+{{ end }}
+
+{{ end }}
