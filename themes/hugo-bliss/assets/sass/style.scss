@@ -942,3 +942,10 @@ aside,
     box-shadow: 0 4px 8px inset rgba(162 154 154 / 0.1); /* optional, helps visually separate it */
   }
 }
+
+/** highlight broken image src on the page **/
+a.broken {
+  background: #ff0;
+  border: 2px solid #f00;
+  padding: 0.1em 0.2em;
+}

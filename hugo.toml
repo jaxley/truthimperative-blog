@@ -7,6 +7,12 @@ theme = ['hugo-admonitions', 'hugo-bliss']
   description   = "SECURITY · POLITICS · SCIENCE · TECHNOLOGY · FREEDOM · MUSIC"
   author        = "Jason Axley"
   poweredBy     = 'Powered by <a href="https://gohugo.io">Hugo</a>'
+  [params.render_hooks.link]
+    errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+    highlightBroken = true
+  [params.render_hooks.image]
+    errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+    highlightBroken = true
   [params.styles]
     hue   = 179
 
@@ -58,3 +64,4 @@ theme = ['hugo-admonitions', 'hugo-bliss']
     weight = 0
 [outputs]
   home = ['html', 'rss', 'rss-full']
+

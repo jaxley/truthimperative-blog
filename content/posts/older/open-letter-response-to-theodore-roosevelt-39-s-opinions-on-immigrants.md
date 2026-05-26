@@ -34,6 +34,7 @@ Cheers and Happy Holidays!
   
   redacted@example.com wrote:  
 
+```
 >   
 > 
 > bob
@@ -92,3 +93,4 @@ Cheers and Happy Holidays!
 > * * *
 > 
 >
+```

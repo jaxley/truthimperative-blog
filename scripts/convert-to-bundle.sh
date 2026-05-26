@@ -4,10 +4,15 @@ SCRIPT_DIR=$(dirname "$0")
 ROOT_DIR=$SCRIPT_DIR/..
 
 if [ "$#" -eq 1 ]; then
-	dirname=$(basename "foo-bar.md" .md);
-	if [ -f $ROOT_DIR/content/posts/"$1" ]; then
-		mkdir $ROOT_DIR/content/posts/$dirname;	
-		mv $ROOT_DIR/content/posts/$1 $ROOT_DIR/content/posts/$dirname/;
+	filename=$(basename $1);
+	dirname=$(dirname $1);
+	if [ -z "$dirname" ]; then
+		dirname='content/posts';
+	fi
+	post_bundle_dir=$(basename $filename .md);
+	if [ -f $ROOT_DIR/$dirname/$filename ]; then
+		mkdir $ROOT_DIR/$dirname/$post_bundle_dir;	
+		mv $ROOT_DIR/$dirname/$filename $ROOT_DIR/$dirname/$post_bundle_dir/index.md;
 	fi	
 else
 	echo "Usage: $0 <post-name.md>"

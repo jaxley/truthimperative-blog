@@ -54,6 +54,7 @@ Cheers,
   
 Neil wrote:  
 
+```
 >   
 >   
 > Note: forwarded message attached.  
@@ -265,3 +266,4 @@ Neil wrote:
 > * * *
 > 
 >
+```

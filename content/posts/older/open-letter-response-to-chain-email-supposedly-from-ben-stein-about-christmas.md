@@ -44,6 +44,7 @@ But be sure to read the below before you answer these. 
   
 Vincent wrote:  
 
+```
 >   
 >   
 >   
@@ -292,3 +293,4 @@ And for those of you who are pro-public-displays-of-the-ten-commandments, most o
 > > > > 
 > > > >   
 > > > > [](https://www.windowslive.com/?ocid=TXT_TAGLM_Wave2_powerofwindows_112007)
+```
