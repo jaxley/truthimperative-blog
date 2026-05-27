@@ -94,7 +94,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: ./public
+          path: ./_site_preview
   deploy-preview:
     # ─── Deploy preview on PR open / update ──────────────────────────────────
     environment:
