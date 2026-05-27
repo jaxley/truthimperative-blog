@@ -94,7 +94,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: ./_site_preview
+          path: ./public
   deploy-preview:
     # ─── Deploy preview on PR open / update ──────────────────────────────────
     environment:
@@ -111,7 +111,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site_preview
+          publish_dir: ./public
           destination_dir: previews/pr-${{ github.event.pull_request.number }}
           keep_files: true
           commit_message: "Deploy preview for PR #${{ github.event.pull_request.number }} (${{ github.sha }})"
