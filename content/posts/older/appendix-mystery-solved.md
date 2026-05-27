@@ -11,8 +11,6 @@ url: /2007/10/appendix-mystery-solved.html
 aliases:
   - Appendix-mystery-solved
 linter-yaml-title-alias: Appendix-mystery-solved
-
----olved
 ---
 
 

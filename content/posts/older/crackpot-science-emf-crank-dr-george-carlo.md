@@ -11,8 +11,6 @@ url: /2008/03/crackpot-science-emf-crank-dr-george.html
 aliases:
   - Crackpot-science-emf-crank-dr-george-carlo
 linter-yaml-title-alias: Crackpot-science-emf-crank-dr-george-carlo
-
----carlo
 ---
 
 

@@ -11,8 +11,6 @@ url: /2008/09/excessive-sql-logging-in-zogby-website.html
 aliases:
   - Excessive-sql-logging-in-zogby-website
 linter-yaml-title-alias: Excessive-sql-logging-in-zogby-website
-
----bsite
 ---
 
 

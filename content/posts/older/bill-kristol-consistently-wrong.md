@@ -11,8 +11,6 @@ url: /2008/04/bill-kristol-consistently-wrong.html
 aliases:
   - Bill-kristol-consistently-wrong
 linter-yaml-title-alias: Bill-kristol-consistently-wrong
-
----wrong
 ---
 
 

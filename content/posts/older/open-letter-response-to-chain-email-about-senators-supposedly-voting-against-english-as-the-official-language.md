@@ -11,8 +11,6 @@ url: /2007/12/open-letter-response-to-chain-email_7828.html
 aliases:
   - Open-letter-response-to-chain-email-about-senators-supposedly-voting-against-english-as-the-official-language
 linter-yaml-title-alias: Open-letter-response-to-chain-email-about-senators-supposedly-voting-against-english-as-the-official-language
-
----guage
 ---
 
 

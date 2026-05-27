@@ -11,8 +11,6 @@ url: /2009/11/iphone-worm-warning-to-rooted-android.html
 aliases:
   - Iphone-worm-warning-to-rooted-android-users
 linter-yaml-title-alias: Iphone-worm-warning-to-rooted-android-users
-
----users
 ---
 
 

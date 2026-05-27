@@ -12,8 +12,6 @@ url: /2006/07/mccain-list-of-reversals.html
 aliases:
   - Mccain-list-of-reversals
 linter-yaml-title-alias: Mccain-list-of-reversals
-
----rsals
 ---
 
 

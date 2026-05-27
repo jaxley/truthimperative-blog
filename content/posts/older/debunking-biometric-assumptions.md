@@ -12,8 +12,6 @@ url: /2005/06/debunking-biometric-assumptions.html
 aliases:
   - Debunking-biometric-assumptions
 linter-yaml-title-alias: Debunking-biometric-assumptions
-
----tions
 ---
 
 

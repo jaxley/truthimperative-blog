@@ -11,8 +11,6 @@ url:
 aliases:
   - Flawed-reasoning-underlying-many-reverse-proxy-internet-architectures
 linter-yaml-title-alias: Flawed-reasoning-underlying-many-reverse-proxy-internet-architectures
-
----tures
 ---
 
 

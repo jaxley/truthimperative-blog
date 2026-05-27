@@ -12,8 +12,6 @@ url: /2005/10/can-we-pleeeze-get-some-real.html
 aliases:
   - Can-we-pleeeze-get-some-real-journalists-out-there
 linter-yaml-title-alias: Can-we-pleeeze-get-some-real-journalists-out-there
-
----there
 ---
 
 

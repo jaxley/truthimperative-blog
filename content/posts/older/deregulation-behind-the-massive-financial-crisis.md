@@ -11,8 +11,6 @@ url: /2008/11/deregulation-behind-massive-financial.html
 aliases:
   - Deregulation-behind-the-massive-financial-crisis
 linter-yaml-title-alias: Deregulation-behind-the-massive-financial-crisis
-
----risis
 ---
 
 

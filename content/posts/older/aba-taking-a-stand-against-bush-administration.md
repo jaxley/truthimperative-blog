@@ -12,8 +12,6 @@ url: /2003/02/aba-taking-stand-against-bush.html
 aliases:
   - Aba-taking-a-stand-against-bush-administration
 linter-yaml-title-alias: Aba-taking-a-stand-against-bush-administration
-
----ation
 ---
 
 

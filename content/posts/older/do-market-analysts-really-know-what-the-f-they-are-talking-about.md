@@ -11,8 +11,6 @@ url: /2009/01/do-market-analysts-really-know-what-f.html
 aliases:
   - Do-market-analysts-really-know-what-the-f-they-are-talking-about
 linter-yaml-title-alias: Do-market-analysts-really-know-what-the-f-they-are-talking-about
-
----about
 ---
 
 

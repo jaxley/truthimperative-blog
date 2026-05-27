@@ -12,8 +12,6 @@ url: /2006/06/juxtaposition-einstein-approved.html
 aliases:
   - Juxtaposition-einstein-approved
 linter-yaml-title-alias: Juxtaposition-einstein-approved
-
----roved
 ---
 
 

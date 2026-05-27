@@ -13,8 +13,6 @@ url: /2005/11/congress-may-curtail-some-patriot-act.html
 aliases:
   - Congress-may-curtail-some-patriot-act-powers
 linter-yaml-title-alias: Congress-may-curtail-some-patriot-act-powers
-
----owers
 ---
 
 

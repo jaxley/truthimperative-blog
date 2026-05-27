@@ -11,8 +11,6 @@ url: /2009/01/dangers-of-instant-runoff-voting.html
 aliases:
   - Dangers-of-instant-runoff-voting
 linter-yaml-title-alias: Dangers-of-instant-runoff-voting
-
----oting
 ---
 
 

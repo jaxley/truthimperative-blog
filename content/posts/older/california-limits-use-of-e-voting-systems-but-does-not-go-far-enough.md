@@ -11,8 +11,6 @@ url: /2008/01/california-limits-use-of-e-voting.html
 aliases:
   - California-limits-use-of-e-voting-systems-but-does-not-go-far-enough
 linter-yaml-title-alias: California-limits-use-of-e-voting-systems-but-does-not-go-far-enough
-
----nough
 ---
 
 

@@ -11,8 +11,6 @@ url: /2008/04/copy-protection-sucks.html
 aliases:
   - Copy-protection-sucks
 linter-yaml-title-alias: Copy-protection-sucks
-
----sucks
 ---
 
 

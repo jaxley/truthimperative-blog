@@ -12,8 +12,6 @@ url: /2005/05/rfid-passport-security-proposal.html
 aliases:
   - Rfid-passport-security-proposal-defeating-the-purpose
 linter-yaml-title-alias: Rfid-passport-security-proposal-defeating-the-purpose
-
----rpose
 ---
 
 

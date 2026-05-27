@@ -11,8 +11,6 @@ url: /2007/08/intuit-quicken-backdoor-encryption-key.html
 aliases:
   - Intuit-quicken-backdoor-encryption-key-cracked
 linter-yaml-title-alias: Intuit-quicken-backdoor-encryption-key-cracked
-
----acked
 ---
 
 

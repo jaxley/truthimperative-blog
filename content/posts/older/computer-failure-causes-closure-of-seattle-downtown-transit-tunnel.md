@@ -11,8 +11,6 @@ url: /2008/01/computer-failure-causes-closure-of.html
 aliases:
   - Computer-failure-causes-closure-of-seattle-downtown-transit-tunnel
 linter-yaml-title-alias: Computer-failure-causes-closure-of-seattle-downtown-transit-tunnel
-
----unnel
 ---
 
 

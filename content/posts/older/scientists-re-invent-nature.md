@@ -12,8 +12,6 @@ url: /2005/11/scientists-re-invent-nature.html
 aliases:
   - Scientists-re-invent-nature
 linter-yaml-title-alias: Scientists-re-invent-nature
-
----ature
 ---
 
 

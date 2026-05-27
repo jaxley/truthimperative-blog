@@ -11,8 +11,6 @@ url: /2009/05/fire-caused-by-sunlight.html
 aliases:
   - Fire-caused-by-sunlight
 linter-yaml-title-alias: Fire-caused-by-sunlight
-
----light
 ---
 
 

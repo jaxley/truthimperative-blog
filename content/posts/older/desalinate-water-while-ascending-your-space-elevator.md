@@ -12,8 +12,6 @@ url: /2006/08/desalinate-water-while-ascending-your.html
 aliases:
   - Desalinate-water-while-ascending-your-space-elevator
 linter-yaml-title-alias: Desalinate-water-while-ascending-your-space-elevator
-
----vator
 ---
 
 

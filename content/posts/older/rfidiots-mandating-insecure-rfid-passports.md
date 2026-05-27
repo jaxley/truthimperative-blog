@@ -11,8 +11,6 @@ url: /2006/11/rfidiots-mandating-insecure-rfid.html
 aliases:
   - Rfidiots-mandating-insecure-rfid-passports
 linter-yaml-title-alias: Rfidiots-mandating-insecure-rfid-passports
-
----ports
 ---
 
 

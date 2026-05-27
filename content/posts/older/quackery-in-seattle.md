@@ -11,8 +11,6 @@ url: /2008/11/quackery-in-seattle.html
 aliases:
   - Quackery-in-seattle
 linter-yaml-title-alias: Quackery-in-seattle
-
----attle
 ---
 
 

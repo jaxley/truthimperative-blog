@@ -12,8 +12,6 @@ url: /2005/05/anecdotal-study-of-data-aggregator.html
 aliases:
   - Anecdotal-study-of-data-aggregator-quality
 linter-yaml-title-alias: Anecdotal-study-of-data-aggregator-quality
-
----ality
 ---
 
 

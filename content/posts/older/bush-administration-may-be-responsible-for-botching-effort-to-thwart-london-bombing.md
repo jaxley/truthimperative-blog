@@ -12,8 +12,6 @@ url: /2005/07/bush-administration-may-be-responsible.html
 aliases:
   - Bush-administration-may-be-responsible-for-botching-effort-to-thwart-london-bombing
 linter-yaml-title-alias: Bush-administration-may-be-responsible-for-botching-effort-to-thwart-london-bombing
-
----mbing
 ---
 
 

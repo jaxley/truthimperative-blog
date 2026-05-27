@@ -12,7 +12,6 @@ aliases:
   - Obama-does-not-go-far-enough-with-financial-regulation
 linter-yaml-title-alias: Obama-does-not-go-far-enough-with-financial-regulation
 
----ation
 ---
 
 

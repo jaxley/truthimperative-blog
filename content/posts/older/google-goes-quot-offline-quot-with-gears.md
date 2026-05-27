@@ -11,8 +11,6 @@ url: /2007/08/google-goes-with-gears.html
 aliases:
   - Google-goes-quot-offline-quot-with-gears
 linter-yaml-title-alias: Google-goes-quot-offline-quot-with-gears
-
----gears
 ---
 
 

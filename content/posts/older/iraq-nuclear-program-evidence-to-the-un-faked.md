@@ -12,8 +12,6 @@ url: /2003/03/iraq-nuclear-program-evidence-to-un.html
 aliases:
   - Iraq-nuclear-program-evidence-to-the-un-faked
 linter-yaml-title-alias: Iraq-nuclear-program-evidence-to-the-un-faked
-
----faked
 ---
 
 

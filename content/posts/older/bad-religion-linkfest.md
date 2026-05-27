@@ -11,8 +11,6 @@ url: /2007/06/bad-religion-linkfest.html
 aliases:
   - Bad-religion-linkfest
 linter-yaml-title-alias: Bad-religion-linkfest
-
----kfest
 ---
 
 

@@ -12,8 +12,6 @@ url: /2006/04/does-blockbuster-suck-worse-than.html
 aliases:
   - Does-blockbuster-suck-worse-than-business-method-patents
 linter-yaml-title-alias: Does-blockbuster-suck-worse-than-business-method-patents
-
----tents
 ---
 
 

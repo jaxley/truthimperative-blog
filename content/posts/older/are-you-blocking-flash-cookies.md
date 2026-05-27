@@ -12,8 +12,6 @@ url: /2005/09/are-you-blocking-flash-cookies.html
 aliases:
   - Are-you-blocking-flash-cookies
 linter-yaml-title-alias: Are-you-blocking-flash-cookies
-
----okies
 ---
 
 

@@ -12,8 +12,6 @@ url: /2005/10/fixes-to-patriot-act-seen-as-sufficient.html
 aliases:
   - Fixes-to-the-patriot-act-seen-as-sufficient-to-address-concerns
 linter-yaml-title-alias: Fixes-to-the-patriot-act-seen-as-sufficient-to-address-concerns
-
----cerns
 ---
 
 

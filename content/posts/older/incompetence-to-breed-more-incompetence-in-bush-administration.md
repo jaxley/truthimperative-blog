@@ -12,8 +12,6 @@ url: /2006/10/incompetence-to-breed-more-incompetence.html
 aliases:
   - Incompetence-to-breed-more-incompetence-in-bush-administration
 linter-yaml-title-alias: Incompetence-to-breed-more-incompetence-in-bush-administration
-
----ation
 ---
 
 

@@ -12,8 +12,6 @@ url: /2003/03/aol-customers-buyer-beware.html
 aliases:
   - Aol-customers-buyer-beware
 linter-yaml-title-alias: Aol-customers-buyer-beware
-
----eware
 ---
 
 

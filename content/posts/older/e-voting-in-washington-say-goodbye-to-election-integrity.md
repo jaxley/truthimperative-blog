@@ -13,8 +13,6 @@ url: /2003/02/e-voting-in-washington-say-goodbye-to.html
 aliases:
   - E-voting-in-washington-say-goodbye-to-election-integrity
 linter-yaml-title-alias: E-voting-in-washington-say-goodbye-to-election-integrity
-
----grity
 ---
 
 

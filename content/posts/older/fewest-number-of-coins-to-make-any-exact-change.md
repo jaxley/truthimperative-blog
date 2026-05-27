@@ -12,8 +12,6 @@ url: /2006/06/fewest-number-of-coins-to-make-any.html
 aliases:
   - Fewest-number-of-coins-to-make-any-exact-change
 linter-yaml-title-alias: Fewest-number-of-coins-to-make-any-exact-change
-
----hange
 ---
 
 

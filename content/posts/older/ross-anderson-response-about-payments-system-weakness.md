@@ -11,8 +11,6 @@ url: /2013/06/ross-anderson-response-about-payments.html
 aliases:
   - Ross-anderson-response-about-payments-system-weakness
 linter-yaml-title-alias: Ross-anderson-response-about-payments-system-weakness
-
----kness
 ---
 
 

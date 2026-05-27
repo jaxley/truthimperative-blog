@@ -12,8 +12,6 @@ url: /2005/11/new-photos-of-wonders-of-universe.html
 aliases:
   - New-photos-of-wonders-of-the-universe
 linter-yaml-title-alias: New-photos-of-wonders-of-the-universe
-
----verse
 ---
 
 

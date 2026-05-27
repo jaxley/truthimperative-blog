@@ -11,8 +11,6 @@ url: /2007/05/gonzales-grilled-by-fellow-classmates.html
 aliases:
   - Gonzales-grilled-by-fellow-classmates-in-wapo-open-letter
 linter-yaml-title-alias: Gonzales-grilled-by-fellow-classmates-in-wapo-open-letter
-
----etter
 ---
 
 

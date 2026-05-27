@@ -12,8 +12,6 @@ url: /2006/06/good-end-user-information-on-phishing.html
 aliases:
   - Good-end-user-information-on-phishing-from-paypal
 linter-yaml-title-alias: Good-end-user-information-on-phishing-from-paypal
-
----aypal
 ---
 
 

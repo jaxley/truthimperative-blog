@@ -13,8 +13,6 @@ url: /2003/02/microsoft-spyware.html
 aliases:
   - Microsoft-spyware
 linter-yaml-title-alias: Microsoft-spyware
-
----yware
 ---
 
 

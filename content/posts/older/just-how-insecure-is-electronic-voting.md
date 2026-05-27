@@ -12,8 +12,6 @@ url: /2006/02/just-how-insecure-is-electronic-voting.html
 aliases:
   - Just-how-insecure-is-electronic-voting
 linter-yaml-title-alias: Just-how-insecure-is-electronic-voting
-
----oting
 ---
 
 

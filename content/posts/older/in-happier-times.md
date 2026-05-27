@@ -12,8 +12,6 @@ url: /2003/03/in-happier-times.html
 aliases:
   - In-happier-times
 linter-yaml-title-alias: In-happier-times
-
----times
 ---
 
 

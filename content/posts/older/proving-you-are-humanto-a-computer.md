@@ -11,8 +11,6 @@ url: /2007/06/proving-you-are-humanto-computer.html
 aliases:
   - Proving-you-are-humanto-a-computer
 linter-yaml-title-alias: Proving-you-are-humanto-a-computer
-
----puter
 ---
 
 

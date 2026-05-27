@@ -13,8 +13,6 @@ url: /2006/07/birth-canal-drive.html
 aliases:
   - Birth-canal-drive
 linter-yaml-title-alias: Birth-canal-drive
-
----drive
 ---
 
 

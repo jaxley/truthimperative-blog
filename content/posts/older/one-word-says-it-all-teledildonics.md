@@ -12,8 +12,6 @@ url: /2006/03/one-word-says-it-all-teledildonics.html
 aliases:
   - One-word-says-it-all-teledildonics
 linter-yaml-title-alias: One-word-says-it-all-teledildonics
-
----onics
 ---
 
 

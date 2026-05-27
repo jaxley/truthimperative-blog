@@ -13,8 +13,6 @@ url: /2006/07/in-accu-weather-forecast.html
 aliases:
   - In-accu-weather-forecast
 linter-yaml-title-alias: In-accu-weather-forecast
-
----ecast
 ---
 
 

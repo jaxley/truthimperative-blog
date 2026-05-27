@@ -11,8 +11,6 @@ url: /2008/09/open-letter-response-to-mr-obama-video.html
 aliases:
   - Open-letter-response-to-quot-dear-mr-obama-quot-video
 linter-yaml-title-alias: Open-letter-response-to-quot-dear-mr-obama-quot-video
-
----video
 ---
 
 

@@ -11,8 +11,6 @@ url: /2008/08/news-from-seattle-former-police-chief.html
 aliases:
   - News-from-seattle-former-police-chief-is-anti-drug-prohibition
 linter-yaml-title-alias: News-from-seattle-former-police-chief-is-anti-drug-prohibition
-
----ition
 ---
 
 

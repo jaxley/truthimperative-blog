@@ -11,8 +11,6 @@ url: /2009/01/lou-dobbs-global-warming-denier.html
 aliases:
   - Lou-dobbs-global-warming-denier
 linter-yaml-title-alias: Lou-dobbs-global-warming-denier
-
----enier
 ---
 
 

@@ -13,8 +13,6 @@ url: /2006/09/educate-yourself-and-help-defend.html
 aliases:
   - Educate-yourself-and-help-defend-the-constitution
 linter-yaml-title-alias: Educate-yourself-and-help-defend-the-constitution
-
----ution
 ---
 
 

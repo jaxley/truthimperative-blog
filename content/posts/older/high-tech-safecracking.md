@@ -12,8 +12,6 @@ url: /2005/11/high-tech-safecracking.html
 aliases:
   - High-tech-safecracking
 linter-yaml-title-alias: High-tech-safecracking
-
----cking
 ---
 
 

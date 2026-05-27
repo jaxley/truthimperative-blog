@@ -11,8 +11,6 @@ url: /2008/09/evidence-that-democratic.html
 aliases:
   - Evidence-that-democratic-adminnistrations-bring-more-economic-prosperity-to-america
 linter-yaml-title-alias: Evidence-that-democratic-adminnistrations-bring-more-economic-prosperity-to-america
-
----erica
 ---
 
 

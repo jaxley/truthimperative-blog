@@ -12,8 +12,6 @@ url: /2005/12/possible-investigation-of-oil-ceo-lying.html
 aliases:
   - Possible-investigation-of-oil-ceo-lying
 linter-yaml-title-alias: Possible-investigation-of-oil-ceo-lying
-
----lying
 ---
 
 

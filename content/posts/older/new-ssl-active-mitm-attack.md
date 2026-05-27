@@ -12,8 +12,6 @@ url: /2003/02/new-ssl-active-mitm-attack.html
 aliases:
   - New-ssl-active-mitm-attack
 linter-yaml-title-alias: New-ssl-active-mitm-attack
-
----ttack
 ---
 
 

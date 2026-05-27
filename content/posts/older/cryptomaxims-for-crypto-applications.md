@@ -11,8 +11,6 @@ url: /2007/05/cryptomaxims-for-crypto-applications.html
 aliases:
   - Cryptomaxims-for-crypto-applications
 linter-yaml-title-alias: Cryptomaxims-for-crypto-applications
-
----tions
 ---
 
 

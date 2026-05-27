@@ -12,8 +12,6 @@ url: /2005/11/another-fema-and-bush-administration.html
 aliases:
   - Another-fema-and-bush-administration-snafu
 linter-yaml-title-alias: Another-fema-and-bush-administration-snafu
-
----snafu
 ---
 
 

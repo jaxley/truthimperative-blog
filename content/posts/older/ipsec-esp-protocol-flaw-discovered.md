@@ -12,8 +12,6 @@ url: /2005/05/ipsec-esp-protocol-flaw-discovered.html
 aliases:
   - Ipsec-esp-protocol-flaw-discovered
 linter-yaml-title-alias: Ipsec-esp-protocol-flaw-discovered
-
----vered
 ---
 
 

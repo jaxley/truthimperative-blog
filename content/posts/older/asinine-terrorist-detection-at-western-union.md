@@ -13,8 +13,6 @@ url: /2006/07/asinine-terrorist-detection-at-western.html
 aliases:
   - Asinine-terrorist-detection-at-western-union
 linter-yaml-title-alias: Asinine-terrorist-detection-at-western-union
-
----union
 ---
 
 

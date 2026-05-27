@@ -11,8 +11,6 @@ url: /2009/08/sam-billboard-spouts-birther-nonsense.html
 aliases:
   - Quot-uncle-sam-quot-billboard-spouts-birther-nonsense
 linter-yaml-title-alias: Quot-uncle-sam-quot-billboard-spouts-birther-nonsense
-
----sense
 ---
 
 

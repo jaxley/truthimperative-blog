@@ -12,8 +12,6 @@ url: /2006/09/more-geek-project-goodness.html
 aliases:
   - More-geek-project-goodness
 linter-yaml-title-alias: More-geek-project-goodness
-
----dness
 ---
 
 

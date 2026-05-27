@@ -11,8 +11,6 @@ url: /2007/12/open-letter-response-to-chain-email_27.html
 aliases:
   - Open-letter-response-to-chain-email-supposedly-from-ben-stein-about-christmas
 linter-yaml-title-alias: Open-letter-response-to-chain-email-supposedly-from-ben-stein-about-christmas
-
----stmas
 ---
 
 

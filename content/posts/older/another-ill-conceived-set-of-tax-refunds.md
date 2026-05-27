@@ -12,8 +12,6 @@ url: /2003/05/another-ill-conceived-set-of-tax-refunds.html
 aliases:
   - Another-ill-conceived-set-of-tax-refunds
 linter-yaml-title-alias: Another-ill-conceived-set-of-tax-refunds
-
----funds
 ---
 
 

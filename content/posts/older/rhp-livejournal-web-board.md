@@ -12,8 +12,6 @@ url: /2003/05/rhp-livejournal-web-board.html
 aliases:
   - Rhp-livejournal-web-board
 linter-yaml-title-alias: Rhp-livejournal-web-board
-
----board
 ---
 
 

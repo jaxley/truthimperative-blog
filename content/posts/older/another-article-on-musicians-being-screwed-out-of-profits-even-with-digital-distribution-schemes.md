@@ -12,8 +12,6 @@ url: /2006/07/another-article-on-musicians-being.html
 aliases:
   - Another-article-on-musicians-being-screwed-out-of-profits-even-with-digital-distribution-schemes
 linter-yaml-title-alias: Another-article-on-musicians-being-screwed-out-of-profits-even-with-digital-distribution-schemes
-
----hemes
 ---
 
 
