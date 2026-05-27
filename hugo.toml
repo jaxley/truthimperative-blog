@@ -3,6 +3,11 @@ locale = 'en-us'
 title = 'The Truth Imperative'
 theme = ['hugo-admonitions', 'hugo-bliss']
 
+# caches setting is for github deploys
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   description   = "SECURITY · POLITICS · SCIENCE · TECHNOLOGY · FREEDOM · MUSIC"
   author        = "Jason Axley"
