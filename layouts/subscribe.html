@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+  {{/* Page title for section / taxonomy pages */}}
+  {{ if not .IsHome }}
+    <h1 class="page-title">{{ .Title }}</h1>
+  {{ end }}
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Feed list */}}
+{{- with .Site.GetPage "/" }}
+<ul>
+  {{ range .AlternativeOutputFormats }}
+  {{ $label := "" }}
+  {{ if eq .Name "rss" }}
+    {{ $label = "Feed with full post content"}}
+  {{ else if eq .Name "rss-full" }}
+    {{ $label = "Feed with descriptions only"}}
+  {{ end }}
+
+    <li><a class="subscribe-link" rel="{{ .Rel }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}" >{{ .Name }} - {{ $label }}</a></li>
+  {{ end }}
+  </ul>
+  {{ end }}
+
+{{ end }}

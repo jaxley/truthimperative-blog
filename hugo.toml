@@ -33,7 +33,7 @@ theme = ['hugo-admonitions', 'hugo-bliss']
 
 [[menus.main]]
   name   = "Subscribe"
-  url    = "/index.xml"
+  url    = "/subscribe"
   weight = 3
 
 # markdown configuration
