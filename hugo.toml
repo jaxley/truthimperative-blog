@@ -20,6 +20,8 @@ theme = ['hugo-admonitions', 'hugo-bliss']
     highlightBroken = true
   [params.styles]
     hue   = 179
+  [params.hugo_bliss]
+    custom_css = "sass/main.scss"
 
 [[menus.main]]
   name   = "About"
@@ -70,3 +72,7 @@ theme = ['hugo-admonitions', 'hugo-bliss']
 [outputs]
   home = ['html', 'rss', 'rss-full']
 
+[module]
+  replacements = 'github.com/gethugothemes/hugo-modules/components/social-share -> ../_vendor/github.com/gethugothemes/hugo-modules/components/social-share'
+  [[module.imports]]
+    path = "github.com/gethugothemes/hugo-modules/components/social-share"
