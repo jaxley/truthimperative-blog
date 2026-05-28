@@ -105,16 +105,19 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      - name: Deploy preview to gh-pages branch previews subdirectory
-        uses: peaceiris/actions-gh-pages@v4
+      # - name: Deploy preview to gh-pages branch previews subdirectory
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./public
+      #     destination_dir: previews/pr-${{ github.event.pull_request.number }}
+      #     keep_files: true
+      #     commit_message: "Deploy preview for PR #${{ github.event.pull_request.number }} (${{ github.sha }})"
+      - name: Deploy to GitHub Pages (preview)
+        id: deployment
+        uses: actions/deploy-pages@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: main
-          destination_dir: previews/pr-${{ github.event.pull_request.number }}
-          keep_files: true
-          commit_message: "Deploy preview for PR #${{ github.event.pull_request.number }} (${{ github.sha }})"
-
+          preview: true
       - name: Post / Update preview URL comment on PR
         uses: actions/github-script@v7
         with:
