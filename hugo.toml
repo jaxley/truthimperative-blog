@@ -1,0 +1,72 @@
+baseURL = 'https://truthimperative.axley.net'
+locale = 'en-us'
+title = 'The Truth Imperative'
+theme = ['hugo-admonitions', 'hugo-bliss']
+
+# caches setting is for github deploys
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  description   = "SECURITY · POLITICS · SCIENCE · TECHNOLOGY · FREEDOM · MUSIC"
+  author        = "Jason Axley"
+  poweredBy     = 'Powered by <a href="https://gohugo.io">Hugo</a>'
+  [params.render_hooks.link]
+    errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+    highlightBroken = true
+  [params.render_hooks.image]
+    errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+    highlightBroken = true
+  [params.styles]
+    hue   = 179
+
+[[menus.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 1
+
+[[menus.main]]
+  name   = "Archive"
+  url    = "/posts/archive/"
+  weight = 2
+
+[[menus.main]]
+  name   = "Subscribe"
+  url    = "/index.xml"
+  weight = 3
+
+# markdown configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allows mixture of html and markdown - I trust myself
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = 'auto'
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = 'auto'
+
+[services]
+  [services.rss]
+    limit = -1  # unlimited posts in the RSS feed
+
+# Default RSS feed does not have the full post. Add an additional feed containing the full post
+[outputFormats]
+  [outputFormats.rss-full]
+    baseName = 'index-full'
+    isHTML = false
+    isPlainText = false
+    mediaType = 'application/rss+xml'
+    noUgly = true
+    notAlternative = false
+    path = ''
+    permalinkable = false
+    protocol = ''
+    rel = 'alternate'
+    root = false
+    ugly = false
+    weight = 0
+[outputs]
+  home = ['html', 'rss', 'rss-full']
+

@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<article>
+
+  {{/* Post header */}}
+  <header class="post-header">
+    <h1 class="post-header__title">{{ .Title }}</h1>
+    {{ partial "post-meta.html" . }}
+  </header>
+
+  {{/* Post body */}}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  {{/* Tags footer */}}
+  {{ with .Params.tags }}
+    <footer>
+      <div class="tags">
+        {{ range . }}
+          <a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}
+      </div>
+    </footer>
+  {{ end }}
+
+</article>
+
+{{/* Prev / next navigation */}}
+{{ if or .PrevInSection .NextInSection }}
+  <nav class="pagination" aria-label="Post navigation">
+    {{ if .NextInSection }}
+      <a class="pagination__link" href="{{ .NextInSection.RelPermalink }}">
+        &larr; {{ .NextInSection.Title }}
+      </a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+
+    {{ if .PrevInSection }}
+      <a class="pagination__link" href="{{ .PrevInSection.RelPermalink }}">
+        {{ .PrevInSection.Title }} &rarr;
+      </a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </nav>
+{{ end }}
+
+{{ end }}

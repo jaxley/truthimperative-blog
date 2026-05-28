@@ -1,0 +1,50 @@
+baseURL  = "https://yoursite.com/"
+title    = "My Blog"
+theme    = "hugo-bliss"
+language = "en"
+
+# Number of posts per page
+paginate = 10
+
+# Enable syntax highlighting
+[markup]
+  [markup.highlight]
+    style             = "github"
+    lineNos           = false
+    lineNumbersInTable = false
+    noClasses         = true   # inline styles; set false to use external CSS
+
+  [markup.goldmark.renderer]
+    unsafe = true              # allow raw HTML in markdown
+
+# Theme parameters
+[params]
+  description   = "SECURITY · POLITICS · SCIENCE · TECHNOLOGY · FREEDOM · MUSIC"
+  author        = "Your Name"
+  twitterHandle = "yourtweeter"           # without @
+  ogImage       = "/images/share-1200x600.jpg"
+  syntaxHighlight = false                 # set true + provide static/css/syntax.css
+
+  # Footer credit line (supports HTML)
+  poweredBy = 'Powered by <a href="https://gohugo.io">Hugo</a>'
+
+# Main navigation menu
+[[menus.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 1
+
+[[menus.main]]
+  name   = "Archive"
+  url    = "/posts/"
+  weight = 2
+
+[[menus.main]]
+  name   = "Subscribe"
+  url    = "/index.xml"
+  weight = 3
+
+# RSS
+[outputs]
+  home    = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]

@@ -1,0 +1,55 @@
+views:
+  - type: table
+    name: Draft
+    filters:
+      and:
+        - draft == false
+        - file.hasProperty("draft")
+    order:
+      - file.name
+      - title
+      - published
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 255
+      note.title: 288
+      note.published: 103
+  - type: table
+    name: Published
+    filters:
+      and:
+        - draft == true
+        - file.hasProperty("draft")
+    order:
+      - file.name
+      - title
+      - published
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 255
+      note.title: 288
+      note.published: 103
+  - type: table
+    name: Other
+    filters:
+      or:
+        - file.path.startsWith("archetypes")
+        - file.path.startsWith("layouts")
+    order:
+      - file.name
+      - title
+      - published
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 255
+      note.title: 288
+      note.published: 103
